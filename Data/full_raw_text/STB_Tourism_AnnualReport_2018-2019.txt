@@ -1,0 +1,1382 @@
+
+
+--- PAGE 1 ---
+
+Deloitte
+SINGAPORE TOURISM BOARD
+REPORT AND FINANCIAL STATEMENTS
+YEAR ENDED 31 MARCH 2019
+
+--- PAGE 2 ---
+
+SINGAPORE TOURISM BOARD
+REPORT AND FINANCIAL STATEMENTS
+CONTENTS
+PAGE
+Statement by Singapore Tourism Board 1
+2-5
+Independent auditor's report
+Statement of financial position 6
+Statement of comprehensive income 7
+Statement of changes in equity 8
+Statement of cash flows 9
+Notes to financial statements 10-34
+GRPC-SM/30 140 t7 -4O7 7 67 4 / FS/PLKH/WHl/ROSS
+
+--- PAGE 3 ---
+
+SINGAPORE TOURISM BOARD
+STATEMENT BY SINGAPORE TOURISM BOARD
+In our opinion,
+(a) the accompanying financial statements of Singapore Tourism Board (the "Board"), set out on
+pages 6 to 34 are drawn up in accordance with the provisions of the Public Sector (Governance)
+Act 2018, Act 5 of 2018 (the "Act") and Statutory Board Financial Reporting Standards so as to present
+fairly, in all materialrespects, the financial position of the Board as at 31 March 2019, and the flnancial
+performance, changes in equity and cash flows of the Board for the financial year ended on that date;
+(b) the receipts, expenditure, investment of moneys and the acquisition and disposal of assets
+by the Board during the flnancial year are in accordance with the provisions of the Act,
+the Singapore Tourism Board Act, Cap 3058 and the requirements of any other written law applicable
+to moneys of or managed by the Board; and
+(c)
+proper accounting and other records have been kept, including records of all assets of the Board
+whether purchased, donated or otherwise.
+On behalf of the Board
+Chaly Mah
+Chairman
+Chief Executive
+Singapore
+15 July 2019
+
+--- PAGE 4 ---
+
+Deloitte.
+Delortte & Tourhr. LLI'
+Unique Entity No. T08t t 0721 a
+6 Shenton Way
+OUE Downtown 2
+#33-00
+Singapore 068809
+Tel. +65 6224 8288
+Fax: +65 6538 61 66
+\ryww.deloitte.com/Sg
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF THE BOARD OF
+SINGAPORE TOURISM BOARD
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the accompanying financial statements of Singapore Tourism Board (the "Board")
+which comprise the statement of financial position as at 31 March 2019, and the statement of
+comprehensive income, statement of changes in equity and statement of cash flows for the year then ended,
+and notes to the financial statements, including a summary of significant accounting policies, as set out on
+pages 6 to 34.
+In our opinion, the accompanying financial statements of the Board are properly drawn up in accordance
+with the provisions of the Public Sector (Governance) Act 2018, Act 5 of 2018 (the "Act") and Statutory
+Board Financial Repofting Standards ("SB-FRS") so as to present fairly, in all material respects, the financial
+position of the Board as at 31 March 2019 and the financial performance, changes in equity and cash flows
+of the Board for the year ended on that date.
+Basis for Opinion
+We conducted our audit in accordance with Singapore Standards on Auditing ("SSAs"). Our responsibilities
+under those standards are further described in the Auditor's Responsibilities for the Audit of the Financial
+Statements section of our report. We are independent of the Board in accordance with the Accounting and
+Corporate Regulatory Authority ("ACRA") Code of Professional Conduct and Ethics for Public Accountants
+and Accounting Entities ("ACRA Code") together with the ethical requirements that are relevant to our audit
+of the financial statements in Singapore, and we have fulfilled our other ethical responsibilities in accordance
+with these requirements and the ACM Code. We believe that the audit evidence we have obtained is
+sufficient and appropriate to provide a basis for our opinion.
+Other Matters
+The financial statements of the Board for the financial year ended 31 March 2018 were audited by another
+firm of auditors who expressed an unmodified opinion on those financial statements in their report dated
+12 July 2018.
+Information Other than Financial Statements and Auditor's Repoft Thereon
+Management is responsible for the other information. The other information comprises the Statement by
+Singapore Tourism Board set out on page 1, but does not include the financial statements and our auditor's
+report thereon.
+Our opinion on the financial statements does not cover the other information and we do not express any
+form of assurance conclusion thereon.
+In connection with our audit of the financial statements, our responsibility is to read the other information
+and, in doing so, consider whether the other information is materially inconsistent with the financial statements
+or our knowledge obtained in the audit or otherwise appears to be materially misstated. If, based on the
+work we have performed, we conclude that there is a material misstatement of this other information,
+we are required to repoft that fact. We have nothing to report in this regard.
+
+--- PAGE 5 ---
+
+Deloitte.
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF THE BOARD OF
+SINGAPORE TOURISM BOARD
+Responsibilities of Management and Those Charged with Governance for the Financial Statements
+Management is responsible for the preparation and the fair presentation of the financial statements in
+accordance with the provisions of the Act and SB-FRS, and for such internal control as management
+determines is necessary to enable the preparation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+A statutory board is constituted based on its act and its dissolution requires Parliament's approval.
+In preparing the financial statements, management is responsible for assessing the Board's ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the going
+concern basis of accounting unless there is intention to wind up the Board or for the Board to cease
+operations.
+Those charged with governance are responsible for overseeing the Board's financial reporting process.
+Auditor's Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditor's repoft that includes
+our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit
+conducted in accordance with SSAs will always detect a material misstatement when it exists. Misstatements
+can arise from fraud or error and are considered material if, individually or in the aggregate, they could
+reasonably be expected to influence the economic decisions of users taken on the basis of these financial
+statements.
+As part of an audit in accordance with SSAs, we exercise professional judgement and maintain professional
+skepticism throughout the audit. We also:
+(a)
+Identify and assess the risks of material misstatement of the financial statements, whether due to
+fraud or error, design and perform audit procedures responsive to those risks, and obtain audit
+evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting
+a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+(b) Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the Board's internal control.
+(c) Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures made by management.
+(d)
+Conclude on the appropriateness of management's use of the going concern basis of accounting and,
+based on the audit evidence obtained, whether a material uncertainty exists related to events or
+conditions that may cast signiflcant doubt on the Board's ability to continue as a going concern.
+If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's
+report to the related disclosures in the flnancial statements or, if such disclosures are inadequate,
+to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our
+auditor's report. However, future events or conditions may cause the Board to cease to continue as a
+going concern.
+
+--- PAGE 6 ---
+
+Deloitte.
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF THE BOARD OF
+SINGAPORE TOURISM BOARD
+(e)
+Evaluate the overall presentation, structure and content of the financial statements, including the
+disclosures, and whether the financial statements represent the underlying transactions and events in
+a manner that achieves fair presentation.
+We communicate with those charged with governance regarding, among other matters, the planned scope
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control
+that we identify during our audit.
+Report on Other Legal and Regulatory Requirements
+Opinion
+In our opinion:
+(a) the receipts, expenditure, investment of moneys and the acquisition and disposal of assets by the
+Board during the year are, in all material respects, in accordance with the provisions of the Act,
+the Singapore Tourism Board Act, Cap 3058 (the "STB Act") and the requirements of any other written
+law applicable to moneys of or managed by the Board; and.
+(b) proper accounting and other records have been kept, including records of all assets of the Board
+whether purchased, donated or otherwise.
+Basis for Opinion
+We conducted our audit in accordance with SSAs. Our responsibilities under those standards are fufther
+described in the Auditor's Responsibilities for the Compliance Audrt section of our report. We are independent
+of the Board in accordance with the ACRA Code together with the ethical requirements that are relevant to
+our audit of the financial statements in Singapore, and we have fulfilled our other ethical responsibilities in
+accordance with these requirements and the ACRA Code. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our opinion on management's compliance.
+Responsibilities of Management for Compliance with Legal and Regulatory Requirements
+Management is responsible for ensuring that the receipts, expenditure, investment of moneys and the
+acquisition and disposal of assets, are in accordance with the provisions of the Act, the STB Act and the
+requirements of any other written law applicable to moneys of or managed by the Board. This responsibility
+includes monitoring related compliance requirements relevant to the Board, and implementinq internal
+controls as management determines are necessary to enable compliance with the requirements.
+
+--- PAGE 7 ---
+
+Deloitte.
+INDEPENOENT AUDITOR'S REPORT TO THE MEMBERS OF THE BOARD OF
+SINGAPORE TOURISM BOARD
+Auditor's Responsibility for the Compliance Audit
+Our responsibility is to express an opinion on management's compliance based on our audit of the financial
+statements. We planned and performed the compliance audit to obtain reasonable assurance about whether
+the receipts, expenditure, investment of moneys and the acquisition and disposal of assets, are in accordance
+with the provisions of the Act, the STB Act and the requirements of any other written law applicable to
+moneys of or managed by the Board.
+Our compliance audit includes obtaining an understanding of the internal control relevant to the receipts,
+expenditure, investment of moneys and the acquisition and disposal of assets; and assessing the risks of
+material misstatement of the financial statements from non-compliance, if any, but not for the purpose of
+expressing an opinion on the effectiveness of the Board's internal control. Because of the inherent limitations
+in any internal control system, non-compliances may nevertheless occur and not be detected.
+\,/*A t lJ*
+L,.l
+Public Accountants and
+Chaftered Accountants
+Singapore
+15 July 2019
+
+--- PAGE 8 ---
+
+SINGAPORE TOURISM BOARD
+STATEMENT OF FINANCIAL POSITION
+31 March 2O19
+Note 2019 2018
+$'000 $'000
+ASSETS
+Current assets
+Cash and cash equivalents 6 100,566 84,466
+Deposits, prepayments and other receivables 7 29,24L L8,L92
+Finance lease receivable 8 682 64t
+Financial assets under fund management 9 256,204 284.478
+Total current assets 386,693 387.777
+Non-current assets
+Propefty, plant and equipment 10 599,152 513,288
+Intangible assets 11 9,301 7,923
+Prepayments 7 t37 t29
+Finance lease receivable 8 L7,857 18,539
+Other investments t2 2,076 2,076
+Other assets 150 150
+Total non-current assets 628,673 542.005
+Total assets 1,015,366 929,792
+LIABITITIES AND EOUITY
+Current liabilities
+Accruals and other payables 13 96,842 88,198
+Advances and deposits received t4 t2,166 L4,OL4
+Deferred long-term lease income 58 tt7
+Total current liabilities 109.066 to2.329
+Non-current liabilities
+Accruals and other payables 13 38,298 86
+Deferred long-term lease income 58
+Deferred capital grants 15 2t2,979 L49,t82
+Total non-current liabilities 251,277 L49,326
+Equity
+Share capital 16 562,565 560,305
+Accumulated surplus 92,382 tL7,746
+Revaluation reserve 76 76
+Total equity 655.023 678.r27
+Total liabilities and equity 1.015.366 929.782
+Net assets of Trust and Agency Funds L7 31 t47 343 307
+See accompanying notes to financial statements.
+
+--- PAGE 9 ---
+
+SINGAPORE TOURISM BOARD
+STATEMENT OF COMPREHENSIVE INCOME
+Year ended 31 March 2O19
+Note 2019 2018
+$'000 $'000
+Operating income 18 3L,287 25,557
+Less: Operating expenses
+Employee benefit expenses 19 (80,644) (77,480)
+Depreciation of property, plant and equipment 10 (36,764) (35,049)
+Amoftisation of intangible assets 11 (8,049) (3,924)
+Other operating expenses (172,75L\ ( 171.565)
+(298,208) (288,018)
+Non-operating income and expenses
+Other income 20 17,475 12,248
+Other expenses 2t rc,79L\ (6,572\
+10.684 5.676
+Operating deficit before Government grants (256.237\ (256.785\
+Government grants
+Operating grants 220,795 207,894
+Amortisation of deferred capital grants 15 10,078 t,577
+230,873 209.47r
+Net deficit before contribution to Consoladated Fund (25.364) (47.314)
+Contribution to Consolidated Fund 22
+Loss for the year, representing total
+comprehensive loss for the year (25,364) (47,3L4\
+See accompanying notes to financial statements.
+
+--- PAGE 10 ---
+
+SINGAPORE TOURISM BOARD
+STATEMENT OF CHANGES IN EQUITY
+Year ended 31 March 2O19
+Share Accumulated Revaluation
+capital surplus reserve
+Total
+$'000 $'000 $'000
+$'000
+Balance as at 1 April 2O17 557,L22 171,859 76 729,057
+-
+Equity injections 3,183 3,183
+Transfer of assets to another
+- -
+statutory board (6,799) (6,799)
+Loss for the year, representing total
+comprehensive loss for the year - 47.3t4\ - (47.314\
+Balance as at 31 March 2O18 560,305 7t7,746 76 678,127
+-
+Equity injections 2,260 2,260
+Loss for the year, representing total
+comprehensive loss for the year - (2s.364\ - (25.364\
+s62,s6s 92,382 76
+Balance as at 31 March 2O19 6ss.023
+See accompanying notes to financial statements.
+
+--- PAGE 11 ---
+
+SINGAPORE TOURISM BOARD
+STATEMENT OF CASH FLOWS
+Year ended 31 March 2019
+Note 2019 2014
+$'000 $'000
+Operating activities
+Loss for the year (25,364) (47,314)
+Adjustments for:
+Operating grants (220,795) (207,894)
+Allowance (Write back) of doubtful debts LL7 (11)
+Depreciation of property, plant and equipment 10 36,764 35,049
+Amortisation of intangible assets 11 8,049 3,924
+(Gain) Loss on disposal of propefty, plant and equipment (1) 9
+Interest income (8,992) (7,983)
+Deferred long-term lease (tL7) (r17)
+Amortisation of deferred capital grant 15 ( 10,078) (t,577)
+Fair value (gain) loss on financial assets under
+fund management (8,482) 6,1 56
+Finance lease income (r,322\ (L,223\
+Operating cash flows before movements in working capital (230,22t) (22O,981)
+Deposits, prepayments and other receivables (e18) (88s)
+Advances and deposits received (1,848) (2,322)
+Accruals and other payables (306) L0,367
+Cash used in operations (233,293) (213,821)
+Interest received 10.314 9.206
+Net cash used in operating activities (222.979\ (204.51s)
+fnvesting activities
+Purchase of propefty, plant and equipment (75,487) (4,898)
+Purchase of intangible assets 11 (9,527) (9,792)
+Proceeds from disposal/reclassification of
+property, plant and equipment 22 87
+Repayment of finance lease receivables 641 602
+Investment under fund management 36,756 (39,134)
+Net cash used in investing activities A7,sgs) (53.135)
+Financing activities
+Operating grants received 210,539 207,606
+Capital grants received 15 73,875 552
+Equity injection 16 2,260 3.183
+Net cash from financing activities 286,674 2tr,34L
+Net increase (decrease) in cash and cash equivalents 16,100 (46,4O9)
+Cash and cash equivalents at beginning of year 84,466 130.875
+Cash and cash equivalents at end of year 100,566 84,466
+See accompanying notes to financial statements.
+
+--- PAGE 12 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+GENERAL
+The Singapore Tourism Board (the "Board"), a Singapore statutory board under the Ministry of Trade
+and Industry ("MTI"), is established in the Republic of Singapore under the Singapore Tourism Board
+Act, Cap 3058 (the "Act") with its registered office and principal place of operations at Tourism Couft,
+1 Orchard Spring Lane, Singapore 247729.
+The primary functions and duties of the Board are:
+(i)
+To develop and promote Singapore as a travel and tourist destination;
+(ii)
+To advise the Government on matters relating to travel and tourism;
+(iii)
+To enhance the travel and tourism sector's contribution to the Singapore economy; and
+(iv)
+To exercise licensing and regulatory functions in respect of such tourism enterprises as the Board
+may determine.
+These financial statements are presented in Singapore dollar, which is the Board's functional currency.
+All values presented are rounded to the nearest thousand ("$'000"), unless indicated otherwise.
+There have been no significant changes in the nature of these activities during the financial year.
+The financial statements of the Board for the year ended 31 March 2019 were authorised for issue by
+the Board of Directors on 15 July 2019.
+2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+2.t Basis of preparation
+The financial statements are prepared in accordance with the historical cost basis, except as disclosed
+in the accounting policies below, and are drawn up in accordance with the provisions of the Act,
+and Statutory Board Financial Reporting Standards ("SB-FRS"), including Interpretations of
+SB-FRS ("INT SB-FRS") and SB-FRS Guidance Notes.
+Historical cost is generally based on the fair value of the consideration given in exchange for services.
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market pafticipants at the measurement date, regardless of whether that price
+is directly observable or estimated using another valuation technique. In estimating the fair value of
+an asset or a liability, the Board takes into account the characteristics of the asset or liability which
+market participants would take into account when pricing the asset or liability at the measurement
+date.
+Fair value for measurement and/or disclosure purposes in the financial statements is determined
+on such a basis, except for share-based payment transactions that are within the scope of
+SB-FRS t02 Share-based Payment, leasing transactions that are within the scope of SB-FRS t7 Leases,
+and measurements that have some similarities to fair value but are not fair value, such as net
+realisable value in SB-FRS 2 Inventories or value in use in SB-FRS 36 Impairment of Assets.
+10
+
+--- PAGE 13 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+2,2 Adoption of new and revised standards
+On 1 April 2018, the Board adopted all the new and revised SB-FRSs, INT SB-FRS and
+SB-FRS Guidance Notes that are effective from that date and relevant to its operations. The adoption
+of these standards do not result in changes to the Board's accounting policies and has no material
+effect on the amounts reported for the current or prior year.
+SB-FRS tO9 Financial Instruments
+SB-FRS 109 introduces new requirements for 1) the classification and measurement of financial assets
+and financial liabilities, 2) impairment of financial assets and 3) general hedge accounting. Details of
+these new requirements as well as their impact on the financial statements are described below.
+The Board applied SB-FRS 109 with an initial application date of 1 April 2018. The Board has not
+restated the comparative information, which continues to be reported under SB-FRS 39. There is no
+material impact on adoption of SB-FRS 109.
+(a)
+Classification and measurement of financial assets and financial liabilities
+The Board has applied the requirements of SB-FRS 109 to instruments that have not been
+derecognised as at 1 April 2018 and has not applied the requirements to instruments that have
+already been derecognised as at 1 April 2018. The classification of financial assets is based on
+two criteria: the Board's business model for managing the assets and whetherthe instruments'
+contractual cash flows represent 'solely payments of principal and interest' on the principal
+amount outstanding. There are no changes in classification and measurement of the Board's
+financial assets and financial liabilities, other than those disclosed in the notes to the financial
+statements.
+(b)
+Impairment of financial assets
+SB-FRS 109 requires an expected credit loss model as opposed to an incurred credit loss model
+under SB-FRS 39. The expected credit loss model requires the Board to account for expected
+credit losses and changes in those expected credit losses at each reporting date to reflect
+changes in credit risk since initial recognition of the financial assets. It is no longer necessary
+for a credit event to have occurred before credit losses are recognised.
+ll5
+SB-FRS Revenue from Contracts with Customers
+SB-FRS 115 supersedes SB-FRS 18 Revenue and the related Interpretations. SB-FRS 115 introduces
+a S-step approach to revenue recognition. Far more prescriptive guidance has been added in
+SB-FRS 115 to deal with specific scenarios. There is no material impact on the Board's financial
+statements on adoption of SB-FRS 115.
+11
+
+--- PAGE 14 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+2.3 Standards issued but not yet effective
+At the date of authorisation of these financial statements, the following SB-FRS that is relevant to the
+Board was issued but not yet effective:
+o
+SB-FRS 116 Leases
+(Effective for annual periods beginning on or after 1 April 2019)
+SB-FRS 116 leases
+The Standard provides a comprehensive model for the identification of lease arrangements and their
+treatment in the financial statements of both lessees and lessors. The identification of leases,
+distinguishing between leases and service contracts, are determined on the basis of whether there is
+an identified asset controlled by the customer.
+Significant changes to lessee accounting are introduced, with the distinction between operating and
+flnance leases removed and assets and liabilities are recognised in respect of all leases (subject to
+limited exemptions for shoft-term leases and leases of low value assets). The Standard maintains
+substantially the lessor accounting approach under the predecessor SB-FRS 17.
+As at 31 March 2019, the Board has non-cancellable operating lease arrangements as disclosed in
+Note 24. A preliminary assessment indicates that these arrangements will meet the definition of a
+lease under SB-FRS 116, and hence the Board will recognise a right-of-use asset and a corresponding
+liability in respect of all these leases unless they qualify for low value or short-term leases upon
+application of SB-FRS 116. The new requirement to recognise a right-of-use asset and a related lease
+liability is expected to have a significant impact on the amounts recognised in the Board's financial
+statements and management is currently assessing its potential impact.
+Other than the above, management anticipates that the adoption of the other SB-FRSs, INT SB-FRSs
+and amendments to SB-FRS Guidance Notes that were issued as at the date of authorisation of these
+financial statements but effective only in future periods will not have a material impact on the financial
+statements in the period of their initial adoption.
+2.4 Financial instruments
+Financial assets
+Initial recoonition and measurement
+Financial assets are recognised when, and only when the Board becomes pafty to the contractual
+provisions of the instruments. All recognised financial assets are subsequently measured in their
+entirety at either amortised cost or fair value, depending on the classification of the financial assets.
+t2
+
+--- PAGE 15 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2019
+Classification of financial assets
+(i)
+Financial assets at amortised cost
+Financial assets that meet the following conditions are subsequently measured at amoftised
+cost:
+.
+The financial asset is held within a business model whose objective is to hold financial
+assets in order to collect contractual cash flows; and
+.
+The contractual terms of the financial asset give rise on specified dates to cash flows that
+are solely payments of principal and interest on the principal amount outstanding.
+Financial assets are measured at amortised cost using the effective interest method, less
+impairment. Gains and losses are recognised in profit or loss when the assets are derecognised
+or impaired, and through the amoftisation process.
+(ii)
+Financial assets at fair value throuoh other comorehensive income
+Financial assets that meet the following conditions are subsequently measured at fair value
+through other comprehensive income ("FVTOCI"):
+o
+the financial asset is held within a business model whose objective is achieved by both
+collecting contractual cash flows and selling the financial assets; and
+o
+the contractual terms of the financial asset give rise on specified dates to cash flows that
+are solely payments of principal and interest on the principal amount outstanding.
+Equity instruments designated as at FVTOCI
+The Board has made an irrevocable election to designate its investment in unquoted equity
+shares that are not held for trading as at FVTOCI on initial application of SB-FRS 109
+(see Note 12). The Board is of the view that the cost of the unquoted equity shares represents
+the fair value of the investment.
+Investment in equity instruments at FVTOCI are initially measured at fair value plus transaction
+costs. Subsequently, they are measured at fair value with gains and losses arising from changes
+in fair value recognised in other comprehensive income and accumulated in the investments
+revaluation reserve. The cumulative gain or loss will not be reclassified to profit or loss on
+disposal of the equity investments, instead, they will be transferred to accumulated surplus.
+Dividends on these investments in equity instruments are recognised in profit or loss when the
+Board's right to receive the dividends is established, unless the dividends clearly represent a
+recovery of paft of the cost of the investment.
+13
+
+--- PAGE 16 ---
+
+SINGAPORE TOURISM BOARO
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+(iii)
+Financial assets at fair value throuoh orofit or loss
+By default, all other financial assets are subsequently measured at fair value through profit or
+loss ("FVTPL").
+Despite the aforegoing, the Board may make the following irrevocable election/designation at
+initial recognition of a financial asset:
+o
+the Board may irrevocably elect to present subsequent changes in fair value of an equity
+investment in other comprehensive income if certain criteria are met; and
+o
+the Board may irrevocably designate a debt investment that meets the amortised cost or
+FVTOCI criteria as measured at FVTPL if doing so eliminates or significantly reduces an
+accounting mismatch.
+Financial assets at FWPL are measured at fair value as at each reporting date, with any fair
+value gains or losses recognised in profit or loss to the extent they are not part of a designated
+hedging relationship. Financial assets at FVTPL include the Board's investment portfolio of quoted
+debt instruments, quoted equity securities and derivative financial instruments under fund
+management. The net gain or loss recognised in profit or loss includes any dividend or interest
+earned on the financial assets and is included in the "other income" (Note 20) or
+"other expenses" (Note 21).
+Imoairment of financial assets
+The Board recognises an allowance for expected credit losses ("ECLs") for all debt instruments not
+held at FVTPL. ECLs are based on the difference between the contractual cash flows due in accordance
+with the contract and all the cash flows that the Board expects to receive, discounted at an
+approximation of the original effective interest rate. The expected cash flows will include cash flows
+from the sale of collateral held or other credit enhancements that are integral to the contractual terms.
+ECLs are recognised in two stages. For credit exposures for which there has not been significant
+increase in credit risk since initial recognition, ECLs are provided for credit losses that result from
+default events that are possible within the next 12-months (a 12-month ECL). For those credit
+exposures for which there has been a significant increase in credit risk since initial recognition, a loss
+allowance is recognised for credit losses expected over the remaining life of the exposure, irrespective
+of timing of the default (a lifetime ECL).
+For debtors, the Board applies a simplified approach in calculating ECLs. Therefore, the Board does
+not track changes in credit risk, but instead recognises a loss allowance based on lifetime ECLs at each
+reporting date. The ECLs on these financial assets are estimated based on the Board's historical credit
+loss experience, adjusted for forward-looking factors specific to the debtors and the economic
+environment which could affect debtors'ability to pay.
+The Board considers a financial asset in default when internal or external information indicates that
+the Board is unlikely to receive the outstanding contractual amounts in full. A financial asset is written
+off when there is no reasonable expectation of recovering the contractual cash flows.
+Derecoqnition of financial assets
+The Board derecognises a financial asset only when the contractual rights to the cash flows from the
+asset expire, or when it transfers the financial asset and substantially all the risks and rewards of
+ownership of the asset to another party. On derecognition, any difference between the carrying amount
+and the sum of proceeds received is recognised in the profit or loss.
+t4
+
+--- PAGE 17 ---
+
+SINGAPORE TOURISM BOARO
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+Financial liabilities and eouitv instruments
+Classification as debt or equitv
+Debt and equity instruments issued by the Board are classified as either financial liabilities or as equity
+according to the substance of the contractual arrangements entered into and the definitions of a
+financial liability and an equity instrument.
+Eouitv instruments
+An equity instrument is any contract that evidences a residual interest in the assets of the Board after
+deducting all of its liabilities. Equity instruments issued by the Board are recognized at the proceeds
+received, net of direct issue costs.
+Pursuant to the Finance Circular Minute ("FCM") No. 2612008 on Capital Management Framework
+("CMF"), equity injection from the Singapore Government (the "Government") is recorded as share
+capital.
+Financial liabilities
+All financial liabilities are subsequently measured at amortised cost using the effective interest method
+or at FVTPL. Gains and losses are recognised in profit or loss when the liabilities are derecognised,
+and through the amortisation process.
+Subsequent to initial recognition, financial liabilities at fair value through profit or loss are measured
+at fair value. Any gains or losses arising from changes in fair value are recognised in profit or loss.
+Derecoonition of financial liabilities
+The Board derecognises financial liabilities when, and only when, the Board's obligations are
+discharged, cancelled or they expire. The difference between the carrying amount of the financial
+liability derecognised and the consideration paid and payable, including any non-cash assets
+transferred or liabilities assumed, is recognised in profit or loss.
+15
+
+--- PAGE 18 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+2.5
+Leases
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the
+risks and rewards of ownership to the lessee. All other leases are classified as operating leases.
+The Board as lessor
+Amounts due from lessees under finance leases are recognised as receivables at the amount of the
+Board's net investment in the leases. Finance lease income is allocated to accounting periods so as to
+reflect a constant periodic rate of return on the Board's net investment outstanding in respect of the
+leases.
+Lease income from operating leases is recognised on a straight-line basis overthe term of the relevant
+lease unless another systematic basis is more representative of the time pattern in which use benefit
+derived from the leased asset is diminished. Initial direct costs incurred in negotiating and arranging
+an operating lease are added to the carrying amount of the leased asset and recognised as an expense
+over the lease term on the same basis as the lease income. Contingent rentals arising under operating
+leases are recognised as revenue in the period in which they are earned.
+The Board as lessee
+Rentals payable under operating leases are charged to expense on a straight-line basis over the term
+of the relevant lease unless another systematic basis is more representative of the time pattern in
+which economic benefits from the leased asset are consumed. Contingent rentals arising under
+operating leases are recognised as an expense in the period in which they are incurred.
+In the event that lease incentives are received to enter into operating leases, such incentives are
+recognised as a liability. The aggregate benefit of incentives is recognised as a reduction of rental
+expense on a straight-line basis, except where another systematic basis is more representative of the
+time pattern in which economic benefits from the leased asset are consumed.
+2.6 Propefty, plant and equipment
+Measurement
+Propefty, plant and equipment are stated at cost less accumulated depreciation and any accumulated
+impairment losses.
+The cost of an item of property, plant and equipment initially recognised includes its purchase price
+and any cost that is directly attributable to bringing the asset to the location and condition necessary
+for it to be capable of operating in the manner intended by the Board.
+16
+
+--- PAGE 19 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+Depreciation
+Assets under construction are not depreciated until they are available for use.
+Depreciation on other items of propefty, plant and equipment is calculated using the straight-line
+method to allocate their depreciable amounts over their estimated useful lives as follows:
+land -
+Leasehold 27 to 99 years, representing the lease terms
+Buildings -
+10 to 50 years
+Buildingimprovements -
+5toTyears
+equipment -
+Furniture, fittings and 2 to 10 years
+Motorvehicles -
+Syears
+air-conditioners -
+Electrical installation and 5 to 7 years
+Infrastructure -
+6 to 20 years
+The residual values, estimated useful lives and depreciation method are reviewed at each financial
+year-end, and adjusted prospectively, if appropriate. The effects of any revision of the residual values
+and useful lives are included in income or expenditure when the changes arise.
+Derecoonition
+On disposal or retirement of an item of property, plant and equipment, the difference between the
+disposal proceeds and its carrying amount is recognised in profit or loss.
+2.7 Intangible assets
+Intangible assets are reported at cost less accumulated amortisation (where they have finite useful
+lives) and accumulated impairment losses.
+Intangible assets with finite lives are amoftised over their estimated useful lives, using the
+straight-line method on the following bases:
+Computersoftware - 3years
+Intangible assets under development are not depreciated until they are available for use.
+The estimated useful lives, residual values and amortisation method of intangible assets are reviewed
+at the end of each repofting period with the effect of any changes in estimates accounted for on a
+prospective basis.
+An item of intangible assets is derecognised upon disposal or when no future economic benefits are
+expected from its use or disposal. Any gain or loss arising on derecognition of the asset is included in
+the profit or loss in the year the asset is derecognised.
+t7
+
+--- PAGE 20 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+2.8 Impairment of non-financial assets
+At the end of each reporting period, the Board reviews the carrying amounts of its non-financial assets
+to determine whether there is any indication that those assets have suffered an impairment loss. If
+any such indication exists, the recoverable amount of the asset is estimated in order to determine the
+extent of the impairment loss (if any). Where it is not possible to estimate the recoverable amount of
+an individual asset, the Board estimates the recoverable amount of the cash-generating unit to which
+the asset belongs.
+An asset's recoverable amount is the higher of fair value less costs to sell and value in use. In assessing
+value in use, the estimated future cash flows are discounted to their present value using a pre-tax
+discount rate that reflects current market assessment of the time value of money and the risks specific
+to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying
+amount, the carrying amount of the asset (cash-generating unit) is reduced to its recoverable amount.
+An impairment loss is recognised immediately as an expense.
+Where an impairment loss subsequently reverses, the carrying amount of the asset (cash-generating unit)
+is increased to the revised estimate of its recoverable amount, but so that the increased carrying
+amount does not exceed the carrying amount that would have been determined had no impairment
+loss been recognised for the asset (cash-generating unit) in prior years. A reversal of an impairment
+loss is recognised immediately as income, unless the asset is valued at revalued amount, in which
+case the reversal is treated as a revaluation increase.
+2.9
+Provisions
+Provisions are recognised when the Board has a present obligation (legal or constructive) as a result
+of a past event, it is probable that the Board will be required to settle the obligation, and a reliable
+estimate can be made of the amount of the obligation.
+The amount recognised as a provision is the best estimate of the consideration required to settle the
+present obligation at the end of the repofting period, taking into account the risks and uncertainties
+surrounding the obligation. Where a provision is measured using the cash flows estimated to settle
+the present obligation, its carrying amount is the present value of those cash flows.
+2.10 Trust and agency funds
+Trust and agency funds are set up to account for moneys held in trust where the Board is not the
+owner and beneficiary of the funds. Income or expenses of these funds are taken directly to the funds.
+The net assets relating to the funds are shown as a separate line item in the statement of financial
+position.
+18
+
+--- PAGE 21 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2019
+2.11 Government grants
+Government grants are not recognised until there is reasonable assurance that the Board will comply
+with the conditions attaching to them and the grants will be received. Government grants whose
+primary condition is that the Board should purchase, construct or otherwise acquire non-current assets
+are recognised as deferred capital grant in the statement of financial position and transferred to income
+or expenditure on a systematic and rational basis over the useful lives of the related assets.
+Other government grants are recognised as income over the periods necessary to match them with
+the costs for which they are intended to compensate, on a systematic basis. Government grants that
+are receivable as compensation for expenses or losses already incurred or for the purpose of giving
+immediate financial suppoft to the Board with no future related costs are recognised in income or
+expenses in the period in which they become receivable.
+2.12 Income recognition
+Income is measured based on the consideration specified in a contract with a customer and excludes
+amounts collected on behalf of third pafties.
+Events-related income
+Events-related income is recognised over time when the Board satisfies a performance obligation by
+transferring control of a service to the customer. The amount of income recognised is the amount of
+the transaction price allocated to each satisfied performance obligation. Transaction price is the
+amount of consideration in the contract to which the Board expects to be entitled in exchange for
+transferring the promised services.
+Lease income
+The Board's policy for recognition of income from operating leases is described in Note 2.5 above.
+Interest income
+Interest income is recognised over time, on a time proportion basis using the effective interest method.
+Dividend income
+Dividend income is recognised at a point in time when the Board's right to receive payment is
+established.
+19
+
+--- PAGE 22 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+2.13 Defined contribution plans
+Payments to defined contribution retirement benefit plans are charged as an expense when employees
+have rendered the services entitling them to the contributions. Payments made to state-managed
+retirement benefit schemes, such as the Singapore Central Provident Fund, are dealt with as payments
+to defined contribution plans where the Board's obligations under the plans are equivalent to those
+arising in a defined contribution retirement benefit plan.
+2.14 Employee leave entitlement
+Employee entitlements to annual leave are recognised when they accrue to employees. A provision is
+made for the estimated liability for annual leave as a result of services rendered by employees up to
+the end of the repofting period.
+2.15 Cash and cash equivalents
+Cash and cash equivalents comprise cash and bank balances, fixed deposit with financial institutions
+and cash balances placed with the Accountant-General's Depaftment ("AGD") which are subject to an
+insignificant risk of changes in value.
+2.16 Foreign currency transactions and translation
+In preparing the financial statements, transactions in currencies other than the Board's functional
+currency are recorded at the rate of exchange prevailing on the date of the transaction. Monetary
+assets and liabilities denominated in foreign currencies are translated at the rate of exchange ruling
+at the end of the reporting period. Non-monetary items that are measured in terms of historical cost
+in a foreign currency are translated using the exchange rates as at the dates of the initial transactions.
+Non-monetary items measured at fair value in a foreign currency are translated using the exchange
+rates at the date when the fair value was determined.
+CRITICAL ACCOUNTING JUDGEMENTS AND KEY SOURCES OF ESTIMATION UNCERTAINTY
+In the application of the Board's accounting policies, which are described in Note 2, management is
+required to make judgements, estimates and assumptions about the carrying amounts of assets and
+liabilities that are not readily apparent from other sources. The estimates and associated assumptions
+are based on historical experience and other factors that are considered to be relevant. Actual results
+may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting
+estimates are recognised in the period in which the estimate is revised if the revision affects only that
+period, or in the period of the revision and future periods if the revision affects both current and future
+periods.
+Management is of the opinion that there are no criticaljudgements or significant estimates that would
+have a significant effect on the amounts recognised in the financial statements.
+20
+
+--- PAGE 23 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+FINANCIAL INSTRUMENTS, FINANCIAL RISKS AND CAPITAL RISK MANAGEMENT
+(a)
+Cateaories of financial instruments
+The following table sets out the financial instruments as at the end of the reporting period:
+2019 2018
+$'000 $'000
+Financial assets
+Financial assets at amortised cost:
+Deposits and other receivables excluding
+prepayments and GST receivables (Note 7) 23,190 t4,t38
+Cash and cash equivalents (Note 6) 100,566 84,466
+Cash balances under fund management (Note 9) 3,960 49,877
+Settlements in transit under fund management (Note 9) (2,703) (1 16)
+Other receivables under fund management (Note 9) 2,796 2,464
+Finance lease receivables (Note 8) 18.539 19,180
+t46,348
+170.009
+Financial assets measured at FVTPL (Note 9) 252,L5L 232.253
+Other investments (Note 12) 2,076 2,076
+400.575
+404.338
+Financial liabilities
+Financial liabilities at amoftised cost (Note 13) t44,472 100,411
+Financial risk manaqement policies and obiectives
+The Board's key financial risks include market risk (including interest rate risk, currency risk and
+market price risk), credit risk and liquidity risk.
+There has been no change to the Board's exposure to these financial risks or the manner in
+which it manages and measures the risk. Market risk exposures are measured using sensitivity
+analysis indicated below.
+The Board does not hold or issue derivative financial instruments for speculative purposes.
+2r
+
+--- PAGE 24 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+(i)
+Foreion exchanoe risk manaoement
+The Board has exposure to foreign currency risk as a result of its externally managed
+investments in foreign currency denominated assets and liabilities.
+For the externally managed investments, the fund managers use foreign exchange
+derivative financial instruments when necessary to reduce exposure to fluctuation in
+foreign exchange rates.
+Foreign currency sensitivity analysis has not been presented as management do not expect
+any reasonable possible changes in foreign currency exchange rates to have a significant
+impact on the Board's operations and cash flows.
+( ii) Interest rate risk manaoement
+The Board's exposure to interest rate risk relates primarily to its deposits with AGD,
+and quoted debt securities as disclosed in Notes 6 and 9 respectively.
+Interest rate sensitivity analysis has not been presented as management do not expect
+any reasonable possible changes in interest rates to have a significant impact on the
+Board's operations and cash flows.
+(iii) Credit risk manaoement
+Credit risk refers to the risk that a counterparty will default on its contractual obligations
+resulting in financial loss to the Board. In managing credit risk exposure, credit review and
+approval processes as well as monitoring mechanisms are applied.
+The Board's major classes of financial assets are cash and deposits with AGD, cash and
+bank balances, other receivables, and financial assets held at fair value through profit or
+loss. The maximum exposure to credit risk for each class of financial assets is the carrying
+amount of that class of financial instruments presented on the statement of financial
+position.
+(iv) Market orice risk manaqement
+The Board is exposed to market risks arising from quoted equity securities, quoted debt
+instruments and derivative investments designated as fair value through profit or loss
+(FVTPL), managed by fund managers. The Board diversifies its portfolio in accordance with
+its investment mandate to manage exposure to fluctuations in market prices.
+Fufther details of these investments can be found in Note 9 to the financial statements.
+Market price sensitivity
+The sensitivity analyses have been determined based on the exposure to market price
+risks at the end of the reporting period.
+In respect of the FVTPL investments, if the underlying market prices had been
+2o/o higher/lower, the loss of the Board will decrease/increase by 95,043,000
+(2018 : loss of the Board would decrease/increase by $4,645,000). The Board's sensitivity
+to equity prices has not changed significantly from the prior year.
+22
+
+--- PAGE 25 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2019
+(v)
+Liouidity risk manaoement
+The Board manages liquidity risk by maintaining sufficient funds to enable it to meet its
+operational requirements.
+The Board's objective is to maintain a levelof cash and cash equivalents deemed adequate
+by management to finance the Board's operations. The investment pottfolio comprises
+mainly quoted debt securities with resale markets to ensure portfolio liquidity.
+The Board has non-derivative financial assets as shown on the statement of flnancial
+position under financial assets under fund management which are substantially managed
+externally by professional fund managers. The non-derivative financial assets comprise
+investments in debt securities which are mainly quoted (as disclosed under Note 9).
+The non-derivative financial assets may be liquidated readily when required.
+The Board does not have any significant exposure to liquidity risk as at the end of each
+reporting period.
+(vi)
+Fair value of financial assets and financial liabilities
+The Board classifies fair value measurements using a fair value hierarchy that reflects the
+significance of the inputs used in making the measurements. The fair value hierarchy has
+the following levels:
+a)
+quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1);
+b)
+inputs other than quoted prices included within Level 1 that are observable for the
+asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices)
+(Level 2); and
+c) input for the asset or liability that are not based on observable market data
+(unobservable inputs) (Level 3).
+Quoted equity securities and quoted debt instruments (Note 9) are measured based on
+Level 1of thefairvalue hierarchy. Unquoted equityshares (Note 12) are measured based
+on Level 3 ofthe fair value hierarchy. The Board is ofthe view that the cost ofthe unquoted
+equity shares represents the fair value of the investment.
+There were no transfers between Level 1 and Level 2 of the fair value hierarchy during the
+year.
+Management considers that the carrying amounts of financial assets and financial liabilities
+recorded at amortised cost in the financial statements approximate their fair values.
+(b)
+Caoital risk manaoement policies and obiectives
+The Board manages its capital to ensure that it will be able to continue as a going concern while
+fulfilling its objective as a statutory board.
+The Board is required to comply with the Capital Management Framework for Statutory Boards
+detailed in Finance Circular Minute M26/2008, including the need to declare annual dividends to
+the Ministry of Finance (MOF) in return for the equity injection.
+The capital structure of the Board consists of accumulated surplus and capital account.
+The overall strategy of the Board remains unchanged from the previous financial year.
+23
+
+--- PAGE 26 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+RELATED PARTY TRANSACTIONS
+(a)
+Transactions with Ministries and Government Agencies
+For the purposes of these financial statements, related parties refer to Ministries, Organ of States
+and other Statutory Boards. The transactions with Government-related entities other than
+Ministries, Organ of States, and other Statutory Boards, are not disclosed unless there are
+circumstances to indicate that these transactions are of interest to the readers of the financial
+statements.
+Some of the Board's transactions and arrangements are with related parties and the effect of
+these on the basis determined between the parties is reflected in these financial statements.
+The balances are unsecured, interest-free and repayable on demand unless otherwise stated.
+Other than as disclosed elsewhere in the financial statements, the following significant
+transactions took place between the Board and its related parties during the financial year:
+2019
+2018
+$'000 $'000
+MTI
+Services and expenses paid to MTI 3,786 848
+Services rendered to MTI (138,373) (24,339)
+Other Ministries and Government Aqencies
+Purchases and services paid to other ministries 351 88
+Purchases and services paid to other government agencies 99,231 2L,227
+Expenses made on behalf by other ministries t27 146
+Expenses made on behalf by other government agencies l,969 1,578
+Computer and IT related expenses 3,879 3,972
+Services rendered to other ministries (218) (118)
+Services rendered to other government agencies (2.440\ (2.013)
+(b)
+Board members and key management personnel remuneration
+2019 2018
+$'000 $'000
+Remuneration and other short-term benefits t9,2t7 16,973
+Contributions to defined contribution plan 1,184 I,LL4
+20.40L 18.087
+The above includes Board members'allowance of $141,593 (2018 : $156,358).
+24
+
+--- PAGE 27 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+cAsH AND CASH EQUTVALENTS
+2019 2018
+$'000
+$'oo0
+100.566
+Cash and bank deposits ir) 84.466
+(i)
+This included cash deposits placed with Accountant General's Depaftment ("AGD") under the
+Centralised Liquidity Management Scheme ("CLM") under AGD Circular 4/2009. The CLM Scheme
+includes placement of cash deposits with approved financial institutions. Deposits, which are
+interest-bearing, are centrally managed by AGD and are available to the Board upon request
+and earn interest at the average rate of 1.760/o (2018 : L.23o/o) per annum.
+DEPOSTTS, PREPAYMENTS AND OTHER RECETVABLES
+2019 2018
+$'000 $'000
+Deposits 1,588 1,539
+Prepayments 6,188 2,988
+Other receivables:
+- Operating grants 10,256 288
+- Ministries and other government agencies 1,755 1,545
+- Others 9,708 10,768
+- GST receivables 1.195
+29,495 L8,323
+Less: Allowance for doubtful debts ( tL7\ (2)
+Net deposits, prepayments and other receivables 29,378 18,321
+Less: Non-current prepayments (t37\ ( 129)
+Deposits, prepayments and other receivables presented as
+current assets 29 24r 18 t92
+Allowance for doubtful debts has been measured at an amount equal to ECL. Apart from the above,
+no impairment allowance is necessary in respect of the remaining receivables after taking into account
+the historical default experience in which the debtors operate, together with the value of deposits.
+There has been no significant change in the estimation techniques or significant assumptions made
+during the current reporting period.
+Movement in the allowance for doubtful debts:
+2019 2018
+$'000
+$'000
+2
+Balance at beginning of year 381
+Lr7
+Increase (Decrease) in allowance recognised in profit or loss (11)
+(2\
+Bad debts write off (368)
+Balance at end of year tL7
+25
+
+--- PAGE 28 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+FINANCE LEASE RECEIVABLE
+The Board entered into an agreement with a third party company incorporated in Singapore to lease
+a parcel of land granted to the Board by the Singapore Land Authority for the purpose of a
+tourism-related project. The average discount rate implicit in the lease is 6.4o/o (20t8 : 6.40/o) per
+annum.
+Future minimum lease receivable under the financial lease together with the present value of the
+minimum lease receivable is as follows:
+Future minimum Present value ot
+lease receivables minimum lease receivables
+2019 2018 2019 2018
+$'000
+$'000 $'000 $'000
+Amount receivable under finance lease:
+Within one year 1,825 1,825 682 64L
+In the second to fifth year
+inclusive 7,302 7,301 3,192 3,000
+After fifth year 20,535 22,361 L4,665 15.539
+29,662 3L,487 18,539 19,180
+Less: Unearned finance income ( 1 1,123) (t2,307\
+Present value of minimum lease
+18.539
+receivable 19.180 18,539 19,180
+Less: Amount due for settlement within 12 months
+(shown under current receivables) (682) (641)
+Amount due for settlement after 12 months L7,857 18,539
+26
+
+--- PAGE 29 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2019
+FINANCIAL ASSETS UNDER FUND MANAGEMENT
+2019 2018
+$'000 $'000
+Financial assets (liabilities)
+Marketable investments, at market value:
+- Quoted debt instruments 233,090 215,386
+- Quoted equity securities 18,821 t7,078
+- Derivative financial instruments 240 (21L\
+Financial assets at FVTPL 252,t51 232,253
+Add (Less):
+- Cash balances 3,960 49,877
+- Other receivables 2,796 2,464
+- Settlements in transit (2,703) (116)
+256,204
+Total financial assets 284,478
+Amounts under fund management are classified as financial assets at fair value through profit or loss
+with the fair value movements taken to profit or loss. The fair values of these investments are based
+on the closing market price on the last market day of the financial year.
+As part of the Board's strategy to manage foreign currency risk, derivative financial instruments such
+as foreign currency futures and forward contracts were entered into by fund managers appointed by
+the Board. The gross value of financial assets under fund management denominated in United States
+dollar amounted to $137.1m [net of derivatives : $20.1m] (2018 : $133.7m [net of derivatives :
+$18.8m1) at the end of the reporting period.
+During the financial year, fair value gain [net of foreign currency exchange loss] relating to financial
+assets under fund management amounting to $2.2m (2018 : fair value loss of $1.9m [net of foreign
+currency exchange gainl) was recorded.
+27
+
+--- PAGE 30 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+10
+PROPERTY, PLANTAND EQUIPMENT
+Furniture, Electrical
+Leasehold Building fittings and Motor installation and Capital work-
+land urpm( T
+$'000 $'000 $'000 $'000 $'000 $'000 $'000
+Cost:
+At 1 April 2017
+Additions
+Reclassifications
+Disposals/Written off
+At 31 March 2018
+Additions
+Reclassifications
+Disposals/Written off
+At 31 March 2019
+Accumulated depreciation
+:
+At 1 April 2017 1 1,939 t45,O75 t8,429 12,L6l 7LO 17,178 37,4O9 242,90t
+Depreciation 2,52t 18,924 2,661 t,768 232 3,953 4,ggo 35,049
+Disposals/Written off 1 264 243
+At 31 March 2018 L4,460 162,299 20,926 13,655 942 2L,L26 42,399 275,7O7
+Depreciation 5,O21 21,108 2,994 t,837 198 4,O78 1,538 36,764
+Disposals/Written off 346 103
+At 31 March 2019 19.481 23.810 7 43.906 311.991
+Carrying amount:
+At 31 March 2019
+At 31 March 2018
+(a)
+Included in leasehold land, bulldlngs and infrastructure are tourlsm assets held by the Board for the purpose of tourism promotion/development.
+(b)
+As at 31 March 2019, acquisltlon of leasehold land amountlng to $47,152,000 remained unpaid and yras Inctuded in accruats and other payabtes (Note 13).
+28
+
+--- PAGE 31 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+11
+INTANGIBLE ASSETS
+Development
+Computer projects-in-
+progress
+software Total
+$'000
+$'000 $'000
+Cost:
+At 1 April 2017 7,547 481 8,028
+105
+Additions 9,697 9,792
+Reclassifications L,73t /457\ 1.274
+At 31 March 2018 18,965 t29 t9,094
+Additions 9,956 671 9,527
+Reclassifications 129 (L29\
+At 31 March 2019 27,950 67t 28,62r
+Accumulated amortisation
+:
+At 1 April 2017 7,347 7,347
+Amortisation for the year 3,924 3,924
+At 31 March 2018 LL,27t ll,27t
+Amortisation for the year 8,049 8.049
+At 31 March 2019 t9,320 19.320
+Carrying amounts:
+At 31 March 2019 8,630 671 9.301
+At 31 March 2018 7.694 t29 7.823
+12
+OTHERINVESTMENTS
+2019 2018
+$'000 $'000
+Unquoted equity shares at FVTOCI 2,076 2,076
+29
+
+--- PAGE 32 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2019
+13
+ACCRUALS AND OTHER PAYABLES
+2019 2018
+$'000 $'000
+Accruals 61,625 6t,679
+Other payables:
+- Ministries and other government agencies 58,242 4,lLl
+- Others t5,273 22,494
+Total accruals and other payables 135,140 88,284
+Less: Amount due for settlement after 12 months (38.298) (86)
+Amount due for settlement within 12 months 96,842 88.198
+Total accruals and other payables 135,140 88,284
+Add:
+Advances and deposits received (Note 14) t2,166 L4,014
+Less:
+Provision for employees' unutilised leave (2,593) (1,887)
+GST payables (24L\
+Financial liabilities carried at amoftised cost L44,472 100.411
+The average credit period for trade payables is 30 to 90 days (2018 : 30 to 90 days).
+L4 ADVANCES AND DEPOSITS RECEIVED
+Included in advances and deposits received are $388,252 (2018 : $L,452,978) received from the
+Government, which are to be disbursed for designated projects.
+15 DEFERRED CAPITAL GRANTS
+2019 2018
+$'000 $'000
+At beginning of year 149J82 150,207
+Capital grants received 73,875 s52
+Less: Amoftisation of deferred capital grant (10.078) (t.577\
+At end of year 2t2,979 L49,L82
+30
+
+--- PAGE 33 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2019
+16
+SHARE CAPITAL
+2019
+2018 2019 2018
+Number of ordinary shares $'000 $'000
+'000
+'000
+Issued and paid up:
+At beginning of year 560,305 557,t22 560,305 557,t22
+Equity injection (t) 2,260 3.183 2.260 3.183
+At end of year 562,565 560,305 562,565 560,305
+(1)
+Injections of capital in 2018 and 2019 are paft of the Capital Management Framework for
+Statutory Boards under Finance Circular Minute M26/2008. The shares have been futly paid for
+to fund tourism-related assets and are held by the Minister for Finance, a body corporate
+incorporated by the Minister for Finance (Incorporation) Act (Chapter 183). The holder of these
+shares, which has no parvalue, is entitled to receive dividends from the Board.
+T7
+TRUSTAND AGENCY FUNDS
+Trust and agency funds are set up to account for moneys held in trust where the Board is not the
+owner and beneficiary of the funds. Income or expenses of these funds are taken directly to the funds.
+The net assets relating to the funds are shown as a separate line item in the statement of financial
+position.
+2019 2018
+$'000 $'000
+Balance at beginning of year 343,307 36,776
+Add: Receipts - funds received from the Government 135,136 492,408
+Less: Funds disbursed/payable to:
+- External parties (444,675) (183,005)
+- Other government agencies (2,621\ (2,872\
+Balance at end of year 3L,L47 343,307
+Represented by:
+- Cash balances 23,758 351,017
+- Other receivables 368 L70
+- Trade receivables 7,908 92
+- Trade payables (441) (7,95t)
+- Accruals (446\ (21\
+31 t47 343.307
+The trust and agency funds are used for tourism-related incentive schemes and for tourism-related
+development projects.
+31
+
+--- PAGE 34 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+18
+OPERATING INCOME
+2019 2018
+$'000 $'000
+Events-related income t7,205 14,754
+Lease income 7,976 6,709
+Others 6,106 4,094
+3r,287 25,557
+19
+EMPLOYEE BENEFIT EXPENSES
+2019 2018
+$'000 $'000
+Wages and salaries 63,954 62,627
+Contributions to defined contribution plan 7,64t 7,326
+Other staff benefits 9,t49 7,527
+80,644
+77,480
+20
+OTHERINCOME
+2019 2018
+$'000 $'000
+Interest income 8,992 7,993
+Gain on disposal of property, plant and equipment 1
+Net fair value gain on financial assets under fund management 8,482
+Exchange gain on flnancial assets under fund management 4,254
+Reversal of allowance for doubtful debts 11
+t7,475 L2.248
+2l OTHER EXPENSES
+2019 2018
+$'000 $'000
+Loss on disposal of property, plant and equipment 9
+Net fair value loss on financial assets under fund management 6,156
+Exchange loss on financial assets under fund management 6,244
+Expenses on financial assets under fund management 430 407
+Allowance for doubtful debts tt7
+6,79L
+6,572
+32
+
+--- PAGE 35 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+22 CONTRIBUTION TO CONSOLIDATED FUND
+The Board is required to make contributions to the Government Consolidated Fund in accordance with
+the Statutory Corporations (Contributions to Consolidated Fund) Act, Chapter 319A. The contribution
+is based on the guidelines specified by the Ministry of Finance. It is computed at the prevailing
+corporate tax rate based on the net surplus (if any) of the Board for each of the financial year adjusted
+for any accumulated deficits brought forward from prior years. Contribution to consolidated fund is
+provided on an accrual basis. The Board has $139,398,189 (2018 : $114,033,837) of unrecognised
+deferred benefits relating to unutilised deficits to be carried forward to offset against future surplus.
+23 COMMITMENTS
+(a)
+Capitalcommitments
+Capital expenditure contracted for at the reporting date but not recognised in the financial
+statements were analysed as follows:
+2019
+2018
+$'000 $'000
+Amount contracted for capital expenditure 8,754 9,337
+(b)
+Other commitments
+During the financial year, the Board paid a total fee of $857,886 (2018 : $606,857) for the use
+of the computer equipment and related services under Whole-of-Government Information
+Communications Technology. These incurrences were recognised in the statement of
+comprehensive income.
+The future aggregate minimum committed payments at the reporting date but not recognised
+as liabilities as at 31 March 2019 are as follows:
+2019 2018
+$'000 $'000
+Within one year 82s 728
+In the second to fifth year inclusive 42r 975
+t.246 r.703
+(c)
+During the financial year, the Board guaranteed Singapore GP Pte Ltd for a standby letter of
+credit issued by a bank for the purpose of the payment of the 2019 F1 race franchise fee.
+33
+
+--- PAGE 36 ---
+
+SINGAPORE TOURISM BOARD
+NOTES TO FINANCIAL STATEMENTS
+31 March 2O19
+24
+OPERATINGLEASEARRANGEMENTS
+The Board as a lessee
+The Board has entered into operating leases mainly for premises in respect of overseas offices for the
+Regional Offices, the Formula 1 pit building and Design Orchard. These leases typically run for an
+initial period of one to nine years, with an option to renew the lease afterthat period. Lease payments
+are usually increased annually to reflect market rentals.
+2tJ19
+2018
+$'000 $'000
+Minimum lease payments under operating lease
+included in profit or loss 7,380 7,452
+The future aggregate minimum lease payments under non-cancellable operating leases contracted for
+at the repofting date but not recognised as liabilities were analysed as follows:
+2019 2018
+$'000 $'000
+Within one year 6,154 3,L29
+In the second to fifth year inclusive 9,365 7,003
+After fifth year 848 255
+t5.367 10.387
+The Board as a lessor
+The Board has entered into property leases. These leases typically run for an initial period of one to
+twenty years, with an option to renew the lease after that period. Lease income earned during the
+year was $6,536,799 (2018 : $5,369,413).
+The future aggregate minimum lease receivables under non-cancellable operating leases contracted
+for at the reporting date but not recognised as receivables were analysed as follows:
+2019 2018
+$'000
+$'000
+Within one year L2,789 2,342
+In the second to fifth year inclusive 41,970 5,370
+After fifth year 18
+54,777 7,7L2
+25 EVENT AFTER THE REPORTING PERIOD
+In April 2019, STB had accepted a lease of approximately 48 years over a parcel of land from Singapore
+Land Authority ("SLA") at the land premium of approximately $1.3 billion. On the same day, the Board
+entered into an agreement with Marina Bay Sands Pte Ltd ("MBS") to lease the same parcel of land at
+the same land premium of approximately $1.3 billion for the expansion development of the MBS
+integrated resort for a lease period of approximately 48 years. The land premium was paid directly by
+MBS, the lessee, to SLA.
+34

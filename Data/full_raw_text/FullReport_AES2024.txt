@@ -1,0 +1,4060 @@
+
+
+--- PAGE 1 ---
+
+ECONOMIC
+SURVEY
+OF
+SINGAPORE
+2024
+
+--- PAGE 2 ---
+
+February 2025
+Ministry of Trade and Industry
+Republic of Singapore
+website: www.mti.gov.sg
+email: mti_email@mti.gov.sg
+All rights reserved. No part of this publication may be reproduced,
+stored in a retrieval system or transmitted in any form or by any means,
+electronic, mechanised, photocopying, recording or otherwise, without
+the prior permission of the copyright holder.
+
+--- PAGE 3 ---
+
+CONTENTS
+02 Main Indicators of the 52 CHAPTER 6
+Singapore Economy Sectoral Performance
+56 6.1 Manufacturing
+58 6.2 Construction
+62 6.3 W holesale Trade
+06 CHAPTER 1
+63 6.4 R etail Trade
+Economic Performance
+64 6.5 Transportation & Storage
+66 6.6 Accommodation
+68 6.7 Food & Beverage Services
+69 6.8 I nformation & Communications
+14 CHAPTER 2 70 6.9 Finance & Insurance
+Labour Market and Productivity 72 6.10 R eal Estate and Professional Services
+22 CHAPTER 3 84 CHAPTER 7
+Costs, Investments and Prices Economic Outlook
+27 BOX ARTICLE 3.1
+Business Cost C onditions in Singapore’s
+Manufacturing and Services Sectors
+86 FEATURE
+ARTICLE
+80 Impact Evaluation of A*STAR
+38 CHAPTER 4 Technology for Enterprise Capability
+International Trade Upgrading (T-Up) Programme
+90 Impact Evaluation of Workforce
+Singapore’s Place-and-Train Career
+Conversion Programme
+46 CHAPTER 5
+Balance of Payments
+
+--- PAGE 4 ---
+
+02 Economic Survey of Singapore 2024
+MAIN INDICATORS OF
+THE SINGAPORE ECONOMY
+OVERALL ECONOMY
+2023 2023 2023
+$678.7 billion +1.8% $93,592
+GDP
+2024 Real GDP 2024 GNI 2024
+at Current
+Market Price $731.4 billion (YoY Growth) +4.4% Per Capita $101,464
+STRUCTURE OF THE ECONOMY IN 2024
+(% OF NOMINAL VA)
+BREAKDOWN OF SERVICES PRODUCING INDUSTRIES
+Wholesale Finance & Transportation
+Trade Insurance & Storage
+20.3% 14.3% 9.1%
+Information & Professional Real
+Communications Services Estate
+6.0% 5.5% 2.9%
+Administrative & Retail
+Services Producing Ownership Support Services Trade Accommodation
+Industries of Dwellings
+73.2% 4.1% 2.6% 1.2% 0.8%
+Goods Producing Food & Beverage Other Services
+Industries Manufacturing Construction Services Industries
+22.7% 17.3% 3.8%
+0.8% 9.6%
+LABOUR MARKET COST PRICES
+Employment Unit Labour Cost of Consumer Price Index
+(as at year end) Overall Economy – All Items
+2023 2024 2023 2024 2023 2024
+3,986.4 4,047.2 +6.5% +1.2% +4.8% +2.4%
+thousand thousand
+Overall Unit Business Cost Domestic Supply
+Unemployment Rate of Manufacturing Price Index
+2023 2024 2023 2024 2023 2024
+1.9% 2.0% +5.8% +0.2% -6.7% -1.3%
+Value-Added per Unit Labour Cost Singapore Manufactured
+Actual Hour Worked of Manufacturing Products Price Index
+2023 2024 2023 2024 2023 2024
+-1.5% +3.6% +9.5% -0.8% -4.5% -0.5%
+
+--- PAGE 5 ---
+
+Main Indicators of the Singapore Economy 03
+MERCHANDISE TRADE SERVICES TRADE
+Merchandise Exports Services Exports
+2023 2024 2023 2024
+$638,403 $674,505 $481,009 $528,568
+million million million million
+-10.1% +5.7% +2.7% +9.9%
+Merchandise Imports Services Imports
+2023 2024 2023 2024
+$567,319 $611,359 $438,108 $469,182
+million million million million
+-13.4% +7.8% +7.1% +7.1%
+Share of Total Merchandise Exports in 2024 Share of Total Services Exports in 2024
+57.5% 25.7% 16.8% 32.7% 29.0% 13.5% 7.8% 6.0%
+Re-exports Non-Oil Domestic Oil Domestic Transport Other Financial Telecomms, Travel
+Exports Exports Services Business Services Computer and Services
+Services Information
+Top Trading Partners in 2024 Top Trading Categories in 2024
+Exports $94.4b Exports $173.0b
+Transport
+Imports $75.7b Imports $162.0b
+Services
+Mainland China
+Exports $69.9b Exports $153.4b
+Other
+Imports $68.7b Imports $149.0b
+Business
+Malaysia
+Services
+Exports $57.6b Exports $71.6b
+Imports $74.4b Financial Imports $23.2b
+United States Services
+
+--- PAGE 6 ---
+
+CHAPTER ECONOMIC
+1
+PERFORMANCE
+
+--- PAGE 8 ---
+
+06 Economic Survey of Singapore 2024
+Chapter 1
+ECONOMIC
+PERFORMANCE
+REAL GDP GREW BY 4.4% IN 2024 QUARTERLY GDP GROWTH IN 2024
+(YoY Growth)
+5.7%
+6
+5 5.0%
+4.4% 4 3.2% 3.4%
+4.1%
+4
+2
+3 0
+1Q 2Q 3Q 4Q
+2 1.8%
+MAIN DRIVERS OF GDP GROWTH IN 2024
+1
+Wholesale Trade Finance & Insurance Manufacturing
+0
+2022 2023 2024
+1.0% 0.9% 0.7%
+point contribution point contribution point contribution
+INCOME COMPONENTS OF GDP IN 2024 SOURCES OF GROWTH IN 2024
+External Domestic
+Demand Demand
+Gross Operating
+Surplus
+54.9%
+6
++4.0%
+Compensation point
+of Employees Taxes Less 4 Consumption Gross Fixed
+37.8% Subsidies Expenditure Capital Changes in
+on Production 2 +1.0% Formation I + nv 0 e . n 6 to % ries
+7.3% point +0.3%
+point
+point
+0
+
+--- PAGE 9 ---
+
+Chapter 1: Economic Performance 07
+OVERVIEW
+In the fourth quarter of 2024, the Singapore economy expanded by 5.0 per cent on a year-on-year basis,
+moderating from the 5.7 per cent growth in the previous quarter. All sectors expanded during the quarter, with
+the exception of the retail trade, administrative & support services and food & beverage services sectors. The
+sectors that contributed the most to growth during the quarter were the wholesale trade, manufacturing and
+finance & insurance sectors.
+For the full year, the Singapore economy grew by 4.4 per cent, faster than the 1.8 per cent expansion in 2023.
+All sectors except for the food & beverage services and retail trade sectors recorded positive growth, with the
+wholesale trade, finance & insurance and manufacturing sectors contributing the most to GDP growth for the year.
+OVERALL PERFORMANCE
+The services producing industries collectively grew by 4.6
+per cent year-on-year in the fourth quarter, slightly faster
+Fourth Quarter 2024 than the 4.4 per cent growth in the previous quarter. All
+services sectors expanded during the quarter, except for
+The Singapore economy expanded by 5.0 per cent year- the retail trade, administrative & support services and food
+on-year in the fourth quarter, moderating from the 5.7 & beverage services sectors. Among the services sectors
+per cent growth in the previous quarter (Exhibit 1.1). On that grew, the wholesale trade (6.7 per cent) and finance &
+a quarter-on-quarter seasonally-adjusted basis, GDP insurance (6.1 per cent) sectors posted the fastest growth.
+grew by 0.5 per cent, slower than the 3.0 per cent growth
+in the third quarter. The construction sector grew by 4.4 per cent year-on-year
+in the fourth quarter, slower than the 5.6 per cent growth
+in the third quarter. Output growth during the quarter was
+Exhibit 1.1: GDP and Sectoral Growth Rates in 4Q 2024
+supported by an increase in both public sector and private
+Manufacturing 7.4 sector construction works.
+Wholesale Trade 6.7
+Finance & Insurance 6.1
+Full Year of 2024
+Overall GDP Growth 5.0
+Construction 4.4
+For the whole of 2024, the Singapore economy grew by
+Information & Comms 4.2 4.4 per cent, faster than the 1.8 per cent expansion in
+Accommodation 4.2 2023 (Exhibit 1.2).
+Transportation & Storage 3.7
+Exhibit 1.2: GDP and Sectoral Growth Rates in 2024
+Real Estate 3.5
+Other Services Industries 3.1 Accommodation 7.1
+Professional Services 0.6 Finance & Insurance 6.8
+Food & Beverage Services -0.3 Transportation & Storage 5.8
+Administrative & Support -0.6 Wholesale Trade 5.1
+Retail Trade -1.0 Information & Comms 5.0
+-5 0 5 10 Construction 4.5
+Per Cent
+Overall GDP Growth 4.4
+Manufacturing 4.3
+The manufacturing sector expanded by 7.4 per cent year-
+on-year in the fourth quarter, easing from the 11.2 per Other Services Industries 3.0
+cent growth in the preceding quarter. All clusters within Professional Services 1.2
+the sector recorded expansions during the quarter, except
+Administrative & Support 0.5
+for the biomedical manufacturing, precision engineering
+Real Estate 0.2
+and chemicals clusters.
+Retail Trade -0.4
+Food & Beverage -0.9
+-5 0 5 10
+Per Cent
+
+--- PAGE 10 ---
+
+08 Economic Survey of Singapore 2024
+By sectors, the manufacturing sector expanded by 4.3 per For the whole of 2024, all sectors except for the food
+cent in 2024, a reversal from the 4.2 per cent contraction in & beverage services and retail trade sectors recorded
+the preceding year. All clusters except for the biomedical full-year expansions, with the wholesale trade, finance
+manufacturing cluster saw increases in output for the year. & insurance and manufacturing sectors contributing the
+most to GDP growth for the year (Exhibit 1.4).
+Services producing industries posted growth of 4.4 per
+cent in 2024, picking up from the 3.3 per cent expansion in Exhibit 1.4: Percentage-Point Contribution to Growth in Real
+GDP in 2024 (By Sectors)
+2023. All services sectors, except for the food & beverages
+services and retail trade sectors, registered full-year
+Overall GDP Growth 4.4
+expansions. The accommodation (7.1 per cent) and finance
+Wholesale Trade 1.0
+& insurance (6.8 per cent) sectors recorded the fastest
+growth in 2024. Finance & Insurance 0.9
+Manufacturing 0.7
+Meanwhile, the construction sector grew by 4.5 per cent in Transportation & Storage 0.4
+2024, down from the 5.8 per cent expansion in the preceding
+Information & Comms 0.3
+year. Both public and private sector construction output
+Other Services Industries 0.3
+increased during the year.
+Construction 0.2
+Professional Services 0.1
+Contribution to Growth Accommodation 0.1
+Administrative & Support 0.0
+In the fourth quarter, all sectors contributed positively
+Real Estate 0.0
+to GDP growth, except for the administrative & support
+Retail Trade 0.0
+services, retail trade and food & beverage services sectors
+(Exhibit 1.3). Among the sectors that expanded, the Food & Beverage 0.0
+wholesale trade, manufacturing and finance & insurance -1 0 1 2 3 4 5
+sectors were the top contributors to GDP growth during Per Cent
+the quarter.
+Exhibit 1.3: Percentage-Point Contribution to Growth in Real
+GDP in 4Q 2024 (By Sectors)
+Overall GDP Growth 5.0
+Wholesale Trade 1.3
+Manufacturing 1.3
+Finance & Insurance 0.9
+Transportation & Storage 0.4
+Other Services Industries 0.3
+Information & Comms 0.3
+Construction 0.2
+Real Estate 0.1
+Professional Services 0.1
+Accommodation 0.0
+Food & Beverage 0.0
+Retail Trade 0.0
+Administrative & Support 0.0
+-2 0 2 4 6
+Per Cent
+
+--- PAGE 11 ---
+
+Chapter 1: Economic Performance 09
+SOURCES OF GROWTH Exhibit 1.6: Changes in Total Demand in Chained (2015) Dollars
+Per Cent
+Total demand rose by 4.4 per cent year-on-year in the 20
+fourth quarter, easing from the 5.1 per cent expansion
+in the previous quarter (Exhibit 1.5). Growth during the
+quarter was due to increases in both external and domestic
+15
+demand.
+External
+For 2024 as a whole, total demand increased by 5.9 per
+10
+cent, strengthening from the 3.8 per cent growth in 2023.
+Total
+The increase in total demand was supported by a rise in
+both external demand (4.0 percentage-points) and domestic
+demand (1.8 percentage-points). 5
+Exhibit 1.5: Percentage-Point Contribution to Total Domestic
+Demand Growth
+0
+2024
+2023 2024
+I II III IV
+-5
+IV I II III IV
+Total Demand 3.8 7.9 6.4 5.1 4.4 5.9
+2023 2024
+External Demand 4.3 6.7 4.2 3.3 2.4 4.0
+Domestic Demand
+Total Domestic
+-0.5 1.2 2.2 1.8 2.0 1.8
+Demand
+Total domestic demand rose by 8.9 per cent year-on-year
+Consumption in the fourth quarter, faster than the 7.6 per cent expansion
+0.6 1.3 0.8 1.1 0.8 1.0
+Expenditure in the previous quarter. The increase in domestic demand
+during the quarter was due to increases in inventories,
+Public 0.1 0.4 0.1 0.3 0.5 0.3
+consumption expenditure and gross fixed capital formation.
+Private 0.6 0.8 0.7 0.8 0.2 0.6
+For 2024 as a whole, total domestic demand rose by 7.2
+per cent, a rebound from the 2.2 per cent contraction in
+Gross Fixed
+-0.1 -0.1 0.3 0.4 0.4 0.3 2023. The rise in domestic demand was due to increases
+Capital Formation
+in consumption expenditure, inventories and gross fixed
+Changes in
+-1.1 0.1 1.1 0.4 0.9 0.6 capital formation.
+Inventories
+External Demand Consumption Expenditure
+External demand rose by 3.2 per cent year-on-year in the Total consumption expenditure rose by 5.3 per cent year-
+fourth quarter, easing from the 4.4 per cent expansion on-year in the fourth quarter, slower than the 6.9 per cent
+in the previous quarter (Exhibit 1.6). The rise in external growth in the previous quarter.
+demand could be attributed to an increase in the real
+exports of goods, even as the real exports of services fell. For the full year, total consumption expenditure rose by
+5.7 per cent, faster than the 4.1 per cent growth in 2023.
+For the full year, external demand expanded by 5.4 per cent, Consumption expenditure growth was due to both private
+slightly slower than the 5.7 per cent expansion in 2023. and public consumption. Private consumption rose by
+The increase in external demand could be attributed to 4.8 per cent, led by increases in transport, health and
+increases in both real merchandise and services exports. miscellaneous goods & services. At the same time, public
+In turn, these were led by higher real exports of machinery consumption rose by 8.3 per cent, accelerating from the
+& transport equipment and financial services respectively. 1.8 per cent expansion in 2023.
+
+--- PAGE 12 ---
+
+10 Economic Survey of Singapore 2024
+Gross Fixed Capital Formation INCOME COMPONENTS OF
+NOMINAL GDP
+Gross fixed capital formation (GFCF) rose by 4.9 per cent
+year-on-year in the fourth quarter, extending the 4.7 per Singapore’s nominal GDP amounted to $731 billion in
+cent expansion in the preceding quarter. GFCF rose during 2024, a 7.8 per cent increase over 2023. Gross operating
+the quarter on account of increases in public GFCF (10.8 surplus accounted for 54.9 per cent of nominal GDP, while
+per cent) and private GFCF (3.6 per cent). compensation of employees accounted for 37.8 per cent
+(Exhibit 1.9). Taxes (less subsidies) on production and
+For the full year, GFCF rose by 2.9 per cent, a turnaround imports made up the remaining 7.3 per cent of nominal GDP.
+from the 0.9 per cent contraction in 2023 (Exhibit 1.7).
+Private GFCF increased by 0.8 per cent, a reversal from
+Exhibit 1.9: Income Components of GDP at Current Prices,
+the 1.7 per cent contraction in 2023, mainly due to higher
+2024
+investment spending on intellectual property products
+(Exhibit 1.8). Meanwhile, public GFCF rose by 12.4 per
+cent, accelerating from the 3.1 per cent expansion in 2023.
+Compensation
+The increase in public GFCF was due to higher investment Gross of Employees
+spending across all components. Operating 37.8%
+Surplus
+Exhibit 1.7: Annual Changes in Gross Fixed Capital 54.9%
+Formation in Chained (2015) Dollars, 2024
+Total Public Private
+Total 2.9 12.4 0.8 Taxes Less
+Subsidies on
+Production &
+Construction & Works 3.2 12.7 -2.0
+on Imports
+7.3%
+Transport Equipment 6.1 15.6 5.7
+Machinery & Equipment 2.8 29.6 1.1
+Intellectual
+1.9 1.4 2.0
+Property Products
+NATIONAL SAVING
+With factor income outflows exceeding inflows by $119
+Exhibit 1.8: Percentage-Point Contribution to Growth of Gross
+billion, Gross National Income (GNI) came in at $613
+Fixed Capital Formation in Chained (2015) Dollars, 2024
+billion in 2024, lower than the $731 billion in nominal GDP.
+Total Public Private
+Gross National Saving (GNS) increased by 10.0 per cent
+to $291 billion in 2024. This comprised a net outflow of
+Total 2.9 2.3 0.6
+$128 billion that was lent or transferred abroad, and $162
+billion in Gross Capital Formation. The national savings
+Construction & Works 1.4 1.9 -0.5
+rate was 47.5 per cent of GNI in 2024, slightly lower than
+the 47.7 per cent in 2023.
+Transport Equipment 0.5 0.0 0.4
+Machinery & Equipment 0.5 0.3 0.2
+Intellectual
+0.6 0.0 0.6
+Property Products
+
+--- PAGE 13 ---
+
+Chapter 1: Economic Performance 11
+GNI AND THE EXTERNAL Exhibit 1.10: Singapore’s Earnings from External Economy
+as a Proportion of Total Income
+ECONOMY
+Per Cent
+Factor income from abroad reached $267 billion in 2024, 30
+up from the $221 billion in 2023. The contribution of factor
+income from abroad to the total economy was 26.7 per
+cent in 2024, slightly higher than the contribution of 24.6 25
+per cent recorded in 2023 (Exhibit 1.10).
+20
+Based on the Department of Statistics’ Survey of Singapore’s
+Investment Abroad, the stock of direct investment abroad
+Factor Income From Abroad (FIFA)
+increased from $1,461 billion in 2022 to $1,525 billion in
+15 GDP + FIFA
+2023.
+10
+5
+0
+2004 2009 2014 2019 2024
+
+--- PAGE 14 ---
+
+LABOUR
+CHAPTER
+2 MARKET AND
+PRODUCTIVITY
+
+--- PAGE 16 ---
+
+14 Economic Survey of Singapore 2024
+Chapter 2
+LABOUR MARKET
+AND PRODUCTIVITY
+EMPLOYMENT AND PRODUCTIVITY VA PER ACTUAL HOUR WORKED
+GROWTH IN 2024 AND VA PER WORKER GROWTH
+Employment VA per
+(as at year end) Actual Hour Worked 4 3.6%
+2.7%
+2
++60,700 +3.6%
+0
+-0.5%-0.6%
+MAIN DRIVERS OF
+EMPLOYMENT GROWTH IN 2024 -2 -1.5%
+-2.7%
++35,300 +11,300
+-4
+employed employed 2022 2023 2024
+VA per Actual Hour Worked
+VA per Worker
+Other Services Construction
+Industries
+SECTORS WITH THE HIGHEST UNEMPLOYMENT
+VA PER ACTUAL HOUR WORKED RATES IN 2024
+GROWTH IN 2024
+Overall Resident
+Unemployment Rate Unemployment Rate
++10.5% +6.4% +6.1%
+Information & Transportation Manufacturing 2.0% 2.8%
+Communications & Storage
+ANNUALISED Per Cent Per Annum Real median gross monthly
+1.5
+CHANGE IN REAL income of full-time
+1.2%
+GROSS MONTHLY employed residents rose by
+INCOME FROM WORK +0.7% per annum
+1.0
+0.7% from June 2019 to June 2024
+0.5
+0.0
+20th Percentile Median
+
+--- PAGE 17 ---
+
+Chapter 2: Labour Market and Productivity 15
+OVERVIEW1
+Total employment grew by 60,700 in 2024, driven by gains in both resident and non-resident employment. By
+broad sectors, the services and construction sectors saw employment gains, while employment contracted in
+the manufacturing sector. Excluding Migrant Domestic Workers (MDWs), total employment grew by 45,500.
+At the same time, unemployment rates remained stable and low, while the number of retrenchments fell in 2024.
+Between 2019 and 2024, the real gross monthly income of full-time employed residents at the median and 20th
+percentile grew by 0.7 per cent per annum and 1.2 per cent per annum, respectively.
+EMPLOYMENT
+By broad sectors, employment rose in the services (+8,500),
+construction (+4,300) and manufacturing (+700) sectors in
+Total employment increased by 12,900 in the fourth quarter, the fourth quarter. Across the services sectors, employment
+a slowdown from the gains in the second (+14,900) and third gains were the largest in the other services and professional
+(+24,900) quarters (Exhibit 2.1). Likewise, total employment services sectors (Exhibit 2.2).
+growth excluding MDWs was slower in the fourth quarter
+compared to the third quarter.
+Exhibit 2.2: Changes in Employment by Industry in 4Q 2024
+Exhibit 2.1: Changes in Total Employment Other Services Industries 6.8
+Construction 4.3
+Thousand
+30 Professional Services 2.4
+Real Estate 1.6
+Wholesale Trade 1.0
+Retail Trade 0.9
+Manufacturing 0.7
+20
+Finance & Insurance 0.7
+Administrative & Support -0.1
+Accommodation -0.9
+Information & Comms -1.2
+10
+Food & Beverage -1.3
+Transportation & Storage -1.4
+-5 0 5 10
+Thousand
+0
+IV I II III IV
+2023 2024
+1 Figures for the fourth quarter of 2024 and full year of 2024 are preliminary estimates.
+
+--- PAGE 18 ---
+
+16 Economic Survey of Singapore 2024
+For the whole of 2024, total employment expanded by 60,700, In December 2024, there were 67,500 unemployed residents,
+moderating from the 96,700 increase in 2023. Across the of whom 59,700 were Singapore citizens. This was an
+broad sectors, employment gains were registered in the increase from the 62,500 and 54,900 unemployed residents
+services (+50,900) and construction (+11,300) sectors, while and Singapore citizens in September 2024, respectively.
+the manufacturing (-500) sector posted a decline.
+For the full year of 2024, the annual average unemployment
+Resident employment growth in 2024 is expected to be rate increased slightly at the overall level (from 1.9 per cent
+higher than in 2023, when resident employment declined. in 2023 to 2.0 per cent), as well as for residents (from 2.7
+In contrast, non-resident employment growth in 2024 is per cent to 2.8 per cent), but was unchanged for citizens
+expected to slow considerably from 2023.2 (2.9 per cent).
+In 2024, 67,600 residents, of whom 59,300 were Singapore
+UNEMPLOYMENT
+citizens, were unemployed. These were marginally higher
+than their respective figures in 2023 (65,700 and 58,200).
+Between September and December 2024, the seasonally-
+adjusted unemployment rate at the overall level was
+RETRENCHMENTS
+unchanged (1.9 per cent), while the resident and citizen
+unemployment rates rose marginally, from 2.6 per cent to
+2.8 per cent and from 2.7 per cent to 2.9 per cent respectively The number of retrenchments rose in the fourth quarter
+(Exhibit 2.3). (3,600), compared to the third quarter (3,050). Over the
+quarter, the increase in retrenchments in the services
+Exhibit 2.3: Unemployment Rates (Seasonally-Adjusted)
+(from 2,220 to 2,800) and manufacturing (from 580 to 700)
+Per Cent sectors outweighed the decline in retrenchments in the
+4
+construction (from 140 to 100) sector.
+The total number of retrenchments for 2024 (12,930) fell
+from the 14,590 retrenchments registered in 2023. The
+3
+number of retrenchments fell across all broad sectors, led
+by the manufacturing (from 3,470 to 2,630) sector, followed
+by the services sectors collectively (from 10,440 to 9,720)
+2 and the construction (from 590 to 460) sector.
+1
+0
+Dec Mar Jun Sep Dec
+2023 2024
+Overall Resident Citizen
+2 Further details of the breakdown of employment growth in the fourth quarter and full year for 2024, including by resident status, will be released by MOM in the
+Labour Market Report Fourth Quarter 2024 in mid-March 2025.
+
+--- PAGE 19 ---
+
+Chapter 2: Labour Market and Productivity 17
+PRODUCTIVITY Exhibit 2.5: Changes in Value-Added per Actual Hour
+Worked by Industry in 2024
+Real Value-Added per Actual Hour Worked
+Information & Comms 10.5
+Overall labour productivity, as measured by real value- Transportation & Storage 6.4
+added per actual hour worked, rose by 3.2 per cent in the Manufacturing 6.1
+fourth quarter, extending the 4.5 per cent increase in the Wholesale Trade 5.5
+previous quarter. Accommodation 5.1
+Finance & Insurance 5.0
+By sectors, the productivity of the wholesale trade,
+Overall Productivity 3.6
+manufacturing, information & communications, construction,
+Construction 3.0
+real estate, accommodation, transportation & storage,
+Professional Services 1.9
+finance & insurance and food & beverage services sectors
+Food & Beverage Services 1.4
+rose in the fourth quarter. By contrast, the productivity of the
+Retail Trade 1.1
+administrative & support services, professional services,
+other services and retail trade sectors fell. Other Services Industries -0.5
+Real Estate -0.9
+Collectively, the productivity of outward-oriented sectors Administrative & Support -2.3
+increased by 4.8 per cent in the fourth quarter, while that -5 0 5 10 15
+of domestically-oriented sectors rose by 0.3 per cent over Per Cent
+the same period.3
+Real Value-Added per Worker
+For the full year, real value-added per actual hour worked
+grew by 3.6 per cent, reversing the 1.5 per cent decline in 2023 Real value-added per worker rose by 3.5 per cent in the
+(Exhibit 2.4). The productivity performance for the overall fourth quarter, continuing the 4.2 per cent increase in the
+economy was supported by productivity improvements preceding quarter.
+across most sectors, with the information & communications
+sector experiencing the largest gains in productivity. By For 2024, real value-added per worker rose by 2.7 per cent,
+contrast, productivity fell in the administrative & support reversing the decline of 2.7 per cent in 2023.
+services, real estate and other services sectors (Exhibit 2.5).
+The weaker performance of real value-added per worker
+compared to real value-added per actual hour worked in
+Exhibit 2.4: Changes in Value-Added per Actual Hour
+Worked for the Overall Economy 2024 was because of a decline in the average number of
+actual hours worked per worker during the year.
+Per Cent
+8
+6
+4
+2
+0
+-2
+-4
+2020 2021 2022 2023 2024
+3 Outward-oriented sectors refer to manufacturing, wholesale trade, transportation & storage, accommodation, information & communications, finance & insurance
+and professional services. Domestically-oriented sectors refer to construction, retail trade, food & beverage services, real estate, administrative & support services
+and other services industries.
+
+--- PAGE 20 ---
+
+18 Economic Survey of Singapore 2024
+INCOME FROM WORK Exhibit 2.6: Annualised Change in Real Gross Monthly Income
+from Work of Full-Time Employed Residents, 2019-2024
+In 2024, nominal gross monthly income of resident workers Per Cent Per Annum
+grew at a faster pace as compared to the previous year.
+1.5
+Median nominal gross monthly income (including employer
+CPF contributions) of full-time employed residents grew
+1.2
+by 5.8 per cent to $5,500, an increase from the 2.5 per cent
+growth in 2023.
+1.0
+After adjusting for inflation4, real median income rose by
+3.4 per cent in 2024. Lower-income earners also saw an 0.7
+increase in their incomes after taking inflation into account,
+with real income at the 20th percentile growing by 4.6 per
+0.5
+cent in 2024. With WIS and related payments included,
+real income at the 20th percentile saw a smaller increase
+(4.0 per cent).
+Over the last five years (i.e., June 2019 to June 2024), real 0.0
+20th Percentile Median
+median income rose by 0.7 per cent per annum (Exhibit 2.6).
+During this period, real income growth at the 20th percentile
+was stronger (1.2 per cent per annum), thus narrowing the
+income gap with the median income earner.
+4 The Consumer Price Index (CPI) for all items rose by 2.4 per cent in 2024.
+
+--- PAGE 21 ---
+
+Chapter 2: Labour Market and Productivity 19
+
+--- PAGE 22 ---
+
+COSTS,
+CHAPTER
+3 INVESTMENTS
+AND PRICES
+
+--- PAGE 24 ---
+
+22 Economic Survey of Singapore 2024
+Chapter 3
+COSTS, INVESTMENTS
+AND PRICES
+OVERALL UNIT LABOUR COST WITHIN THE
+(YoY Growth) MANUFACTURING SECTOR
+10
+5
+Overall ULC 0.2% -0.8%
+1.2% in 2024 in 2024
+0
+2022 2023 2024 Unit Business Cost Unit Labour Cost
+INVESTMENT CLUSTERS THAT ATTRACTED THE HIGHEST FIXED
+COMMITMENTS ASSET INVESTMENT COMMITMENTS
+IN 2024
+Electronics Services Clusters Biomedical Manufacturing
+CLUSTERS THAT ATTRACTED THE HIGHEST TOTAL
+BUSINESS EXPENDITURE COMMITMENTS
+Fixed Asset Total Business
+Investment Expenditure
+Commitments Commitments
+$13.5 $8.4 Headquarters & Research & Electronics
+billion billion Professional Services Development
+CPI-ALL ITEMS INFLATION IN 2024, THE INCREASE IN CPI WAS MAINLY DUE
+TO THE INCREASE IN PRICES OF
+8
+6.1%
+Housing & Utilities Food Recreation & Culture
+6
+4.8%
+4
+2.4%
+2
+0.8% 0.6% 0.3%
+point contribution point contribution point contribution
+0
+2022 2023 2024
+
+--- PAGE 25 ---
+
+Chapter 3: Costs, Investments and Prices 23
+OVERVIEW
+Overall ULC for the economy rose by 1.0 per cent year-on-year in the fourth quarter, reversing the decline of
+0.4 per cent in the preceding quarter. For the whole of 2024, overall ULC rose by 1.2 per cent.
+Total investment commitments attracted by EDB remained healthy in 2024. The manufacturing sector garnered
+a larger amount of commitments in terms of fixed asset investments (FAI) than the services sector, while the
+latter attracted a larger amount of total business expenditure (TBE) commitments. By clusters, the electronics
+and biomedical manufacturing clusters within the manufacturing sector were the biggest contributors to FAI
+commitments, while the headquarters & professional services cluster within the services sector contributed
+the most to TBE commitments.
+The Consumer Price Index-All Items (CPI-All Items) rose by 1.6 per cent year-on-year in the fourth quarter,
+moderating from the 2.2 per cent increase in the previous quarter. For 2024 as a whole, CPI-All Items inflation
+came in at 2.4 per cent, lower than the 4.8 per cent recorded in 2023.
+Producer prices, as measured by the domestic supply price index (DSPI), the Singapore manufactured products
+price index (SMPPI) as well as the import and export price indices, fell on a year-on-year basis in the fourth
+quarter. For the whole of 2024, the DSPI, SMPPI, as well as the import and export price indices decreased by
+1.3 per cent, 0.5 per cent, 3.9 per cent and 3.7 per cent respectively.
+COSTS
+By broad sectors, the ULC of services producing industries
+rose by 1.5 per cent in the fourth quarter, faster than the
+Overall ULC for the economy rose by 1.0 per cent year- 1.2 per cent increase in the previous quarter. Most services
+on-year in the fourth quarter, reversing the decline of sectors saw a pickup in their ULCs, with the food & beverage
+0.4 per cent in the preceding quarter (Exhibit 3.1). The services sector registering the largest increase (8.0 per
+pickup in overall ULC during the quarter came on the cent) on account of an increase in total labour cost per
+back of an increase in total labour cost per worker that worker and a decline in labour productivity. Meanwhile,
+outpaced the rise in labour productivity (as measured by the construction sector registered a ULC increase of 1.3
+real value-added per worker). per cent in the fourth quarter, a reversal from the 0.1 per
+cent decrease in the previous quarter. The increase in
+Exhibit 3.1: Changes in Unit Labour Cost in 4Q 2024 ULC in the construction sector was due to an increase in
+total labour cost per worker which outpaced an increase
+Food & Beverage 8.0 in labour productivity.
+Administrative & Support 7.5
+The ULC for the manufacturing sector fell by 1.9 per cent
+Other Services Industries 6.4
+in the fourth quarter, following the 8.1 per cent decline in
+Retail Trade 5.8
+the third quarter. This decline was due to an increase in
+Professional Services 5.0
+labour productivity, which more than offset an increase
+Accommodation 3.6 in total labour cost per worker.
+Finance & Insurance 2.7
+Real Estate 1.6 For the whole of 2024, the overall ULC rose at a slower
+Construction 1.3 pace of 1.2 per cent, compared to the 6.5 per cent increase
+Overall Economy 1.0 in 2023. The rise in overall ULC was due to an increase
+Manufacturing -1.9 in total labour cost per worker that outpaced labour
+productivity gains.
+Wholesale Trade -2.2
+Information & Comms -2.8
+Transportation & Storage -2.8
+-5 0 5 10
+Per Cent
+
+--- PAGE 26 ---
+
+24 Economic Survey of Singapore 2024
+INVESTMENT COMMITMENTS
+Manufacturing unit business cost (UBC) fell by 2.4 per
+cent year-on-year in the fourth quarter, extending the
+5.9 per cent decline in the previous quarter (Exhibit 3.2). EDB attracted healthy levels of investment commitments
+The decrease in manufacturing UBC came on the back in 2024. For the full year, FAI and TBE commitments came
+of a decrease in unit services costs (-2.7 per cent) and in at $13.5 billion and $8.4 billion respectively.
+manufacturing ULC (-1.9 per cent), which more than
+offset an increase in unit non-labour production taxes In terms of FAI, the largest contribution came from the
+(33.9 per cent). For 2024 as a whole, manufacturing UBC manufacturing sector, which garnered $11.1 billion in
+increased by 0.2 per cent, moderating from the 5.8 per commitments. Within manufacturing, the electronics
+cent increase in 2023. cluster attracted the largest amount of FAI commitments,
+at $7.7 billion, followed by the biomedical manufacturing
+Exhibit 3.2: Changes in Unit Business Cost for Manufacturing cluster, at $2.2 billion. Within the services sector, the
+Per Cent headquarters & professional services and research &
+10 development clusters contributed the most to total FAI
+commitments, amounting to $1.1 billion each (Exhibit 3.4).
+5 Exhibit 3.4: Fixed Asset Investments by Industry Clusters
+in 2024
+0
+Electronics
+57.0%
+-5
+-10 Others
+IV I II III IV
+8.9%
+2023 2024
+Biomedical
+Services Clusters
+Singapore’s relative unit labour cost (RULC) for Manufacturing 17.6%
+16.5%
+manufacturing – a measure of Singapore’s labour cost
+competitiveness against 16 economies1– fell in 2024 (i.e.,
+more competitive) as compared to 2023 (Exhibit 3.3). The Investors from the United States were the largest source
+decline was mainly on account of a decrease in Singapore’s of FAI commitments, with $7.5 billion (55.5 per cent). They
+manufacturing ULC relative to its competitor economies, were followed by investors from Europe who contributed
+which outweighed the stronger Singapore dollar. about $3.3 billion of FAI commitments (24.8 per cent).
+Exhibit 3.3: Singapore’s Relative Unit Labour Cost in For TBE, the services sector attracted the highest amount
+Manufacturing Against Selected 16 Economies
+of commitments, at $6.5 billion. This was driven by the
+headquarters & professional services cluster, which
+Index
+90 garnered $5.3 billion in TBE commitments, followed by
+the research & development cluster, with $818 million.
+Among the manufacturing clusters, the electronics cluster
+contributed the highest amount of TBE commitments, at
+$662 million (Exhibit 3.5).
+80
+70
+60
+2017 2018 2019 2020 2021 2022 2023 2024
+1 The 16 economies are Australia, China, France, Germany, Hong Kong, India, Indonesia, Japan, Malaysia, Netherlands, South Korea, Taiwan, Thailand, the United
+Kingdom, the United States and Vietnam.
+
+--- PAGE 27 ---
+
+Chapter 3: Costs, Investments and Prices 25
+Exhibit 3.5: Total Business Expenditure by Industry Clusters For 2024 as a whole, CPI-All Items inflation came in at
+in 2024 2.4 per cent, lower than the 4.8 per cent recorded in 2023.
+Headquarters Price increases in the following CPI categories contributed
+& Professional
+Services positively to CPI-All Items inflation in 2024 (Exhibit 3.7).
+63.9%
+Healthcare costs climbed by 3.9 per cent on the back of
+more expensive outpatient and hospital services, as well
+as health insurance. Recreation & culture prices rose
+by 3.6 per cent due to increases in the costs of holiday
+travel and recreational & cultural services. Housing &
+Electronics utilities costs went up by 3.3 per cent as a result of higher
+7.9% accommodation costs. Education costs picked up by 3.2
+per cent because of higher fees at commercial institutions,
+universities, childcare centres and kindergartens.
+Others Research & Development
+18.4% 9.8%
+Food prices increased by 2.8 per cent on account of the
+higher costs of food serving services such as hawker
+food and restaurant meals, as well as non-cooked food
+Local investors accounted for most of the TBE commitments, items such as bread & cereals and vegetables. Prices of
+at $3.3 billion (39.2 per cent). miscellaneous goods & services increased by 1.4 per cent
+because of the higher prices of personal care items and
+When these projects are fully implemented, they are alcoholic drinks & tobacco. Transport costs rose by 0.8
+expected to generate $23.5 billion of value-added per per cent as higher bus & train fares and more expensive
+annum and create more than 18,700 jobs in the coming point-to-point services and petrol more than offset lower
+years. car prices and airfares. Prices of household durables &
+services increased by 0.7 per cent on the back of more
+expensive domestic & household services. Communication
+CONSUMER PRICE INDEX
+costs edged up by 0.5 per cent due to the higher costs of
+telecommunication services.
+Singapore’s CPI-All Items rose by 1.6 per cent on a year-
+on-year basis in the fourth quarter, moderating from the By contrast, clothing & footwear prices fell by 1.1 per
+2.2 per cent increase in the previous quarter (Exhibit 3.6). cent ready-made garments and footwear became less
+On a quarter-on-quarter seasonally-adjusted basis, CPI- expensive.
+All Items inflation came in at 0.2 per cent, edging down
+from the 0.3 per cent in the previous quarter. Exhibit 3.7: Changes in CPI by Category in 2024
+Exhibit 3.6: Changes in Overall CPI Health Care 3.9
+Per Cent Recreation & Culture 3.6
+5
+Housing & Utilities 3.3
+Education 3.2
+4
+Food 2.8
+YoY Growth Misc Goods & Services 1.4
+3
+Transport 0.8
+Household Durables
+2 & Services 0.7
+Communication 0.5
+1 QoQ Growth (SA) Clothing & Footwear -1.1
+-2 -1 0 1 2 3 4 5
+Per Cent
+0
+IV I II III IV
+2023 2024
+
+--- PAGE 28 ---
+
+26 Economic Survey of Singapore 2024
+PRODUCER PRICE INFLATION
+Exhibit 3.9: Changes in Import and Export Price Indices
+Per Cent
+Producer prices – as measured by the domestic supply
+0
+price index (DSPI), Singapore manufactured products price
+index (SMPPI), and import and export price indices – all Export Price Index
+fell on a year-on-year basis in the fourth quarter (Exhibits -1
+3.8 and 3.9). The declines during the quarter for DSPI and
+SMPPI came partly on the back of lower prices of mineral -2
+fuels and chemicals & chemical products. The import and
+export price indices fell in part due to cheaper mineral -3
+fuels and machinery & transport equipment.
+-4
+Exhibit 3.8: Changes in Domestic Supply Price and Singapore
+Manufactured Products Price Indices
+-5 Import Price Index
+Per Cent
+4 -6
+Singapore Manufactured IV I II III IV
+Products Price Index 2023 2024
+2
+For the full year, the DSPI and SMPPI decreased by 1.3
+0 per cent and 0.5 per cent respectively, while the import
+and export price indices fell by 3.9 per cent and 3.7 per
+cent respectively. The DSPI and SMPPI declined partly as a
+-2 result of lower prices of mineral fuels and miscellaneous
+Domestic Supply manufactured products. Meanwhile, the import and
+Price Index
+export price indices fell in part because of lower prices
+-4
+of machinery & transport equipment.
+-6
+IV I II III IV
+2023 2024
+
+--- PAGE 29 ---
+
+Chapter 3: Costs, Investments and Prices 27
+Box Article 3.1
+BUSINESS COST CONDITIONS IN
+SINGAPORE’S MANUFACTURING AND
+SERVICES SECTORS
+OVERVIEW
+In 2024, unit business cost (UBC) in
+the manufacturing and services
+sectors rose.
+DEFINITION OF UBC
+0.2% 5.8%
+Total Business Cost
+in 2024 in 2024*
+UBC =
+Gross Real Value-Added
+UBC for Manufacturing UBC for Services
+*Refers to the first three quarters of 2024
+KEY DRIVERS
+The marginal increase in UBC for manufacturing in 2024 was due to the The increase in services UBC in 2024
+increase in the "others" cost component, which offset the declines in came on the back of increases in both
+royalty payments, unit labour cost and the costs of work given out. non-labour costs and unit labour cost.
+CONTRIBUTION TO MANUFACTURING UBC CONTRIBUTION TO SERVICES UBC
+IN 2024 IN 2024
+-0.6%
++1.2% +5.1%
+point
+point point
+Others Royalty Payments Non-Labour Cost
+-0.2% -0.2%
+point point +0.8%
+point
+Labour Cost Work Given Out Labour Cost
+OUTLOOK
+For 2025, the overall unit labour cost for the economy is likely to continue to rise at a pace that is broadly similar
+to that in 2024. Against the backdrop of rising global economic uncertainty, increases in remuneration per worker
+are likely to slow over the course of the year, even as productivity growth is expected to moderate in tandem
+with a slower pace of growth in the Singapore economy. At the same time, the costs of utilities, fuel and
+transportation are likely to moderate, in line with the outlook for global oil prices in 2025.
+
+--- PAGE 30 ---
+
+28 Economic Survey of Singapore 2024
+BOX 3.1: BUSINESS COST CONDITIONS IN SINGAPORE’S
+MANUFACTURING AND SERVICES SECTORS
+This box article highlights the latest trends in business costs for firms in Singapore’s manufacturing and services
+sectors, as well as the outlook for key components of business costs in 2025.
+(I) Unit Business Cost1 in the Manufacturing and Services Sectors
+In 2024, unit business cost in the manufacturing and services sectors rose
+In 2024, the unit business cost index for the manufacturing sector (UBCI) rose marginally by 0.2 per cent, easing from
+the 5.8 per cent increase in 2023 (Exhibit 1). The main contributor to the increase in UBCI in 2024 was the “others”
+cost component2, which accounted for 1.2 percentage-points (pp) of the increase. This offset the declines in royalty
+payments3, manufacturing unit labour cost (ULC) and the costs of work given out, which collectively contributed -1.0
+pp to the UBCI increase. Meanwhile, the remaining cost components such as non-labour production taxes4, utilities
+and rental costs5 had a relatively small impact on the UBCI, in part due to their small shares in overall business costs.
+(Please refer to the Annex for the business cost structure of firms in the manufacturing and services sectors.)
+Exhibit 1: Contribution to the UBCI Change by Key Cost Components
+Contribution to YoY change, ppc
+9
+6
+3
+0
+-3
+-6
+-9
+1Q24 2Q24 3Q24 4Q24 2023 2024
+ULC Work Given Out
+Royalties Utilities
+Rental Others
+Unit Non-Labour Production Taxes Manufacturing UBC
+Source: Department of Statistics
+As for the overall services sector, its unit business cost index (UBC-Services Index)6 rose by 5.8 per cent year-on-
+year in the first three quarters of 2024, a reversal from the 3.9 per cent year-on-year decline recorded for the same
+period in 2023 (Exhibit 2).7 The pickup in the UBC-Services Index came on the back of increases in both non-labour
+costs (+5.1 pp contribution) and services ULC (+0.8 pp). In turn, the increase in non-labour costs was partly driven by
+higher sea freight rates compared to the first three quarters of 2023, which more than offset lower air freight rates
+over the same period.
+1 Business costs tend to increase when firms produce a higher amount of output to meet demand. Unit business cost accounts for the change in output by measuring
+the business costs incurred to produce one unit of output. Only operating expenses (i.e., excluding materials costs and depreciation) are included in business
+costs based on the definition adopted by the Department of Statistics (DOS) in its computation of the Unit Business Cost for Manufacturing. See DOS’s Information
+Paper, “Methodological Review on the Unit Business Cost Index for Manufacturing Industry (Base Year 2010=100)”, at https://www.singstat.gov.sg/-/media/files/
+publications/economy/ip-e38.pdf.
+2 “Others” costs include professional fees, advertising, commission & agency fees, sundry expenses etc.
+3 Royalty payments refer to payments to another party (the licensor or franchisor who owns a particular asset) for the right to the ongoing use of that asset. There
+could be many reasons for changes in royalty payments. For instance, royalty payments vary with company-specific licensing agreements which could differ from
+year to year. Furthermore, royalties are usually computed as a percentage of sales, which could be volatile each year.
+4 Non-labour production taxes include property, road and other indirect taxes. Labour-related taxes on production (e.g., foreign worker levy) are classified under
+labour cost. Taxes on income (e.g., corporate income tax) are not included in business costs.
+5 Industrial rentals rose by 3.5 per cent in 2024, moderating from the 8.9 per cent increase in 2023.
+6 The UBC-Services Index assesses cost conditions in the services sector. It is a composite index of proxy cost indicators for each component of business costs,
+combined using weights estimated from expenditure data in DOS’ Services Survey Series 2019, as well as the 2019 Input-Output tables.
+7 The latest available UBC-Services Index is up to the third quarter of 2024.
+
+--- PAGE 31 ---
+
+Chapter 3: Costs, Investments and Prices 29
+Exhibit 2: Contribution to UBC-Services Index Changes by Cost Components
+Contributionto YoY change, ppc
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+1Q24 2Q24 3Q24 2023 2024
+ULC Non-labour Cost UBC - Services Index
+Source: MTI Staff estimates
+Notes: (1) The 2023 and 2024 figures refer to the average of the UBC-Services Index for the first three quarters of the respective years; (2) Detailed cost component breakdown
+of the UBC-Services Index is not available; (3) Non-labour costs include air & sea freight costs, cargo handling costs and warehousing & storage costs.
+(II) Latest Trends and Outlook for Key Cost Components
+Following a moderation in its pace of increase in 2024, the ULC for the overall economy is
+expected to rise at a broadly similar pace in 2025
+The ULC for the overall economy rose by 1.2 per cent in 2024, moderating from the 6.5 per cent increase in 2023
+largely because of a pickup in productivity growth in 2024.8,9 The increase in the overall ULC in 2024 was due to a rise
+in total labour cost10 (TLC) per worker (4.0 per cent) which outstripped the increase in labour productivity11 (2.7 per
+cent) (Exhibit 3). In turn, the increase in TLC per worker was mainly driven by higher remuneration per worker (+3.3
+pp contribution).
+At the broad sectoral level, the ULC of the services producing industries (1.5 per cent) and construction sector (1.6
+per cent) both increased in 2024 due to a rise in TLC per worker that outweighed labour productivity growth within the
+sector (Exhibit 4). By contrast, the manufacturing sector (-0.8 per cent) recorded a fall in ULC as labour productivity
+gains more than offset an increase in TLC per worker.
+Meanwhile, within the services producing industries, the food & beverage services (10.2 per cent), retail trade (6.2
+per cent) and administrative & support services (6.2 per cent) sectors registered the largest ULC increases. For these
+three sectors, the increase in their ULCs was due to the combined effects of an increase in TLC per worker and a fall
+in labour productivity.
+For 2025, the ULC for the overall economy is likely to continue to rise at a pace that is broadly similar to that in 2024.
+Against the backdrop of rising global economic uncertainty, increases in remuneration per worker are likely to slow
+over the course of the year as employers turn more cautious and tightness in the labour market continues to ease.
+This will be broadly offset by an expected moderation in productivity growth in tandem with a slower pace of growth
+in the Singapore economy.
+8 A change in the ULC can be approximately decomposed as the change in total labour cost per worker minus the change in labour productivity (proxied by gross real
+value-added per worker). The approximation holds better when the changes are small.
+9 In 2024, labour productivity growth came in at 2.7 per cent, a reversal from the 2.8 per cent decline in 2023.
+10 TLC comprises remuneration, wage subsidies and other labour-related costs, which include the skills development levy, foreign worker levy, and recruitment and
+net training costs.
+11 Labour productivity in this decomposition is proxied by real gross value-added per worker.
+
+--- PAGE 32 ---
+
+30 Economic Survey of Singapore 2024
+Exhibit 3: Decomposition of ULC Growth for Overall Exhibit 4: ULC Change by Sectors, 2024
+Economy, 2024
+Food & Beverage Services 10.2
+ULC 1.2%
+Retail Trade 6.2
+Administrative & Support Services 6.2
+TLC per worker 4.0%
+Other Services Industries 4.4
+Professional Services 3.8
+Remuneration per worker +3.3pp
+Real Estate 3.6
+Accommodation 3.2
+FWL per worker +0.1pp
+Construction 1.6
+Services Producing Industries 1.5
+Wage subsidies per worker +0.3pp
+Wholesale Trade 0.7
+Finance & Insurance 0.4
+Other labour costs +0.3pp
+Manufacturing -0.8
+Information & Communications -2.0
+Gross real labour productivity* 2.7%
+Transportation & Storage -3.0
+* Measured as real gross value-added per worker.
+Source: MTI Staff estimates using data from the Department of Statistics and Ministry of Manpower
+Costs of utilities, fuel and transportation are likely to moderate in 2025
+The cost of utilities borne by firms is closely linked to electricity costs,12 which are in turn influenced by global oil
+prices.13 Oil prices also contribute to business costs through fuel and transportation costs.
+In 2024, the average wholesale electricity price declined by 35 per cent (i.e., from $251/MWh in 2023 to $163/MWh in
+2024), in part reflecting the moderation in global oil prices in the second half of 2024 (Exhibit 5).
+Global oil prices are projected to ease further in 2025 as the Organisation of Petroleum Exporting Countries and
+selected non-member countries (i.e., OPEC+) gradually unwind their oil production cuts over the course of the year
+and global oil demand moderates. For 2025 as a whole, the US Energy Information Administration (EIA) has projected
+that global oil prices will average US$74 per barrel (/bbl)14, lower than the 2024 average of US$81/bbl.
+Correspondingly, domestic fuel and transportation costs are expected to moderate in 2025. Similarly, the domestic
+cost of utilities is expected to ease, notwithstanding the phased increase in water price15 in 2025.
+12 For example, electricity cost accounted for around 89 per cent of the cost of utilities borne by firms in the manufacturing sector in 2023.
+13 Around 95 per cent of Singapore’s electricity is generated from natural gas, the price of which is indexed to oil prices. This is a common market practice in Asia.
+14 EIA Short-Term Energy Outlook Report, February 2025.
+15 As announced earlier by MSE, to meet the higher costs of supplying and producing water, the potable water price will increase by 50 cents per cubic metre in two
+phases over 2024 and 2025. This represents an increase in the water price of about 2.5 per cent per year since the last round of price revision in 2018.
+
+--- PAGE 33 ---
+
+Chapter 3: Costs, Investments and Prices 31
+Exhibit 5: Global Oil Prices and Uniform Singapore Energy Prices (USEP), 1Q24 – 4Q24
+PerCentchange, YoY
+20
+10
+0
+-10
+-20
+-30
+-40
+1Q24 2Q24 3Q24 4Q24
+UK Brent USEP ($/MWh)
+Source: International Monetary Fund, CEIC, Energy Market Company
+Note: The USEP is the wholesale price of electricity determined in the Singapore Wholesale Electricity Market. The USEP fluctuates every half-hour and is determined by
+various factors. Besides fuel costs, the USEP is also influenced by prevailing demand and supply conditions which may fluctuate significantly within the day.
+Conclusion
+In 2024, the UBCI for the manufacturing sector rose marginally as an increase in the “others” cost component outweighed
+the declines in royalty payments, manufacturing ULC and the costs of work given out. Meanwhile, the UBC-Services
+Index increased in the first three quarters of 2024 on account of an increase in non-labour costs and services ULC.
+For 2025, the overall ULC for the economy is likely to continue to rise at a pace that is broadly similar to that in 2024.
+Against the backdrop of rising global economic uncertainty, increases in remuneration per worker are likely to slow
+over the course of the year, even as productivity growth is expected to moderate in tandem with a slower pace of growth
+in the Singapore economy. At the same time, the costs of utilities, fuel and transportation are likely to moderate, in
+line with the outlook for global oil prices in 2025.
+Contributed by:
+Ms Tan Yen Ling
+Senior Economist
+Economics Division
+Ministry of Trade and Industry
+REFERENCES
+Singapore Department of Statistics (2014), “Methodological Review on the Unit Business Cost Index for Manufacturing
+Industry (Base Year 2010=100)” November. https://www.singstat.gov.sg/-/media/files/publications/economy/ip-e38.pdf.
+U.S. Energy Information Administration (2025), “Short-Term Energy Outlook (STEO)” February. https://www.eia.gov/
+outlooks/steo/.
+
+--- PAGE 34 ---
+
+32 Economic Survey of Singapore 2024
+ANNEX: BUSINESS COST STRUCTURE OF MANUFACTURING AND SERVICES SECTORS IN 2023
+Manufacturing Sector
+In the manufacturing sector, labour cost, work given out and “others” constituted the largest components of business
+costs. These three components collectively accounted for around 84 per cent of the business costs of small- and
+medium-sized enterprises (SMEs) and around 78 per cent of the business costs of non-SMEs in the sector in 2023.
+The remaining cost components, including utilities, fuel, rental of building/premises and charges paid to other firms
+for inland transportation and ocean/air/other freight, made up a smaller share of business costs, at around 16 per
+cent for SMEs and 22 per cent for non-SMEs in 2023. Non-labour production taxes, which include property, road and
+other indirect taxes, accounted for around 0.5 per cent of the business costs of both SMEs and non-SMEs over the
+same period.
+Details of the business cost structure of SMEs and non-SMEs in the various manufacturing clusters are in Exhibit A1.
+Services Sectors
+Labour cost constituted a major cost component for firms in the services sectors, with its share of business costs
+ranging from around 4 per cent on average for SMEs in the transportation & storage sector, to around 36 per cent or
+more for SMEs in labour-intensive sectors such as food & beverage services, accommodation and retail trade in 2023.
+On the other hand, utilities cost was a relatively small cost component for services firms, accounting for less than 2
+per cent of the business costs of SMEs in most services sectors in 2023. Key exceptions were the accommodation and
+food & beverage services sectors, where utilities cost constituted 8 per cent and 6 per cent of the business costs of
+SMEs in these sectors respectively. Similarly, rental cost accounted for a small share of the business costs of SMEs in
+most services sectors. Key exceptions were the retail trade and food & beverage services sectors, where rental costs
+constituted around 23 per cent and 21 per cent of the business costs of SMEs in these sectors respectively.
+Similar to the manufacturing sector, non-labour production taxes accounted for less than 1 per cent of the business
+costs of firms in most services sectors.
+Details of the business cost structure of SMEs and non-SMEs in the various services sectors are in Exhibit A2.
+
+--- PAGE 35 ---
+
+3202
+,eziS
+mriF
+yb
+rotceS
+gnirutcafunaM
+eht
+fo
+erutcurtS
+tsoC
+ssenisuB
+:1A tibihxE
+lareneG
+tropsnarT
+noisicerP
+lacidemoiB
+slacimehC
+scinortcelE
+latoT
+gnirutcafunaM
+gnireenignE
+gnireenignE
+gnirutcafunaM
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+2.84
+3.13
+7.15
+5.82
+6.15
+3.03
+0.41
+1.72
+6.52
+2.61
+4.8
+8.11
+7.23
+5.81
+tsoC
+ruobaL
+1.15
+1.86
+7.74
+1.17
+7.74
+2.96
+7.58
+5.27
+6.37
+7.28
+5.19
+9.78
+8.66
+0.18
+tsoC
+secivreS
+4.11
+0.6
+1.61
+6.84
+1.41
+0.21
+8.52
+6.4
+4.7
+4.2
+8.44
+2.32
+1.12
+6.91
+tuo nevig
+kroW
+0.1
+6.31
+8.2
+1.2
+3.1
+0.7
+8.81
+8.92
+5.5
+4.5
+2.4
+5.6
+9.4
+2.8
+stnemyaP
+ytlayoR
+9.3
+2.7
+8.1
+2.2
+3.3
+2.2
+0.1
+4.2
+5.21
+7.01
+7.0
+4.5
+8.3
+3.5
+seitilitU
+9.1
+1.1
+4.0
+3.0
+4.0
+1.0
+2.0
+9.0
+7.5
+8.82
+1.0
+4.1
+4.1
+1.5
+leuF
+/gnidliub
+fo latneR
+5.4
+0.1
+1.2
+6.0
+5.2
+8.0
+4.0
+8.0
+3.1
+3.0
+2.0
+1.0
+9.1
+3.0
+sesimerp
+ot
+diap
+segrahC
+dnalni
+rof smrif
+rehto
+2.4
+8.3
+6.1
+3.1
+2.2
+3.4
+5.4
+5.3
+3.9
+6.6
+2.1
+3.1
+7.3
+7.2
+dna
+noitatropsnart
+thgierf
+rehto
+/ria
+/naeco
+2.42
+5.53
+8.22
+2.61
+8.32
+8.24
+0.53
+5.03
+9.13
+6.82
+4.04
+1.05
+1.03
+8.93
+srehtO
+noitcudorP
+ruobaL-noN
+7.0
+5.0
+6.0
+4.0
+7.0
+5.0
+3.0
+4.0
+8.0
+1.1
+1.0
+3.0
+5.0
+5.0
+sexaT
+draoB
+tnempoleveD
+cimonocE
+:ecruoS
+:setoN
+tnemyolpme
+dna
+noillim
+001$
+naht
+erom
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS-noN
+.srekrow
+002
+naht
+erom
+ton
+fo
+tnemyolpme
+ro
+noillim
+001$
+naht
+erom
+ton
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer sEMS
+.1
+.srekrow
+002
+naht erom
+fo
+.cte
+,sesnepxe
+yrdnus
+,seef
+ycnega
+dna
+noissimmoc
+,gnisitrevda
+,seef
+lanoisseforp
+sa
+hcus
+stnenopmoc-bus
+fo
+stsisnoc
+”srehtO“
+.2
+.elbigilgen
+ro lin
+ot srefer
+“-“
+.3
+Chapter 3: Costs, Investments and Prices 33
+
+--- PAGE 36 ---
+
+3202
+,eziS
+mriF
+yb
+srotceS
+secivreS
+eht
+fo
+erutcurtS
+tsoC
+ssenisuB
+:2A
+tibihxE
+,etatsE
+laeR
+lanoisseforP
+&
+dooF
+dna
+secivreS
+&
+ecnaniF
+&
+noitamrofnI
+noitatropsnarT
+elaselohW
+egareveB
+noitadommoccA
+edarT
+liateR
+evitartsinimdA
+ecnarusnI
+snoitacinummoC
+egarotS
+&
+edarT
+secivreS
+troppuS
+&
+secivreS
+-noN
+-noN
+-noN
+-noN
+-noN
+-noN
+-noN
+-noN
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+8.03
+0.23
+1.21
+4.9
+9.71
+5.31
+1.4
+1.31
+5.74
+6.44
+3.63
+5.15
+2.93
+9.63
+1.51
+5.81
+tsoC ruobaL
+9.66
+6.56
+6.78
+4.09
+6.18
+2.68
+7.59
+6.68
+2.25
+1.55
+2.16
+6.54
+1.06
+3.26
+4.48
+9.67
+tsoC
+secivreS
+5.1
+6.0
+1.0
+-
+1.1
+8.0
+2.0
+1.1
+5.5
+1.6
+7.7
+1.7
+5.1
+4.3
+2.0
+4.0
+seitilitU
+2.1
+0.1
+-
+-
+3.0
+2.0
+9.86
+9.25
+2.1
+0.2
+-
+-
+1.3
+9.3
+5.93
+1.13
+tropsnarT
+& thgierF
+7.0
+1.0
+8.3
+1.3
+7.1
+3.0
+5.0
+4.0
+4.1
+1.1
+3.2
+7.1
+3.2
+4.2
+9.1
+1.2
+secivreS
+laicnaniF
+4.0
+1.0
+1.0
+-
+5.6
+7.0
+1.0
+1.0
+3.0
+2.0
+9.0
+3.0
+8.0
+3.0
+2.0
+3.0
+snoitacinummoC
+3.3
+0.2
+9.0
+5.0
+1.2
+8.0
+5.1
+7.0
+9.02
+9.71
+8.31
+3.5
+2.32
+9.82
+0.3
+5.2
+sesimerP
+fo gnitneR
+7.6
+7.3
+5.5
+5.1
+1.51
+6.9
+6.0
+1.1
+4.1
+6.0
+1.2
+8.1
+4.2
+1.2
+3.3
+1.5
+secivreS
+lanoisseforP
+2.35
+1.85
+2.77
+2.58
+8.45
+8.37
+0.42
+4.03
+4.12
+2.72
+4.43
+5.92
+8.62
+3.12
+3.63
+4.53
+secivreS
+rehtO
+& gnisitrevdA
+8.6
+7.0
+2.1
+2.1
+4.61
+2.6
+7.0
+3.0
+6.2
+9.3
+0.4
+0.4
+1.9
+6.5
+5.41
+2.5
+tnemniatretnE
+tnemeganaM
+& nimdA
+0.9
+6.8
+0.01
+0.4
+4.01
+7.41
+9.1
+8.0
+6.3
+6.2
+7.9
+9.5
+7.3
+2.3
+0.6
+2.31
+seeF
+&
+ruobal
+tcartnoC
+4.41
+9.12
+2.0
+-
+4.6
+6.3
+8.0
+7.0
+5.2
+3.2
+5.1
+9.1
+7.1
+5.0
+3.1
+0.2
+tuo nevig
+krow
+0.3
+7.0
+7.5
+4.2
+9.2
+7.1
+3.1
+0.2
+5.2
+2.1
+3.5
+4.2
+7.3
+0.1
+3.3
+8.2
+noissimmoC
+6.0
+4.0
+2.0
+1.0
+4.7
+5.04
+3.0
+-
+6.2
+6.6
+9.0
+7.2
+9.0
+1.1
+8.4
+4.7
+seitlayoR
+0.3
+6.1
+3.0
+5.0
+5.1
+5.0
+7.1
+5.3
+8.2
+9.4
+5.5
+9.3
+7.1
+8.2
+9.0
+6.0
+sriaper
+& ecnanetniaM
+2.0
+-
+-
+-
+-
+-
+2.31
+2.02
+2.0
+1.0
+-
+-
+1.0
+1.0
+6.0
+6.0
+leuF
+3.61
+2.42
+8.95
+1.77
+9.9
+5.6
+0.4
+0.3
+7.4
+6.5
+4.7
+7.8
+9.5
+0.7
+9.4
+5.3
+srehtO
+noitcudorP
+ruobaL-noN
+3.2
+4.2
+4.0
+2.0
+5.0
+3.0
+1.0
+3.0
+3.0
+3.0
+5.2
+9.2
+7.0
+9.0
+5.0
+5.4
+sexaT
+eropagniS
+fo
+ytirohtuA
+yratenoM
+dna
+scitsitatS
+fo tnemtrapeD
+:ecruoS
+:setoN
+tnemyolpme
+dna
+noillim
+001$
+naht
+erom
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS-noN
+.srekrow
+002
+naht
+erom
+ton
+fo
+tnemyolpme
+ro
+noillim
+001$
+naht
+erom
+ton
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot refer
+sEMS
+.1
+.srekrow
+002
+naht erom
+fo
+.elbigilgen
+ro lin
+ot srefer
+“-“
+.2
+34 Economic Survey of Singapore 2024
+
+--- PAGE 37 ---
+
+Chapter 3: Costs, Investments and Prices 35
+
+--- PAGE 38 ---
+
+36 Economic Survey of Singapore 2024
+CHAPTER INTERNATIONAL
+4
+TRADE
+
+--- PAGE 39 ---
+
+Chapter 4: International Trade 37
+Image courtesy of PSA Singapore
+
+--- PAGE 40 ---
+
+38 Economic Survey of Singapore 2024
+Chapter 4
+INTERNATIONAL
+TRADE
+TOTAL MERCHANDISE TRADE TOTAL SERVICES TRADE
+AMOUNTED TO... AMOUNTED TO...
+$611 billion $469 billion
+Merchandise Services Imports
+Imports
+$1,286 $998
+billion billion
+$174 billion
+in 2024 Non-Oil in 2024
+Domestic Exports
+$388 billion $113 billion $529 billion
+Re-exports Oil Domestic Exports Services Exports
+GROWTH IN MERCHANDISE TRADE GROWTH IN SERVICES TRADE
+25
+30
+20
+20 Merchandise Imports
+10 7.8% 15 Servi 9 ce . s 9 E % xports
+Total Merchandise Trade Total Services Trade
+0 6.6% 10 8.6%
+Merchandise Exports
+-10 5 Services Imports
+5.7%
+7.1%
+-20
+2022 2023 2024 0 2022 2023 2024
+COMPONENTS OF MERCHANDISE EXPORTS THE INCREASE IN
+(YoY Growth) SERVICES EXPORTS WAS LED BY...
+9.8% 1.0% 0.2% 4.9% 1.7% 1.3%
+point contribution point contribution point contribution
+Re-exports Oil Domestic Non-Oil Transport Services Other Business Services Financial Services
+Exports Domestic Exports
+
+--- PAGE 41 ---
+
+Chapter 4: International Trade 39
+OVERVIEW
+Singapore’s total merchandise trade increased by 6.8 per cent year-on-year in the fourth quarter of 2024, faster
+than the 5.3 per cent growth in the preceding quarter. At the same time, total services trade increased by 7.4
+per cent year-on-year, moderating from the 10.8 per cent growth in the third quarter.
+For the whole of 2024, Singapore’s total merchandise trade expanded by 6.6 per cent to S$1.3 trillion, compared
+to the S$1.2 trillion in 2023. Oil trade declined by 0.1 per cent amidst lower oil prices compared to a year ago,
+while non-oil trade increased by 8.3 per cent. Merchandise exports and imports increased by 5.7 per cent and
+7.8 per cent respectively.
+Total services trade grew by 8.6 per cent to $998 billion in 2024, up from $919 billion in 2023. Services exports
+and imports increased by 9.9 per cent and 7.1 per cent respectively in 2024.
+MERCHANDISE TRADE
+For the whole of 2024, total merchandise exports expanded
+by 5.7 per cent, a reversal from the 10.1 per cent contraction
+Merchandise Exports in 2023.
+Total merchandise exports rose by 5.1 per cent year-
+on-year in the fourth quarter, following the 5.7 per cent Non-Oil Domestic Exports
+growth in the preceding quarter (Exhibit 4.1). The increase
+was due to the growth in re-exports, which outweighed Non-oil domestic exports (NODX) grew by 2.4 per cent
+the decline in domestic exports. Domestic exports fell year-on-year in the fourth quarter, easing from the 9.0
+by 6.0 per cent, a pullback from the 5.4 per cent growth per cent growth in the preceding quarter (Exhibit 4.2). The
+in the third quarter. Meanwhile, re-exports expanded by increase in NODX was due to the growth in electronics
+13.9 per cent, accelerating from the 5.9 per cent growth NODX, even as non-electronics NODX fell.
+in the previous quarter.
+Exhibit 4.2: Changes in Domestic Exports
+Exhibit 4.1: Growth Rates of Total Merchandise Trade,
+Merchandise Exports and Merchandise Imports Per Cent
+(In Nominal Terms)
+10
+2024
+2023 2024
+I II III IV 5
+Domestic Exports
+Total
+Merchandise -11.7 4.6 9.9 5.3 6.8 6.6
+0
+Trade
+Merchandise
+-10.1 4.4 7.5 5.7 5.1 5.7
+Exports
+-5
+Non-Oil
+Domestic Domestic Exports
+-13.5 0.3 2.9 5.4 -6.0 0.5
+Exports
+-10
+IV I II III IV
+Oil -14.2 6.0 19.0 -0.2 -17.9 1.0
+2023 2024
+Non-Oil -13.1 -3.4 -6.5 9.0 2.4 0.2
+Re-Exports -7.1 7.8 11.5 5.9 13.9 9.8
+Merchandise
+-13.4 5.0 12.5 5.0 8.7 7.8
+Imports
+Oil -19.0 2.1 16.0 -7.7 -9.5 -0.3
+Non-oil -11.9 5.7 11.7 8.3 13.7 9.9
+
+--- PAGE 42 ---
+
+40 Economic Survey of Singapore 2024
+Electronics NODX grew by 14.2 per cent in the fourth NODX to EU 27 contracted mainly because of a decline
+quarter, moderating from the 16.3 per cent expansion in in the exports of pharmaceuticals, telecommunications
+the previous quarter. The growth in electronic NODX was equipment and specialised machinery. NODX to the US fell
+primarily due to an increase in the domestic exports of on the back of a decline in the exports of pharmaceuticals,
+ICs, disk media products and PCs. Non-electronics NODX structures of ships & boats and telecommunications
+declined by 0.7 per cent in the fourth quarter, a reversal equipment. Meanwhile, pharmaceuticals, miscellaneous
+from the 7.0 per cent growth in the previous quarter. The manufactured articles and measuring instruments
+decline in non-electronics NODX was primarily due to contributed the most to the decline in NODX to Japan.
+lower domestic exports of pharmaceuticals, specialised On the other hand, NODX to Malaysia grew due to higher
+machinery and petrochemicals. exports of ICs, other computer peripherals and non-
+monetary gold.
+For the full year, NODX grew by 0.2 per cent, a reversal
+from the 13.1 per cent contraction in 2023. The growth in
+NODX was due to increased shipments of electronics (+8.2 Oil Domestic Exports
+per cent), which outweighed the decline in non-electronics
+(-1.9 per cent). Oil domestic exports contracted by 17.9 per cent year-
+on-year in the fourth quarter, extending the 0.2 per cent
+The top 10 NODX markets accounted for 80.0 per cent decline in the previous quarter. The decline in oil domestic
+of Singapore’s total NODX in 2024. Singapore’s NODX exports was led by lower exports to economies such as
+to most markets increased even as NODX to the EU 27 Indonesia, Malaysia and Australia. The decrease also partly
+(-21.4 per cent), Japan (-17.6 per cent) and the US (-6.6 reflected lower oil prices compared to the same quarter a
+per cent) declined. year ago. In volume terms, oil domestic exports declined
+by 5.6 per cent in the fourth quarter, a reversal from the
+Exhibit 4.3: Growth Rates of Non-Oil Domestic Exports to 15.9 per cent expansion in the previous quarter.
+Top 10 Markets in 2024
+For the full year, oil domestic exports rose by 1.0 per
+cent year-on-year, a turnaround from the 14.2 per cent
+Malaysia 18.9
+contraction in 2023. By economies, it was driven mainly by
+Hong Kong 17.7
+higher exports to Indonesia, China and Liberia. In volume
+Indonesia 8.0 terms, oil domestic exports increased by 5.7 per cent in
+China 4.9 2024, picking up from the 2.2 per cent growth in 2023.
+South Korea 4.9
+Thailand 4.5 Non-Oil Re-Exports
+Taiwan 3.8
+United States -6.6 Non-oil re-exports (NORX) expanded by 14.2 per cent
+year-on-year in the fourth quarter, accelerating from the
+Japan -17.6
+6.5 per cent growth in the preceding quarter (Exhibit 4.4).
+EU -21.4
+The growth in NORX could be attributed to an increase in
+-30 -20 -10 0 10 20 30
+both electronics and non-electronics NORX. Electronics
+Per Cent NORX rose by 16.4 per cent, extending the 12.3 per cent
+increase in the third quarter, as the re-exports of ICs,
+PCs and parts of PCs grew. Meanwhile, non-electronics
+NORX rose by 11.8 per cent, faster than the 0.1 per cent
+growth in the preceding quarter. The growth in non-
+electronics NORX was mainly driven by higher re-exports
+of non-monetary gold, non-electric engines & motors and
+specialised machinery.
+
+--- PAGE 43 ---
+
+Chapter 4: International Trade 41
+Merchandise Imports
+Exhibit 4.4: Changes in Re-Exports
+Per Cent Non-oil imports expanded by 13.7 per cent year-on-year
+15 in the fourth quarter, following the 8.3 per cent growth in
+the preceding quarter (Exhibit 4.6). The growth in non-oil
+Non-Oil Re-Exports imports was due to an increase in both electronics (+28.8
+per cent) and non-electronics imports (+4.3 per cent).
+10
+In turn, the growth in electronics imports was due to an
+Re-Exports
+increase in the imports of ICs, PCs and other computer
+peripherals. Meanwhile, the growth in non-electronics
+imports was due to the imports of non-electric engines
+5
+& motors, non-monetary gold and specialised machinery.
+Exhibit 4.6: Changes in Merchandise Imports
+0
+IV I II III IV Per Cent
+2023 2024
+20
+Non-Oil Imports
+For the whole of 2024, NORX expanded by 10.2 per cent,
+10
+rebounding from the 7.3 per cent decline in 2023. The
+growth in NORX was due to an increase in both electronics
+NORX (+16.2 per cent) and non-electronics NORX (+3.8 Oil Imports
+per cent).
+0
+NORX to the top 10 NORX markets as a whole grew in
+2024 (Exhibit 4.5). NORX to Malaysia expanded on the back
+of an increase in the re-exports of PCs, other computer
+-10
+peripherals and parts of PCs. Meanwhile, higher shipments IV I II III IV
+2023 2024
+of ICs, PCs and telecommunications equipment led to an
+increase in NORX to Hong Kong. Re-exports to Thailand
+rose on account of an increase in the shipments of ICs, Oil imports declined by 9.5 per cent year-on-year in the
+consumer electronics and parts of PCs. fourth quarter, extending the 7.7 per cent decline in the
+preceding quarter. The decrease in oil imports was due
+Exhibit 4.5: Growth Rates of Non-Oil Re-Exports to Top 10 partly to lower oil prices. In volume terms, oil imports
+Markets in 2024 increased by 1.1 per cent, improving from the 3.8 per cent
+decline in the third quarter.
+Malaysia 27.2
+For the full year of 2024, non-oil imports rose by 9.9 per
+Taiwan 27.0 cent, a turnaround from the 11.9 per cent contraction in
+Thailand 25.3 2023. Meanwhile, oil imports declined by 0.3 per cent,
+easing from the 19.0 per cent contraction in 2023.
+Indonesia 10.9
+Hong Kong 8.2
+South Korea 8.2
+China 7.5
+United States 4.1
+Vietnam -0.3
+EU -7.7
+-20 -10 0 10 20 30
+Per Cent
+
+--- PAGE 44 ---
+
+42 Economic Survey of Singapore 2024
+SERVICES TRADE Services Imports
+Services Exports Services imports expanded by 6.4 per cent year-on-year in
+the fourth quarter, easing from the 9.5 per cent growth in
+Services exports grew by 8.4 per cent year-on-year in the the previous quarter. The growth in services imports was
+fourth quarter, moderating from the 12.0 per cent growth led by the imports of transport services, other business
+in the preceding quarter. The growth in services exports services and travel services, which expanded by 7.4 per
+was primarily driven by the exports of transport services cent, 4.0 per cent and 13.8 per cent respectively.
+and financial services, which grew by 14.6 per cent and
+13.7 per cent respectively. For the whole of 2024, services imports expanded by 7.1
+per cent, the same rate of growth as in 2023. The growth
+For the full year, services exports expanded by 9.9 per in services imports was mainly due to the imports of
+cent, picking up from the 2.7 per cent increase in 2023. transport services and travel services, which grew by 8.3
+The increase in services exports was attributable mainly to per cent and 20.2 per cent respectively.
+the exports of transport services, other business services
+and financial services, which grew by 15.7 per cent, 5.7
+per cent and 9.6 per cent respectively.
+Exhibit 4.7: Growth Rates of Total Services Trade, Services
+Exports and Services Imports (In Nominal Terms)
+2024
+2023 2024
+I II III IV
+Total Services
+4.8 8.1 7.9 10.8 7.4 8.6
+Trade
+Services
+2.7 10.1 9.2 12.0 8.4 9.9
+Exports
+Services
+7.1 5.9 6.5 9.5 6.4 7.1
+Imports
+
+--- PAGE 45 ---
+
+Chapter 4: International Trade 43
+
+--- PAGE 46 ---
+
+CHAPTER BALANCE OF
+5
+PAYMENTS
+
+--- PAGE 48 ---
+
+46 Economic Survey of Singapore 2024
+Chapter 5
+BALANCE OF
+PAYMENTS
+Singapore’s balance of BALANCE OF PAYMENTS
+payments surplus came in at COMPONENTS IN 2024
+$39.7 billion in 2024
+100 $81.8 billion 150
+$128.3 billion
+$39.7 billion
+50
+100
+$88.1 billion
+0
+-50
+50
+-100
+-150
+-$157.4 billion 0
+-200 Current Capital and
+2022 2023 2024 Account Financial Account
+COMPONENTS OF COMPONENTS OF CAPITAL &
+CURRENT ACCOUNT FINANCIAL ACCOUNT
+$197.9 billion $59.4 billion -$129.2 billion $105.1 billion
+Goods Services Direct Portfolio
+Balance Balance Investment Investment
+$2.4 billion $109.8 billion
+-$118.9 billion -$10.1 billion
+Primary Secondary Financial Other
+Income Balance Income Balance Derivatives Investment
+
+--- PAGE 49 ---
+
+Chapter 5: Balance of Payments 47
+OVERVIEW
+Singapore’s overall balance of payments recorded a deficit of $11.2 billion in the fourth quarter of 2024, a reversal
+from the surplus of $17.3 billion in the third quarter. For the whole of 2024, the overall balance of payments
+registered a surplus of $39.7 billion, lower than the surplus of $81.8 billion in 2023. The smaller surplus was
+mainly due to an increase in net outflows from the capital and financial account. Singapore’s official foreign
+reserves rose to $507 billion at the end of 2024.
+CURRENT ACCOUNT Exhibit 5.2: Components of Current Account Balance
+$ Billion
+The current account surplus fell to $28.8 billion in the
+60
+fourth quarter, from $33.9 billion in the third quarter
+(Exhibit 5.1). For 2024 as a whole, the current account Goods Balance
+40
+surplus rose by $8.3 billion to $128 billion (17.5 per cent
+of GDP). The increase was driven by a larger services
+20 Services Balance
+account surplus and a narrowing of the primary income
+deficit, which more than offset a smaller goods account
+0
+surplus and a larger secondary income deficit.
+Secondary Income Balance
+-20
+Primary Income Balance
+Exhibit 5.1: Current Account Balance
+-40
+IV I II III IV
+2023 2024
+$ Billion
+35
+The surplus in the services balance fell to $15.1 billion
+in the fourth quarter, from $17.4 billion in the preceding
+quarter. For the whole of 2024, the surplus in the services
+balance increased to $59.4 billion, from $42.9 billion in
+30 2023. This was mainly driven by a rise in net receipts for
+transport services, financial services, and other business
+services. These more than offset the rise in net payments
+for travel services.
+25 The primary income deficit widened by $4.0 billion from
+IV I II III IV
+2023 2024 the previous quarter to $32.5 billion in the fourth quarter.
+For the year as a whole, the deficit narrowed by $5.9 billion
+In terms of the components of the current account, the to $119 billion, as receipts rose more than payments.
+goods surplus came in at $48.6 billion in the fourth quarter
+of 2024, edging up from $48.2 billion in the third quarter,
+as exports rose more than imports (Exhibit 5.2). For 2024
+as a whole, the goods surplus stood at $198 billion, lower
+than the $211 billion in 2023, as imports increased more
+than exports.
+
+--- PAGE 50 ---
+
+48 Economic Survey of Singapore 2024
+CAPITAL AND FINANCIAL Exhibit 5.4: Components of Financial Account (Net)
+ACCOUNT
+$ Billion
+80
+Other
+The capital and financial account1 registered a larger net 60 Portfolio Investment
+outflow of $39.1 billion in the fourth quarter, compared 40 Investment
+to $17.1 billion in the preceding quarter (Exhibit 5.3). For
+20
+2024 as a whole, net outflows amounted to $88.1 billion
+(12.0 per cent of GDP), up from the $39.4 billion in 2023. 0
+Financial Derivatives
+The increase was due mainly to higher net outflows of
+-20
+“other investment”, and financial derivatives switching to
+Direct Investment
+-40
+net outflows from net inflows in the preceding year. These
+more than offset the rise in net inflows of direct investment -60
+IV I II III IV
+and a decline in net outflows of portfolio investment.
+2023 2024
+Exhibit 5.3: Capital and Financial Account Balance
+At the same time, net inflows of direct investment reached
+$ Billion $38.9 billion in the fourth quarter, higher than the $30.1
+40
+billion in the previous quarter. For 2024 as a whole,
+net inflows of direct investment rose by $3.6 billion to
+30 $129 billion, as the increase in foreign direct investment
+flows into Singapore exceeded that of residents’ direct
+investments abroad.
+20
+Financial derivatives switched to net outflows of $1.7
+10 billion in the fourth quarter, from net inflows of $3.0 billion
+in the preceding quarter. For 2024 as a whole, financial
+derivatives reversed to net outflows of $2.4 billion, from
+0
+IV I II III IV net inflows of $1.9 billion in 2023.
+2023 2024
+Net outflows of portfolio investment fell to $13.4 billion in
+In terms of the components of the capital and financial the fourth quarter, from $20.3 billion in the previous quarter.
+account, net outflows of “other investment” came in at For the full year, net outflows of portfolio investment fell
+$62.9 billion in the fourth quarter, up from $29.9 billion by $26.4 billion to $105 billion in 2024. The decline in
+in the preceding quarter (Exhibit 5.4). For the full year, net outflows was attributable to resident deposit-taking
+net outflows of “other investment” rose to $110 billion, corporations, as well as the resident non-bank private
+an increase from the $35.4 billion registered in 2023. sector which switched to net inflows in 2024 from net
+This was in part due to higher net outflows from resident outflows in the previous year.
+deposit-taking corporations as well as the resident non-
+bank private sector.
+1 Net inflows in net balances are indicated by a minus (-) sign. For more details regarding the change in sign convention to the financial account, please refer to DOS’s
+information paper on “Singapore’s International Accounts: Methodological Updates and Recent Developments”.
+
+--- PAGE 51 ---
+
+Chapter 5: Balance of Payments 49
+
+--- PAGE 52 ---
+
+CHAPTER SECTORAL
+6
+PERFORMANCE
+
+--- PAGE 54 ---
+
+52 Economic Survey of Singapore 2024
+Chapter 6
+SECTORAL
+PERFORMANCE
+OVERALL ECONOMY MANUFACTURING
+Nominal Nominal
+Real Real
+Value Value
+STRUCTURE OF ECONOMY Growth CLUSTERS Growth
+Added Added
+(%) (%)
+Share (%) Share (%)
+Total 100.0 4.4
+Electronics 38.5 8.4
+Goods Producing Industries 22.7 4.2
+Chemicals 16.4 4.3
+Manufacturing 17.3 4.3
+Biomedical
+13.4 -12.5
+Construction 3.8 4.5
+Manufacturing
+Utilities 1.6 2.8 Precision
+15.4 2.3
+Engineering
+Other Goods Industries 0.0 3.0
+Transport
+9.2 9.4
+Engineering
+Services Producing Industries 73.2 4.4
+General Manufacturing
+7.2 1.3
+Wholesale Trade 20.3 5.1 Industries
+Retail Trade 1.2 -0.4
+CONSTRUCTION
+Transportation & Storage 9.1 5.8
+CERTIFIED PAYMENTS IN 2024
+Accommodation 0.8 7.1
+53.5%
+Public
+Food & Beverage Services 0.8 -0.9
+Information & Communications 6.0 5.0
+Finance & Insurance 14.3 6.8
+46.5%
+Private
+Real Estate 2.9 0.2
+CONTRACTS AWARDED IN 2024
+Professional Services 5.5 1.2
+Civil
+Institutional
+Administrative & Support Services 2.6 0.5 Residential & Others Engineering Commercial Industrial
+Work
+Other Services Industries 9.6 3.0
+Ownership of Dwellings 4.1 4.7 $15.3 $11.6 $7.0 $5.4 $4.9
+billion billion billion billion billion
+
+--- PAGE 55 ---
+
+Chapter 6: Sectoral Performance 53
+WHOLESALE TRADE ACCOMMODATION
+PERFORMANCE OF HOTELS
+Foreign Domestic
+Wholesale Trade Wholesale Trade
+Index growth Index growth Hotel Room Gross Lettings
++7.6% -1.5% Revenue Growth Growth
++11.4% +10.0%
+RETAIL TRADE FOOD & BEVERAGE SERVICES
+PERFORMANCE OF F&B (SALES GROWTH)
+Retail Sales Retail Sales
+Index Growth Index Growth Cafes, Food Courts &
+(Motor Vehicles) (Non-Motor Vehicles) Food Caterers Other Eating Places
++15.9% -0.7%
++15.1% -2.2%
+Restaurants Fast Food Outlets
+TRANSPORTATION & STORAGE -3.2% -5.4%
+Nominal
+Real
+Value
+SEGMENTS Growth INFORMATION & COMMUNICATIONS
+Added
+(%)
+Share (%)
+Nominal
+Real
+Land Transport* 10.2 0.4 SEGMENTS Value Growth
+Added
+(%)
+Share (%)
+Water Transport* 68.4 4.7
+Telecommunications 11.9 0.2
+Air Transport* 8.6 12.9
+Storage & Other Support Services 10.7 12.7 IT & Information 64.5 6.8
+Services
+Post & Courier Activities 2.1 -2.6
+Others 23.5 2.5
+*Including supporting services
++14.8% Air Passengers Handled Growth
++5.2% Total Sea Cargo Handled Growth
+
+--- PAGE 56 ---
+
+54 Economic Survey of Singapore 2024
+FINANCE & INSURANCE PROFESSIONAL SERVICES
+Nominal Nominal
+Real Real
+Value Value
+SEGMENTS Growth SEGMENTS Growth
+Added Added
+(%) (%)
+Share (%) Share (%)
+Banking 44.1 6.5 Legal 8.6 -0.6
+Activities Auxiliary to
+19.8 7.1
+Financial Services
+Accounting 6.3 2.7
+Fund Management 12.8 13.5
+Head Offices & Business
+33.1 4.3
+Representative Offices
+Insurance 15.5 3.4
+Business &
+Others 7.8 4.6 10.3 1.8
+Management Consultancy
+Architectural & Engineering,
+21.9 -1.6
+Technical Testing & Analysis
+REAL ESTATE
+Other Professional,
+PRIVATE RESIDENTIAL Scientific & Technical Services 19.8 -0.6
+Units Transacted Certified Payments
+Growth Growth
++15.3% +2.4%
+ADMINISTRATIVE & SUPPORT SERVICES
+COMMERCIAL AND INDUSTRIAL
+(TOTAL OCCUPIED SPACE GROWTH) Nominal
+Real
+Value
+SEGMENTS Growth
+Commercial Commercial Industrial Added (%)
+Office Space Retail Space Space Share (%)
++0.4% +2.4% +0.6%
+Rental & Leasing 43.9 0.2
+Other Administrative
+OTHER SERVICES INDUSTRIES 56.1 0.7
+& Support Services
+Nominal
+Real
+Value
+SEGMENTS Growth
+Added
+(%)
+Share (%)
+Public Administration & Defence 25.3 0.6
+Education 25.9 1.9
+Health & Social Work 27.4 5.0
+Arts, Entertainment & Recreation 9.9 5.9
+Others 11.4 4.3
+
+--- PAGE 57 ---
+
+Chapter 6: Sectoral Performance 55
+
+--- PAGE 58 ---
+
+56 Economic Survey of Singapore 2024
+Chapter 6.1
+MANUFACTURING
+OVERVIEW
+The manufacturing sector expanded by 7.4 per cent year-on-year in the fourth quarter of 2024, moderating from
+the 11.2 per cent increase in the preceding quarter. Growth was largely led by the electronics and transport
+engineering clusters.
+For the whole of 2024, the manufacturing sector grew by 4.3 per cent, reversing the 4.2 per cent decline in 2023.
+All clusters recorded output expansions except for the biomedical manufacturing cluster.
+OVERALL MANUFACTURING Exhibit 6.2: Manufacturing Clusters’ Growth
+PERFORMANCE
+Total Manufacturing
+The manufacturing sector expanded by 7.4 per cent year-
+Transport Engineering
+on-year in the fourth quarter of 2024, largely led by higher
+production in the electronics and transport engineering
+Electronics
+clusters (Exhibit 6.1).
+For the whole of 2024, the manufacturing sector grew by Chemicals
+4.3 per cent, reversing the 4.2 per cent decline in 2023.
+Growth in the sector was supported by output expansions Precision Engineering
+across all clusters except the biomedical manufacturing
+cluster (Exhibit 6.2). General Manufacturing
+Industries
+Exhibit 6.1: Manufacturing Growth Rates Biomedical
+Manufacturing
+Per Cent -20 -10 0 10 20
+Per Cent
+15 2023 2024
+11.2
+10 PERFORMANCE OF CLUSTERS
+7.4
+The electronics cluster grew by 15.9 per cent year-on-year
+5 in the fourth quarter, supported by output expansions in
+all segments except for the other electronic modules
+1.8 & components segment. Output of the infocomms &
+consumer electronics, computer peripherals & data storage
+0
+and semiconductors segments grew by 26.2 per cent,
+-0.6
+-1.1
+24.1 per cent and 15.0 per cent respectively, on the back
+of improved demand. By contrast, output of the other
+-5 electronic modules & components segment declined by
+IV I II III IV
+2023 2024 2.0 per cent. For the whole of 2024, the electronics cluster
+expanded by 8.4 per cent.
+
+--- PAGE 59 ---
+
+Chapter 6: Sectoral Performance 57
+Output in the transport engineering cluster increased Output in the precision engineering cluster declined by 3.9
+by 8.9 per cent year-on-year in the fourth quarter, led per cent year-on-year in the fourth quarter. The machinery
+by the 15.8 per cent growth in the aerospace segment and systems segment contracted by 5.7 per cent due to a
+on account of a higher level of demand for aircraft parts lower production of semiconductor-related equipment. By
+and an increase in maintenance, repair and overhaul contrast, the precision modules & components segment
+jobs from commercial airlines. The land and marine & grew by 1.8 per cent on account of a higher output of optical
+offshore engineering segments grew by 5.6 per cent and instruments, plastic precision components and electronic
+0.8 per cent respectively. For the full year, the transport connectors. For 2024 as a whole, output in the precision
+engineering cluster expanded by 9.4 per cent. engineering cluster grew by 2.3 per cent.
+The general manufacturing cluster grew by 0.2 per cent The biomedical manufacturing cluster contracted by 4.4
+year-on-year in the fourth quarter, supported by higher per cent year-on-year in the fourth quarter, driven by
+production in the food, beverages & tobacco segment. an output contraction in the pharmaceuticals segment.
+The food, beverages & tobacco segment grew 3.6 per The pharmaceuticals segment declined by 10.7 per cent
+cent on account of a higher production of milk powder, on account of a lower level of production of biological
+cocoa products and animal feed additives. On the other products and a different mix of active pharmaceutical
+hand, output of the printing and miscellaneous industries ingredients (APIs) being produced. On the other hand,
+segments declined by 1.0 per cent and 3.8 per cent output in the medical technology segment expanded by
+respectively, with the latter recording a lower production 4.6 per cent, supported by continued export demand for
+of structural metal products and paperboard containers and medical devices. For the whole of 2024, the biomedical
+boxes. For the whole of 2024, the general manufacturing manufacturing cluster declined by 12.5 per cent.
+cluster expanded by 1.3 per cent.
+The chemicals cluster contracted by 0.1 per cent year-on-
+year in the fourth quarter, driven by an output contraction
+in the specialties segment. Output in the specialties
+segment declined by 26.2 per cent on account of a lower
+level of production of mineral oil additives and biofuels.
+By contrast, output of the other chemicals segment grew
+7.6 per cent with a higher level of output of fragrances.
+The petroleum and petrochemicals segments grew 6.1
+per cent and 4.0 per cent respectively, with the former
+growing from a low base the previous year due to plant
+maintenance shutdowns. For the whole of 2024, output
+of the chemicals cluster rose by 4.3 per cent.
+
+--- PAGE 60 ---
+
+58 Economic Survey of Singapore 2024
+Chapter 6.2
+CONSTRUCTION
+OVERVIEW
+The construction sector grew by 4.4 per cent year-on-year in the fourth quarter of 2024, slower than the 5.6 per
+cent expansion in the previous quarter.
+For the whole of 2024, the sector expanded by 4.5 per cent, slower than the 5.8 per cent growth in 2023.
+CONSTRUCTION DEMAND
+For the full year, total construction demand expanded by
+29.5 per cent to $44.2 billion (Exhibit 6.4), due to increases
+Construction demand (contracts awarded) dropped by 4.6 of 27.2 per cent in public sector construction demand and
+per cent year-on-year to $9.8 billion in the fourth quarter. 32.5 per cent in private sector construction demand.
+The contraction in public construction demand weighed
+down the expansion in private sector construction demand
+Exhibit 6.4: Contracts Awarded, 2024 ($ Billion)
+(Exhibit 6.3).
+Total Public Private
+Exhibit 6.3: Contracts Awarded
+Total 44.2 24.6 19.7
+$ Billion
+15
+Residential 15.3 7.3 8.0
+Commercial 5.4 0.3 5.1
+Total
+10 Industrial 4.9 0.3 4.6
+Institutional & Others 11.6 10.4 1.2
+Public
+Civil Engineering
+7.0 6.3 0.8
+5 Works
+Private
+Public Sector
+0 In the fourth quarter, public sector construction demand
+IV I II III IV
+contracted by 34.1 per cent year-on-year to $4.5 billion.
+2023 2024
+Residential and civil engineering construction demand
+declined by 68.3 per cent and 56.6 per cent respectively.
+On the other hand, construction demand for the rest of
+the building types expanded, ranging from 74.5 per cent
+for institutional building projects to 921 per cent for
+commercial building projects.
+
+--- PAGE 61 ---
+
+Chapter 6: Sectoral Performance 59
+For the full year, public sector construction demand Exhibit 6.5: Certified Payments
+increased by 27.2 per cent to $24.6 billion (Exhibit 6.4).
+The expansion was supported by an increase in contracts $ Billion
+12
+awarded for public commercial buildings (284 per cent)
+and public institutional and other buildings (117 per cent),
+Some of the major projects awarded during the year 10
+Total
+include (i) MPA’s office building at Cantonment Road; (ii)
+foundation works for MOH’s Eastern Integrated Health
+8
+Campus and the redevelopment of Alexandra Hospital; (iii)
+NHB’s Founders’ Memorial; (iv) MOH’s Health Sciences
+Authority Building; (v) SCB’s New Science Centre; (vi) PA’s 6
+Public
+Bukit Timah Integrated Development; and (vii) various
+contracts under LTA’s Cross Island MRT Line (Phase 2).
+4 Private
+Private Sector 2
+In the fourth quarter, private sector construction demand 0
+IV I II III IV
+increased by 54.6 per cent year-on-year to $5.3 billion.
+2023 2024
+Except for commercial building and civil engineering
+projects, which registered contractions of 10.0 per cent
+and 89.8 per cent respectively, demand expanded for all Public Sector
+other types of projects, ranging from 7.7 per cent for
+institutional building projects to 152 per cent for residential Public sector construction output rose by 16.1 per cent year-
+building projects. on-year to $5.4 billion in the fourth quarter. Construction
+output for all development types increased, supported
+For the full year, private sector construction demand grew by residential building (15.9 per cent), commercial
+by 32.5 per cent to $19.7 billion, on the back of higher building (25.6 per cent), industrial building (12.5 per
+demand for all building developments, including private cent), institutional and other building (10.8 per cent) and
+residential (43.8 per cent), commercial (44.5 per cent), civil engineering (19.4 per cent) projects.
+industrial (9.2 per cent) and institutional and other building
+(74.4 per cent) projects (Exhibit 6.4). Major projects awarded For the full year, public sector construction output increased
+in 2024 include (i) development of various past en-bloc by 19.1 per cent to $20.6 billion, underpinned by expansion
+sales and GLS sites; (ii) Resorts World at Sentosa 2.0; (iii) in outputs of all development types including residential
+Singtel’s Comcentre redevelopment; (iv) VisionPower’s building (20.0 per cent), commercial building (15.4 per
+semiconductor wafer manufacturing facility at Tampines; cent), industrial building (44.4 per cent), institutional
+(v) PSA Supply Chain Hub@Tuas; (vi) YTL Powerseraya’s and other building (10.1 per cent) and civil engineering
+Combined Cycle Power Plant and (vii) Perennial Holdings’ (19.5 per cent) works. Apart from public housing projects,
+Geriatric Care Home at Parry Avenue. other major projects supporting the growth included (i)
+MHA’s extension of the ICA Building; (ii) JTC’s Punggol
+Digital District, Space@AMK and Bulim Square; (iii) NEA’s
+Integrated Waste Management Facility; (iv) MOH’s SGH
+CONSTRUCTION OUTPUT
+Elective Care Centre/National Dental Centre; (v) LTA’s
+Singapore Rail Test Centre; (vi) Sport Singapore’s Punggol
+Construction output (or nominal certified payments) rose Regional Sports Centre; (vii) SIT Campus@Punggol North
+by 8.4 per cent year-on-year to $10.2 billion in the fourth (Plot 1); and (viii) LTA’s Cross Island MRT Line, Jurong
+quarter, supported by expansions in both public and private Region MRT Line, East Coast Integrated Depot and North
+sector construction output (Exhibit 6.5). South Corridor.
+For the full year, construction output increased by 10.0 per
+cent to $38.4 billion, extending the 15.4 per cent growth
+in 2023.
+
+--- PAGE 62 ---
+
+60 Economic Survey of Singapore 2024
+Private Sector CONSTRUCTION COSTS
+In the fourth quarter, private sector construction output BCA’s Building Works Tender Price Index (TPI) remained
+increased slightly by 0.7 per cent year-on-year to $4.8 relatively stable and is estimated to have increased by 1
+billion. The growth in residential building (5.2 per cent), per cent to 2 per cent year-on-year in 2024 (Exhibit 6.7).
+institutional and other building (21.6 per cent) and civil Looking ahead, domestic construction tender prices are
+engineering (20.2 per cent) works was weighed down by the likely to be supported by strong demand for construction
+contractions in commercial (-2.0 per cent) and industrial works over the medium-term.
+(-7.4 per cent) building works.
+Exhibit 6.7: Changes in Tender Price Index
+For the full year, private sector construction output grew by Per Cent
+1.2 per cent to $17.9 billion. The expansions in construction 15
+output for residential building (2.4 per cent), institutional
+and other building (4.9 per cent) and civil engineering (28.1
+per cent) works were weighed down by the declines in
+10
+commercial (-3.1 per cent) and industrial (-2.8 per cent)
+building works. Major ongoing projects include (i) various
+condominiums from past en-bloc sales sites and GLS
+sites; (ii) mixed-used integrated developments; (iii) RWS’ 5
+Singapore Oceanarium; (iv) Mandai Park Development’s
+Rainforest Park North and East Arrival Node; and (v) SP
+Powerassets’ power cabling and installation works. 0
+2020 2021 2022 2023 2024
+CONSTRUCTION MATERIALS
+In tandem with the rise in construction output, total
+consumption of ready-mixed concrete increased by 9.1 per
+cent in 2024 to 13.4 million m3. Similarly, total consumption
+of steel rebars1 rose by 3.9 per cent to about 1.6 million
+tonnes in 2024.
+The average market price of Grade 40 pump ready-mixed
+concrete2 increased by 4.0 per cent to about $120.37 per
+m3 in the fourth quarter of 2024, due to stronger local
+demand for ready-mixed concrete. On the other hand, the
+average market price of steel rebars3 fell by 9.4 per cent
+to around $746.87 per tonne in the fourth quarter, due to
+softening of global steel demand (Exhibit 6.6).
+Exhibit 6.6: Changes in Market Prices of Construction
+Materials
+Per Cent
+10
+Ready-Mixed
+Concrete
+0
+Steel Bars
+-10
+-20
+IV I II III IV
+2023 2024
+1 Rebar consumption is estimated from net imports plus local production (without factoring in stock levels).
+2 The market prices are based on contracts with non-fixed price and market retail price.
+3 The market prices refer to 16mm to 32mm High Tensile rebars and are based on fixed price supply contracts with a contract period of 6 months or below.
+
+--- PAGE 63 ---
+
+Chapter 6: Sectoral Performance 61
+CONSTRUCTION OUTLOOK IN Exhibit 6.8: Projected Construction Demand in 2025
+2025
+$ Billion
+According to BCA, total construction demand is projected to
+be between $47.0 billion and $53.0 billion in 2025 (Exhibit TOTAL CONSTRUCTION DEMAND 47.0 - 53.0
+6.8). The strong construction demand in 2025 is mainly
+due to the expected awards of large-scale projects such Building Construction Sub-total 38.1 - 43.0
+as expansion of Marina Bay Sands Integrated Resort (MBS
+IR2) and development of Changi Airport Terminal 5 (T5). Residential 13.8 - 15.2
+Taking into account contracts awarded in recent years and
+Commercial 3.6 - 5.1
+the construction demand forecast for 2025, total nominal
+construction output is projected to be between $39 billion
+Industrial 5.1 - 5.6
+and $42 billion in 2025, higher than the preliminary estimate
+of about $38.4 billion in 2024. This growth is expected to
+Institutional & Others 15.6 - 17.0
+be bolstered by strong construction demand over the past
+few years and a projected increase in demand in 2025.
+Civil Engineering Works Sub-total 9.0 - 10.0
+
+--- PAGE 64 ---
+
+62 Economic Survey of Singapore 2024
+Chapter 6.3
+WHOLESALE TRADE
+OVERVIEW
+The wholesale trade sector expanded by 6.7 per cent year-on-year in the fourth quarter of 2024, extending
+the 6.0 per cent growth in the previous quarter. Growth during the quarter was largely supported by the
+machinery, equipment & supplies segment on the back of the wholesale sales of electronic components and
+telecommunications & computers. At the same time, the fuels & chemicals segment grew due to an increase
+in the wholesale volume of petroleum & petroleum products and chemicals & chemical products.
+For the whole of 2024, the sector grew by 5.1 per cent, picking up from the 0.9 per cent expansion in 2023.
+WHOLESALE SALES
+Exhibit 6.9: Changes in Wholesale Trade Index in Chained
+Volume Terms
+In the fourth quarter, the wholesale trade sector was
+supported by an increase in both foreign and domestic Per Cent
+15
+wholesale sales volumes.
+Specifically, foreign wholesale sales volume rose by 6.6 10 Foreign Wholesale Trade Index
+per cent year-on-year in the fourth quarter, easing from
+the 10.2 per cent increase in the preceding quarter (Exhibit
+6.9). Growth in sales volume was fastest in the household 5
+equipment & furniture (23.1 per cent), general wholesale
+trade (19.0 per cent), and food, beverages & tobacco (16.5
+0
+per cent) segments, which outpaced the decline in the
+sales volume of the industrial & construction machinery
+(-10.8 per cent), transport equipment (-0.9 per cent) and -5
+Domestic Wholesale Trade Index
+metals, timber & construction materials (-0.1 per cent).
+For the whole of 2024, the foreign wholesale trade index
+-10
+rose by 7.6 per cent, a marked acceleration from the 1.0 IV I II III IV
+per cent growth in the previous year. 2023 2024
+Meanwhile, domestic wholesale sales volume expanded by
+2.5 per cent year-on-year in the fourth quarter, a reversal
+from the 4.3 per cent decline in the preceding quarter.
+Growth in sales volume was the strongest in the metals,
+timber & construction materials (32.1 per cent), transport
+equipment (20.2 per cent) and general wholesale trade
+(20.1 per cent) segments, offsetting the contraction in the
+sales volume of industrial & construction machinery (-22.3
+per cent) and electronic components (-11.0 per cent). For
+the whole of 2024, the domestic wholesale trade index
+contracted by 1.5 per cent, extending the 1.1 per cent
+decline posted in 2023.
+
+--- PAGE 65 ---
+
+Chapter 6: Sectoral Performance 63
+Chapter 6.4
+RETAIL TRADE
+OVERVIEW
+The retail trade sector contracted by 1.0 per cent year-on-year in the fourth quarter of 2024, extending the 0.7
+per cent decline in the previous quarter.
+For the whole of 2024, the sector contracted by 0.4 per cent, reversing from the 2.8 per cent growth in 2023.
+RETAIL SALES
+For the full year, overall retail sales volume decreased by 0.2
+per cent, reversing from the 0.4 per cent expansion in 2023.
+Overall retail sales volume decreased by 1.2 per cent year-
+on-year in the fourth quarter, extending the 0.3 per cent In 2024, non-motor vehicle sales volume shrank by 2.2 per
+decline in the third quarter (Exhibit 6.10). Overall retail sales cent. The decline in non-motor vehicle sales was led by the
+were weighed down by the decrease in non-motor vehicle sales of computer & telecommunications equipment (-8.8
+sales volume (-3.1 per cent). This was led by declines in per cent), watches & jewellery (-6.7 per cent) and wearing
+the sales volumes of computer & telecommunications apparel & footwear (-4.1 per cent). On the other hand, the
+equipment (-14.1 per cent), watches & jewellery (-11.6 per sales volumes of food & alcohol (7.1 per cent), cosmetics,
+cent), and optical goods & books (-4.6 per cent). On the toiletries & medical goods (1.6 per cent) and supermarkets &
+other hand, the recreational goods (3.7 per cent), cosmetics, hypermarkets (1.1 per cent) grew. Meanwhile, motor vehicle
+toiletries & medical goods (2.9 per cent) and supermarkets sales volume grew by 15.1 per cent due to an increase in
+& hypermarkets (1.6 per cent) segments grew. Meanwhile, COE quotas (Exhibit 6.11).
+motor vehicle sales volume grew by 13.9 per cent due to
+an increase in COE quotas. Exhibit 6.11: Changes in Retail Sales Index in Chained
+Volume Terms for Major Segments in 2024
+Exhibit 6.10: Changes in Retail Sales Index in Chained
+Volume Terms Motor Vehicles 15.1
+Food & Alcohol 7.1
+Per Cent
+4 Cosmetics, Toiletries & Medical Goods 1.6
+Supermarkets & Hypermarkets 1.1
+Total Others 0.4
+2 Furniture & Household Equipment -0.2
+Recreational Goods -0.7
+Department Stores -3.2
+0
+Total Petrol Service Stations -3.8
+(excluding Wearing Apparel & Footwear -4.1
+Motor Vehicles)
+-2 Mini-marts & Convenience Stores -6.0
+Optical Goods & Books -6.2
+Watches & Jewellery -6.7
+-4
+Computer & Telecomms Equipment -8.8
+-15 -10 -5 0 5 10 15 20
+Per Cent
+-6
+IV I II III IV
+2023 2024
+
+--- PAGE 66 ---
+
+64 Economic Survey of Singapore 2024
+Chapter 6.5
+TRANSPORTATION &
+STORAGE
+OVERVIEW
+The transportation & storage sector expanded by 3.7 per cent year-on-year in the fourth quarter of 2024,
+moderating from the 7.9 per cent growth in the previous quarter.
+For the whole of 2024, the sector grew at a faster pace of 5.8 per cent compared to the 3.5 per cent expansion
+recorded in 2023. The expansion of the sector was supported largely by the water transport, air transport and
+storage & other support services segments.
+WATER TRANSPORT AIR TRANSPORT
+Container throughput grew by 3.8 per cent year-on-year in Total air passenger traffic (less transit) handled by Changi
+the fourth quarter, easing from the 5.1 per cent expansion Airport climbed by 10.6 per cent year-on-year in the fourth
+in the previous quarter (Exhibit 6.12). For the full year, the quarter, extending the 10.1 per cent growth in the previous
+number of TEUs (Twenty-Foot Equivalent Units) handled quarter (Exhibit 6.13). In absolute terms, air passenger
+by Singapore’s ports came in at 41.1 million, representing traffic volume recovered to 100 per cent of the volume
+a 5.4 per cent expansion, accelerating from the 4.6 per seen in the fourth quarter of 2019 (pre-pandemic).
+cent growth clocked in 2023.
+For the full year, total air passenger traffic passing through
+Exhibit 6.12: Changes in Container Throughput and Sea Changi Airport climbed by 14.8 per cent to come in at
+Cargo Handled 67.1 million, moderating from the 83.1 per cent increase
+posted in 2023.
+Per Cent
+15
+Exhibit 6.13: Changes in Air Transport
+Container Per Cent
+Throughput
+10 40
+Sea Cargo
+30
+Air Passengers
+5
+20
+10 Air Cargo
+0 Aircraft Landings
+IV I II III IV
+2023 2024 0
+-10
+Overall sea cargo volume expanded by 1.3 per cent year- IV I II III IV
+on-year in the fourth quarter, moderating from the 3.2 2023 2024
+per cent growth in the preceding quarter. The expansion
+in sea cargo volume was led by growth in general cargo
+shipments, which expanded by 1.1 per cent during the
+quarter, easing from the 5.8 per cent growth registered in
+the third quarter. For the whole of 2024, overall sea cargo
+volume grew by 5.2 per cent, improving from the 2.4 per
+cent increase in the previous year.
+
+--- PAGE 67 ---
+
+Chapter 6: Sectoral Performance 65
+Meanwhile, air cargo volume grew by 15.0 per cent year-
+on-year in the fourth quarter, following the 13.5 per cent
+expansion in the previous quarter. In absolute terms, total
+air cargo volume was at 99.9 per cent of pre-pandemic
+levels (i.e., in the fourth quarter of 2019). For 2024 as a
+whole, air cargo shipments grew by 14.6 per cent, reversing
+the 6.1 per cent contraction posted in 2023.
+Meanwhile, aircraft landings climbed by 9.3 per cent year-
+on-year to reach 47,630 in the fourth quarter, following
+the 7.5 per cent increase in the third quarter. This brought
+the total number of aircraft landings in 2024 to 182,951,
+which was 11.5 per cent higher than in 2023.
+
+--- PAGE 68 ---
+
+66 Economic Survey of Singapore 2024
+Chapter 6.6
+ACCOMMODATION
+OVERVIEW
+The accommodation sector grew by 4.2 per cent year-on-year in the fourth quarter of 2024, moderating from
+the 5.6 per cent expansion in the previous quarter.
+For the whole of 2024, the sector expanded by 7.1 per cent, slowing from the 15.7 per cent growth in 2023.
+VISITOR ARRIVALS
+In terms of source markets, Singapore’s top ten markets
+in 2024 were China (3.1 million visitors), Indonesia (2.5
+Singapore received around 3.9 million visitors in the fourth million), India (1.2 million), Malaysia (1.2 million), Australia
+quarter, 13.9 per cent higher compared to the same period (1.2 million), the Philippines (779 thousand), the USA
+a year ago (Exhibit 6.14). Compared to the same quarter (692 thousand), South Korea (595 thousand), the UK
+in 2019 (pre-pandemic), visitor arrivals remained 17.7 per (580 thousand) and Japan (573 thousand). Together, they
+cent lower. For the full year, visitor arrivals increased by accounted for 74.7 per cent of total visitor arrivals in 2024.
+21.5 per cent, slowing from the 116 per cent expansion
+in 2023. Among the top 10 source markets, China (126 per cent),
+Japan (32.4 per cent) and the UK (22.5 per cent) posted the
+Exhibit 6.14: Visitor Arrivals strongest growth in visitor arrivals in 2024 (Exhibit 6.15).
+Thousand Per Cent Exhibit 6.15: Growth Rates of Top 10 Visitor-Generating
+5000 50
+Markets in 2024
+YoY Change
+(RHS)
+4000 40
+China 126.0
+Japan 32.4
+3000 30
+United 22.5
+Kingdom
+Philippines 12.5
+2000 20
+India 11.9
+Malaysia 8.9
+1000 10
+Australia 8.2
+0 0 Indonesia 8.2
+IV I II III IV
+2023 2024 United States 8.0
+South Korea 4.2
+0 50 100 150
+Per Cent
+
+--- PAGE 69 ---
+
+Chapter 6: Sectoral Performance 67
+ACCOMMODATION
+In tandem with the strong recovery in visitor arrivals, gross
+lettings of gazetted hotel rooms grew by 7.2 per cent year-
+on-year in the fourth quarter, extending the 7.7 per cent
+growth in the previous quarter (Exhibit 6.16). Similarly,
+room revenue expanded by 7.2 per cent, picking up from
+the 5.2 per cent increase in the preceding quarter. This
+was accompanied by increases in average room rates and
+in average occupancy rates of gazetted hotels. Specifically,
+the average occupancy rate rose by 3.4 percentage points,
+while the average room rate grew by 0.1 per cent to $271
+in the fourth quarter.
+For 2024 as a whole, the accommodation sector grew by
+7.1 per cent, driven by the recovery in tourism demand.
+The overall room revenue of gazetted hotels climbed by
+11.4 per cent to reach $5.3 billion in 2024, driven by a 10.0
+per cent expansion in gross lettings and a 1.4 per cent
+increase in average daily room rates.
+Exhibit 6.16: Gross Lettings
+Thousand Per Cent
+6000 25
+YoY Change
+5000 (RHS) 20
+4000 15
+3000 10
+2000 5
+1000 0
+0 -5
+IV I II III IV
+2023 2024
+
+--- PAGE 70 ---
+
+68 Economic Survey of Singapore 2024
+Chapter 6.7
+FOOD & BEVERAGE
+SERVICES
+OVERVIEW
+The food & beverage services sector contracted by 0.3 per cent year-on-year in the fourth quarter of 2024,
+extending the 1.3 per cent decline in the previous quarter.
+For the whole of 2024, the sector contracted by 0.9 per cent, a reversal from the 5.6 per cent expansion in 2023.
+FOOD & BEVERAGE SALES
+For the whole of 2024, the food & beverage services
+volume index declined by 0.5 per cent. This was a reversal
+Overall food & beverage sales volume declined marginally1 from the 3.3 per cent expansion registered in 2023. At the
+year-on-year in the fourth quarter of 2024, extending the segment level, the sales volumes of food caterers (15.9
+1.0 per cent contraction in the preceding quarter (Exhibit per cent) grew, while that of fast food outlets (-5.4 per
+6.17). This was led by declines in the sales volume of fast cent), restaurants (-3.2 per cent) and cafes, food courts
+food outlets (-3.2 per cent), cafes, food courts & other & other eating places (-0.7 per cent) shrank.
+eating places (-2.4 per cent) and restaurants (-1.0 per cent)
+segments. On the other hand, sales of the food caterers
+segment continued to grow (14.7 per cent) in tandem with
+the continued recovery in inbound tourism demand.
+Exhibit 6.17: Changes in Food and Beverage Services Index
+in Chained Volume Terms
+Per Cent
+1
+0
+-1
+-2
+-3
+IV I II III IV
+2023 2024
+1 Sales volume declined by -0.04 per cent.
+
+--- PAGE 71 ---
+
+Chapter 6: Sectoral Performance 69
+Chapter 6.8
+INFORMATION &
+COMMUNICATIONS
+OVERVIEW
+The information & communications sector expanded by 4.2 per cent year-on-year in the fourth quarter of 2024,
+extending the 4.0 per cent growth in the previous quarter. This positive outturn was largely due to strong growth
+in the IT & information services and “others” segments1, while the telecommunications segment contracted
+during the quarter.
+For the whole of 2024, the sector grew by 5.0 per cent, a slowdown from the 11.2 per cent expansion in 2023.
+IT & INFORMATION SERVICES
+Exhibit 6.18: Information & Communications Growth
+Per Cent
+In 2024, the growth of the information & communications
+sector was led by the IT & information services segment. 10
+Specifically, the segment expanded by 6.8 per cent, driven Mobile
+Subscriptions
+by strong enterprise demand for digital solutions and
+services.
+5
+TELECOMMUNICATIONS
+Broadband
+Subscriptions
+0
+The telecommunications segment grew by 0.2 per cent in
+2024. In the third quarter of 2024, the latest period where
+data is available, total fixed line subscriptions grew by
+3.5 per cent. -5
+As at October 20242, the number of mobile subscriptions
+grew by 3.8 per cent compared to the same month in 2023
+(Exhibit 6.18). While there was a 97.3 per cent decline in -10
+2020 2021 2022 2023 2024
+the number of 3G subscriptions to 2,200, this was offset
+by the 0.2 per cent increase in 4G subscriptions to 7.5
+million and the 23.9 per cent increase in 5G subscriptions
+to around 2.2 million.
+In October 2024, the number of broadband subscriptions
+rose by 6.3 per cent. The increase was driven by optical
+fibre broadband (2.1 per cent) and wireless broadband
+(7.0 per cent) subscriptions.
+1 The “others” segment consists of (i) publishing activities (including computer games and software publishing), (ii) motion picture, video and other programme
+production, sound recording, and music publishing activities, and (iii) radio and television broadcasting activities.
+2 Full-year data are not available at the time of publication.
+
+--- PAGE 72 ---
+
+70 Economic Survey of Singapore 2024
+Chapter 6.9
+FINANCE &
+INSURANCE
+OVERVIEW
+The finance & insurance sector expanded by 6.1 per cent year-on-year in the fourth quarter of 2024, improving
+from the 5.6 per cent growth in the previous quarter. For the whole of 2024, the sector expanded by 6.8 per cent,
+up from the 3.1 per cent growth in the preceding year.
+OVERALL PERFORMANCE BANKING
+The finance & insurance sector grew strongly in 2024, with Credit intermediation strengthened in 2024, following
+broad-based expansions recorded across the segments, the contraction recorded in 2023 (Exhibit 6.20). Loans to
+including banking, fund management, insurance and residents rose by 5.2 per cent, driven by business loans
+activities auxiliary to financial services (which largely to the transport & communications sector, although this
+comprise the payments firms) (Exhibit 6.19). was partially offset by the decline in loans extended to
+manufacturing.
+Trading activity was generally elevated during the year amid
+shifts in global and domestic financial market sentiments, Exhibit 6.20: Growth of Bank Loans and Advances to Non-
+leading to strong growth in net fees and commissions Bank Residents and Non-Residents (Per Cent)
+among banks and fund managers. The insurance industry
+recorded a surge in new premiums among life insurers, 2023 2024
+while the auxiliary financial services segment benefited
+from higher cross border transactions associated with Bank Loans & Advances to
+-2.4 5.2
+greater travel spending. Non-Bank Residents
+Business Loans -3.9 6.2
+Exhibit 6.19: Finance & Insurance Growth Rates
+Building & Construction -0.3 4.3
+Per Cent Transportation & Communications -4.6 20.4
+10
+Non-Bank Financial Institutions 0.1 5.3
+8.3 General Commerce -15.6 7.5
+8 Manufacturing -13.4 -4.2
+7.4 7.4
+Business Services 14.3 9.6
+6.1
+Others -0.8 6.4
+6 5.6
+Consumer Loans -0.1 3.6
+Housing & Bridging Loans 1.3 2.8
+4
+Professional & Private Individuals -3.5 5.9
+Bank Loans & Advances to
+-3.8 4.1
+Non-Bank Non-Residents
+2
+Americas -6.3 1.0
+Europe 4.1 7.9
+0
+IV I II III IV East Asia -5.0 -0.5
+2023 2024
+Others -2.6 13.4
+
+--- PAGE 73 ---
+
+Chapter 6: Sectoral Performance 71
+SECURITY DEALING ACTIVITIES
+Consumer lending also increased, supported in part
+by housing & bridging loans. Externally, loans to non-
+residents grew by 4.1 per cent, bolstered by lending to In 2024, the turnover volume of the securities market fell
+regions outside of East Asia. by 0.7 per cent to 338.4 billion shares, even as portfolios
+shifted towards non-cash equivalent assets amid the
+global easing in monetary policy.
+INSURANCE
+The turnover volume of the derivatives market grew by
+Total weighted new business premiums in the life insurance 18.4 per cent to 298 contracts in 2024, expanding steadily
+industry increased by 23.3 per cent to $7.8 billion in 2024 throughout the year underpinned by elevated futures
+(Exhibit 6.21). Single premium business rose by 7.4 per trading activity (Exhibit 6.22).
+cent to $16.7 billion while regular premium business
+expanded by 28.5 per cent to $6.1 billion. Exhibit 6.22: Securities and Derivatives Turnover Volumes
+In the general insurance industry, gross premiums Billion Shares Million Contracts
+expanded by 2.5 per cent to $19.8 billion in 2024, with 400 400
+offshore and domestic businesses accounting for $14.0
+350 350
+billion and $5.8 billion, respectively.
+300 300
+Exhibit 6.21: Premiums in the Insurance Industry
+250 250
+$ Billion
+20 200 200
+150 150
+100 100
+15
+50 50
+0 0
+10 Securities Derivatives (RHS)
+2023 2024
+5
+0
+Life Industry Industry General Insurance Industry
+2023 2024
+
+--- PAGE 74 ---
+
+72 Economic Survey of Singapore 2024
+Chapter 6.10
+REAL ESTATE &
+PROFESSIONAL SERVICES
+OVERVIEW
+The real estate sector expanded by 3.5 per cent year-on-year in the fourth quarter of 2024, extending the 1.0 per
+cent growth in the previous quarter. For the whole of 2024, the sector grew by 0.2 per cent, moderating from the
+3.8 per cent growth in 2023.
+The professional services sector expanded by 0.6 per cent year-on-year in the fourth quarter of 2024, extending
+the 1.2 per cent growth in the previous quarter. For the whole of 2024, the sector grew by 1.2 per cent, moderating
+from the 3.4 per cent growth in 2023.
+REAL ESTATE
+In the private commercial retail space market, the
+performance remained resilient in the fourth quarter.
+The private residential property market expanded on a Specifically, demand for private commercial retail space
+year-on-year basis in the fourth quarter, as total private (measured by total occupied space) rose by 2.1 per cent
+residential property sales rose by 71.5 per cent, accelerating year-on-year, extending the 2.8 per cent increase in
+from the 3.3 per cent increase in the previous quarter. For the third quarter. For the full year, demand for private
+the full year, total sales rose by 15.3 per cent to 21,950 commercial retail space grew by 2.4 per cent, higher than
+units, from the 19,044 units sold in 2023. the 2.0 per cent increase in 2023.
+Private residential certified progress payments (a proxy Meanwhile, demand for private commercial office space
+for developers’ margins) rose by 5.2 per cent year-on-year rose by 0.3 per cent year-on-year in the fourth quarter,
+in the fourth quarter, extending the 6.1 per cent increase extending the 0.2 per cent growth in the preceding quarter.
+in the preceding quarter. For the whole of 2024, private For the full year, demand for private commercial office
+residential certified progress payments climbed by 2.4 space grew by 0.4 per cent, lower than the 1.5 per cent
+per cent, moderating from the increase of 11.0 per cent increase in 2023 (Exhibit 6.24).
+in 2023 (Exhibit 6.23).
+Exhibit 6.24: Total Occupied Space for Private Sector
+Exhibit 6.23: Total Sales for Private Residential Units and Commercial Office and Retail Spaces
+Private Residential Certified Payments
+Million Square Metre Nett
+Thousand Per Cent 7
+10 7
+6
+9 6
+8 5
+5
+7 4
+4
+6 3
+5 2 3
+4 1
+2
+3 0
+2 -1 1
+1 -2
+0
+IV I II III IV
+0 -3
+IV I II III IV 2023 2024
+2023 2024
+Office Retail
+Total Sales Private Residential Certified Payments (RHS)
+
+--- PAGE 75 ---
+
+Chapter 6: Sectoral Performance 73
+PROFESSIONAL SERVICES
+Overall demand for private industrial space rose by 0.7
+per cent year-on-year in the fourth quarter, extending the
+0.3 per cent increase seen in the previous quarter (Exhibit In 2024, the professional services sector expanded, with
+6.25). Within the market, demand for all types of industrial the accounting, head offices & business representative
+space expanded during the fourth quarter. In particular, offices and management consultancy activities segments
+demand for business parks and warehouses increased registering growth. Growth in the sector was largely driven
+by 2.3 per cent and 0.8 per cent respectively in the fourth by the head offices and business representative offices
+quarter, whereas demand for single-user factories and segment, which expanded by 4.3 per cent.
+multiple-user factories increased by 0.7 per cent and 0.1
+per cent respectively. For the full year, demand for private
+industrial space rose by 0.6 per cent, extending the 0.9
+per cent growth seen in 2023.
+Exhibit 6.25: Total Occupied Space for Private Sector
+Industrial Space
+Million Square Metres
+42
+41
+40
+39
+38
+37
+36
+IV I II III IV
+2023 2024
+
+--- PAGE 76 ---
+
+CHAPTER ECONOMIC
+7
+OUTLOOK
+
+--- PAGE 78 ---
+
+76 Economic Survey of Singapore 2024
+Chapter 7
+ECONOMIC
+OUTLOOK
+LEADING INDICATORS OUTLOOK FOR 2025
+The composite leading index (CLI) for Singapore fell by Since the Economic Survey of Singapore in November 2024,
+0.8 per cent on a quarter-on-quarter basis in the fourth major economies have remained resilient, performing
+quarter of 2024, following the 0.1 per cent decline in the largely in line with expectations in the fourth quarter of
+previous quarter (Exhibit 7.1). 2024 amidst rising global economic uncertainty. Singapore’s
+external demand outlook for 2025 has also remained
+Of the nine components of the CLI, six components broadly unchanged, with overall GDP growth in Singapore’s
+decreased on a quarter-on-quarter basis in the fourth key trading partners expected to ease from 2024’s level.
+quarter, namely the stock of finished goods, domestic
+liquidity, wholesale trade, non-oil sea cargo handled, Among the advanced economies, GDP growth in the US
+new companies formed and non-oil retained imports. By is projected to moderate in 2025, as private consumption
+contrast, the US Purchasing Managers’ Index, stock price growth is expected to taper over the course of the year
+and money supply rose compared to a quarter ago. in tandem with easing tightness in the labour market.
+Nonetheless, there is a large cone of uncertainty
+Exhibit 7.1: Composite Leading Index Levels and Growth Rate surrounding the outlook of the US economy, with its
+trajectory depending on the policies of the new US
+2015 = 100 Per Cent
+administration. By contrast, GDP growth in the Eurozone
+114 10 is likely to improve on the back of stronger consumption
+growth and a gradual recovery in investments as monetary
+112 QoQ Change 5
+(RHS) policy becomes more accommodative.
+110 0
+In Asia, China’s GDP growth is expected to moderate
+108 -5
+on account of a slowdown in merchandise exports and
+106 -10 investment growth due to tariff hikes and industrial
+overcapacity respectively. Meanwhile, growth in the
+104 -15
+key Southeast Asian economies should remain steady,
+102 -20 supported by improving domestic demand and a sustained
+recovery in tourism demand.
+100 -25
+98 -30 At the same time, uncertainties in the global economy
+I II III IV I II III IV I II III IV I II III IV
+2021 2022 2023 2024 remain significant, with the risks tilted to the downside.
+First, ongoing trade frictions among major economies,
+alongside lingering risks of escalation in geopolitical
+conflicts, could lead to higher production costs, as well
+as greater global economic policy uncertainty. These
+could in turn dampen global investment and trade, and
+weigh on global growth. Second, disruptions to the global
+disinflation process could lead to tighter financial conditions
+for longer, potentially triggering latent vulnerabilities in
+banking and financial systems.
+
+--- PAGE 79 ---
+
+Chapter 7: Economic Outlook 77
+Against this backdrop, the manufacturing and trade-related
+services sectors in Singapore are expected to continue
+to expand in 2025, although their pace of growth is likely
+to moderate from 2024 levels. Within the manufacturing
+sector, the electronics cluster is projected to expand at a
+steady pace, supported by robust demand for semiconductor
+chips in the PC, smartphone and data centre end-markets.
+This will have positive spillover effects on the precision
+engineering cluster and the machinery, equipment &
+supplies segment of the wholesale trade sector. At the
+same time, strong order books in the aerospace and marine
+& offshore engineering segments should drive growth in
+the transport engineering cluster.
+Meanwhile, outward-oriented services sectors such as
+information & communications and finance & insurance
+are projected to register healthy growth. The former will
+be supported by sustained enterprise demand for digital
+solutions and services, while the latter will be bolstered
+by stronger demand for cross-border transactions in the
+region, which will further boost payments processing
+activities.
+On the other hand, the growth of consumer-facing sectors
+such as retail trade and food & beverage services is likely
+to remain lacklustre, weighed down in part by locals
+shifting their spending overseas, even though the continued
+recovery in international visitor arrivals should provide
+some support.
+Taking into account the external and domestic economic
+environment, and barring the materialisation of downside
+risks, the Singapore economy is projected to expand by
+“1.0 to 3.0 per cent” in 2025.
+
+--- PAGE 80 ---
+
+IMPACT EVALUATION OF A*STAR’S
+FEATURE TECHNOLOGY FOR ENTERPRISE
+ARTICLE CAPABILITY UPGRADING
+(T-UP) PROGRAMME
+
+--- PAGE 82 ---
+
+80 Economic Survey of Singapore 2024
+Feature Article
+IMPACT EVALUATION OF A*STAR’S
+TECHNOLOGY FOR ENTERPRISE
+CAPABILITY UPGRADING
+(T-UP) PROGRAMME
+OVERVIEW
+Technology for Enterprise Capability Upgrading (T-Up) is a secondment programme,
+funded through Enterprise Singapore and administered by A*STAR, where A*STAR’s
+research scientists and engineers are seconded to local firms to help build in-house
+R&D capabilities and enhance business competitiveness.
+FINDINGS
+Finding 1: Finding 2:
+We find that, on average, firms participating in the T-Up Firms participating in the T-Up programme also
+programme had 65.4 per cent higher R&D expenditure saw 44.3 per cent higher revenue and 21.9 per cent
+and were 8.4pp more likely to conduct R&D. higher employment.
+65.4% 44.3%
+higher R&D higher
+expenditure 65.4% revenue
+higher R&D
+expe 8 nd . i 4 tur p e p 21.9%
+likely to higher
+conduct R&D employment
+POLICY TAKEAWAY
+The T-Up programme was effective in supporting local firms in enhancing their
+business competitiveness through upgrading their R&D capabilities and growing
+business revenue. The T-Up programme is a Funding Initiative as part of the
+Research, Innovation and Enterprise (RIE) 2025 plan to develop Singapore into an
+innovation-driven economy. A*STAR will continue to support firms in enhancing
+their R&D capabilities through T-Up and other R&D-related schemes.
+
+--- PAGE 83 ---
+
+Feature Article 81
+EXECUTIVE SUMMARY
+Launched in 2003, the Technology for Enterprise Capability Upgrading (T-Up) programme is a secondment
+programme funded by Enterprise Singapore and administered by A*STAR, where A*STAR’s research scientists
+and engineers are seconded to local enterprises to help them build in-house research and development
+(R&D) capabilities and grow their business revenue. This study evaluates the impact of the T-Up programme
+on participating firms’ outcomes.
+Our findings show that firms participating in the T-Up programme spent 65.4 per cent more on R&D and
+were 8.4 percentage-points more likely to conduct R&D in a given year compared to a control group. They
+also correspondingly enjoyed 44.3 per cent higher revenue and 21.9 per cent higher employment than the
+control group. These findings suggest that the T-Up programme has been effective in supporting local firms
+to upgrade their R&D capabilities and grow their business revenue.
+The views expressed in this paper are solely those of the authors and do not necessarily reflect those of the Ministry of Trade
+and Industry (MTI) or the Government of Singapore.1
+INTRODUCTION
+The Technology for Enterprise Capability Upgrading (T-Up) programme is a funding initiative under the Research,
+Innovation and Enterprise (RIE) 2025 plan to develop Singapore into an innovation-driven economy. Started by A*STAR in
+2003, T-Up aims to help promising local small- and medium-sized enterprises (SMEs) as well as large local enterprises
+(LLEs) build in-house research and development (R&D) capabilities and grow their revenue, by enabling them to tap
+on A*STAR’s scientific talent pool.
+As part of the scheme, A*STAR researchers are seconded to participating local enterprises for up to two years to aid
+in their R&D projects (see Annex A for examples of these projects). Seconded researchers share product development
+strategy and impart knowledge in technical areas to support the firm in the development of new products and processes,
+as well as build up their intellectual property portfolio. At the same time, participating firms are provided funding
+support by Enterprise Singapore, at up to 70% of allowable costs for SMEs or startups and up to 30% for LLEs, with
+the support levels capped at S$250,000 per project.
+This study evaluates the effectiveness of the T-Up programme in enhancing firms’ outcomes in R&D, as well as their
+revenue, employment, value-added, productivity and wages.
+The rest of the article is organised as follows. We first present a literature review of the impact that the movement of
+researchers from public research institutions to private entities has on the private entities. We then describe the data
+and methodology used in the study before reporting the results. The final section concludes.
+LITERATURE REVIEW
+In the literature, technology transfer is generally seen as essential to boost firms’ competitiveness and foster innovation.
+Foundational research, which forms the basis of technological advancements, is often conducted by universities and
+public research institutions (Wrisich et al., 2016). Meanwhile, firms conducting R&D often face significant challenges,
+including high costs and uncertain outcomes. For SMEs in particular, these challenges are compounded by limited
+resources and constraints in their capacity to absorb complex technological advancements. To address the impediments
+to R&D in the private sector, government agencies often promote collaborations, such as through secondments,
+between public research institutions and the private sector (Hilkenmeier et al., 2021). These partnerships allow firms
+to adopt advanced technologies more quickly and enhance their overall innovative capacity.
+1 We would like to thank Ms Yong Yik Wei, Dr Andy Feng, Ms Jamie Poh, Mr Lee Zen Wea, Dr Gwee Yi Jie and Dr Tan Yi Jin for their useful suggestions and comments.
+We are also grateful to colleagues from MTI’s Innovation, Research and Development Division, A*STAR as well as Enterprise Singapore for their input.
+
+--- PAGE 84 ---
+
+82 Economic Survey of Singapore 2024
+A review of the empirical literature highlights the positive outcomes of secondment policies and other initiatives
+involving the movement of researchers from public research institutions to private firms. For instance, Herrera (2010)
+found that Spanish firms that hired personnel from the public R&D system registered a 2.6 percentage-point (pp)
+increase in their total R&D intensity, measured as the ratio of total R&D expenditure to total sales. Hilkenmeier et
+al. (2021) surveyed firms that participated in a public-private partnership programme in Germany where scientists
+from a public research organisation were temporarily seconded to SMEs to jointly work on projects. The study found
+that apart from reporting technological advancements in their operations, the majority of the participating firms also
+engaged in follow-up projects as a result of the partnership.
+In the local context, an earlier evaluation of the T-Up programme by Ho et al. (2016) found that the seconded researchers
+imparted new technologies to the participating firms, and also improved the firms’ capacity for learning and innovation.
+In particular, the T-Up secondment improved firms’ product innovation intensity, which was measured as the percentage
+of sales derived from new products, by 3.2 per cent.
+This study extends Ho et al.’s 2016 study in two ways. First, while the previous study relied on survey data, this study
+leveraged firm-level administrative data, which in turn enabled more robust quantitative methods to be used and
+more firm outcomes of policy relevance to be examined. Second, this study tracked more recent cohorts of firms that
+participated in the T-Up programme (i.e., from 2011 to 2018), whereas the previous study covered firms that participated
+before 2012 when the scheme was at a more nascent stage.
+DATA AND SUMMARY STATISTICS
+For the purpose of our study, we merged three datasets: a longitudinal firm-level administrative dataset containing
+firms’ characteristics from the Department of Statistics, data on T-Up participants from A*STAR, and data on R&D
+conducted by firms in Singapore from A*STAR’s National Survey of Research, Innovation and Enterprise2. The merged
+dataset contained firm-level data such as revenue, value-added, employment size and age of the firm, as well as
+R&D-related data3 like firms’ R&D expenditure.
+Our study focused on firms that participated in the T-Up programme for the first time between 2011 and 2018. We
+examined cohorts up to 2018 because the firm-level administrative and A*STAR’s survey datasets at the point of the
+study were only available up to 2020.4 This is particularly since the effects of R&D policies may take time to materialise.5
+Based on the dataset assembled, a total of 161 firms participated in the T-Up programme between 2011 and 2018.
+The number ranged from 15 to 30 firms per year throughout the period of analysis, with an average of 20 firms per
+year (Exhibit 1). The data also showed that T-Up firms tended to be micro and small firms with annual revenue below
+S$10 million and fewer than 50 employees (Exhibit 2).
+2 A*STAR’s National Survey of Research, Innovation and Enterprise (RIE) is conducted annually and provides insights on Singapore’s R&D ecosystem, including
+information on the R&D performed by firms.
+3 R&D-related data are from A*STAR’s RIE Survey, and are subject to entities’ responses.
+4 In recent years, the archetype of firms participating in the T-Up programme has evolved, with more T-Up projects involving start-ups within the deep tech, artificial
+intelligence and biomedical space. However, as we were only able to study T-Up cohorts up to 2018, our results would not incorporate the effects of these recent
+shifts.
+5 Moreover, while around 90% of the T-Up projects last for up to one year, there are some that could last for up to two years. Given that data on firms’ outcomes are
+only available up to 2020, the 2018 cohort would represent the latest cohort that could be studied.
+
+--- PAGE 85 ---
+
+Feature Article 83
+Exhibit 1: Number of Firms that Participated in T-Up, 2011 to 2018 cohorts
+30
+25
+20
+15
+10
+5
+0
+2011 2012 2013 2014 2015 2016 2017 2018
+Source: Authors' estimates, based on data from A*STAR
+Exhibit 2: Number of Firms that Participated in T-Up, 2011 to 2018 cohorts
+Annual Revenue Employment
+More than S$10m Less than S$1m
+More than 50 Less than 10
+22% 40%
+21% 45%
+S$1 to S$10m 10 to 50
+38% 34%
+Less than S$1m S$1 to S$10m More than S$10m Less than 10 10 to 50 More than 50
+Source: Authors' estimates, DOS, A*STAR
+
+--- PAGE 86 ---
+
+84 Economic Survey of Singapore 2024
+EMPIRICAL METHODOLOGY
+Summary statistics from the data compiled showed that firms that participated in the T-Up programme differed in
+observable characteristics from firms that did not participate (Exhibit 3). In particular, compared to non-T-Up firms,
+T-Up firms had on average (i) higher employment, (ii) higher total R&D expenditure, but (iii) lower productivity (measured
+as value-added per worker). They were also more likely to be in the manufacturing sector.
+Given these differences, there is a need to mitigate potential selection biases when examining the impact of the T-Up
+programme in order to obtain a causal estimate of the impact. To do so, we constructed a group of non-participating
+firms (i.e., control firms) with characteristics that were comparable to the participating firms (i.e., treated firms) through
+coarsened exact matching (CEM), with the matching performed separately for each T-Up cohort. The matching variables
+used included the firm’s age, total R&D expenditure, value-added, value-added per worker, total employment and
+sector.6 Exhibit 3 shows that upon matching, firms in the control group were observably more similar to the treated
+firms in terms of their characteristics.
+Exhibit 3: Summary Statistics on Firm Characteristics Before and After Matching7
+Before Matching After Matching
+Control Treated Control Treated
+Firm age (years) 10.9 11.5 12.5 12.4
+Total R&D expenditure (S$ Thousand) 45.2 222.9 155.7 187.5
+Value-added (S$ Million) 2.1 6.1 2.7 2.2
+Value-added per worker (S$ Thousand) 77.0 44.9 60.2 47.2
+Total employment 19.6 68.2 34.1 33.3
+Share of manufacturing sector (%) 5.6 33.3 34.0 34.0
+Share of professional services sector (%) 12.4 24.0 21.8 21.8
+As there were multiple treatment cohorts, we used a staggered Difference-in-Differences (DiD) regression model
+(Wooldridge, 2021) to uncover the causal impact of the T-Up programme on firm outcomes.8 Our main specification
+regression was as follows:
+Y γ θ β · Treat Cohort ε
+t ic tc 2018 2020 c,t c t ct
+𝑖c = + +c = ∑201 1 t =∑201 0 𝑖 × ×T ime + 𝑖
+Where:
+Y is the outcome variable for firm in cohort at time ;
+t
+Treat Cohort Time is a dummy variable which takes on the value of 1 for the observation at year for
+• 𝑖c c t 𝑖 c t
+firm , if firm was treated at year c (i.e., treated firm belonging to cohort c);
+• 𝑖 × × t
+γ denotes the firm cohort time-invariant fixed effects;
+ic 𝑖 𝑖
+θ denotes the year cohort fixed effects; and
+• tc ×
+ε is the error term assumed to be uncorrelated with the independent variable in all time periods.
+• t ×
+• 𝑖c
+We included firm fixed effects to account for time-invariant firm characteristics (including those not observed in the
+dataset) that could affect firms’ outcomes (e.g., managerial practices). We also included time fixed effects to control
+for factors that affected all firms over time (e.g., macroeconomic conditions). The firm and time fixed effects were
+interacted with cohort fixed effects to ensure that the comparisons were made between treated and control firms
+within cohorts.
+6 For each cohort, the CEM algorithm was implemented using data in the year prior to the commencement of the T-Up project. For instance, 2014 data was used to
+identify a suitable control group for the 2015 cohort.
+7 Summary statistics were generated based on the pooled data in the year before each cohort’s participation in T-Up (i.e., in the year used for matching). For instance,
+for the 2015 cohort, the summary statistics were generated using the corresponding data in 2014, as well as 2014 data for control firms.
+8 This was preferred to the traditional DiD using two-way fixed effects as the latter could lead to biased estimates when there is staggered treatment timing and
+treatment heterogeneity across cohorts or time.
+
+--- PAGE 87 ---
+
+Feature Article 85
+The coefficients of interest, β s, measure the causal impact of the T-Up programme on the outcomes of firms in cohort
+c,t
+c at year t, relative to the base year of 2009. We aggregated combinations of β into event-time (i.e., the time relative to
+c,t
+the start year of the project) average treatment effects (ATEs). Specifically, to get the ATE for the year after treatment
+had started (i.e., the causal impact one year after the firm had started participating in the programme, which we denoted
+as τ ), or β ,we took the average of the coefficients β , β , … , β . Repeating this for different
+τ=1 c=2011,t=2012 c=2012,t=2013 c=2018,t=2019
+event-times will give us a set of event-time coefficients β.
+τ
+= 1
+RESULTS AND DISCUSSION
+The empirical strategy outlined above would be valid only if the trends in the outcomes of the T-Up firms were similar
+to those of the control firms in the years before the T-Up firms received treatment (i.e., the parallel trends assumption
+holds). We conducted a parallel trends test to examine this. The second column in Exhibit 4 below shows that none
+of the outcome variables have statistically significant coefficients in the one to three years before T-Up participation
+(i.e., τ < 0), indicating that the treatment and control firms displayed similar trends in outcomes prior to the treatment
+firms’ participation in T-Up.
+We present the results as the averages of several event-time coefficients in Exhibit 4. For example, in the third column,
+β is the average of β ,…,β , which reflects the average annual effect of the T-Up programme from the year of
+τ τ τ
+commencement of the T-Up project (i.e., τ ) to three years after commencement (i.e., τ ). Likewise, in the fourth
+=0 to 3 =0 =3
+column, β shows the average annual effect from the year of commencement of the T-Up project to five years after
+τ
+commencement. = 0 = 3
+=0 to 5
+Exhibit 4: Regression Results
+(1) (2) (3) (4)
+-3 to -1 years 0 to 3 years 0 to 5 years
+Dependent Variable
+(β ) (β ) (β )
+τ=-3 to-1 τ=0 to 3 τ=0 to 5
+R&D Outcomes
+Whether the firm did R&D -4.3pp 8.4pp** 8.9pp**
+Total R&D expenditure -43.2% 65.4%* 73.2%**
+Whether the firm filed any patents 0.5pp 1.0pp 0.6pp
+Patents -0.053 0.054 0.015
+Revenue from R&D commercialisation 24.5% 63.5%* 71.8%**
+Other Firm Outcomes
+Revenue 16.0% 44.3%*** 44.5%***
+Total employment 5.5% 21.9%*** 21.8%***
+Value-added 12.5% 15.3% 13.5%
+Value-added per worker 6.6% 0.1% 0.8%
+Average local wages 4.4% 5.3% 3.3%
+*, ** and *** indicate statistical significance at the 10%, 5%, and 1% level, respectively
+The results suggest that the T-Up programme had a positive and significant impact on participating firms’ outcomes.9
+For the R&D-related outcomes up to three years after starting the T-Up project, we found that the T-Up programme
+was associated with positive and significant effects on firms’ R&D expenditure. These effects occurred at both the
+intensive margin – R&D expenditure was 65.4 per cent higher, and extensive margin – the probability of conducting R&D
+in a given year was 8.4pp higher. Similarly, T-Up firms saw 63.5 per cent higher revenue derived from commercialised
+products, suggesting that the R&D efforts led to successful commercialisation. The effects on patents-related outcomes
+were also positive, although not statistically significant.
+9 These findings were robust to the inclusion of additional control variables such as other government grants and firm age, different matching specifications,
+different transformations of the dependent variable (e.g., logs, levels), as well as different specifications of the staggered DiD regressions proposed in the literature
+(e.g., Callaway and Sant’Anna, 2021).
+
+--- PAGE 88 ---
+
+86 Economic Survey of Singapore 2024
+In terms of other firm outcomes up to three years after starting the T-Up project, our findings suggest that firms that
+participated in T-Up had higher revenue (44.3 per cent) and total employment10 (21.9 per cent) than non-participating
+firms. While the effects on value-added, value-added per worker and average local wages were positive, they were
+not statistically significant.
+Finally, we found that the effects on both R&D-related and other firm outcomes persisted up to five years after the
+firm started participating in the T-Up programme.11
+CONCLUSION
+This study found that the T-Up programme was effective in helping local firms to upgrade their R&D capabilities and
+grow their business revenue. In particular, participating in T-Up led to improvements in a number of outcomes for
+the firms, including R&D expenditure, revenue from commercialised products due to R&D, total revenue and total
+employment. Given these encouraging results, and T-Up’s contribution to RIE 2025’s goal of developing Singapore
+into an innovation-driven economy, A*STAR will continue to support firms in enhancing their R&D capabilities through
+T-Up and other R&D-related schemes.
+Contributed by:
+Mr Isaac Tham
+Economist
+Economics Division
+Ministry of Trade and Industry
+Mr Neo Yu Xuan
+Senior Economist
+Economics Division
+Ministry of Trade and Industry
+REFERENCES
+Herrera, L., Muñoz-Doyague, M. F., & Nieto, M. (2010). Mobility of public researchers, scientific knowledge transfer,
+and the firm’s innovation process. Journal of Business Research, 63(5), 510-518.
+Ho, Y. P., Ruan, Y., Hang, C. C., & Wong, P. K. (2016). Technology upgrading of small-and-medium-sized enterprises
+(SMEs) through a manpower secondment strategy–A mixed-methods study of Singapore’s T-Up program. Technovation,
+57, 21-29.
+Ho, Y. P. & Wong, P. K. (2017). The Impact of R&D on the Singapore Economy: A Time Series Analysis. Available at
+SSRN: or http://dx.doi.org/10.2139/ssrn.2719442.
+Kolympiris, C., Hoenen, S., & Klein, P. G. (2019). Learning by seconding: evidence from national science foundation
+rotators. Organization Science, 30(3), 528-551.
+O’Donoughue Jenkins, L., & Anstey, K. (2017). The use of secondments as a tool to increase knowledge translation.
+Public Health Res Pract. 2017;27(1):e2711708.
+10 We excluded the T-Up researcher(s) seconded to the firm from the total employment of the firm, and found that the results were robust to this adjustment, with the
+estimated impact of T-Up on employment remaining statistically significant at 18.4 per cent.
+11 We were unable to examine firm outcomes more than five years after the firm started participating in the programme due to the lack of data available to precisely
+estimate these coefficients. Nevertheless, our analysis does not preclude the possibility that the positive effects of the T-Up programme lasted longer than five
+years after the firm started participating.
+
+--- PAGE 89 ---
+
+Feature Article 87
+ANNEX A: EXAMPLES OF T-UP PROJECTS
+Themes Examples of Project Titles
+• Enhanced Work Order Module of Tracking System
+Smart Integrated Systems and Automation
+• Enterprise Resource Application Web Integrated Service (ERAWIS)
+• Development of Nano-Composite Compounding Capabilities
+Advanced Materials and Manufacturing Processes • Application of conformal cooling channels to injection moulding tool
+insert using additive manufacturing technology
+• LIDAR Navigation and Applications for Mobile Robot
+Imaging and Object Detection
+• Analytics for Vision and RFID
+• Development of Self-Administered Medical Devices Using
+Medical Diagnostics and Validation Microneedles
+• Design and Optimisation of Existing OCT Probe for Prostate Cancer
+• Design and development of new water heater
+Energy Efficiency and Analysis
+• Thermal Flow and Light Distribution Analysis for LED Lamp Design
+
+--- PAGE 90 ---
+
+IMPACT EVALUATION OF
+FEATURE WORKFORCE SINGAPORE’S
+ARTICLE PLACE-AND-TRAIN CAREER
+CONVERSION PROGRAMME
+
+--- PAGE 92 ---
+
+90 Economic Survey of Singapore 2024
+Feature Article
+IMPACT EVALUATION OF
+WORKFORCE SINGAPORE’S
+PLACE-AND-TRAIN CAREER
+CONVERSION PROGRAMME
+OVERVIEW
+Workforce Singapore’s (WSG) Place-and-Train Career Conversion Programme (PnT
+CCP) is a placement-centric programme that aims to address structural mismatches
+in the labour market. It provides salary support for employers to hire jobseekers
+and put them through on-the-job or industry-recognised training to take on new
+growth job roles.
+FINDINGS
+Finding 1: Finding 2:
+The PnT CCP (i) increased participants’ wages by 2.5% The PnT CCP had a stronger impact on non-PMET and
+in the year of placement, with the impact rising further mature workers who were found to have benefitted more
+to 5.8% to 6.5% in the subsequent four years and (ii) from the placement and accompanying training.
+improved their employment retention by 3.9 percentage-
+points (pp), compared to their control groups.
+5.8%
+to 6.5%
+next 4 years
+2.5%
+in the
+placement year
+1
+3.9pp
+improved
+employment
+retention
+WAGE
+POLICY TAKEAWAY
+WSG’s PnT CCP plays a key role in addressing skills gaps and helping workers to take
+on growth job opportunities. By aligning talent with industry needs through the CCPs,
+workers can be empowered to pivot into future-ready roles, thereby enhancing their
+adaptability and resilience in a fast-evolving and dynamic Singapore economy.
+
+--- PAGE 93 ---
+
+Feature Article 91
+EXECUTIVE SUMMARY
+Workforce Singapore’s (WSG) Career Conversion Programmes (CCPs) are placement-centric programmes
+that aim to address structural mismatches in the labour market. Under the Place-and-Train (PnT) CCP, a
+company hires a jobseeker and puts him/her through on-the-job training or industry-recognised training to
+take on a new growth job role that aligns with its business and workforce transformation needs.
+Our study evaluated the impact of the PnT CCP and found that it improved the labour market outcomes of
+participants. Specifically, the PnT CCP (i) increased participants’ wages by 2.5 per cent in the year of placement,
+with the impact rising further to 5.8 per cent to 6.5 per cent in the subsequent four years, and (ii) improved
+their employment retention by 3.9 percentage-points, compared to their control groups. Notably, the PnT
+CCP had a stronger impact on non-PMET and mature workers who were found to have benefitted more from
+the placement and accompanying training.
+Against the backdrop of rapid technological change, these findings suggest that schemes that target structural
+mismatches (including WSG’s PnT CCP) play a key role in addressing skills gaps and helping workers to
+take on growth job opportunities. By aligning talent with industry needs through the CCPs, workers can be
+empowered to pivot into future-ready roles, thereby enhancing their adaptability and resilience in a fast-
+evolving and dynamic Singapore economy.
+The views expressed in this paper are solely those of the authors and do not necessarily reflect those of the Ministry of
+Manpower (MOM), Ministry of Trade and Industry (MTI), Workforce Singapore (WSG) or the Government of Singapore.1
+INTRODUCTION
+Workforce Singapore’s (WSG) Career Conversion Programmes (CCPs) are placement-centric programmes that aim
+to address structural mismatches in the labour market. These programmes help employers broaden their talent pool
+by reskilling mid-career new hires or existing employees into growth job roles with good longer-term prospects, with
+salary support of up to 90 per cent.2 The duration of CCPs (typically spanning from three to 24 months) varies according
+to programme specifications and job requirements.
+Under the Place-and-Train (PnT) CCP, a company hires a jobseeker and puts him/her through on-the-job training or
+industry-recognised training to take on a new growth job role that aligns with its business and workforce transformation
+needs. This study examined the impact of the PnT CCP on the key labour market outcomes (i.e., wages, employment
+retention) of participants.
+The rest of the article is organised as follows. We first provide a brief review of the literature relating to active labour
+market policies (ALMPs). We then describe the data and methodology employed for our study, before reporting our
+findings. The final section concludes.
+LITERATURE REVIEW
+ALMPs are government policies aimed at assisting and incentivising individuals to actively look for work and find
+suitable employment. According to the Organisation for Economic Co-operation and Development (OECD), there are
+four main categories of ALMPs: (i) employment subsidies, (ii) self-employment/start-up support, (iii) training, and
+(iv) public work/public sector jobs.3 The efficacy of ALMPs has been extensively studied in the literature, with findings
+generally indicating positive labour market outcomes for individuals over the medium to long run.
+1 We would like to thank Ms Yong Yik Wei, Dr Kuan Ming Leong and Mr Alphonsus Gomez for their useful suggestions and comments. We are also grateful to WSG
+for their inputs to this study. All remaining errors belong to the authors.
+2 Long-term unemployed or/and mature jobseekers aged 40 and above are eligible for higher funding support of 90%.
+3 See OECD (2018) for more details.
+
+--- PAGE 94 ---
+
+92 Economic Survey of Singapore 2024
+For instance, Vooren et al. (2019) examined 57 ALMP studies in OECD countries and found that training programmes
+had a positive impact on wages, employment probability and employment duration around six to 36 months after the
+start of the programme. Similarly, Card et al. (2018) found that training and retraining programmes had positive effects
+on wages, employment probability and employment duration around one to three years after programme completion.
+Estimating the impact of job placement programmes on participants with higher earnings, Autor et al. (2017) found that
+direct-hire placements significantly increased earnings over one to two years for half or more of all placed participants.
+DATA AND SUMMARY STATISTICS
+This study merged two key data sources: (i) data on participants placed in WSG’s PnT CCP from 2017 to 2022 and (ii)
+an individual-level administrative dataset containing information on the demographic characteristics, employment
+history and wages of all resident employees in Singapore.4 We excluded participants with less than three months
+of employment records in the company they were placed in given that the typical PnT CCP duration exceeded three
+months. Consequently, our final sample comprised over 17,900 PnT participants placed between 2017 and 2022.
+Most PnT participants were (i) placed in Professional, Manager, Executive and Technician (PMET) roles and (ii) under
+40 years of age (i.e., non-mature workers) (Exhibit 1). In particular, the share of PnT participants placed in PMET
+roles ranged from 74 per cent to 92 per cent between 2017 and 2022. Across the years, the share of mature workers
+remained relatively stable at around 40 per cent.
+Exhibit 1: Share of PMET and Mature Participants by Cohort, 2017-2022
+100%
+91.9%
+90%
+79.8%
+77.8% 77.4% 77.6%
+80% 73.6%
+70%
+60%
+50%
+41.5% 40.2% 41.9% 42.5% 41.0%
+40% 35.9%
+30%
+20%
+10%
+0%
+2017 2018 2019 2020 2021 2022
+PMET Participants Mature Participants
+Source: MOM
+Between 2017 and 2022, most PnT participants enrolled in programmes that lasted six to 11 months (41-63 per cent)
+or less than six months (32-43 per cent) (Exhibit 2). Programmes with a duration of 12 months or more had fewer
+participants. Over the period, the share of participants enrolled in longer programmes fell as WSG sharpened its focus
+towards shorter programmes that could more nimbly support businesses’ hiring and reskilling needs.
+4 We used data from 2014 to 2023 from the individual-level administrative dataset to match PnT CCP participants with a control group of non-participants based on
+pre-placement characteristics, as well as to track their outcomes over time. More details can be found in the ‘Methodology’ section.
+
+--- PAGE 95 ---
+
+Feature Article 93
+Exhibit 2: Share of PnT Participants with Different Training Durations by Cohort, 2017-2022
+100%
+5% 8% 6%
+11%
+90% 17%
+25%
+80%
+70%
+51%
+51%
+60% 42% 54% 63%
+41%
+50%
+40%
+30%
+20% 43%
+34% 41% 35% 41%
+32%
+10%
+0%
+2017 2018 2019 2020 2021 2022
+<6 Months 6-11 Months 12 Months & Above
+Source: MOM
+METHODOLOGY
+To estimate the causal impact of the PnT CCP, we combined matching methods with a difference-in-differences (DiD)
+regression analysis. This multi-step approach allowed us to compare the wage and employment retention outcomes
+of two groups of individuals: a “treated” group that participated in the PnT CCP and an observably-similar “control”
+group that did not participate in the PnT CCP.
+First, to study the impact of the PnT CCP on wage outcomes, we used Coarsened Exact Matching (CEM) to find a group
+of non-participants who was similar in observable characteristics to each cohort of PnT participants. The matched
+characteristics included age, gender, firm size, sector of employment, and employment history (i.e., wages and number
+of months worked over the past three years) in the year prior to each cohort’s placement in the programme.5 The CEM
+technique enabled the construction of matched control groups that were comparable to the PnT participants.
+Second, after matching, we performed the following DiD regression, separately for each cohort, to study the impact
+of the PnT CCP on the wage outcomes of participants:
+c
+Y α δ βTreated year X ε
+t t +6 t t t t
+t c
+Where: 𝑖 = 𝑖 + + = ∑ -3 𝑖 × + 𝑖 + 𝑖
+Y represents the log mean monthly wage for individual in calendar year ;
+t
+Treated is a dummy variable taking the value of 1 if individual is treated (i.e., a PnT participant);
+• 𝑖 𝑖 t
+year are the dummies from year c (three years before placement) to c (up to six years after placement)
+• t 𝑖 𝑖
+for cohort c;
+• -3 +6
+α are the individual fixed effects;
+δ are thetime fixed effects;
+• t𝑖
+• X are the time-varying covariates (e.g., age, number of months worked, firm size and sector of employment);
+• t
+and
+𝑖
+ε is the regression error term.
+t
+• 𝑖
+5 For each cohort, the CEM algorithm was implemented using data in the year before each cohort’s placement (e.g., for the 2019 cohort, data from 2018 was used to
+identify a suitable non-participant group).
+
+--- PAGE 96 ---
+
+94 Economic Survey of Singapore 2024
+The pre-treatment coefficients β and β were used to test for pre-treatment trends and should be small and/or not
+c c
+statistically significant to support the parallel trends assumption.6 The post-treatment coefficients β, … β indicated
+-3 -2 c c
+the impact of the programme on wages in the year of treatment up to six years post-treatment.
++6
+Third, to examine the effect on employment retention from the start of placement, we identified a control group of
+individuals who had similarly begun a new job at around the same time as the PnT participants were placed in the
+programme. Specifically, we matched all PnT participants to non-participants based on the month and year of the
+latter’s first instance of a job switch within the period studied (i.e., 2017 to 2022), in addition to the characteristics
+used in the earlier CEM matching.
+Fourth, we performed a probit regression to compare the probability of remaining in employment for the PnT participants
+and their matched counterparts. We estimated the probability of remaining in employment (i.e., β ) in each month
+m
+after placement or upon taking on a new job (i.e., starting from three to 24 months7 after placement or taking on a
+new job) using the following probit regression:
+Y β Treated X ε
+m m
+Where: Pr( 𝑖 )= 𝑖 + 𝑖+ 𝑖
+Y is a dummy variable for whether individual remains in employment m months after placement / taking
+m
+on a new job;
+• 𝑖 𝑖
+Treated is the dummy variable taking the value of 1 if individual is treated (i.e., a PnT participant);
+• X the individual’s characteristics in the year before placement / taking on a new job (e.g., age, number
+• 𝑖 𝑖
+of months worked, firm size and sector of employment, month-year of job switch); and
+𝑖 are
+ε is the regression error term.
+• 𝑖
+Finally, we performed heterogeneity analyses to examine whether there were differences in the wage outcomes of
+PMET compared to non-PMET PnT participants, as well as mature compared to non-mature PnT participants, following
+the methodology described in the first and second steps.
+RESULTS
+We found that the PnT CCP increased the wages of participants across all cohorts. Specifically, the PnT CCP raised
+the wages of participants by 2.5 per cent on average in the year of placement, with the impact rising further to 5.8 per
+cent to 6.5 per cent in the subsequent four years (Exhibit 3). These results were robust to running a stacked regression,
+with each cohort’s dataset stacked together to form a combined dataset.
+6 In the absence of treatment (i.e., placement in CCP), outcomes for the treatment and control groups should follow the same trend over time.
+7 The PnT CCP typically lasts for three to 24 months, with the placement month considered as month 0. Therefore, for a training programme with a three-month
+duration, the first month after the training would be three months after placement.
+
+--- PAGE 97 ---
+
+Feature Article 95
+Exhibit 3: Average Impact of the PnT CCP on Wages by Years Post-Placement
+7% 6.5%
+6.4%
+5.8% 5.8%
+6%
+5%
+4%
+3% 2.5%
+2%
+1%
+0%
+Placement Year One Year Two Years Three Years Four Years
+Post-Placement Post-Placement Post-Placement Post-Placement
+Source: Authors’ estimates
+Notes: The parallel trend assumption was met for all cohorts. Post-treatment coefficients for each cohort were statistically significant at the 1% level. The average wage
+effects for five and six years post-placement were omitted from Exhibit 3, as only at most two cohorts (i.e., 2017 and 2018) had available data to reach these points of time.
+We also found that the PnT CCP improved the employment retention of participants, with a higher proportion of
+participants remaining in employment three to 24 months after placement compared to non-participants. On average,
+the retention rate for PnT participants was 3.9 percentage-points (pp) higher than that of non-participants. The difference
+in retention rate was the largest, at about 4.7pp, around six months after placement. Even at the 24-month mark, the
+employment retention rate for PnT participants (90.3 per cent) remained 3.7pp higher than that for non-participants
+(86.6 per cent) (Exhibit 4).
+Exhibit 4: Retention Rate for PnT Participants and Non-Participants
+100%
+97.5%
+95% 4.7pp 93.6%
+92.0%
+90.3%
+3.8pp
+90% 92.7% 3.4pp
+3.7pp
+89.8%
+88.5%
+85%
+86.6%
+80%
+Average difference from 3 to 24 months = 3.9pp
+75%
+3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Number of Months Post Placement
+PnT Participants Matched Control
+Source: Authors’ estimates
+
+--- PAGE 98 ---
+
+96 Economic Survey of Singapore 2024
+Finally, our heterogeneity analyses highlighted that the impact of the PnT CCP differed across occupational (PMET
+and non-PMET) and demographic (mature and non-mature) groups, even though participation in the programme
+benefitted all groups.
+Notably, the PnT CCP had a stronger impact on non-PMET and mature (aged 40 years and above) workers, who were
+found to benefit more from the placement and accompanying training. In the four years post-placement, non-PMET
+PnT participants experienced stronger wage gains (approximately 2pp higher) than PMET PnT participants (Exhibit 5).
+The PnT CCP likely assisted non-PMET workers to switch into growth job roles with more potential, leading to better
+outcomes in wages. Similarly, mature PnT participants saw stronger wage increases (approximately 3.1pp higher) than
+their non-mature counterparts (Exhibit 6). The higher salary support for mature workers likely incentivised businesses
+to hire and train mature workers previously in lower-potential jobs, who then benefitted from a larger wage uplift in
+their new growth job roles.
+Exhibit 5: Average Impact of the PnT CCP on Wages in Exhibit 6: Average Impact of the PnT CCP on Wages
+the Four Years Post-Placement by Participants’ Broad in the Four Years Post-Placement by Participants’
+Occupation Age Group
+8% 10%
+7.0% 8.8%
+9%
+7%
+8%
+6% 2pp
+3.1pp
+7%
+5.0%
+5% 5.7%
+6%
+4% 5%
+4%
+3%
+3%
+2%
+2%
+1%
+1%
+0% 0%
+Non-PMET Partipicants PMET Participants Mature Participants Non-Mature Participants
+Source: Authors’ estimates
+CONCLUSION
+In summary, our study found that the PnT CCP improved participants’ labour market outcomes. Reflecting the
+programme’s effectiveness in reskilling workers for new job roles, PnT participants experienced higher wages and
+employment retention. In particular, the PnT CCP was found to have a stronger beneficial impact on non-PMET and
+mature workers. The positive outcomes of the PnT CCP underscore the significance of subsidised on-the-job training
+in Singapore’s skills development landscape.
+Against the backdrop of rapid technological change, these findings suggest that schemes that target structural
+mismatches (including WSG’s PnT CCP) play a key role in addressing skills gaps and helping workers to take on growth
+job opportunities. Recognising the importance of CCPs, WSG increased the CCP salary support caps in April 2024 to
+keep pace with rising wages and maintain the programme’s attractiveness to employers, which would in turn help
+more workers take up more productive job roles and create more career conversion opportunities.8 By aligning talent
+with industry needs through CCPs, workers can be empowered to pivot into future-ready roles, thereby enhancing
+their adaptability and resilience in a fast-evolving and dynamic Singapore economy.
+8 From 1 April 2024, the PnT CCP supported: (i) up to 90% of monthly salary (capped at $7,500 per month) for long-term unemployed or/and mature (40 years and
+above) Singapore residents, and (ii) up to 70% of monthly salary (capped at $5,000 per month) for other Singapore residents. Previously, the monthly salary caps
+were $6,000 and $4,000 respectively.
+
+--- PAGE 99 ---
+
+Feature Article 97
+Contributed by:
+Dr Zhang Xuyao, Senior Research Analyst
+Ms Juliana Ng, Senior Economist
+Economics Department
+Ministry of Manpower
+REFERENCES
+Autor, D., Houseman, S., & Kerr, S. (2017). The Effect of Work First Job Placements on the Distribution of Earnings:
+An Instrumental Variable Quantile Regression Approach. Journal of Labor Economics, 35(1), 149-190.
+Card, D., Kluve, J., & Weber, A. (2018). What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations.
+Journal of the European Economic Association, 16(3), 894-931.
+OECD. (2018). Competitiveness in South East Europe: A Policy Outlook 2018. Paris: OECD Publishing.
+Vooren, M., Haelermans, C., & Groot, W. (2019). The Effectiveness of Active Labor Market Policies: A Meta-Analysis.
+Journal of Economic Surveys, 33(1), 125-149.
+
+--- PAGE 100 ---
+
+MINISTRY OF TRADE AND INDUSTRY
+100 High Street, #09-01 The Treasury
+Singapore 179434
+ISSN 2382-6541

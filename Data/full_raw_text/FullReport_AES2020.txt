@@ -1,0 +1,4248 @@
+
+
+--- PAGE 1 ---
+
+ECONOMIC
+SURVEY OF
+SINGAPORE
+2020
+
+--- PAGE 2 ---
+
+February 2021
+Ministry of Trade and Industry
+Republic of Singapore
+website: www.mti.gov.sg
+email: mti_email@mti.gov.sg
+All rights reserved. No part of this publication
+may be reproduced, stored in a retrieval system
+or transmitted in any form or by any means,
+electronic, mechanised, photocopying, recording
+or otherwise, without the prior permission of the
+copyright holder.
+
+--- PAGE 3 ---
+
+CONTENTS
+02 48 80
+Main Indicators Chapter 5 Chapter 7
+of the Singapore Economy Balance of Payments Economic Outlook
+06 54 84
+Chapter 1 Chapter 6 Feature Article
+Economic Performance Sectoral Performance Performance Of The Singapore
+Economy In 2020
+58
+14 6.1
+Manufacturing
+Chapter 2
+60
+6.2
+Labour Market
+Construction
+and Productivity
+64
+22 6.3
+Wholesale Trade
+Chapter 3
+65
+Costs, Investments and Prices 6.4
+Retail Trade
+27
+Box Article 3.1 66
+6.5
+Updated Business Cost
+Transportation & Storage
+Conditions in Singapore’s
+Manufacturing and
+68
+Services Sectors 6.6
+Accommodation
+70
+6.7
+Food &
+Beverage Services
+71
+6.8
+40
+Information &
+Communications
+Chapter 4
+International Trade
+72
+6.9
+Finance & Insurance
+76
+6.10
+Real Estate and
+Professional Services
+
+--- PAGE 4 ---
+
+02
+MAIN INDICATORS OF
+THE SINGAPORE ECONOMY
+OVERALL ECONOMY
+2019 2019 2019
+$510.7 billion +1.3% $78,847
+GDP
+2020 Real GDP 2020 GNI 2020
+at Current
+Market Price $469.1 billion (Year-on-Year-Growth) -5.4% Per Capita $72,418
+STRUCTURE OF THE ECONOMY IN 2020
+(% OF NOMINAL VA)
+BREAKDOWN OF SERVICES PRODUCING INDUSTRIES
+Wholesale Finance & Professional
+Trade Insurance Services
+16.8% 15.7% 5.9%
+Transportation Information & Administrative &
+& Storage Communications Support Services
+5.4% 5.1% 4.5%
+Real Retail Food & Beverage
+Services Producing Ownership Estate Trade Services
+Industries of Dwellings
+70.1% 4.3% 3.0% 1.4% 1.0%
+Accommodation Other Services
+Goods Producing
+Industries Manufacturing Construction Industries
+25.6% 21.5% 2.7%
+0.4% 10.8%
+LABOUR MARKET COST PRICES
+Employment Unit Labour Cost of Consumer Price Index
+(as at year end) Overall Economy – All Items
+2019 2020 (Year-on-Year Growth) (Year-on-Year Growth)
+3,784.3 3,597.7 2019 2020 2019 2020
+thousand thousand +2.3% -9.1% +0.6% -0.2%
+Overall Unit Business Cost Domestic Supply
+Unemployment Rate of Manufacturing Price Index
+2019 2020 (Year-on-Year Growth) (Year-on-Year Growth)
+2.3% 3.0% 2019 2020 2019 2020
+-4.7% -14.4% -3.2% -8.7%
+Value-Added per Unit Labour Cost Singapore Manufactured
+Actual Hour Worked of Manufacturing Products Price Index
+(Year-on-Year Growth) (Year-on-Year Growth) (Year-on-Year Growth)
+2019 2020 2019 2020 2019 2020
+-1.3% +1.3% +4.9% -22.8% -3.3% -6.9%
+
+--- PAGE 5 ---
+
+03
+MERCHANDISE TRADE SERVICES TRADE
+Merchandise Exports Services Exports
+2019 2020 2019 2020
+$532,514 $515,645 $296,277 $258,791
+million million million million
+-4.2% -3.2% +6.2% -12.7%
+Year-on-Year Year-on-Year Year-on-Year Year-on-Year
+Growth Growth Growth Growth
+Merchandise Imports Services Imports
+2019 2020 2019 2020
+$489,712 $453,467 $284,015 $238,267
+million million million million
+-2.1% -7.4% +5.2% -16.1%
+Year-on-Year Year-on-Year Year-on-Year Year-on-Year
+Growth Growth Growth Growth
+Top Trading Partners in 2020 Top 5 Services Exports Categories in 2020
+(Share of Total Merchandise Trade) (Share of Total Services Exports)
+14.1% 10.7% 10.6% 9.3% 28% 17% 8% 4% 32%
+China Malaysia United States EU Transport Financial Telecomms, Charges for the Other
+Services Services Computer and use of Intellectual Business
+Information Property Services
+TOP 5 TRADING PARTNERS AND SHARE OF
+TOTAL MERCHANDISE TRADE IN 2020
+14.1%
+China
+10.7%
+Malaysia 10.6%
+United States
+7.8%
+9.3%
+Taiwan
+EU
+
+--- PAGE 7 ---
+
+LEACOBNOUORM
+MICA
+PREKREFTO
+ARNMDA
+NPRCOEDUCTIVITY
+CHAPTER
+01
+
+--- PAGE 8 ---
+
+06 Economic Survey of Singapore 2020
+Chapter 1 | Economic Performance
+CHAPTER 1
+ECONOMIC PERFORMANCE
+REAL GDP DECLINED BY 5.4% IN 2020 QUARTERLY GDP GROWTH IN 2020
+(Year-On-Year Growth)
+0
+4 3.5% 0.0%
+-2.4%
+-5
+-5.8%
+2
+1.3%
+-10
+-13.3%
+0 -15
+1Q 2Q 3Q 4Q
+-2
+MAIN DRIVERS OF GDP GROWTH IN 2020
+Manufacturing Finance Information &
+-4
+& Insurance Communications
+-5.4%
+-6
+2018 2019 2020
+1.4% 0.7% 0.1%
+point contribution point contribution point contribution
+INCOME COMPONENTS OF GDP IN 2020 SOURCES OF GROWTH IN 2020
+External Domestic
+Demand Demand
+Gross Operating
+Surplus
+56.2%
+0
+-1
+Compensation
+of Employees Taxes Less -2 -1.5% -1.3% -0.2%
+Subsidies
+43.6% point point point
+on Production -3 Consumption Gross Fixed Changes in
+0.2% -3.1%
+Expenditure Capital Inventories
+-4 point Formation
+-5
+
+--- PAGE 9 ---
+
+Economic Survey of Singapore 2020 07
+Chapter 1 | Economic Performance
+OVERVIEW
+In the fourth quarter of 2020, the Singapore economy contracted by 2.4 on a year-on-year basis, an improvement
+from the 5.8 per cent contraction in the previous quarter. All sectors shrank during the quarter, except for the
+manufacturing, finance & insurance, information & communications and wholesale trade sectors.
+For the whole of 2020, the economy contracted by 5.4 per cent, a reversal from the 1.3 per cent growth in 2019.
+The sectors that provided support to the economy were the manufacturing, finance & insurance and information &
+communications sectors, which posted expansions in 2020.
+OVERALL PERFORMANCE
+The services producing industries collectively contracted by
+4.7 per cent year-on-year in the fourth quarter, improving
+Fourth Quarter 2020
+from the 8.3 per cent contraction in the previous quarter.
+Among the services sectors, only the finance & insurance
+The economy contracted by 2.4 per cent year-on-year in (4.9 per cent), information & communications (2.6 per
+the fourth quarter, an improvement from the 5.8 per cent cent) and wholesale trade (1.8 per cent) sectors posted
+contraction in the preceding quarter (Exhibit 1.1). On a positive growth.
+quarter-on-quarter seasonally-adjusted basis, the economy
+expanded by 3.8 per cent, following the 9.0 per cent growth Meanwhile, the construction sector shrank by 27 per cent
+in the third quarter.1 year-on-year in the fourth quarter, improving from the 53
+per cent contraction in the third quarter. The improved
+Exhibit 1.1: GDP and Sectoral Growth Rates in 4Q 2020 performance of the sector came on the back of the
+Manufacturing 10.3 resumption of more construction activities in the fourth
+quarter as compared to the previous quarter.
+Finance & Insurance 4.9
+Information & Comms 2.6
+Wholesale Trade 1.8 Full Year of 2020
+Overall GDP Growth -2.4
+Retail Trade -4.7 For the whole of 2020, the Singapore economy contracted
+by 5.4 per cent, a reversal from the 1.3 per cent growth in
+Other Services Industries -5.7
+2019 (Exhibit 1.2).
+Professional Services -7.5
+Real Estate -10.8
+By sectors, the manufacturing sector expanded by 7.3 per
+Administrative & Support -14.9 cent in 2020, a turnaround from the 1.5 per cent contraction
+Food & Beverage Services -19.0 in 2019. The sector’s growth was supported by robust
+Accommodation -19.7 expansions in the biomedical manufacturing, electronics
+and precision engineering clusters.
+Transportation & Storage -27.4
+Construction -27.4
+Services producing industries shrank by 6.9 per cent in
+-40 -30 -20 -10 0 10 20
+2020, reversing the 2.0 per cent growth in 2019. Among
+the services sectors, only the finance & insurance and
+Per Cent
+information & communications sectors expanded in 2020.
+The manufacturing sector grew by 10 per cent year-on-year Specifically, the finance & insurance sector grew by 5.0 per
+in the fourth quarter, extending the 11 per cent expansion cent, lower than the 7.8 per cent growth recorded in 2019.
+in the previous quarter. Growth was supported by output The information & communications sector expanded by
+expansions in the electronics, biomedical manufacturing, 2.1 per cent, slower than the 12 per cent growth registered
+precision engineering and chemicals clusters, which more in 2019.
+than offset output declines in the transport engineering
+and general manufacturing clusters. Meanwhile, the construction sector contracted by 36 per
+cent in 2020, a sharp reversal from the 1.6 per cent growth
+in 2019. Output in the sector was weighed down by declines
+in both public sector and private sector construction works.
+1 The strong GDP growth seen in the third quarter was due to the phased resumption of activities following the Circuit Breaker that was implemented between 7 April
+to 1 June 2020, as well as the rebound in activity in major economies during the quarter as they emerged from their lockdowns.
+
+--- PAGE 10 ---
+
+08 Economic Survey of Singapore 2020
+Chapter 1 | Economic Performance
+Exhibit 1.2: GDP and Sectoral Growth Rates in 2020 For the whole of 2020, only the manufacturing, finance
+& insurance and information & communications sectors
+Manufacturing 7.3
+contributed positively to GDP growth (Exhibit 1.4). The
+Finance & Insurance 5.0
+transportation & storage and construction sectors remained
+Information & Comms 2.1 the top contributors to the decline in GDP during the year.
+Wholesale Trade -2.4
+Overall GDP Growth -5.4 Exhibit 1.4: Percentage-Point Contribution to Growth in Real
+GDP in 2020 (By Industries)
+Other Services Industries -8.9
+Manufacturing 1.4
+Professional Services -9.7
+Finance & Insurance 0.7
+Real Estate -14.2
+Information & Comms 0.1
+Administrative & Support -15.1
+Retail Trade -0.2
+Retail Trade -16.0
+Accommodation -0.2
+Food & Beverage Services -25.1
+Food & Beverage Services -0.3
+Transportation & Storage 25.4
+Wholesale Trade -0.4
+Accommodation -28.7
+Real Estate -0.5
+Construction -35.9
+Professional Services -0.6
+-50 -40 -30 -20 -10 0 10 20
+Administrative & Support -0.7
+Per Cent Other Services Industries -0.9
+Construction -1.3
+Contribution to Growth Transportation & Storage -1.6
+Overall GDP Growth -5.4
+In the fourth quarter, the manufacturing, finance & insurance, -8 -6 -4 -2 0 2
+wholesale trade and information & communications sectors,
+contributed positively to GDP growth (Exhibit 1.3). All the Per Cent
+other sectors contracted, with the transportation & storage
+and construction sectors contributing the most to the decline Disaggregation of Services Sectors
+in GDP during the quarter.
+With effect from the preliminary GDP estimates for the fourth
+Exhibit 1.3: Percentage-Point Contribution to Growth in Real
+quarter of 2020, the estimates for the following sectors will
+GDP in 4Q 2020 (By Industries)
+be disaggregated into their constituent sectors: (i) Wholesale
+Manufacturing 2.0 & Retail Trade into Wholesale Trade and Retail Trade; (ii)
+Finance & Insurance 0.7 Accommodation & Food Services into Accommodation and
+Food & Beverage Services; and (iii) Business Services into
+Wholesale Trade 0.3
+Real Estate, Professional Services and Administrative &
+Information & Comms 0.1
+Support Services. The Department of Statistics (DOS) will
+Retail Trade -0.1
+continue to make available the data for the broader sectors
+Accommodation -0.2 for downloading on DOS’ website (www.singstat.gov.sg).
+Food & Beverage Services -0.2
+Real Estate -0.4
+Professional Services -0.4
+Other Services Industries -0.6
+Administrative & Support -0.7
+Construction -1.0
+Transportation & Storage -1.7
+Overall GDP Growth -2.4
+-4 -3 -2 -1 0 1 2 3
+Per Cent
+
+--- PAGE 11 ---
+
+Economic Survey of Singapore 2020 09
+Chapter 1 | Economic Performance
+SOURCES OF GROWTH Exhibit 1.6: Changes in Total Demand in Chained (2015) Dollars
+Per Cent
+10
+Total demand fell by 4.5 per cent year-on-year in the fourth
+quarter, improving from the 7.1 per cent decline in the
+preceding quarter (Exhibit 1.5).
+Total
+For the whole of 2020, total demand contracted by 6.1 per 0
+cent, a reversal from the 0.6 per cent growth in 2019. Both
+external demand (-3.1 percentage-points) and domestic External
+demand (-3.0 percentage-points) weighed on total demand
+during the year. -10
+Exhibit 1.5: Percentage-Point Contribution to Total
+Demand Growth
+2019
+2019 2020 -20 Domestic
+II III IV
+Total Demand 0.6 -15.3 -7.1 -4.5 -6.1
+External Demand 0.1 -8.9 -3.6 -2.5 -3.1 -30
+IV I II III IV
+2019 2020
+Total Domestic
+0.4 -6.3 -3.5 -2.0 -3.0
+Demand
+Consumption
+0.6 -3.5 -1.2 -1.2 -1.5 Domestic Demand
+Expenditure
+Public 0.1 0.7 0.6 0.4 0.5 Total domestic demand declined by 7.0 per cent year-on-
+year in the fourth quarter, improving from the 13 per cent
+Private 0.5 -4.2 -1.9 -1.6 -2.0 contraction in the previous quarter. Domestic demand
+in the fourth quarter was weighed down by declines in
+Gross Fixed Capital consumption expenditure and gross fixed capital formation.
+0.1 -2.7 -2.2 -0.4 -1.3
+Formation
+Changes in For 2020 as a whole, total domestic demand contracted
+-0.3 -0.2 -0.1 -0.3 -0.2
+Inventories by 11 per cent, a reversal from the 1.6 per cent expansion
+in 2019. The decline was largely attributable to a fall in
+consumption expenditure and gross fixed capital formation.
+External Demand
+Consumption Expenditure
+External demand edged down by 3.5 per cent year-on-year
+in the fourth quarter, extending the 5.0 per cent contraction
+in the preceding quarter (Exhibit 1.6). The drop in external Total consumption expenditure fell by 6.7 per cent year-
+demand was due to a fall in the real exports of services on-year in the fourth quarter, extending the 6.7 per cent
+which outweighed an increase in the real exports of goods. decline in the previous quarter.
+For the full year, external demand contracted by 4.3 per For the full year, total consumption expenditure contracted
+cent, deteriorating from the 0.1 per cent expansion in by 8.1 per cent, a reversal from the 3.3 per cent growth in
+2019. The decline in external demand was largely driven 2019, driven primarily by a drop in private consumption.
+by a contraction in real services exports, which was in turn Specifically, private consumption plunged by 14 per cent,
+mainly due to a slump in the exports of travel services and a reversal from the 3.3 per cent increase in 2019, mainly
+transport services. While real merchandise exports also due to a decline in expenditure on transport, recreation &
+fell, it contributed less to the decline in external demand, culture and food serving services. On the other hand, public
+helped by an expansion in the exports of machinery and consumption increased by 13 per cent, accelerating from
+equipment. the 3.4 per cent growth in 2019.
+
+--- PAGE 12 ---
+
+10 Economic Survey of Singapore 2020
+Chapter 1 | Economic Performance
+Gross Fixed Capital Formation INCOME COMPONENTS OF NOMINAL
+GDP
+Gross fixed capital formation (GFCF) declined by 4.7 per
+cent year-on-year in the fourth quarter, moderating from
+the 23 per cent contraction in the preceding quarter. The Singapore’s nominal GDP amounted to $469 billion in
+fall in GFCF during the quarter was primarily due to public 2020, a decrease of 8.2 per cent over 2019. Gross operating
+GFCF, which plummeted by 23 per cent. On the other hand, surplus accounted for 56 per cent of nominal GDP, while
+private GFCF dipped slightly by 0.5 per cent. compensation of employees accounted for 44 per cent
+(Exhibit 1.9). Taxes on production and imports (less subsidies)
+For the full year, GFCF shrank by 14 per cent, a reversal made up the remaining share of nominal GDP.
+from the 1.2 per cent growth in 2019 (Exhibit 1.7). Public
+GFCF slumped by 24 per cent, in contrast to the 1.5 per cent Exhibit 1.9: Income Components of GDP at Current Prices
+increase in 2019. The decline in public GFCF was largely
+due to lower investment spending on public construction
+& works (Exhibit 1.8). Meanwhile, private GFCF fell by
+11 per cent, a reversal from the 1.1 per cent growth in Compensation
+of Employees
+2019. The drop came on the back of a decline in private
+43.6%
+construction & works, private transport equipment and Gross
+private intellectual property products, which outweighed an Operating
+Surplus
+increase in investment spending on machinery & equipment.
+56.2%
+Exhibit 1.7: Annual Changes in Gross Fixed Capital Formation
+Taxes Less
+in Chained (2015) Dollars, 2020
+Subsidies on
+Production &
+Total Public Private on Imports
+0.2%
+Total -13.7 -24.2 -11.2
+Construction & Works -27.5 -29.5 -26.3 NATIONAL SAVING
+Transport Equipment -17.1 13.3 -17.9 With factor income outflows exceeding inflows by $57 billion,
+Gross National Income (GNI) came in at $412 billion in 2020,
+Machinery & Equipment 0.5 -15.7 1.7 lower than the $469 billion in nominal GDP.
+Intellectual
+-2.1 6.2 -2.6 Gross National Savings (GNS) declined by 5.1 per cent to
+Property Products
+$189 billion in 2020. This comprised a net outflow of $82
+billion that was lent or transferred abroad, and $106 billion
+in Gross Capital Formation. The national savings rate was
+Exhibit 1.8: Percentage-Point Contribution to Growth of Gross
+46 per cent of GNI in 2020, higher than the 44 per cent
+Fixed Capital Formation in Chained (2015) Dollars, 2020
+observed in 2019.
+Total Public Private
+Total -13.7 -4.6 -9.1
+Construction & Works -11.1 -4.5 -6.6
+Transport Equipment -2.1 0.0 -2.2
+Machinery & Equipment 0.1 -0.2 0.3
+Intellectual
+-0.6 0.1 -0.7
+Property Products
+
+--- PAGE 13 ---
+
+Economic Survey of Singapore 2020 11
+Chapter 1 | Economic Performance
+GNI AND THE EXTERNAL ECONOMY
+Factor income from abroad reached $137 billion in 2020,
+down from $149 billion in 2019. The contribution of overseas
+operations to the total economy was 23 per cent in 2020,
+similar to the contribution recorded in 2019 (Exhibit 1.10).
+Based on the Survey of Singapore’s Investment Abroad,
+the stock of direct investment abroad increased from $860
+billion in 2018 to $913 billion in 2019.
+Exhibit 1.10: Singapore’s Earnings from External Economy as
+a Proportion of Total Income
+Per Cent
+25
+20
+Factor Income From Abroad (FIFA)
+GDP + FIFA
+15
+10
+5
+0
+94 96 98 00 02 04 06 08 10 12 14 16 18 20
+
+--- PAGE 14 ---
+
+Image courtesy of Agilent Technologies
+
+--- PAGE 15 ---
+
+LABOUR
+MARKET
+AND
+PRODUCTIVITY
+CHAPTER
+02
+
+--- PAGE 16 ---
+
+14 Economic Survey of Singapore 2020
+Chapter 2 | Labour Market and Productivity
+CHAPTER 2
+LABOUR MARKET
+AND PRODUCTIVITY
+EMPLOYMENT AND PRODUCTIVITY VA PER ACTUAL HOUR WORKED
+GROWTH IN 2020 AND VA PER WORKER GROWTH
+Employment VA per
+(as at year end) Actual Hour Worked 6
+4.0%
+4 2.8%
+2 1.3%
+-4.9% +1.3%
+0
+-0.2%
+MAIN DRIVERS OF -1.3%
+-2
+EMPLOYMENT GROWTH IN 2020
+-4 -3.4%
++2,500 +2,200
+-6
+employed employed 2018 2019 2020
+VA per Actual Hour Worked
+VA per Worker
+Information & Finance &
+Communications Insurance
+SECTORS WITH THE HIGHEST UNEMPLOYMENT
+VA PER ACTUAL HOUR WORKED RATES IN 2020
+GROWTH IN 2020
+Overall Resident
++18.3% +3.1% +2.6% Unemployment Rate Unemployment Rate
+Manufacturing Wholesale Trade Finance & Insurance
+3.0% 4.1%
+Per Cent Per Annum Real median gross monthly
+ANNUALISED 4
+income of full-time
+CHANGE IN REAL
+2.9% employed residents rose by
+GROSS MONTHLY 3 2.6%
++2.6%
+INCOME FROM WORK per annum
+2
+from June 2015 to June 2020
+1
+0
+20th Percentile Median
+
+--- PAGE 17 ---
+
+Economic Survey of Singapore 2020 15
+Chapter 2 | Labour Market and Productivity
+OVERVIEW1
+Against the backdrop of the COVID-19 pandemic, total employment fell by 186,600 in 2020, reversing the increase
+of 69,700 in 2019. The decline in total employment was due to a fall in foreign employment (-195,900), which
+outstripped an increase in local employment (9,300). By sectors, total employment declined across all broad sectors
+(i.e., manufacturing, services and construction). Excluding Foreign Domestic Workers (FDWs), total employment
+contracted by 172,200.
+The number of retrenchments and unemployment rates rose in 2020 as compared to 2019.
+Labour productivity, as measured by real value-added per actual hour worked, increased by 1.3 per cent in 2020, a
+reversal from the 1.3 per cent decline in 2019.
+Notwithstanding the decline recorded in 2020, real median gross monthly income of full-time employed residents
+rose by 2.6 per cent per annum between 2015 and 2020. During this period, real income at the 20th percentile grew
+by 2.9 per cent per annum.
+EMPLOYMENT
+By broad sectors, employment declined in the construction
+(-15,800) and manufacturing (-11,000) sectors, but expanded
+Total employment contracted by 13,400 in the fourth quarter, in the services sector (13,400) in the fourth quarter. Within
+moderating from the declines seen in the second (-113,500) the services sector, employment gains were the largest in
+and third (-34,400) quarters (Exhibit 2.1). A similar trend the food & beverage services sector and the other services
+was observed for total employment excluding FDWs. industries (Exhibit 2.2).
+Exhibit 2.1: Changes in Total Employment
+Exhibit 2.2: Changes in Employment by Industry in 4Q 2020
+Thousand
+50
+Food & Beverage Services 9.8
+Other Services Industries 6.4
+Retail Trade 2.6
+0
+Information & Comms 0.6
+Finance & Insurance -0.2
+Professional Services -0.3
+-50 Accommodation -0.6
+Real Estate -0.8
+Wholesale Trade -1.0
+Administrative & Support -1.0
+-100
+Transportation & Storage -2.2
+Manufacturing -11.0
+Construction -15.8
+-150
+-25 -20 -15 -10 -5 0 5 10 15
+IV I II III IV
+2019 2020
+Thousand
+1 Figures for the fourth quarter of 2020 and full year 2020 are based on preliminary estimates.
+
+--- PAGE 18 ---
+
+16 Economic Survey of Singapore 2020
+Chapter 2 | Labour Market and Productivity
+For the whole of 2020, total employment fell by 186,600, Exhibit 2.4: Unemployment Rates (Seasonally-Adjusted)
+with employment declines seen in the services (-96,400),
+construction (-52,000) and manufacturing (-38,000) sectors. Per Cent
+5
+The decline in total employment was driven by a fall in
+foreign employment (-195,900), which outstripped a rise in
+local employment (9,300) (Exhibit 2.3). Local employment 4
+increased in the information & communications, financial
+services and professional services sectors, but fell in the
+accommodation, wholesale trade and retail trade sectors.
+3
+Meanwhile, foreign employment fell across all sectors.
+Exhibit 2.3: Changes in Employment by Residential Status
+2
+Thousand
+100
+1
+50
+0
+0 Dec Mar Jun Sep Dec
+2019 2020
+Overall Resident Citizen
+-50
+For the full year, the annual average unemployment rates
+-100 rose in 2020 at the overall level (from 2.3 per cent in 2019
+to 3.0 per cent), as well as for residents (from 3.1 per cent
+to 4.1 per cent) and citizens (from 3.3 per cent to 4.2 per
+-150 cent). However, they remained below the levels observed
+during SARS2 and the Global Financial Crisis3.
+-200 In 2020, 96,500 residents were unemployed on average,
+2016 2017 2018 2019 2020
+of whom 84,100 were Singapore citizens. The respective
+figures in 2019 were lower, at 72,900 and 63,900.
+Total Local Foreign
+RETRENCHMENTS
+As at December 2020, there were 3,597,700 employed
+persons in Singapore, with 2,366,200 locals and 1,231,500 The number of retrenchments was 6,100 in the fourth
+foreigners. Excluding FDWs, there were 984,100 foreigners. quarter, lower than the level reached in the preceding quarter
+(9,120). This reflected the first decline after five consecutive
+quarters of increases. Over the quarter, retrenchments fell
+UNEMPLOYMENT
+in the services (from 6,710 to 4,900), manufacturing (from
+2,070 to 1,100) and construction (from 340 to 100) sectors.
+The seasonally-adjusted overall (3.2 per cent), resident (4.4
+per cent) and citizen (4.5 per cent) unemployment rates For the full year, total retrenchments (26,570) rose from
+eased in December 2020, after trending up in the previous that observed in 2019 (10,690) on the back of higher
+quarters (Exhibit 2.4). retrenchments in the services (from 7,000 to 20,090),
+manufacturing (from 2,790 to 5,430) and construction (from
+In December 2020, there were 104,400 unemployed residents, 860 to 1,020) sectors.
+of whom 90,100 were Singapore citizens. These were lower
+than the number of unemployed residents (112,500) and
+citizens (97,700) in September 2020.
+2 In 2003, the annual average overall, resident and citizen unemployment rates were 4.0 per cent, 5.2 per cent and 5.4 per cent respectively.
+3 In 2009, the annual average overall, resident and citizen unemployment rates were 3.0 per cent, 4.3 per cent and 4.5 per cent respectively.
+
+--- PAGE 19 ---
+
+Economic Survey of Singapore 2020 17
+Chapter 2 | Labour Market and Productivity
+PRODUCTIVITY Exhibit 2.6: Changes in Value-Added per Actual Hour Worked
+by Industry in 2020
+Real Value-Added per Actual Hour
+Manufacturing 18.3
+Worked
+Wholesale Trade 3.1
+Finance & Insurance 2.6
+Overall labour productivity, as measured by real value-added Overall Productivity 1.3
+per actual hour worked, increased by 4.0 per cent in the fourth
+Information & Comms 0.4
+quarter, extending the 2.2 per cent growth in the third quarter.
+Retail Trade -3.9
+During the quarter, the productivity of the manufacturing,
+accommodation, wholesale trade, retail trade, finance & Other Services Industries -7.0
+insurance and information & communications sectors rose, Real Estate -9.1
+while that of the transportation & storage, construction, Accommodation -9.6
+administrative & support services, food & beverage services,
+Professional Services -11.6
+professional services, real estate and other services sectors
+Administrative & Support -13.6
+declined.
+Construction -14.0
+Collectively, the productivity of outward-oriented sectors Food & Beverage Services -17.7
+increased by 6.1 per cent in the fourth quarter, while that Transportation & Storage -22.1
+of domestically-oriented sectors declined by 4.9 per cent -30 -20 -10 0 10 20 30
+over the same period.4
+Per Cent
+For the full year, real value-added per actual hour worked
+Real Value-Added per Worker
+rose by 1.3 per cent, reversing the 1.3 per cent decline
+in 2019 (Exhibit 2.5). Across the sectors, manufacturing,
+wholesale trade and finance & insurance experienced Real value-added per worker rose by 2.4 per cent in the
+the strongest growth in real value-added per actual hour fourth quarter, reversing the 2.5 per cent decline in the
+worked (Exhibit 2.6). preceding quarter, as the fall in employment outpaced the
+contraction in real value-added.
+For 2020 as a whole, real value-added per worker decreased
+Exhibit 2.5: Changes in Value-Added per Actual Hour Worked
+by 3.4 per cent, extending the 0.2 per cent decline in 2019.
+for the Overall Economy
+The divergence between the two measures of productivity
+Per Cent (real value-added per actual hour worked and real value-
+6 added per worker) was due to a fall in average actual
+hours worked per worker in 2020, against the backdrop of
+the Circuit Breaker measures implemented in the second
+quarter of the year and the subsequent gradual re-opening
+4
+of the economy.
+2 INCOME FROM WORK
+Reflecting the impact of the COVID-19 pandemic, real and
+nominal median gross monthly income fell in 2020. The
+0
+nominal median gross monthly income (including employer
+CPF contributions) of full-time employed residents dipped
+by 0.6 per cent to $4,534 in 2020, compared to the increase
+-2 of 2.8 per cent in 2019.
+2016 2017 2018 2019 2020
+After adjusting for inflation which was negative in 2020, real
+median income fell by 0.4 per cent in 20205, compared to
+the increase of 2.2 per cent in 2019.
+4 Outward-oriented sectors refer to manufacturing, wholesale trade, transportation & storage, accommodation, information & communications, finance & insurance
+and professional services. Domestically-oriented sectors refer to construction, retail trade, food & beverage services, real estate, administrative & support services
+and other services industries.
+5 The Consumer Price Index (CPI) for all items fell by 0.2 per cent in 2020.
+
+--- PAGE 20 ---
+
+18 Economic Survey of Singapore 2020
+Chapter 2 | Labour Market and Productivity
+Notwithstanding the decline in 2020, real median income
+rose over the last five years (i.e., 2015 to 2020) by 14 per
+cent cumulatively, or 2.6 per cent per annum. During this
+period, real income at the 20th percentile grew by 15 per cent
+cumulatively, or 2.9 per cent per annum (Exhibit 2.7).
+Exhibit 2.7: Annualised Change in Real Gross Monthly Income
+from Work of Full-Time Employed Residents, 2015-2020
+Per Cent Per Annum
+3 2.9
+2.6
+2
+1
+0
+20th Percentile Median
+
+--- PAGE 21 ---
+
+Economic Survey of Singapore 2020 19
+Chapter 2 | Labour Market and Productivity
+
+--- PAGE 23 ---
+
+COSTS,
+INVESTMENTS
+AND
+PRICES
+CHAPTER
+03
+
+--- PAGE 24 ---
+
+22 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+CHAPTER 3
+COSTS, INVESTMENTS
+AND PRICES
+INVESTMENT OVERALL UNIT LABOUR COST The Consumer Price
+COMMITMENTS (Year-On-Year Growth) Index (CPI) decreased by
+0.2% in 2020
+IN 2020
+5
+0
+CPI-ALL ITEMS
+-5 Overall ULC INFLATION
+-9.1%
+-10 1
+2018 2019 2020 0.6%
+0.4%
+Fixed Asset Total Business
+Investment Expenditure WITHIN THE
+Commitments Commitments MANUFACTURING SECTOR 0
+$17.2 $6.8 -0.2%
+-22.8% -14.4%
+billion billion
+in 2020 in 2020
+-1
+Unit Labour Unit Business
+Cost Cost 2018 2019 2020
+CLUSTERS THAT ATTRACTED CLUSTERS THAT ATTRACTED
+THE HIGHEST FIXED ASSET THE HIGHEST TOTAL BUSINESS
+INVESTMENT COMMITMENTS EXPENDITURE COMMITMENTS
+Electronics Chemicals Services Transport Headquarters & Research &
+Clusters Engineering Professional Services Development
+THE DECLINE IN CPI BUT THIS WAS
+WAS MAINLY DUE TO PARTIALLY OFFSET BY
+DECREASE IN PRICES OF... INCREASE IN PRICES OF...
+Recreation & Culture Transport Food
+-0.1% -0.1% 0.4%
+point contribution point contribution point contribution
+
+--- PAGE 25 ---
+
+Economic Survey of Singapore 2020 23
+Chapter 3 | Costs, Investments and Prices
+OVERVIEW
+Overall Unit Labour Cost (ULC) fell by 11 per cent on a year-on-year basis in the fourth quarter of 2020, extending
+the 10 per cent decline in the preceding quarter. For the whole of 2020, the overall ULC decreased by 9.1 per cent,
+a reversal from the 2.3 per cent increase in 2019.
+Total investment commitments attracted by EDB in the manufacturing and services clusters remained healthy
+in 2020. The manufacturing clusters garnered a larger amount of commitments in terms of both fixed asset
+investments (FAI), while the services sector attracted a larger amount of total business expenditure (TBE)
+commitments. The electronics and chemicals clusters within the manufacturing sector were the biggest
+contributors to FAI commitments, while the transport engineering cluster contributed the most to TBE
+commitments
+The Consumer Price Index-All Items (CPI-All Items) inched down by 0.1 per cent on a year-on-year basis in the
+fourth quarter, compared to the 0.3 per cent decline in the previous quarter. For 2020 as a whole, CPI-All Items
+declined by 0.2 per cent, a reversal from the 0.6 per cent increase in 2019.
+Producer prices, as measured by the domestic supply price index (DSPI), the Singapore manufactured products
+price index (SMPPI) as well as the import and export price indices, all fell on a year-on-year basis in the fourth
+quarter. For the whole of 2020, the DSPI, SMPPI as well as import and export price indices declined by 8.7 per
+cent, 6.9 per cent, 7.0 per cent and 7.0 per cent respectively.
+COSTS
+By broad sectors, the ULC for the manufacturing sector
+contracted by 22 per cent, moderating from the fall of 27
+Overall ULC for the economy fell by 11 per cent year-on-year per cent in the preceding quarter. The ULC decline for the
+in the fourth quarter, extending the 10 per cent decline in sector occurred on the back of productivity gains alongside
+the preceding quarter (Exhibit 3.1). The fall in the overall a fall in total labour cost per worker.
+ULC was due to the combined effect of a decrease in total
+labour cost per worker and an increase in productivity as Similarly, the ULC for services producing industries fell
+measured by real value-added per worker. by 6.6 per cent, extending the 4.9 per cent decline in the
+previous quarter. Most services sectors saw a drop in their
+Exhibit 3.1: Changes in Unit Labour Cost in 4Q 2020 ULCs, except for the transportation & storage sector. For
+the transportation & storage sector, its ULC increased on
+the back of a fall in labour productivity that more than offset
+Transportation & Storage 10.3
+a decline in total labour cost per worker.
+Other Services Industries -1.0
+Professional Services -2.2 The ULC for the construction sector fell by 15 per cent, a
+Finance & Insurance -7.2 reversal from the increase of 20 per cent in the preceding
+Administrative & Support -9.0 quarter. This came about as total labour cost per worker
+declined by more than the drop in labour productivity.
+Real Estate -10.6
+Overall Economy -10.7
+For the whole of 2020, overall ULC contracted by 9.1 per
+Information & Comms -10.9 cent as a fall in total labour cost per worker outpaced a
+Food & Beverage Services -12.5 decline in labour productivity.
+Wholesale Trade -12.8
+Manufacturing unit business cost (UBC) fell by 17 per cent
+Construction -15.0
+year-on-year in the fourth quarter, similar to the decline
+Retail Trade -20.0
+recorded in the previous quarter (Exhibit 3.2). This came
+Manufacturing -22.3 on the back of declines in the manufacturing ULC (-22 per
+Accommodation -24.6 cent), unit services cost (-14 per cent) and unit non-labour
+-40 -30 -20 -10 0 10 20 production taxes (-31 per cent). For the whole of 2020, the
+Per Cent manufacturing UBC contracted by 14 per cent, extending
+the 4.7 per cent decline in 2019.
+
+--- PAGE 26 ---
+
+24 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+Exhibit 3.2: Changes in Unit Business Cost for Manufacturing INVESTMENT COMMITMENTS
+Per Cent EDB attracted healthy levels of investment commitments
+5 in 2020. For the full year, FAI and TBE commitments came
+in at $17.2 billion and $6.8 billion respectively.
+0 In terms of FAI, the largest contribution came from the
+manufacturing clusters, which garnered $13.1 billion in
+commitments. Within manufacturing, the electronics cluster
+-5
+attracted the largest amount of FAI commitments, at $6.5
+billion, followed by the chemicals cluster, at $4.1 billion.
+Among the services clusters, the research & development
+-10
+and infocommunications & media clusters contributed the
+most to total FAI commitments, with $1.3 billion and $1.1
+billion respectively (Exhibit 3.4).
+-15
+Exhibit 3.4: Fixed Asset Investments by Industry Clusters
+in 2020
+-20
+IV I II III IV
+2019 2020
+Chemicals
+Electronics
+24%
+38%
+Singapore’s relative unit labour cost (RULC) for manufacturing
+– a measure of Singapore’s competitiveness against 16
+economies1 – fell in 2020 as compared to 2019 (Exhibit
+3.3). The decline was mainly on account of the steep fall
+in Singapore’s manufacturing ULC.
+Others
+Exhibit 3.3: Singapore’s Relative Unit Labour Cost in 14%
+Manufacturing Against Selected 16 Economies1
+Services Clusters
+Index 24%
+110
+100
+Investors from the United States were the largest source
+of FAI commitments with $9.2 billion (53 per cent). They
+90
+were followed by local investors who contributed about
+80 $3.0 billion of FAI commitments (17 per cent).
+70 For TBE, the services clusters attracted the highest
+amount of commitments, at $3.6 billion. This was driven
+60 by the headquarters & professional services cluster, which
+garnered $1.2 billion in TBE commitments, followed by the
+50
+2013 2014 2015 2016 2017 2018 2019 2020 research & development cluster, with $1.1 billion. Among the
+manufacturing clusters, the transport engineering cluster
+contributed the highest amount of TBE commitments, at
+$1.6 billion (Exhibit 3.5).
+1 The 16 economies are Australia, China, France, Germany, Hong Kong, India, Indonesia, Japan, Malaysia, Netherlands, South Korea, Taiwan, Thailand, the United
+Kingdom, the United States and Vietnam.
+
+--- PAGE 27 ---
+
+Economic Survey of Singapore 2020 25
+Chapter 3 | Costs, Investments and Prices
+Exhibit 3.5: Total Business Expenditure by Industry For 2020 as a whole, CPI-All Items declined by 0.2 per cent,
+Clusters in 2020
+a reversal from the 0.6 per cent increase in 2019.
+Transport Price decreases in the following CPI categories contributed
+Engineering
+negatively to CPI-All Items inflation in 2020 (Exhibit 3.7).
+24%
+Prices of clothing & footwear dropped by 3.8 per cent because
+of cheaper ready-made garments and footwear. Recreation
+Others & culture prices fell by 1.8 per cent as a result of the lower
+31%
+cost of holiday travel.2 Healthcare costs declined by 1.5 per
+Headquarters
+& Professional cent on the back of a fall in the prices of outpatient services
+Services
+and medical products, which outweighed an increase in the
+18%
+cost of hospital services. Prices of miscellaneous goods
+& services dipped by 1.2 per cent on account of cheaper
+personal effects. Transport costs edged down by 0.7 per
+cent due to a drop in the prices of petrol and Electronic Road
+Infocommunications Research & Pricing (ERP) charges that more than offset higher car prices
+& Media Development
+11% 16% as well as bus & train fares. Education costs decreased by
+0.6 per cent as a result of lower fees at childcare centres
+and kindergartens due to the enhancement of preschool
+subsidies since January 2020. Housing & utilities costs fell
+Local investors accounted for most of the TBE commitments, by 0.3 per cent as lower electricity prices and gas tariffs
+at $2.8 billion (41 per cent), followed by investors from the more than offset a rise in accommodation cost.
+United States, at $1.5 billion (21 per cent).
+Exhibit 3.7: Changes in CPI by Category in 2020
+When these projects are fully implemented, they are expected
+to generate $31.2 billion of value-added per annum and
+create more than 19,000 jobs in the coming years. Food 1.9
+Communication 0.7
+CONSUMER PRICE INDEX
+Household Durables 0.3
+Singapore’s CPI-All Items dipped by 0.1 per cent on a year- Housing & Utilities -0.3
+on-year basis in the fourth quarter, compared to the 0.3
+per cent decline in the previous quarter (Exhibit 3.6). On Education -0.6
+a quarter-on-quarter seasonally-adjusted basis, CPI-All Transport -0.7
+Items rose by 0.4 per cent, slightly faster than the 0.3 per
+cent increase in the previous quarter. Misc Goods & Services -1.2
+Health Care -1.5
+Exhibit 3.6: Changes in Overall CPI
+Recreation & Culture -1.8
+Per Cent
+Clothing & Footwear -3.8
+1.0
+-6 -4 -2 0 2 4
+Per Cent
+YOY Growth
+0.5
+By contrast there were price increases in other CPI
+categories. Prices of household durables & services rose
+by 0.3 per cent on account of more expensive domestic and
+0.0
+household services. Communication costs climbed by 0.7
+QOQ Growth (SA) per cent due to higher telecommunication services costs.
+Food costs rose by 1.9 per cent on the back of an increase
+-0.5 in the prices of non-cooked food items such as meat and
+vegetables, as well as food serving services like hawker
+food and restaurant meals.
+-1.0
+IV I II III IV
+2019 2020
+2 These services were either fully or partially unavailable in April – December 2020 due to international and safe-distancing measures to contain the COVID-19
+pandemic. Price changes were imputed, in line with international guidelines.
+
+--- PAGE 28 ---
+
+26 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+PRODUCER PRICE INFLATION
+Exhibit 3.9: Changes in Import and Ewxport Price Indices
+Producer prices, as measured by the DSPI, SMPPI, as well Per Cent
+as import and export price indices, all fell on a year-on- 0
+year basis in the fourth quarter (Exhibits 3.8 and 3.9). The
+declines seen during the quarter came on the back of a fall
+in the prices of diesel fuel and motor spirit of ron 90-97.
+For the full year, the DSPI and SMPPI declined by 8.7 per -5 Export Price Index
+cent and 6.9 per cent respectively, while the import and
+export price indices fell by 7.0 per cent each. Cheaper
+diesel fuel and motor spirit of ron 90-97 also contributed
+to the decline in these producer price indices for the year.
+-10 Import Price Index
+Exhibit 3.8: Changes in Domestic Supply Price and Singapore
+Manufactured Products Price Indices
+Per Cent
+-15
+0
+IV I II III IV
+2019 2020
+Singapore Manufactured
+-5
+Products Price Index
+Domestic Supply
+-10
+Price Index
+-15
+IV I II III IV
+2019 2020
+
+--- PAGE 29 ---
+
+Economic Survey of Singapore 2020 27
+Chapter 3 | Costs, Investments and Prices
+BOX ARTICLE 3.1
+LATEST BUSINESS COST CONDITIONS
+IN SINGAPORE’S MANUFACTURING AND
+SERVICES SECTORS
+OVERVIEW
+In 2020, the unit business cost (UBC)
+in the manufacturing and overall
+services sectors declined.
+DEFINITION OF UBC -14.4% -0.2%
+in 2020 in 2020*
+Total Business Cost
+UBC =
+Gross Real Value-Added
+UBC for Manufacturing UBC for Services
+*Refers to first 3 quarters of 2020
+KEY DRIVERS
+The fall in the manufacturing UBC in 2020 was on The decrease in the services UBC in 2020 came on the back
+account of declines in both unit labour cost and unit of a decline in unit labour cost, which more than offset an
+services cost. increase in other services costs.
+CONTRIBUTION TO MANUFACTURING UBC CONTRIBUTION TO SERVICES UBC
+IN 2020 IN 2020
+-6.3% -1.1%
+Labour Cost
+point point
+-2.1%
+Labour Cost point
+-2.4%
+Royalties
+point +1.0%
+Services Cost
+point
+Utilities
+OUTLOOK
+Looking ahead, the overall unit labour cost for the economy is likely to rise in 2021 in tandem with the gradual recovery
+of the labour market, and there may be some upward pressure on the costs of utilities, fuel and transportation due to
+higher oil prices. Meanwhile, industrial and commercial rentals are expected to remain largely subdued.
+UNIT LABOUR COST UTILITIES COST RENTAL COST
+
+--- PAGE 30 ---
+
+28 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+LATEST BUSINESS COST CONDITIONS IN SINGAPORE’S
+MANUFACTURING AND SERVICES SECTORS
+This box article highlights the latest trends in business costs for firms in Singapore’s manufacturing and services sectors,
+as well as the outlook for key components of business costs in 2021.
+(I) UNIT BUSINESS COST 1 IN THE MANUFACTURING AND SERVICES SECTORS
+Unit business costs in both the manufacturing and overall services sectors declined in 2020
+In 2020, the unit business cost index for the manufacturing sector (UBCI) fell by 14.4 per cent (Exhibit 1). The main
+contributors to the decline were manufacturing unit labour cost (ULC), utilities cost and royalties cost2, with their
+contributions collectively accounting for 10.8 percentage-points (pp) of the fall in the UBCI. Meanwhile, cost components
+like rentals and non-labour production taxes3 (e.g., property, road and other indirect taxes) had a relatively small impact
+on the UBCI, in part because of their low shares of total business costs. (Please refer to Annex A for the business cost
+structure of firms in the manufacturing and services sectors.)
+Exhibit 1: Contribution to UBCI Changes by Key Cost Components
+Contribution to yoy change, ppc
+0
+-4
+-8
+-12
+-16
+-20
+1Q20 2Q20 3Q20 4Q20 2020
+Unit Labour Cost Utilities Royalties Work Given Out
+Others Rental Unit Non-Labour Manufacturing UBC
+Production Taxes
+Source: Department of Statistics
+Note: “Others” consists of sub-components such as professional fees, advertising, commission and agency fees, sundry expenses, etc.
+Similarly, the unit business cost index for the overall services sector (UBC-Services Index)4 dipped by 0.2 per cent in the
+first three quarters of 2020 compared to the same period a year ago (Exhibit 2).5 The fall in the UBC-Services Index was
+due to a decline in the services ULC (-1.1pp), which more than offset an increase in other services costs (+1.0pp).6
+1 U nit business cost measures the business costs incurred to produce one unit of output. Only operating expenses (without material costs and depreciation) are
+included in business costs. This follows the definition adopted by the Department of Statistics (DOS) in its computation of the Unit Business Cost for Manufacturing.
+See DOS’ Information Paper, “Methodological Review on the Unit Business Cost Index for Manufacturing Industry (Base Year 2010=100)”, at https://www.singstat.gov.
+sg/-/media/files/publications/economy/ip-e38.pdf.
+2 Royalties cost refers to payments made to another party (the licensor or franchisor who owns a particular asset) for the right to the ongoing use of that asset.
+3 Labour-related taxes on production (e.g., foreign worker levy) are classified under labour cost. Taxes on income (e.g., corporate income tax) are excluded.
+4 The UBC-Services Index is estimated by MAS to assess cost conditions in the services sector. It is a composite index of proxy cost indicators for each component of
+business costs, combined using weights estimated from expenditure data in DOS’ Services Survey Series 2018: The Services Sector, as well as the 2016 Input-Output
+tables.
+5 Latest available UBC-Services Index is up to the third quarter of 2020.
+6 The percentage-point contributions by ULC and other services costs do not sum to the overall change in the UBC-Services Index due to rounding.
+
+--- PAGE 31 ---
+
+Economic Survey of Singapore 2020 29
+Chapter 3 | Costs, Investments and Prices
+Exhibit 2: Contribution to Overall Services UBC Changes by Cost Components
+Contribution to yoy change, ppc
+6
+4
+2
+0
+-2
+-4
+1Q20 2Q20 3Q20 2020 (Year-to-Date)
+Unit Labour Cost Other Services Costs UBC-Services Index
+Source: Monetary Authority of Singapore
+Notes: (1) The UBC-Services Index for 2020 refers to the average of the first three quarters; (2) Detailed cost component breakdowns for the UBC-Services Index are not
+available; (3) Other services costs include air & sea freight costs, cargo handling costs and warehousing & storage costs.
+(II) LATEST TRENDS AND OUTLOOK FOR KEY COST COMPONENTS
+Reflecting the fall in the ULCs for the manufacturing and overall services sectors, the ULC for
+the overall economy declined in 2020, driven by a reduction in total labour cost per worker as
+wage subsidies were provided to firms to cope with the impact of COVID-19
+The ULC for the overall economy declined by 9.1 per cent in 2020,7 on account of a large reduction in total labour cost8
+(TLC) per worker (-11.6 per cent) which outpaced a fall in labour productivity (-2.7 per cent) (Exhibit 3). In turn, the fall in
+TLC per worker was driven by a significant increase in the amount of wage subsidies provided by the government through
+support measures such as the Jobs Support Scheme, as well as the foreign worker levy (FWL) waiver and rebate granted
+by the government. Specifically, the increase in wage subsidies per worker and fall in FWL per worker contributed 10.9pp
+and 2.1pp to the decline in TLC per worker in 2020 respectively. These more than offset the contribution from the rise in
+remuneration per worker (+1.7pp).
+At the sectoral level, most sectors experienced a decline in their respective ULCs in 2020 (Exhibit 4). In the manufacturing
+sector, the ULC plunged by 22.8 per cent, driven by a fall in TLC per worker as well as strong labour productivity growth.
+At the same time, the ULC for the overall services sector decreased by 4.9 per cent, as the decline in TLC per worker
+outpaced a fall in labour productivity. Among the services sectors, most saw a lower ULC, except for the transportation
+& storage sector, the professional services sector, and the other services industries. As for the construction sector, its
+ULC increased by 9.0 per cent, as a fall in labour productivity outstripped the decline in TLC per worker.
+For 2021, the ULC for the overall economy is likely to increase, as the wage subsidies introduced in 2020 taper. Remuneration
+per worker is also expected to rise, as the labour market gradually recovers in tandem with the rebound in economic activity.
+7 A change in the ULC can be approximately decomposed as the change in total labour cost per worker minus the change in labour productivity (proxied by gross real
+value-added per worker). The approximation holds better when the changes are small.
+8 T LC comprises remuneration, wage subsidies and other labour-related costs, which include the skills development levy, foreign worker levy, and recruitment and
+net training cost. An example of the wage subsidies provided to companies was the Jobs Support Scheme, which provided wage support of up to 75 per cent of gross
+monthly wages to help employers retain their local employees during the COVID-19 pandemic.
+
+--- PAGE 32 ---
+
+30 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+Exhibit 3: Decomposition of ULC Growth for Exhibit 4: ULC Change by Sectors, 2020
+Overall Economy, 2020
+Construction 9.0
+ULC -9.1% Transportation & Storage 4.5
+Professional Services 2.2
+TLC per worker -11.6% Other Services Industries 0.9
+Real Estate -4.8
+Remuneration per worker +1.7pp Services Producing Industries -4.9
+Administrative & Support Services -5.1
+FWL per worker -2.1pp Accommodation -5.4
+Finance & Insurance -7.7
+Wage subsidies per worker -10.9pp Information & Communications -9.4
+Wholesale Trade -11.0
+Other labour costs -0.2pp Retail Trade -13.2
+Food & Beverage Services -14.7
+Gross real labour productivity -2.7% Manufacturing -22.8
+-40 -20 0 20
+Per Cent
+Source: MTI Staff estimates using data from the Department of Statistics and Ministry of Manpower
+Note: The pp contributions of the various types of labour costs do not sum up to the change in TLC per worker due to rounding.
+Industrial and commercial rentals fell in 2020
+Industrial rentals fell by 1.5 per cent in 2020 on the back of sluggish demand for industrial space amidst the economic
+uncertainty caused by the COVID-19 pandemic (Exhibit 5). Nonetheless, occupancy rate edged up over the course of the
+year, on account of the delays in new completions and an increase in the demand for storage space for purposes such
+as stockpiling and e-commerce (Exhibit 6).
+For 2021, while the demand for industrial space could improve in tandem with the global and domestic economic recovery,
+the upcoming supply of industrial space is likely to exert some downward pressure on industrial rentals. In particular,
+around 2.7 million gross square metres of industrial space are expected to be completed this year (Annex B, Exhibit
+B1),9 higher than the average annual supply of industrial space between 2015 and 2020 (approximately 1.6 million gross
+square metres). Taking into account both demand and supply conditions, industrial rentals are likely to remain broadly
+stable in 2021.
+Exhibit 5: Industrial Rental Index, 1Q20-4Q20 Exhibit 6: Industrial Occupancy Rate, 1Q20-4Q20
+Per Cent change, yoy Per Cent
+1.0 90
+0.5
+89
+0.0
+88
+-0.5
+87
+-1.0
+-1.5 86
+-2.0
+85
+1Q20 2Q20 3Q20 4Q20
+1Q20 2Q20 3Q20 4Q20
+Source: JTC Corporation
+Note: Both the industrial rental index and the industrial occupancy rate cover multiple-user factory space, single-user factory space, business parks and warehouses.
+9 About 0.5 million gross square metres are expected to come from completions that were delayed in 2020 due to the impact of COVID-19 on the construction sector.
+
+--- PAGE 33 ---
+
+Economic Survey of Singapore 2020 31
+Chapter 3 | Costs, Investments and Prices
+In terms of commercial space, the rentals of office space declined by 8.5 per cent in 2020 in tandem with a fall in leasing
+demand amidst the weak economic environment (Exhibit 7). For 2021, the demand for office space is expected to improve
+in tandem with the economic recovery, although the extent of the increase may be modest given that businesses are likely
+to remain cautious in their expansion plans in view of the continued uncertainties surrounding the COVID-19 situation.
+At the same time, the supply of office space is expected to moderate this year. Specifically, 0.16 million gross square
+metres of office space are projected to come on-stream within the year, lower than the annual average of 0.21 million
+gross square metres completed between 2015 and 2020 (Annex B, Exhibit B2). Taken together, office rentals are likely to
+see a modest recovery over the course of the year.
+As for retail space, rentals fell by 14.7 per cent in 2020 on account of weak leasing demand amidst the disruptions to
+the retail sector caused by the COVID-19 pandemic, including global travel restrictions which led to a slump in tourist
+arrivals and the requirement for safe distancing measures to contain the domestic outbreak. Looking ahead, the demand
+for retail space is expected to remain sluggish given the increased popularity of e-commerce, ongoing safe distancing
+measures, and the weak recovery in tourist demand. Nevertheless, business sentiments among retailers may improve
+over the course of the year as the domestic COVID-19 vaccine rollout continues to make progress and the labour market
+gradually recovers. On the supply side, an estimated 0.09 million gross square metres of retail space could come on-stream
+in 2021, which is lower than the annual average of 0.17 million gross square metres completed between 2015 and 2020.
+While the moderation in the supply of retail space and the gradual recovery in business sentiments may provide some
+support to retail rentals towards the end of the year, retail rentals are by and large expected to remain subdued this year.
+Exhibit 7: Office and Retail Rental Indices, 1Q20 – 4Q20
+Per Centchange, yoy
+5
+0
+-5
+-10
+-15
+-20
+1Q20 2Q20 3Q20 4Q20
+Office Retail
+Source: Urban Redevelopment Authority
+Costs of utilities and fuel declined in 2020
+The cost of utilities borne by firms is closely linked to electricity prices,10 which are in turn influenced by movements in
+global oil prices.11 Oil prices also contribute to business costs through fuel and transportation costs.
+In 2020, the average wholesale electricity price12 fell sharply by 28.8 per cent, in tandem with the steep decline in global
+oil prices (Exhibit 8). The plunge in oil prices came on the back of lower global oil demand as restriction measures taken
+by many countries to curb the spread of COVID-19 weighed on global economic activity, as well as curtailed international
+and domestic travel.
+10 For example, electricity cost accounts for around 83 per cent of the cost of utilities borne by firms in the manufacturing sector.
+11 About 96 per cent of Singapore’s electricity is generated from natural gas, the price of which is indexed to oil prices. This is a common market practice in Asia.
+12 This refers to the Uniform Singapore Energy Price (USEP), which is the average wholesale energy price in the National Electricity Market of Singapore.
+
+--- PAGE 34 ---
+
+32 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+Looking ahead, global oil prices are projected to increase given the expected recovery in oil demand alongside the pickup
+in global economic activity, even as oil production is likely to remain restrained. Nonetheless, the current high level of
+global oil inventory is expected to cap upward price pressures in the near term. For 2021 as a whole, the US Energy
+Information Administration has forecast that global oil prices will average US$53 per barrel (/bbl)13, which is higher
+than the 2020 average of US$42/bbl but lower than the historical five-year average prior to 2020.14 In turn, the modest
+recovery in oil prices is likely to exert some upward pressure on the costs of utilities, fuel and transportation in 2021.
+Exhibit 8: Global Oil Prices and Uniform Singapore Energy Prices, 1Q20 – 4Q20
+Per Cent change, yoy
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+1Q20 2Q20 3Q20 4Q20
+UK Brent USEP ($/MWh)
+Source: International Monetary Fund, CEIC, Energy Market Company
+Conclusion
+In 2020, the unit business cost for the manufacturing sector fell, in large part due to declines in the manufacturing ULC,
+utilities cost and royalties cost. Meanwhile, the unit business cost for the overall services sector dipped in the first three
+quarters of 2020 because of a reduction in the services ULC which outweighed an increase in other services costs.
+Looking ahead, the overall ULC for the economy is likely to rise in 2021 on account of a tapering of the wage subsidies
+introduced in 2020 and as remuneration per worker rises in tandem with the gradual recovery of the labour market. At
+the same time, the costs of utilities, fuel and transportation are likely to see some upward pressure due to higher global
+oil prices, while industrial and commercial rental costs are expected to remain largely subdued.
+Contributed by:
+Geraldine Lim
+Economist
+Economics Division
+Ministry of Trade and Industry
+13 EIA Short-Term Energy Outlook Report, February 2021.
+14 Between 2015 and 2019, global oil prices averaged $57/bbl.
+
+--- PAGE 35 ---
+
+Economic Survey of Singapore 2020 33
+Chapter 3 | Costs, Investments and Prices
+REFERENCES
+Singapore Department of Statistics (2014), “Methodological Review on the Unit Business Cost Index for Manufacturing
+Industry (Base Year 2010=100)” November. https://www.singstat.gov.sg/-/media/files/publications/economy/ip-e38.pdf.
+U.S. Energy Information Administration (2021), “Short-Term Energy Outlook (STEO)” February. https://www.eia.gov/
+outlooks/steo/.
+
+--- PAGE 36 ---
+
+34 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+ANNEX A: BUSINESS COST STRUCTURE OF MANUFACTURING AND
+SERVICES SECTORS
+Manufacturing Sector
+In the manufacturing sector, labour cost, work given out and “others” constitute the largest components of business costs.
+These three components collectively account for around 86 per cent of the business costs of small- and medium-sized
+enterprises (SMEs) and around 77 per cent of the business costs of non-SMEs in the sector.
+The remaining services cost components, including utilities, fuel, rental of building/premises and charges paid to other
+firms for inland transportation and ocean/air/other freight, make up a smaller share of business costs, at 22 per cent for
+non-SMEs and 13 per cent for SMEs. Non-labour production taxes, which include property, road and other indirect taxes,
+account for around 0.4 per cent and 0.7 per cent of the business costs of SMEs and non-SMEs respectively.
+Details of the business cost structure of SMEs and non-SMEs in the various manufacturing clusters are in Exhibit A1.
+Services Sector
+Like in the manufacturing sector, labour cost constitutes a major cost component for firms in the services sectors, with
+its share of business costs ranging from around 9 per cent for firms in the transportation & storage sector, to around
+39 per cent or more for firms in labour-intensive sectors such as accommodation, food & beverage services and retail
+trade. Across all services sectors, except for the accommodation and transportation & storage sectors, the labour cost
+share of business costs is larger for SMEs than for non-SMEs.
+On the other hand, utilities cost is a relatively small cost component for firms in the services sectors, accounting for less
+than 2 per cent of the business costs of firms in most sectors. Key exceptions are firms in the accommodation and food
+& beverage services sectors, where utilities cost constitutes up to 5 per cent of their business costs. Similarly, rental
+cost accounts for a small share of the business costs of firms in most services sectors. Key exceptions include the retail
+trade, accommodation and food & beverage services sectors, where the rental cost share of business costs for SMEs is
+28 per cent, 15 per cent and 26 per cent respectively.
+Similar to the case for the manufacturing sector, non-labour production taxes account for less than 1 per cent of the
+business costs of firms in most services sectors. Even for the accommodation and real estate, professional services
+and administrative & support services sectors, which have the highest shares of non-labour production taxes, they are
+relatively small, at less than 4 per cent.
+Details of the business cost structure of SMEs and non-SMEs in the various services sectors are in Exhibit A2.
+
+--- PAGE 37 ---
+
+9102
+,eziS
+mriF
+yb
+rotceS
+gnirutcafunaM
+eht
+fo
+erutcurtS
+tsoC
+ssenisuB
+:1A
+tibihxE
+lareneG
+tropsnarT
+noisicerP
+lacidemoiB
+slacimehC
+scinortcelE
+latoT
+gnirutcafunaM
+gnireenignE
+gnireenignE
+gnirutcafunaM
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+7.05
+6.53
+1.64
+3.63
+2.15
+5.23
+4.02
+1.42
+9.52
+9.61
+1.01
+5.21
+6.63
+5.91
+tsoC
+ruobaL
+5.84
+8.36
+3.35
+3.36
+1.84
+9.66
+1.97
+6.57
+0.37
+1.28
+4.98
+3.78
+7.26
+1.08
+tsoC
+secivreS
+9.21
+6.4
+7.62
+0.73
+1.51
+0.21
+2.61
+9.1
+1.3
+8.6
+2.73
+3.82
+2.81
+1.12
+tuo
+nevig
+kroW
+4.1
+2.3
+2.1
+5.2
+2.1
+4.32
+3.6
+4.73
+3.4
+7.4
+0.4
+8.7
+7.2
+7.01
+seitlayoR
+0.3
+5.6
+1.1
+8.1
+2.2
+8.1
+3.1
+5.1
+3.8
+3.7
+9.0
+6.2
+9.2
+2.3
+seitilitU
+3.1
+8.3
+3.0
+3.0
+4.0
+2.0
+7.0
+5.0
+1.5
+7.03
+1.0
+9.0
+3.1
+5.5
+leuF
+/gnidliub
+fo latneR
+2.5
+9.1
+0.2
+5.0
+5.2
+7.0
+0.1
+5.0
+4.1
+2.0
+7.0
+3.0
+4.2
+4.0
+sesimerp
+rehto
+ot
+diap
+segrahC
+dnalni
+rof
+smrif
+1.3
+6.6
+3.1
+5.1
+4.2
+5.3
+8.5
+8.1
+4.41
+1.5
+7.0
+1.1
+3.4
+2.2
+dna
+noitatropsnart
+thgierf
+rehto
+/ria
+/naeco
+7.12
+2.73
+8.02
+7.91
+4.42
+3.52
+8.74
+0.23
+5.63
+2.72
+7.54
+3.64
+0.13
+9.63
+srehtO
+noitcudorP
+ruobaL-noN
+8.0
+7.0
+6.0
+4.0
+7.0
+6.0
+4.0
+3.0
+1.1
+0.1
+6.0
+2.0
+7.0
+4.0
+sexaT
+draoB
+tnempoleveD
+cimonocE
+:ecruoS
+dna
+noillim
+001$
+naht
+erom
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS-noN
+.srekrow
+002
+naht
+erom
+ton
+fo
+tnemyolpme
+ro
+noillim
+001$
+naht
+erom
+ton
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS
+:etoN
+.srekrow
+002
+naht
+erom
+fo
+tnemyolpme
+Economic Survey of Singapore 2020 35
+Chapter 3 | Costs, Investments and Prices
+
+--- PAGE 38 ---
+
+w
+9102
+,eziS
+mriF
+yb
+srotceS
+secivreS
+eht
+fo
+erutcurtS
+tsoC
+ssenisuB
+:2A
+tibihxE
+,etatsE
+laeR
+lanoisseforP
+&
+ecnaniF
+&
+noitamrofnI
+noitatropsnarT
+egareveB
+&
+dooF
+dna
+secivreS
+noitadommoccA
+edarT
+liateR
+edarT
+elaselohW
+ecnarusnI
+snoitacinummoC
+egarotS
+&
+secivreS
+&
+evitartsinimdA
+secivreS
+troppuS
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+1.03
+3.92
+2.31
+4.01
+3.62
+2.61
+3.6
+1.21
+8.94
+3.34
+1.93
+0.15
+0.14
+5.63
+4.91
+1.91
+tsoC
+ruobaL
+2.76
+6.86
+5.68
+5.98
+4.37
+2.38
+4.39
+5.78
+8.94
+1.65
+0.85
+4.54
+3.85
+3.26
+8.97
+4.08
+tsoC
+secivreS
+0.1
+4.0
+1.0
+1.0
+9.0
+9.0
+1.0
+5.0
+6.4
+0.4
+5.5
+4.4
+4.1
+5.2
+2.0
+7.0
+seitilitU
+0.2
+1.0
+-
+-
+4.1
+-
+6.16
+8.05
+8.0
+2.2
+-
+-
+0.2
+5.1
+2.04
+5.11
+tropsnarT
+&
+thgierF
+6.0
+1.0
+2.4
+2.3
+4.0
+3.0
+5.0
+5.0
+4.1
+9.0
+4.2
+7.1
+6.2
+2.2
+4.2
+0.2
+secivreS
+laicnaniF
+9.0
+3.0
+2.0
+2.0
+4.7
+1.1
+3.0
+2.0
+5.0
+2.0
+6.0
+3.0
+9.0
+4.0
+4.0
+5.0
+snoitacinummoC
+9.3
+3.1
+1.1
+6.0
+7.2
+4.1
+8.1
+9.0
+9.52
+2.12
+0.51
+9.6
+9.72
+8.43
+3.4
+2.4
+sesimerP
+fo
+gnitneR
+7.5
+6.9
+8.3
+3.2
+4.9
+7.61
+5.0
+0.1
+4.1
+7.0
+7.1
+8.2
+2.2
+8.1
+6.3
+1.4
+secivreS
+lanoisseforP
+1.35
+7.65
+2.77
+1.38
+2.15
+8.26
+5.82
+6.33
+3.51
+0.72
+8.23
+4.92
+3.12
+2.91
+9.82
+5.75
+secivreS
+rehtO
+&
+gnisitrevdA
+7.5
+6.0
+6.0
+5.1
+5.51
+0.3
+9.0
+4.0
+0.2
+1.3
+4.3
+3.4
+3.6
+7.4
+1.3
+8.4
+tnemniatretnE
+& nimdA
+4.7
+2.8
+9.8
+1.5
+0.41
+6.51
+5.3
+0.3
+3.3
+1.3
+1.8
+9.4
+9.2
+8.2
+0.6
+0.21
+seeF
+tnemeganaM
+&
+ruobal
+tcartnoC
+5.11
+8.82
+3.0
+8.0
+3.6
+2.3
+8.1
+4.1
+1.2
+2.4
+5.3
+1.1
+9.1
+9.1
+8.2
+0.01
+tuo
+nevig
+krow
+6.2
+9.0
+2.8
+2.3
+2.3
+2.3
+8.1
+2.2
+6.0
+1.0
+1.4
+0.2
+1.3
+5.0
+9.4
+1.7
+noissimmoC
+2.1
+5.0
+3.0
+5.0
+2.3
+3.92
+-
+1.0
+5.1
+1.9
+5.0
+6.2
+4.0
+5.1
+3.2
+8.71
+seitlayoR
+& ecnanetniaM
+8.2
+4.1
+3.0
+5.0
+2.1
+2.1
+7.1
+3.4
+6.2
+8.3
+6.4
+3.3
+4.2
+6.3
+7.0
+3.1
+sriaper
+2.0
+-
+-
+-
+-
+-
+7.21
+8.61
+1.0
+2.0
+-
+-
+1.0
+1.0
+1.1
+-
+leuF
+8.12
+2.61
+6.85
+4.17
+8.7
+3.7
+1.6
+4.5
+0.3
+4.3
+7.8
+2.11
+3.4
+1.4
+0.8
+5.4
+srehtO
+noitcudorP
+ruobaL-noN
+7.2
+1.2
+2.0
+1.0
+3.0
+6.0
+2.0
+4.0
+3.0
+6.0
+9.2
+6.3
+7.0
+2.1
+7.0
+5.0
+sexaT
+eropagniS
+fo
+ytirohtuA
+yratenoM
+dna
+scitsitatS
+fo
+tnemtrapeD
+:ecruoS
+:setoN
+dna
+noillim
+001$
+naht
+erom
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS-noN
+.srekrow
+002
+naht
+erom
+ton
+fo
+tnemyolpme
+ro
+noillim
+001$
+naht
+erom
+ton
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS
+.1
+.srekrow
+002
+naht
+erom
+fo tnemyolpme
+.elbigilgen
+ro
+lin ot
+srefer
+“-“
+.2
+36 Economic Survey of Singapore 2020
+Chapter 3 | Costs, Investments and Prices
+
+--- PAGE 39 ---
+
+w
+Economic Survey of Singapore 2020 37
+Chapter 3 | Costs, Investments and Prices
+ANNEX B: SUPPLY OF INDUSTRIAL AND COMMERCIAL SPACE
+Exhibit B1: Supply of Industrial Space
+Total 2021 2022 2023 2024 2025 >2025
+Multiple-User Factory Space ('000 sqm gross)
+Total 1,651 885 709 4 52 - -
+Under Construction 1,439 853 533 0 52 - -
+Planned 212 32 176 4 0 - -
+Single-User Factory Space ('000 sqm gross)
+Total 2,014 1,140 493 218 163 - -
+Under Construction 1,440 931 262 132 115 - -
+Planned 574 209 231 86 48 - -
+Business Park Space ('000 sqm gross)
+Total 606 202 0 64 339 - -
+Under Construction 415 188 0 0 227 - -
+Planned 191 14 0 64 113 - -
+Warehouse Space ('000 sqm gross)
+Total 944 450 347 138 10 - -
+Under Construction 716 410 306 - - - -
+Planned 228 39 41 138 10 - -
+Total Industrial Space 5,215 2,677 1,549 424 565 - -
+Source: JTC Corporation
+Note: The upcoming supply figures include supply from new development and redevelopment projects. They comprise:
+- projects with Provisional Permission, Outline Provisional Permission and/or Written Permission;
+- developments submitted for planning approval and which are under consideration;
+- projects on awarded Government Land Sales (GLS) and Concept and Price Tender (CPT) sites for which plans have not been submitted for planning
+approval; and planned projects in the GLS (which refer to sites on the GLS confirmed list and sites on the GLS reserve list that have been
+triggered) and CPT sites launched for tender.
+Exhibit B2: Supply of Commercial Space
+Total 2021 2022 2023 2024 2025 >2025
+Office Space ('000 sqm gross)
+Total 770 164 61 222 217 - 106
+Under Construction 478 164 61 214 39 - -
+Planned 292 - - 8 178 - 106
+Retail Space ('000 sqm gross)
+Total 426 89 73 62 65 19 118
+Under Construction 252 89 72 42 49 - -
+Planned 174 - 1 20 16 19 118
+Total Commercial Space 1,196 253 134 284 282 19 224
+Source: Urban Redevelopment Authority
+
+--- PAGE 41 ---
+
+CHAPTER
+04
+INTERNATIONAL
+TRADE
+
+--- PAGE 42 ---
+
+40 Economic Survey of Singapore 2020
+Chapter 4 | International Trade
+CHAPTER 4
+INTERNATIONAL TRADE
+TOTAL MERCHANDISE TRADE GROWTH IN MERCHANDISE TRADE
+AMOUNTED TO... 20
+$453 billion 10 Merchandise Exports
+-3.2%
+Merchandise
+0
+Imports Merchandise Trade
+-5.2%
+-10
+Merchandise Imports
+-7.4%
+-20
+$969 2018 2019 2020
+billion
+COMPONENTS OF MERCHANDISE EXPORTS
+(Year-On-Year Growth)
+in 2020
++4.3% +0.1% -28.1%
+$172 billion
+Non-Oil
+$281 billion Domestic Exports
+Re-exports $62 billion
+Oil Domestic Exports
+Non-Oil Oil
+Re-exports
+Domestic Exports
+GROWTH IN SERVICES TRADE TOTAL SERVICES TRADE
+AMOUNTED TO...
+20
+-12.7% $259 billion
+10
+Total Services Services Exports
+Exports
+0
+-16.1% -14.3%
+-10
+Total Services Total Services $497
+Imports Trade
+-20
+2018 2019 2020
+billion
+THE DECLINE IN
+SERVICES EXPORTS WAS LED BY...
+in 2020
+-6.9% -4.0%
+point contribution point contribution
+$238 billion
+Services Imports
+Travel Services Transport Services
+
+--- PAGE 43 ---
+
+Economic Survey of Singapore 2020 41
+Chapter 4 | International Trade
+OVERVIEW
+Singapore’s total merchandise trade declined by 5.1 per cent year-on-year in the fourth quarter of 2020, following
+the 4.8 per cent decrease in the preceding quarter. At the same time, total services trade fell by 16 per cent year-
+on-year in the fourth quarter, extending the 16 per cent contraction in the third quarter.
+For the whole of 2020, Singapore’s total merchandise trade contracted by 5.2 per cent to reach $969 billion,
+compared to the $1.0 trillion achieved in 2019. Oil trade slumped by 31 per cent amidst lower oil prices compared
+to a year ago, while non-oil trade edged up by 0.7 per cent. Merchandise exports and imports decreased by 3.2
+per cent and 7.4 per cent respectively.
+Overall services trade declined by 14 per cent to $497 billion in 2020, from $580 billion in 2019. Services exports
+and imports fell by 13 per cent and 16 per cent respectively.
+MERCHANDISE TRADE
+For the whole of 2020, total merchandise exports decreased
+by 3.2 per cent, extending the 4.2 per cent decline in 2019.
+Merchandise Exports
+Non-Oil Domestic Exports
+Total merchandise exports decreased by 2.9 per cent
+year-on-year in the fourth quarter, following the 2.2 per
+cent decline in the preceding quarter (Exhibit 4.1). The fall Non-oil domestic exports (NODX) fell by 0.5 per cent year-
+in total merchandise exports was due to domestic exports, on-year in the fourth quarter, after posting an increase
+which contracted by 10 per cent in the fourth quarter, worse of 6.5 per cent in the preceding quarter (Exhibit 4.2). The
+than the 5.1 per cent decline in the third quarter. Meanwhile, decline in NODX was due to a fall in non-electronics NODX
+re-exports rose by 3.4 per cent, higher than the 0.3 per cent outweighing the growth in electronics NODX.
+increase in the preceding quarter.
+Exhibit 4.2: Changes in Domestic Exports
+Exhibit 4.1: Growth Rates of Total Merchandise Trade,
+Per Cent
+Merchandise Exports and Merchandise Imports
+(In Nominal Terms) 10
+Non-Oil Domestic Exports
+2020
+2019 2020
+I II III IV
+Total
+-3.2 3.4 -13.9 -4.8 -5.1 -5.2
+Merchandise Trade 0
+Merchandise
+-4.2 4.0 -11.4 -2.2 -2.9 -3.2
+Exports
+Domestic Exports -10.5 4.9 -16.2 -5.1 -10.3 -6.8
+-10
+Domestic Exports
+Oil -12.9 3.9 -53.3 -29.1 -30.6 -28.1
+Non-Oil -9.2 5.4 5.8 6.5 -0.5 4.3
+-20
+IV I II III IV
+Re-Exports 2.3 3.2 -6.9 0.3 3.4 0.1
+2019 2020
+Merchandise
+-2.1 2.6 -16.6 -7.6 -7.6 -7.4
+Imports
+Oil -13.5 -6.2 -57.5 -32.3 -39.2 -34.0
+Non-oil 1.5 5.1 -5.2 -1.5 0.4 -0.3
+
+--- PAGE 44 ---
+
+42 Economic Survey of Singapore 2020
+Chapter 4 | International Trade
+Oil Domestic Exports
+Electronics NODX grew by 2.6 per cent in the fourth quarter,
+easing from the 9.2 per cent increase in the previous quarter.
+The rise in electronics NODX was primarily due to higher Oil domestic exports contracted by 31 per cent year-on-
+domestic exports of telecommunications equipment, PCs year in the fourth quarter, following the 29 per cent decline
+and disk drives. Non-electronics NODX decreased by 1.4 in the preceding quarter. The contraction in oil domestic
+per cent, a reversal from the 5.7 per cent growth in the exports was led by lower exports to Malaysia, Indonesia
+previous quarter. The fall in non-electronics NODX was due and Australia, partly reflecting lower oil prices in the fourth
+to a decline in the domestic exports of pharmaceuticals, quarter as compared to a year ago. In volume terms, oil
+non-monetary gold and petrochemicals. domestic exports declined by 8.4 per cent, a reversal from
+the 5.1 per cent increase in the third quarter.
+For the full year, NODX expanded by 4.3 per cent, after
+posting a 9.2 per cent decline in 2019. The increase was For the full year, oil domestic exports fell by 28 per cent,
+due to higher shipments of both non-electronics (4.1 per following the 13 per cent contraction in 2019, on account
+cent) and electronics (4.9 per cent) products. of lower oil prices. The decline in oil domestic exports was
+driven mainly by lower exports to Malaysia, Indonesia and
+The top 10 NODX markets accounted for 82 per cent of Australia. In volume terms, oil domestic exports expanded
+Singapore’s total NODX in 2020. Singapore’s NODX to the by 3.6 per cent in 2020, a turnaround from the 5.8 per cent
+top 10 markets all rose in 2020, except for China, Hong decrease in 2019.
+Kong, Indonesia and Malaysia (Exhibit 4.3). The biggest
+contributors to the increase in NODX were the US (38 per
+Non-Oil Re-Exports
+cent), Japan (26 per cent) and South Korea (27 per cent).
+NODX to the US expanded mainly because of a pickup in Non-oil re-exports (NORX) grew by 3.4 per cent year-
+the exports of non-monetary gold, food preparations and on-year in the fourth quarter, after recording a decline
+disk media products. NODX to Japan rose as a result of an of 0.6 per cent in the preceding quarter (Exhibit 4.4). The
+increase in the exports of pharmaceuticals, specialised growth in NORX was due to an increase in the re-exports
+machinery and glass. Meanwhile, specialised machinery, of electronics outweighing a decline in non-electronic
+ICs and pharmaceuticals contributed the most to the growth re-exports. Electronics NORX expanded by 21 per cent,
+in NODX to South Korea. On the other hand, NODX to China following the 16 per cent growth in the third quarter, on
+decreased due to a decline in the exports of non-monetary the back of an increase in the re-exports of ICs, diodes &
+gold, petrochemicals and ICs. transistors and parts of PCs. Meanwhile, non-electronics
+NORX decreased by 12 per cent, extending the 13 per cent
+decline in the preceding quarter. The fall in non-electronics
+Exhibit 4.3: Growth Rates of Non-Oil Domestic Exports to
+NORX was mainly due to the lower re-exports of non-electric
+Top Ten Markets in 2020
+engines & motors, aircraft parts and piston engines.
+United States 38.3
+Exhibit 4.4: Changes in Re-Exports
+South Korea 27.2
+Per Cent
+Japan 26.1
+5
+Taiwan 15.5
+Non-Oil Re-Exports
+EU 8.8
+Thailand 6.8
+Re-Exports
+0
+Malaysia -0.7
+China -8.0
+Hong Kong -15.1
+-5
+Indonesia -16.4
+-30 -20 -10 0 10 20 30 40 50
+Per Cent
+-10
+IV I II III IV
+2019 2020
+
+--- PAGE 45 ---
+
+Economic Survey of Singapore 2020 43
+Chapter 4 | International Trade
+Merchandise Imports
+For the whole of 2020, NORX edged up marginally by 0.1 per
+cent, moderating from the 3.1 per cent rise in 2019. Growth
+was attributable to the increase in electronics NORX (13 Non-oil imports increased by 0.4 per cent year-on-year in
+per cent) which outweighed the decline in non-electronics the fourth quarter, a reversal from the 1.5 per cent decline
+NORX (-11 per cent). in the preceding quarter (Exhibit 4.6). The rise in non-oil
+imports came on the back of a pickup in the imports of
+NORX to all top 10 NORX markets expanded in 2020, except electronics (14 per cent) which outweighed a decline in non-
+for Malaysia, Japan and Indonesia (Exhibit 4.5). NORX to electronics imports (-7.7 per cent). Higher imports of ICs,
+Hong Kong rose on the back of higher re-exports of ICs, parts of PCs and parts of ICs contributed to the increase in
+diodes & transistors and non-electric engines & motors. electronics imports. Meanwhile, non-electronics imports
+Meanwhile, higher shipments of ICs, personal beauty declined due to a drop in the imports of non-electric engines
+products and specialised machinery led to an increase & motors, aircraft parts and petrochemicals.
+in NORX to China. Re-exports to the EU 27 rose due to
+higher shipments of ICs, telecommunications equipment
+Exhibit 4.6: Changes in Merchandise Imports
+and parts of PCs. On the other hand, NORX to Malaysia fell
+because of a drop in the shipments of telecommunications Per Cent
+equipment, non-monetary gold and aircraft parts.
+10
+Non-Oil Imports
+0
+Exhibit 4.5: Growth Rates of Non-Oil Re-Exports to Top
+Ten Markets in 2020
+-10
+Hong Kong 16.3 -20 Oil Imports
+China 9.5
+-30
+Taiwan 8.3
+-40
+EU 7.8
+South Korea 7.8 -50
+Vietnam 6.3
+-60
+IV I II III IV
+United States 2.7
+2019 2020
+Indonesia -4.9
+Japan -8.6
+Oil imports fell by 39 per cent year-on-year in the fourth
+Malaysia -10.6 quarter, following the 32 per cent decline in the preceding
+-15 -10 -5 0 5 10 15 20 quarter. In volume terms, oil imports plunged by 20 per cent,
+larger than the 3.9 per cent decline in the previous quarter.
+Per Cent
+For the full year, non-oil imports dipped by 0.3 per cent,
+deteriorating from the 1.5 per cent growth in 2019. Oil
+imports slumped by 34 per cent, following the 13 per cent
+decline in 2019.
+
+--- PAGE 46 ---
+
+44 Economic Survey of Singapore 2020
+Chapter 4 | International Trade
+Services Exports Services Imports
+Services exports shrank by 14 per cent year-on-year in Services imports fell by 19 per cent year-on-year in the
+the fourth quarter, extending the 14 per cent contraction fourth quarter, following the 19 per cent decline recorded
+in the third quarter (Exhibit 4.7). This was primarily driven in the third quarter. The decrease in services imports was
+by the exports of travel services, transport services and on account of the lower imports of travel services (-90 per
+maintenance & repair services, which plunged by 85 per cent), transport services (-22 per cent) and other business
+cent, 17 per cent and 45 per cent respectively. By contrast, services (-3.2 per cent). Conversely, the imports of financial
+the exports of financial services expanded by 9.4 per cent. services increased by 18 per cent.
+For the full year, services exports declined by 13 per cent, For the whole of 2020, services imports contracted by 16
+reversing from the 6.2 per cent growth recorded in 2019. per cent, a reversal from the 5.2 per cent increase in 2019.
+Total services exports fell on the back of a contraction in the The decrease in services imports was attributable to the
+exports of travel services (-74 per cent), transport services imports of travel services, transport services and other
+(-14 per cent) and other business services (-3.7 per cent). business services contracting by 75 per cent, 18 per cent
+These decreases were partially offset by an expansion in and 4.2 per cent respectively. These declines were partially
+the exports of financial services (3.7 per cent) and insurance offset by an increase in the imports of financial services
+services (3.1 per cent) over the same period. and telecommunications, computer & information services
+by 14 per cent and 5.5 per cent respectively.
+Exhibit 4.7: Growth Rates of Total Services Trade, Services
+Exports and Services Imports (In Nominal Terms)
+2020
+2019 2020
+I II III IV
+Total Services
+5.7 -3.0 -21.4 -16.3 -16.3 -14.3
+Trade
+Services
+6.2 -3.3 -19.1 -14.1 -13.8 -12.7
+Exports
+Services
+5.2 -2.7 -23.7 -18.7 -18.9 -16.1
+Imports
+
+--- PAGE 49 ---
+
+BALANCE
+OF
+PAYMENTS
+CHAPTER
+05
+
+--- PAGE 50 ---
+
+48 Economic Survey of Singapore 2020
+Chapter 5 | Balance of Payments
+CHAPTER 5
+BALANCE OF PAYMENTS
+Singapore’s balance of BALANCE OF PAYMENTS TREND
+payments surplus came in at
+$103.3 billion at the end of 2020
+120
+$103.3 billion
+100
+100
+$82.5 billion
+80
+80
+60 60
+40
+40
+20
+$16.9 billion
+20
+0
+-20 0
+-$19.9 billion
+-40 -$11.4 billion
+-20
+Current Capital and
+2018 2019 2020
+Account Financial Account
+COMPONENTS OF COMPONENTS OF CAPITAL &
+CURRENT ACCOUNT FINANCIAL ACCOUNT
+Goods Services Direct Portfolio
+balance balance investment investment
+-$76.0 billion $71.0 billion
+$129.2 billion $20.5 billion
+Primary Secondary Financial Other
+income balance income balance derivatives investment
+$19.1 billion -$34.0 billion
+-$57.3 billion -$9.9 billion
+
+--- PAGE 51 ---
+
+Economic Survey of Singapore 2020 49
+Chapter 5 | Balance of Payments
+OVERVIEW
+Singapore’s overall balance of payments rose to $37 billion in the fourth quarter of 2020, from $14 billion in
+the third quarter. For the year as a whole, the overall balance of payments registered a surplus of $103 billion,
+reversing the deficit of $11 billion in 2019. This was mainly due to net inflows into the capital and financial account,
+which was a reversal from the net outflows in 2019. As a result, Singapore’s official foreign reserves rose to $479
+billion at the end of 2020.
+CURRENT ACCOUNT
+The current account surplus narrowed to $20 billion in the Exhibit 5.2: Components of Current Account Balance
+fourth quarter, from $23 billion in the third quarter (Exhibit
+$ Billion
+5.1). For 2020 as a whole, the surplus rose by $9.6 billion to
+40
+$82 billion (18 per cent of GDP). This increase was driven by Goods Balance
+a larger surplus in the services balance and smaller deficits
+30
+in both the primary and secondary income balances, which
+more than offset a decline in the goods surplus.
+20
+Exhibit 5.1: Current Account Balance 10 Services Balance
+$ Billion
+0
+24
+Secondary Income Balance
+-10
+Primary Income Balance
+22
+-20
+IV I II III IV
+2019 2020
+20
+The surplus in the services balance came in at $6.9 billion
+in the fourth quarter, broadly unchanged from the preceding
+18
+quarter. However, for the whole of 2020, the surplus in the
+services balance widened to $21 billion, from $12 billion
+in 2019. This was driven mainly by lower net payments for
+16
+IV I II III IV travel services and a shift from net payments to net receipts
+2019 2020 for transport services.
+In terms of the sub-components of the current account, For the primary income balance, the deficit narrowed slightly
+the goods balance saw its surplus decline by $3.9 billion by $0.3 billion from the previous quarter to $16 billion in the
+from the third quarter to $31 billion in the fourth quarter, fourth quarter. For the year as a whole, the deficit declined
+as imports rose by more than exports (Exhibit 5.2). For the to $57 billion, from $61 billion in 2019, as primary income
+2020 as a whole, the goods balance registered a smaller payments fell by more than receipts.
+surplus of $129 billion, compared to the $132 billion in
+2019, as the exports of goods fell by more than imports.
+
+--- PAGE 52 ---
+
+50 Economic Survey of Singapore 2020
+Chapter 5 | Balance of Payments
+CAPITAL AND FINANCIAL ACCOUNT Exhibit 5.4: Components of Financial Account (Net)
+$ Billion
+The capital and financial account1 registered a net inflow
+40
+of $16 billion in the fourth quarter, in contrast to the net Portfolio
+Other Investment
+outflow of $7.4 billion in the preceding quarter (Exhibit Investment
+5.3). For 2020 as a whole, net inflows came in at $20 billion
+20
+(4.2 per cent of GDP), a reversal from the net outflows of Financial
+$84 billion in 2019. The reversal primarily reflected lower Derivatives
+net outflows of portfolio investment and a shift in “other
+0
+investment” from a net outflow to a net inflow position.
+These factors outweighed a decline in the net inflows of
+direct investment and an increase in the net outflows of -20
+financial derivatives.
+Direct Investment
+Exhibit 5.3: Capital and Financial Account Balance
+-40
+IV I II III IV
+$ Billion 2019 2020
+20
+10 Net inflows of “other investment” increased to $33 billion
+in the fourth quarter, from $6.5 billion in the preceding
+0
+quarter. For the full year, net inflows were $34 billion, a
+turnaround from the net outflows of $21 billion in 2019.
+-10
+This was partly attributable to an increase in net inflows
+-20 to the domestic non-bank private sector, as liabilities to
+non-residents grew and assets abroad fell.
+-30
+IV I II III IV
+2019 2020 Direct investment saw net inflows amounting to $19 billion
+in the fourth quarter, higher than the $16 billion in previous
+In terms of the sub-components of the capital and financial quarter. For 2020 as a whole, net inflows of direct investment
+account, net outflows of portfolio investment rose by $6.4 fell by $19 billion to $76 billion, as the decline in foreign direct
+billion in the fourth quarter to $31 billion (Exhibit 5.4). For investment into Singapore exceeded the fall in residents’
+the full year, net outflows of portfolio investment amounted direct investment abroad.
+to $71 billion, less than half the $145 billion of net outflows
+recorded in 2019. This was partly due to a shift from a net Net outflows of financial derivatives came in at $5.6 billion
+outflow position in resident deposit-taking corporations in the fourth quarter, largely unchanged from the previous
+in 2019 to a net inflow position in 2020, as resident banks quarter. For the full year of 2020, net outflows of financial
+switched to selling overseas securities from net purchases derivatives rose to $19 billion, from $13 billion in 2019.
+in the previous year.
+1 Net inflows in net balances are indicated by a minus (-) sign. For more details regarding the change in sign convention to the financial account, please refer to DOS’s
+information paper on “Singapore’s International Accounts: Methodological Updates and Recent Developments”.
+
+--- PAGE 54 ---
+
+Image courtesy of Illumina
+
+--- PAGE 55 ---
+
+CHAPTER
+06
+SECTORAL
+PERFORMANCE
+
+--- PAGE 56 ---
+
+54 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+CHAPTER 6
+SECTORAL PERFORMANCE
+OVERALL ECONOMY MANUFACTURING
+Nominal
+Value Real CLUSTERS IN THE MANUFACTURING SECTOR
+STRUCTURE OF ECONOMY Growth
+Added
+(%)
+Share (%) Nominal VA
+Real Growth (%)
+Share (%)
+TOTAL 100.0 -5.4 Electronics 39.2 11.9
+Goods Producing Industries 25.6 0.3
+Chemicals 14.0 -1.0
+Manufacturing 21.5 7.3
+Biomedical
+Manufacturing 17.1 23.7
+Construction 2.7 -35.9
+Utilities 1.3 -2.2 Precision
+Engineering 15.0 10.6
+Other Goods Industries 0.0 -10.0
+Transport
+Engineering 5.9 -25.7
+Services Producing Industries 70.1 -6.9
+General
+Manufacturing 8.7 -11.3
+Wholesale Trade 16.8 -2.4
+Industries
+Retail Trade 1.4 -16.0
+CONSTRUCTION
+Transportation & Storage 5.4 -25.4
+50.6%
+Public
+Accommodation 0.4 -28.7
+Food & Beverage Services 1.0 -25.1
+CERTIFIED
+PAYMENTS IN 2020
+Information & Communications 5.1 2.1
+49.4%
+Finance & Insurance 15.7 5.0 Private
+Real Estate 3.0 -14.2
+CONTRACTS AWARDED IN 2020
+Professional Services 5.9 -9.7
+Civil
+Institutional
+Engineering Residential Industrial Commercial
+Administrative & Support Services 4.5 -15.1 & Others
+Work
+Other Services Industries 10.8 -8.9
+Ownership of Dwellings 4.3 1.1 $5.7 $5.6 $4.3 $3.9 $1.6
+billion billion billion billion billion
+
+--- PAGE 57 ---
+
+Economic Survey of Singapore 2020 55
+Chapter 6 | Sectoral Performance
+WHOLESALE TRADE ACCOMMODATION
+Foreign Domestic
+PERFORMANCE OF HOTELS, (JANUARY-NOVERMBER 2020)
+Wholesale Trade Wholesale Trade
+Index growth Index growth Room revenue Gross lettings
+growth growth
+-1.4% -12.3%
+-71.3% -57.8%
+RETAIL TRADE
+FOOD & BEVERAGE SERVICES
+Retail Sales Retail Sales
+Index growth Index growth
+PERFORMANCE OF F&B (SALES GROWTH)
+(Non-motor Vehicles) (Motor Vehicles)
+-14.3% -24.3% Fast Food Others
+-8.8% -18.3%
+TRANSPORTATION & STORAGE
+Restaurants Catering
+-34.1% -54.8%
+Nominal
+Real
+Value
+TRANSPORTATION & STORAGE Growth
+Added
+(%)
+Share (%)
+INFORMATION & COMMUNICATIONS
+Land Transport* 18.5 -25.9
+Nominal VA
+Real Growth (%)
+Share (%)
+Water Transport* 50.9 -7.3
+Telecommunications 21.2 -8.3
+Air Transport* 6.4 -72.5
+IT & Information
+Services 64.8 6.4
+Storage & Other Support Services 20.3 -11.4
+Others 14.0 0.9
+Post & Courier 3.9 7.3
+*Including supporting services
+-5.7% Total sea cargo handled growth
+-82.8% Air passengers handled growth
+
+--- PAGE 58 ---
+
+56 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+CHAPTER 6
+SECTORAL PERFORMANCE
+FINANCE & INSURANCE REAL ESTATE
+PRIVATE RESIDENTIAL REAL ESTATE
+Nominal
+Real Units
+Value Price Index
+FINANCE & INSURANCE Growth Transacted
+Added Growth
+(%) Growth
+Share (%) 2.2%
+9.2%
+Banking 42.7 4.8
+COMMERCIAL AND INDUSTRIAL REAL ESTATE (RENTAL INDEX GROWTH)
+Activities Auxiliary to
+19.5 6.2 Commercial Commercial Industrial
+Financial Services Office Space Retail Space Space Rental
+-8.5% -14.7% -1.5%
+Fund Management 10.4 3.7
+Insurance 18.0 10.2
+PROFESSIONAL SERVICES
+Others 9.5 -3.5
+Nominal
+Real
+Value
+PROFESSIONAL SERVICES Growth
+Added
+(%)
+GROWTH OF BANK LOANS & ADVANCES Share (%)
+TO NON-BANK CUSTOMERS IN 2020
+Legal 8.8 -4.9
+Total Loans to Consumer
+Loans Businesses Loans
+Accounting 6.9 -2.2
+Head Offices & Business
+33.6 -5.0
+Representative Offices
+-2.0% -2.4% -1.2%
+Business &
+9.4 -9.0
+Management Consultancy
+OTHER SERVICES INDUSTRIES Architectural & Engineering,
+24.5 -16.3
+Technical Testing & Analysis
+Nominal
+Real Other Professional,
+Value 16.8 -14.0
+OTHER SERVICES INDUSTRIES Added Growth Scientific & Technical Services
+(%)
+Share (%)
+Public Administration & Defence 26.0 0.8
+ADMINISTRATIVE & SUPPORT SERVICES
+Education, Health & Social Work 54.6 -3.2
+Nominal
+Real
+Arts, Entertainment & Recreation 5.9 -54.0 ADMINISTRATIVE & Value Growth
+SUPPORT SERVICES Added
+(%)
+Share (%)
+Others 13.5 -9.8
+Rental & Leasing 60.5 -14.1
+Other Administrative
+39.5 -16.6
+& Support Services
+
+--- PAGE 60 ---
+
+58 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.1
+MANUFACTURING
+OVERVIEW
+The manufacturing sector expanded by 10 per cent year-on-year in the fourth quarter of 2020, extending the
+11 per cent growth in the preceding quarter. Growth in the sector was supported by output expansions in the
+electronics, biomedical manufacturing, precision engineering and chemicals clusters.
+For the whole of 2020, the manufacturing sector grew by 7.3 per cent, reversing the 1.5 per cent decline in the previous
+year, on the back of output growth in the electronics, biomedical manufacturing and precision engineering clusters.
+OVERALL MANUFACTURING Exhibit 6.2: Percentage-Point Contribution to Manufacturing
+Sector’s Growth in 2020
+PERFORMANCE
+Total Manufacturing 7.3
+In the fourth quarter, manufacturing output grew by 10 per
+cent on account of output expansions in the electronics,
+biomedical manufacturing, precision engineering and Electronics 3.0 4.7
+chemicals clusters. On the other hand, output declined
+in the transport engineering and general manufacturing
+clusters (Exhibit 6.1). Biomedical Manufacturing 4.2
+For the whole of 2020, the manufacturing sector expanded
+Precision Engineering 1.5
+by 7.3 per cent, a rebound from the 1.5 per cent decline in
+2019. The strong performance of the sector was driven by
+output growth in the electronics, biomedical manufacturing
+Chemicals -0.1
+and precision engineering clusters (Exhibit 6.2).
+Exhibit 6.1: Manufacturing Growth Rates General Manufacturing -0.9
+Industries
+Per Cent
+15 Transport Engineering -2.1
+-5 0 5 10
+11.0
+10.3 Per Cent
+10
+8.3
+PERFORMANCE OF CLUSTERS
+5 The electronics cluster grew by 23 per cent in the fourth
+quarter, bolstered by output expansions in the semiconductors
+(26 per cent), computer peripherals & data storage (11 per
+-4.0
+cent) and other electronic modules & components (1.8 per
+0
+-0.4 cent) segments. In particular, the semiconductors segment
+was supported by strong demand for semiconductor chips
+from 5G markets. On the other hand, the infocomms &
+-5
+consumer electronics segment contracted by 6.0 per cent.
+For 2020 as a whole, the electronics cluster expanded by 12
+per cent on account of robust global semiconductor demand
+-10 (Exhibit 6.3).
+IV I II III IV
+2019 2020
+
+--- PAGE 61 ---
+
+Economic Survey of Singapore 2020 59
+Chapter 6 | Sectoral Performance
+Exhibit 6.3: Manufacturing Clusters’ Growth Growth in the chemicals cluster came in at 7.3 per cent in the
+fourth quarter, supported by output expansions in all segments
+except for the petroleum segment. The petrochemicals
+Biomedical Manufacturing
+segment expanded by 15 per cent from a low base, due to
+plant maintenance shutdowns in the same period a year
+Electronics
+ago. Likewise, output in the specialty chemicals segment
+increased by 12 per cent on the back of a rise in the output
+Precision Engineering of industrial gases and mineral oil additives. At the same
+time, the other chemicals segment grew by 0.5 per cent,
+supported by a higher level of production of fragrances.
+Total Manufacturing
+Conversely, the petroleum segment contracted by 31 per
+cent as demand for transportation fuel was weak amidst the
+Chemicals international and domestic travel restrictions caused by the
+COVID-19 pandemic in economies around the world. For 2020
+General Manufacturing as a whole, the chemicals cluster contracted by 1.0 per cent.
+Industries
+Output in the general manufacturing cluster fell by 6.9
+Transport Engineering per cent in the fourth quarter, with all segments recording
+declines. Specifically, the miscellaneous industries segment
+-30 -20 -10 0 10 20 30
+contracted by 6.9 per cent due to the weak demand for
+Per Cent
+2019 2020 construction-related products, while the food, beverages &
+tobacco segment recorded a 5.8 per cent contraction on the
+back of a fall in the production of beverage products and milk
+Output in the biomedical manufacturing cluster rose by 13 powder. Meanwhile, output in the printing segment fell by 12
+per cent in the fourth quarter, supported by growth in both per cent. For the whole of 2020, the general manufacturing
+the pharmaceuticals and medical technology segments. The cluster contracted by 11 per cent.
+pharmaceuticals segment expanded by 11 per cent due to a
+higher level of production of active pharmaceutical ingredients Output in the transport engineering cluster declined by 30 per
+(APIs) and biological products. Similarly, output in the medical cent in the fourth quarter, weighed down by the aerospace
+technology segment increased by 16 per cent on the back and marine & offshore engineering (M&OE) segments. In
+of higher export demand for medical devices. For the full particular, output in the aerospace segment plunged by 39
+year, output in the biomedical manufacturing cluster rose per cent due to a fall in repair and maintenance work from
+by 24 per cent, supported by expansions in both segments. commercial airlines amidst global travel restrictions and weak
+air travel demand. Likewise, output in the M&OE segment
+The precision engineering cluster expanded by 9.7 per cent slumped by 33 per cent as work in shipyards was weighed
+in the fourth quarter, supported by output expansions in both down by the requirement to implement safe management
+the machinery & systems (M&S) and precision modules & measures as well as weak order books. By contrast, the land
+components (PMC) segments. In particular, the M&S segment transport segment expanded by 15 per cent on account of
+grew by 13 per cent on account of a higher level of production an increase in the output of parts and accessories for motor
+of semiconductor equipment. Meanwhile, the PMC segment vehicles. For the whole of 2020, the transport engineering
+rose by 1.8 per cent on the back of output increases for cluster shrank by 26 per cent.
+optical instruments and metal precision components. For
+the whole of 2020, the precision engineering cluster grew
+by 11 per cent.
+
+--- PAGE 62 ---
+
+60 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.2
+CONSTRUCTION
+OVERVIEW
+The construction sector shrank by 27 per cent year-on-year in the fourth quarter of 2020, moderating from the
+53 per cent contraction recorded in the previous quarter.
+For the whole of 2020, the sector contracted by 36 per cent, a sharp reversal from the 1.6 per cent growth in
+2019.
+CONSTRUCTION DEMAND Exhibit 6.5: Contracts Awarded, 2020 ($ Billion)
+Construction demand (contracts awarded) plunged by 29 Total Public Private
+per cent year-on-year to $5.7 billion in the fourth quarter,
+on the back of declines in both public and private sector Total 21.0 12.8 8.2
+construction demand (Exhibit 6.4).
+Residential 5.6 2.9 2.7
+Exhibit 6.4: Contracts Awarded
+Commercial 1.6 0.4 1.3
+$ Billion
+Industrial 4.3 2.1 2.2
+10
+Institutional &
+3.9 2.6 1.3
+Others
+8 Civil Engineering
+5.7 4.9 0.8
+Works
+Total
+6 Public Sector
+In the fourth quarter, public sector construction demand
+4 Public contracted by 28 per cent to $3.9 billion. This was primarily
+due to declines in contracts awarded for public institutional
+& others building (-64 per cent) and public civil engineering
+Private
+2 (-52 per cent) works. However, these declines were partially
+offset by expansions in contracts awarded for public
+residential building (23 per cent) and industrial building
+(2080 per cent) works.
+0
+IV I II III IV
+2019 2020
+For the full year, total construction demand fell by 37
+per cent to $21 billion (Exhibit 6.5), on account of the
+COVID-19 pandemic which disrupted project implementation
+schedules.
+
+--- PAGE 63 ---
+
+Economic Survey of Singapore 2020 61
+Chapter 6 | Sectoral Performance
+CONSTRUCTION ACTIVITIES
+For the full year, public sector construction demand fell
+by 33 per cent to $12.8 billion. The contraction was due to
+a reduction in contracts awarded for most types of works, Construction output (or certified payments) decreased
+particularly institutional & others building (-48 per cent) by 24 per cent year-on-year to $5.7 billion in the fourth
+and civil engineering (-37 per cent) works. Some of the quarter, due to contractions in both public and private
+major projects awarded during the year included LTA’s sector construction output (Exhibit 6.6).
+first contract for the Rapid Transit System (RTS) Link and
+Integrated Train Testing Centre, NEA’s Integrated Waste Exhibit 6.6: Certified Payments
+Management Facility (IWMF) (Package 1) and PUB’s various $ Billion
+contracts for the Deep Tunnel Sewerage System (DTSS) 8
+(Phase 2).
+Private Sector Total
+6
+Private sector construction demand decreased by 30 per
+cent in the fourth quarter to $1.9 billion, weighed down
+Public
+by lower demand for private residential building (-54 per
+4
+cent) and private institutional & others building (-87 per
+cent) works. On the other hand, expansions in contracts
+awarded for private commercial building (28 per cent) and
+Private
+industrial building (137 per cent) works helped to provide
+2
+some support to private sector construction demand.
+For the full year, private sector construction demand fell by
+43 per cent to $8.2 billion, due to contractions in demand
+for all types of works, particularly residential (-46 per cent) 0
+IV I II III IV
+and industrial building (-55 per cent) works. Major projects 2019 2020
+awarded in 2020 included Mandai Park’s rejuvenation
+project, residential developments for Government Land For the full year, construction output dropped by 30 per
+Sales (GLS) and past en-bloc sale sites, as well as Hyundai cent to $19.7 billion, a sharp reversal from the 6.4 per
+Mobility Global Innovation Centre. cent increase in 2019. Output was adversely affected by
+the suspension of construction activities during the Circuit
+Breaker period, as well as the slow pace of recovery of
+construction activities due to the need to implement safe
+management measures at construction worksites.
+Public Sector
+Public sector construction output contracted by 29 per
+cent year-on-year to $2.7 billion in the fourth quarter.
+Construction output for all types of works declined on
+a year-on-year basis, with public institutional & others
+building (-35 per cent) and public civil engineering (-25
+per cent) works seeing the largest declines.
+For the full year, public sector construction output shrank
+by 31 per cent to $10 billion, led by declines in residential
+building (-35 per cent) and civil engineering (-33 per cent)
+works. Major projects supporting public sector construction
+activities included LTA’s East Coast Integrated Depot and
+Circle MRT Line 6, JTC’s business park development at the
+Punggol Digital District and Logistics Hub at Benoi Road,
+MOH’s Woodlands Health Campus, as well as PUB’s DTSS
+(Phase 2).
+
+--- PAGE 64 ---
+
+62 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+Private Sector CONSTRUCTION COSTS
+In the fourth quarter, private sector construction output Based on BCA’s Building Works Tender Price Index (TPI),
+shrank by 19 per cent year-on-year to $3.0 billion, as all tender prices in the construction sector rose by 2.9 per
+types of construction works declined, particularly private cent in 2020, mainly on account of significant increases in
+residential building (-15 per cent) and private industrial manpower-related costs, which were in turn attributable
+building (-20 per cent) works. to the tight supply of foreign workers as a result of travel
+restrictions (Exhibit 6.8). Looking ahead, elevated manpower-
+For the full year, private sector construction output fell related costs as well as rising global material costs are likely
+by 29 per cent to $9.7 billion. All types of construction to continue to exert upward pressures on construction costs
+output contracted, especially residential building (-28 per and tender prices in 2021.
+cent) and industrial building (-25 per cent) works. Major
+on-going projects which contributed to private sector Exhibit 6.8: Changes in Tender Price Index
+construction activities included the chemical and refining
+Per Cent
+facilities at Jurong Island, data centres, a semiconductor
+5
+fabrication plant, Mandai Park attractions and island-wide
+cable installation projects.
+CONSTRUCTION MATERIALS 0
+In tandem with the reduction in total construction output,
+total consumption of ready-mixed concrete shrank by
+-5
+42 per cent to 7.2 million m3 in 2020. Similarly, the total
+consumption of steel rebars decreased by 39 per cent to
+0.83 million tonnes in 2020.
+-10
+The average market price of Grade 40 pump ready-mixed 2016 2017 2018 2019 2020
+concrete dropped by 1.8 per cent year-on-year to about
+$94 per m3 in the fourth quarter (Exhibit 6.7). On the other
+hand, the average market price of steel rebar rose by 4.8
+per cent year-on-year to around $754 per tonne in the fourth
+quarter, due to the rising costs of raw materials and tight
+supplies from import countries like China.
+Exhibit 6.7: Changes in Market Prices of
+Construction Materials
+Per Cent
+15
+10
+Ready-Mixed
+Concrete
+5
+0
+Steel Bars
+-5
+-10
+IV I II III IV
+2019 2020
+1 Rebar consumption is estimated from net imports plus local production (without factoring in stock levels).
+2 The market prices are based on contracts with non-fixed price, fixed price and market retail price.
+3 The market prices refer to 16mm to 32mm High Tensile rebar and are based on fixed price supply contracts with a contract period 12 months or below.
+
+--- PAGE 65 ---
+
+Economic Survey of Singapore 2020 63
+Chapter 6 | Sectoral Performance
+CONSTRUCTION OUTLOOK IN 2021 Exhibit 6.9: Projected Construction Demand in 2021
+According to BCA, total construction demand is projected
+$ Billion
+to be between $23 billion and $28 billion in 2021 (Exhibit
+6.9). Demand from the public sector is expected to
+Public Sector 15.0-18.0
+improve to between $15 billion and $18 billion, with an
+anticipated expansion in demand for public housing and
+major infrastructure works. Meanwhile, total private Building Construction Sub-total 6.0-7.9
+sector construction demand is projected to be between
+$8 billion and $10 billion in 2021. Demand is expected to be Residential 3.4-4.2
+supported by the redevelopment of the remaining en-bloc
+sales sites, major retrofitting of commercial developments Commercial 0.1-0.1
+and construction of high-specification industrial buildings.
+Industrial 0.5-0.8
+Total construction output in 2021 is projected to increase
+to between $24 billion and $27 billion, supported by an
+Institutional & Others 2.0-2.8
+anticipated improvement in construction demand in 2021
+as well as the backlogs of remaining workloads adversely
+Civil Engineering Works Sub-total 9.1-10.1
+affected by the COVID-19 pandemic in 2020.
+Private Sector 8.0-10.0
+Building Construction Sub-total 7.4-9.2
+Residential 2.9-3.4
+Commercial 1.5-1.9
+Industrial 2.2-2.9
+Institutional & Others 0.7-1.1
+Civil Engineering Works Sub-total 0.6-0.8
+TOTAL CONSTRUCTION DEMAND 23.0-28.0
+
+--- PAGE 66 ---
+
+64 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.3
+WHOLESALE TRADE4
+OVERVIEW
+The wholesale trade sector expanded by 1.8 per cent year-on-year in the fourth quarter, a reversal from the
+5.0 per cent contraction in the previous quarter, largely on the back of improved foreign wholesale sales of
+telecommunications & computers and electronic components.
+For the whole of 2020, the sector shrank by 2.4 per cent, worse than the 0.8 per cent contraction in 2019.
+WHOLESALE SALES Exhibit 6.10: Changes in Wholesale Trade Index
+in Chained Volume Terms
+In the fourth quarter, the wholesale trade sector was
+Per Cent
+weighed down by declines in both domestic and foreign
+10
+wholesale sales volumes.
+The domestic wholesale sales volume fell by 16 per cent
+year-on-year in the fourth quarter, extending the 25 per
+0
+cent contraction in the preceding quarter (Exhibit 6.10). The
+Foreign Wholesale Trade Index
+decline was led by weaker sales volumes in segments such
+as petroleum & petroleum-related products (-24 per cent),
+ship chandlers & bunkering (-14 per cent) and household -10
+equipment & furniture (-29 per cent), which outweighed the
+increase in the sales volumes of chemicals & chemicals-
+related products (23 per cent) and general wholesale trade
+Domestic Wholesale Trade Index
+(21 per cent). For the whole of 2020, the domestic wholesale -20
+trade index fell by 12 per cent, weakening from the 3.4 per
+cent decline in 2019.
+Meanwhile, foreign wholesale sales volume fell by 1.0 -30
+IV I II III IV
+per cent year-on-year in the fourth quarter, improving 2019 2020
+from the 2.4 per cent decline in the preceding quarter.
+The contraction was largely due to lower sales volumes of
+petroleum & petroleum-related products (-9.0 per cent)
+and other wholesale trade5 (-14 per cent). These declines
+more than offset robust expansions in the sales volumes of
+electronic components (41 per cent) and telecommunications
+& computers (38 per cent). For the full year, the foreign
+wholesale trade index contracted by 1.4 per cent, extending
+the 1.7 per cent decline in the previous year.
+4 With effect from the preliminary GDP estimates for the fourth quarter of 2020, the estimates for the Wholesale & Retail Trade sector will be disaggregated into
+their constituent Wholesale Trade and Retail Trade sectors. The Department of Statistics (DOS) will continue to make available the data for the broader sectors for
+downloading on DOS’ website (www.singstat.gov.sg).
+5 The “other wholesale trade” segment consists of a diverse range of products that includes agricultural raw materials and live animals, tropical produce, personal
+effects and medicinal and pharmaceutical products, among others.
+
+--- PAGE 67 ---
+
+Economic Survey of Singapore 2020 65
+Chapter 6 | Sectoral Performance
+6.4
+RETAIL TRADE6
+OVERVIEW
+The retail trade sector contracted by 4.7 per cent year-on-year in the fourth quarter, improving from the 8.6 per
+cent decline in the previous quarter. For the whole of 2020, the sector shrank by 16 per cent, deteriorating from
+the 2.4 per cent contraction in 2019.
+RETAIL SALES
+For the full year, retail sales volume shrank by 16 per cent,
+extending the 3.4 per cent decline in 2019. The contraction
+Retail sales volume fell by 4.6 per cent year-on-year in the was due to declines in both motor vehicle sales volume (-24
+fourth quarter, moderating from the 8.6 per cent decline in per cent) and non-motor vehicle sales volume (-14 per cent).
+the third quarter (Exhibit 6.11). Retail sales were supported
+by motor vehicle sales volume, which increased by 4.8 per The decline in motor vehicle sales volume in 2020 came in
+cent. By contrast, non-motor vehicle sales volume contracted tandem with a fall in COE supply. Meanwhile, the decrease
+by 5.9 per cent, with declines seen across several categories in non-motor vehicle sales volume was underpinned by
+of goods. In particular, the sales volume of goods such as contractions in most categories of goods as a result of sluggish
+food & alcohol (-39 per cent), cosmetics, toiletries & medical demand arising from the COVID-19 pandemic and public
+goods (-30 per cent) and department stores (-26 per cent) health measures (e.g., border restrictions, Circuit Breaker
+registered the highest declines. On the other hand, the measures) undertaken to limit COVID-19 transmissions.
+sales volumes of supermarkets & hypermarkets (24 per For instance, department stores (-40 per cent), watches &
+cent), furniture & household equipment (20 per cent) and jewellery (-39 per cent) and food & alcohol (-38 per cent)
+recreational goods (13 per cent) rose. These were purchases saw the largest declines in sales volumes (Exhibit 6.12). The
+likely to have been made by consumers because they were exceptions were supermarkets & hypermarkets (30 per cent),
+spending more time at home given that work-from-home computers & telecommunications equipment (3.4 per cent)
+arrangements remained largely in place. and mini-marts & convenient stores (3.0 per cent), which
+saw increases in sales volumes.
+Exhibit 6.11: Changes in Retail Sales Index in Chained
+Volume Terms
+Exhibit 6.12: Changes in Retail Sales Index at Constant Prices
+Per Cent for Major Segments in 2020
+0
+Total
+(excluding Motor Vehicle) Supermarkets & Hypermarkets 30.1
+Computer & Telecomms Equipment 3.4
+-10
+Mini-marts & Convenience Stores 3.0
+Furniture & Household Equipment -1.7
+Recreational Goods -10.0
+-20
+Petrol Service Stations -14.5
+Motor Vehicles -24.3
+-30 Optical Goods & Books -24.7
+Others -25.3
+Total
+Cosmetics, Toiletries
+& Medical Goods -27.3
+-40
+Wearing Apparel & Footwear -34.4
+Food & Alcohol -38.1
+-50 Watches & Jewellery -39.2
+IV I II III IV
+Department Stores -39.9
+2019 2020
+-60 -40 -20 0 20 40
+Per Cent
+6 With effect from the preliminary GDP estimates for the fourth quarter of 2020, the estimates for the Wholesale & Retail Trade sector will be disaggregated into
+their constituent Wholesale Trade and Retail Trade sectors. The Department of Statistics (DOS) will continue to make available the data for the broader sectors for
+downloading on DOS’ website (www.singstat.gov.sg).
+
+--- PAGE 68 ---
+
+66 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.5
+TRANSPORTATION & STORAGE
+OVERVIEW
+The transportation & storage sector shrank by 27 per cent year-on-year in the fourth quarter, improving slightly
+from the 29 per cent decline in the previous quarter.
+For the whole of 2020, the sector contracted by 25 per cent, a sharp deterioration from the 0.2 per cent expansion
+recorded in 2019. The performance of the sector was weighed down largely by the water transport, air transport
+and land transport segments.
+WATER TRANSPORT AIR TRANSPORT
+Container throughput fell by 0.7 per cent year-on-year in Air passenger traffic handled by Changi Airport plummeted
+the fourth quarter, unchanged from the 0.7 per cent decline by 98 per cent year-on-year in the fourth quarter, extending
+in the previous quarter (Exhibit 6.13). For the full year, the the 98 per cent decline in the previous quarter (Exhibit 6.14).
+number of TEUs (Twenty-Foot Equivalent Units) handled
+by Singapore’s ports came in at 37 million, 0.9 per cent For the full year, total air passenger traffic passing through
+lower compared to 2019. This was a reversal from the 1.6 Changi Airport declined by 83 per cent to come in at 12
+per cent growth achieved in 2019. million, a sharp reversal from the 4.2 per cent growth in
+2019. Air passenger traffic volumes across Singapore’s
+Exhibit 6.13: Changes in Container Throughput and Sea
+routes with all major regions around the world saw a decline.
+Cargo Handled
+Per Cent At the same time, air cargo volumes contracted by 20 per
+cent year-on-year in the fourth quarter, extending the 29
+5
+Container per cent decline in the previous quarter, amidst continued
+Throughput
+shortages in global air cargo capacity. For 2020 as a whole,
+air cargo shipments fell by 23 per cent, extending the 6.5
+0
+per cent contraction in 2019.
+-5 Exhibit 6.14: Changes in Air Transport
+Sea Cargo
+Per Cent
+-10
+20
+-15 0
+IV I II III IV
+2019 2020
+-20
+Air Cargo
+-40
+Overall sea cargo volumes declined by 5.3 per cent in the
+Aircraft Landings
+fourth quarter, extending the 3.0 per cent contraction in -60 Air Passengers
+the preceding quarter. The fall in sea cargo volumes was
+largely due to oil-in-bulk cargo shipments, which declined -80
+by 14 per cent in the fourth quarter, worsening from the
+1.2 per cent drop in the third quarter. -100
+IV I II III IV
+2019 2020
+For the whole of 2020, overall sea cargo volumes fell by
+5.7 per cent, deteriorating from the 0.6 per cent decline in
+the previous year.
+
+--- PAGE 69 ---
+
+Economic Survey of Singapore 2020 67
+Chapter 6 | Sectoral Performance
+Meanwhile, following the 83 per cent decline in the third
+quarter, aircraft landings contracted by 79 per cent on-year
+to reach 9,982 in the fourth quarter. This brought the total
+number of aircraft landings in 2020 to 62,721, which was
+67 per cent lower as compared to 2019.
+
+--- PAGE 70 ---
+
+68 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.6
+ACCOMMODATION7
+OVERVIEW
+The accommodation sector contracted by 20 per cent year-on-year in the fourth quarter, unchanged from the 20
+per cent contraction registered in the previous quarter.
+For the whole of 2020, the sector shrank by 29 per cent, deteriorating from the 0.1 per cent growth in 2019.
+VISITOR ARRIVALS
+For the full year, visitor arrivals fell by 86 per cent, a sharp
+reversal from the 3.3 per cent growth recorded in 2019. In
+Singapore received around 52,000 visitors in the fourth total, visitor arrivals reached 2.7 million in 2020, with most
+quarter, 99 per cent lower compared to the same period a of the visitor arrivals (97 per cent) registered in the first
+year ago (Exhibit 6.15). This came on the back of an across- quarter before major border restrictions were implemented
+the-board decline in visitor arrivals as a result of travel in Singapore.8
+restrictions implemented in Singapore to curb the spread
+of COVID-19, as well as reduced global travel demand due In terms of source markets, Singapore’s top five visitor-
+to the COVID-19 pandemic. generating markets in 2020 were Indonesia (458,000 visitors),
+China (357,000 million), Australia (206,000), India (176,000)
+Exhibit 6.15: Visitor Arrivals and Malaysia (153,000). Together, they accounted for 49 per
+cent of total visitor arrivals in 2020.
+Million Per Cent
+6 20 Among the top 10 visitor-generating markets, Germany
+(-75 per cent), United Kingdom (-78 per cent) and Australia
+(-82 per cent) posted the smallest contractions in visitor
+5 0
+arrivals in 2020 (Exhibit 6.16).
+4 YOY Change -20
+(RHS) Exhibit 6.16: Growth Rates of Top Ten Visitor Generating
+Markets in 2020
+3 -40
+Germany -74.9
+United
+2 -60 -78.1
+Kingdom
+Australia -82.0
+1 -80
+United States -83.1
+0 -100 Indonesia -85.3
+IV I II III IV
+2019 2020 Japan -85.8
+Malaysia -87.4
+India -87.6
+Philippines -88.2
+China -90.1
+-100 -80 -60 -40 -20 0
+Per Cent
+7 With effect from the preliminary GDP estimates for the fourth quarter of 2020, the estimates for the Accommodation & Food Services sector will be disaggregated
+into their constituent Accommodation and Food & Beverage Services Trade sectors. The Department of Statistics (DOS) will continue to make available the data for
+the broader sectors for downloading on DOS’ website (www.singstat.gov.sg).
+8 Singapore prohibited all short-term visitors from entering or transiting through Singapore on 24 March 2020.
+
+--- PAGE 71 ---
+
+Economic Survey of Singapore 2020 69
+Chapter 6 | Sectoral Performance
+ACCOMMODATION
+In tandem with the slump in visitor arrivals, gross lettings
+of gazetted hotel rooms plummeted by 70 per cent year-
+on-year in the fourth quarter9, slightly better than the 71
+per cent decline registered in the previous quarter (Exhibit
+6.17). Similarly, room revenue plunged by 82 per cent
+year-on-year, improving from the 87 per cent decline in
+the preceding quarter. The decline in room revenue came
+on the back of a drop in both the average occupancy rate of
+gazetted hotels and the average daily room rate. Specifically,
+the average occupancy rate fell by 32 percentage-points to
+56 per cent, while the average daily room rate decreased
+by 34 per cent to $141 in the fourth quarter.
+For the January to November 2020 period10, the performance
+of the accommodation sector was weak, weighed down by
+fallout from the COVID-19 pandemic and the associated
+measures taken to reduce COVID-19 transmissions (e.g.,
+border restrictions). The overall room revenue of gazetted
+hotels fell by 71 per cent to reach $1.1 billion over this
+period, driven by a 58 per cent decrease in gross lettings
+and a 31 per cent decline in the average daily room rate.
+Exhibit 6.17: Gross Lettings
+Million Per Cent
+5 20
+4 YOY Change 0
+(RHS)
+3 -20
+2 -40
+1 -60
+0 -80
+IV I II III IV9
+2019 2020
+9 The statistics for the fourth quarter are estimated based on data for October and November, as data for December 2020 will only be ready at a later date.
+10 Current figures for the hotel industry are up to November 2020. The hotels’ full-year performance figures for 2020 will be ready at a later date.
+
+--- PAGE 72 ---
+
+70 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.7
+FOOD & BEVERAGE SERVICES11
+OVERVIEW
+The food & beverage services sector shrank by 19 per cent year-on-year in the fourth quarter, improving from
+the 24 per cent contraction in the previous quarter.
+For the whole of 2020, the sector contracted by 25 per cent, a sharp reversal from the 0.3 per cent growth in 2019.
+FOOD & BEVERAGE SALES
+For the whole of 2020, the food & beverage services index
+declined by 26 per cent. This was a significant pullback
+Overall food & beverage sales volume fell by 20 per cent compared to the 1.5 per cent growth recorded in 2019. In
+year-on-year in the fourth quarter, easing from the 26 per particular, the food & beverage sales volume was adversely
+cent decline in the preceding quarter (Exhibit 6.18). The affected by weak demand caused by the COVID-19 pandemic
+decrease came on the back of an across-the-board decline and the attendant public health measures implemented
+in sales volumes at food caterers (-75 per cent), restaurants to contain the pandemic (e.g., border restrictions, Circuit
+(-23 per cent), cafes, food courts & other eating places (-11 Breaker, safe distancing measures and capacity constraints).
+per cent) and fast food outlets (-2.5 per cent). These, in turn, led to declines in the sales volumes of food
+caterers (-55 per cent), restaurants (-34 per cent), cafes,
+Exhibit 6.18: Changes in Food and Beverage Services food courts & other eating places (-18 per cent), as well
+Index in Chained Volume Terms as fast food outlets (-8.8 per cent).
+Per Cent
+10
+0
+-10
+-20
+-30
+-40
+-50
+IV I II III IV
+2019 2020
+11 With effect from the preliminary GDP estimates for the fourth quarter of 2020, the estimates for the Accommodation & Food Services sector will be disaggregated
+into their constituent Accommodation and Food & Beverage Services Trade sectors. The Department of Statistics (DOS) will continue to make available the data for
+the broader sectors for downloading on DOS’ website (www.singstat.gov.sg).
+
+--- PAGE 73 ---
+
+Economic Survey of Singapore 2020 71
+6.8 Chapter 6 | Sectoral Performance
+INFORMATION &
+COMMUNICATIONS
+OVERVIEW
+The information & communications sector expanded by 2.6 per cent year-on-year in the fourth quarter, extending
+the 1.4 per cent growth in the previous quarter. The positive outturn was supported by the IT & information
+services and “others” segments12. Meanwhile, the telecommunications segment contracted.
+For the whole of 2020, the sector posted growth of 2.1 per cent, slowing from the 12 per cent expansion registered in 2019.
+IT & INFORMATION SERVICES
+Exhibit 6.19: Information & Communications Growth
+In 2020, the growth of the information & communications
+Per Cent
+sector was led by the IT & information services segment.
+Specifically, the segment expanded by 6.4 per cent, driven 10
+by resilient enterprise demand for services such as web
+hosting and web portal.
+Mobile
+Subscriptions
+Broadband Subscriptions
+5
+TELECOMMUNICATIONS
+The telecommunications segment shrank by 8.3 per cent in
+2020, weighed down mainly by weaker demand for mobile
+0
+roaming and prepaid services as a result of subdued travel
+activity. For instance, the total number of outgoing retail
+international telephone call minutes (including transit
+minutes) over the January-June 2020 period fell by 48 per
+-5
+cent compared to the same period a year ago.
+As at November 202013, the number of mobile subscriptions
+shrank by 8.0 per cent as compared to the same period in
+-10
+2019 (Exhibit 6.19). This was led by prepaid subscriptions,
+2016 2017 2018 2019 2020
+with the total number of prepaid 3G and 4G subscriptions
+falling by 24 per cent to reach 2.2 million in November 2020.
+On the other hand, the number of postpaid 4G subscriptions
+rose by 4.9 per cent to around 5.9 million.
+In 2020, the number of broadband subscriptions decreased
+by 8.1 per cent. This came on the back of a 9.4 per cent
+decline in wireless broadband subscriptions, led by fewer
+mobile data and Wireless@SG subscriptions14, likely as a
+result of the travel restrictions and more people working
+from home. Nonetheless, there was a 1.5 per cent increase
+in optical fibre subscriptions.
+12 The “others” segment consists of (i) publishing activities (including computer games and software publishing), (ii) motion picture, video and other programme
+production, sound recording, and music publishing activities, and (iii) radio and television broadcasting activities.
+13 Full-year data are not available at the time of publication.
+14 The number of Wireless@SG subscriptions in a month includes only the active users for the month.
+
+--- PAGE 74 ---
+
+72 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.9
+FINANCE & INSURANCE
+OVERVIEW
+The finance & insurance sector grew by 4.9 per cent year-on-year in the fourth quarter of 2020, an improvement
+from the 4.2 per cent expansion in the previous quarter.
+For the whole of 2020, the sector expanded by 5.0 per cent, moderating from the 7.8 per cent growth in the
+preceding year.
+COMMERCIAL BANKS Exhibit 6.21: Growth of Bank Loans and Advances to Non-
+Bank Customers by Industry in 2020
+In 2020, total assets and liabilities of commercial banks
+Business Services 5.7
+increased by 11 per cent to $1.5 trillion (Exhibit 6.20).
+Building & Construction 5.3
+Domestic interbank lending rose by $112 billion (33
+Agriculture, Mining and Quarrying 0.6
+per cent), while domestic credit extended to non-bank
+Housing & Bridging 0.3
+customers fell by $14 billion (-2.0 per cent).
+Prof & Pte Individuals (Business) 0.0
+Exhibit 6.20: Total Assets and Liabilities of Commercial Transport & Communications 0.0
+Banks Manufacturing 0.0
+$ Billion Per Cent
+Total -2.0
+1,600 15 Share Financing -3.1
+Others (Consumer) -4.1
+Car -5.8
+1,400 YOY Change 10
+(RHS) Financial Institutions -7.8
+Others (Business) -8.2
+1,200 5 General commerce -10.6
+Credit Cards -13.5
+-20 -15 -10 -5 0 5 10
+1,000 0
+Per Cent
+800 -5
+On the liabilities front, total deposits of non-bank customers
+grew rapidly by 12 per cent in 2020, higher than the 8.9 per
+cent increase in the previous year. As at end-2020, total
+600 -10
+2016 2017 2018 2019 2020 non-bank deposits amounted to $764 billion, compared
+to $684 billion in the year before, driven by strong growth
+On the assets side, business lending contracted by 2.4 in demand and savings deposits.
+per cent in 2020, reversing the 5.9 per cent expansion in
+the preceding year. The decline was due to a sharp fall in
+lending to the general commerce sector and non-bank
+financial institutions, which was partially offset by resilient
+demand for loans in the building & construction sector.
+Meanwhile, consumer lending fell by 1.2 per cent, broadly
+similar to last year, due to the decline in credit cards and
+other loans (Exhibit 6.21).
+
+--- PAGE 75 ---
+
+Economic Survey of Singapore 2020 73
+Chapter 6 | Sectoral Performance
+FINANCE COMPANIES MERCHANT BANKS
+Total assets/liabilities of finance companies contracted Total assets/liabilities of merchant banks rose by 3.9 per
+by 6.0 per cent in 2020 to $18 billion, in contrast to the cent to $105 billion in 2020, moderating from the 8.1 per
+7.6 per cent expansion in 2019 (Exhibit 6.22). cent growth in the previous year (Exhibit 6.24). The pickup
+stemmed from the offshore segment, which registered
+Exhibit 6.22: Total Assets and Liabilities of
+strong growth in interbank lending.
+Finance Companies
+$ Billion Per Cent Meanwhile, the domestic operations of merchant banks
+20 YOY Change 10 expanded by 0.3 per cent, a turnaround from the 7.0 per
+(RHS) cent contraction posted in 2019.
+Exhibit 6.24: Total Assets and Liabilities of Merchant Banks
+15 0
+$ Billion Per Cent
+120 10
+YOY Change
+(RHS)
+10 -10
+100 5
+5 -20 80 0
+60 -5
+0 -30
+2016 2017 2018 2019 2020
+40 -10
+Non-bank lending fell by 4.3 per cent in 2020, a reversal
+from the 11 per cent expansion recorded the year before,
+with contractions in both the hire purchase finance and 20 -15
+2016 2017 2018 2019 2020
+housing loan segments (Exhibit 6.23). Meanwhile, the
+deposits of non-bank customers fell by 8.1 per cent
+ASIAN DOLLAR MARKET
+in 2020, a reversal of the 8.2 per cent growth in 2019.
+Exhibit 6.23: Growth of Loans and Advances of Finance Total assets/liabilities of the Asian Dollar Market recorded
+Companies in 2020 an expansion of 9.7 per cent in 2020, accelerating from
+the 3.5 per cent growth in the previous year (Exhibit 6.25).
+Others -1.2 On the assets side, interbank loans grew by 11 per cent,
+reversing the 3.8 per cent contraction in 2019. Meanwhile,
+growth in non-bank loan volumes was only 1.7 per cent
+in 2020, compared to 6.2 per cent the year before. While
+Total -4.3
+credit demand from East Asia continued to support loans
+growth last year, it had moderated from that seen in 2019.
+Hire Purchase Finance -13.4 On the liabilities front, non-bank deposits rose by 10 per
+cent, driven by an increase in foreign currency deposits by
+non-residents. Meanwhile, interbank deposits expanded
+by 3.0 per cent, reversing the 5.6 per cent contraction
+Housing Loans -13.9 registered in the previous year.
+-20 -15 -10 -5 0
+Per Cent
+
+--- PAGE 76 ---
+
+74 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+Exhibit 6.25: Total Assets and Liabilities of the Asian Exhibit 6.26: Premiums in the Insurance Industry
+Dollar Market
+$ Billion
+US$ Billion Per Cent
+20
+1,600 10
+YOY Change
+(RHS)
+15
+1,400 0
+1,200 -10 10
+1,000 -20
+5
+800 -30
+2016 2017 2018 2019 2020 0
+Life Insurance Industry General Insurance Industry
+2019 2020
+INSURANCE INDUSTRY
+CENTRAL PROVIDENT FUND
+Total weighted new business premiums in the direct life
+insurance industry declined by 2.1 per cent to $5.2 billion
+in 2020 (Exhibit 6.26). Single premium business increased Total CPF balances grew by 8.7 per cent to $462 billion
+by 37 per cent to $18.6 billion, while regular premium in 2020.
+business declined by 16 per cent to $3.3 billion in 2020.
+Overall, the net income of the direct life insurance industry Members’ contributions for the year amounted to $41
+decreased by 16 per cent to $2.4 billion in 2020, largely billion, while total withdrawals reached $21 billion, similar
+due to lower investment income. to that recorded in 2019.
+In the general insurance industry, gross premiums declined Total net withdrawals for housing (HDB flats and private
+by 11 per cent to $14.7 billion in 2020, with offshore properties) rose by 3.9 per cent to reach $239 billion as
+and domestic businesses accounting for $12 billion and at 31 December 2020.
+$4.3 billion respectively. The general insurance industry
+recorded an operating profit of $1 billion in 2020, largely As at 31 December 2020, more than 178,000 CPF members
+due to improved underwriting performance. have been included in the national annuity scheme – CPF
+Lifelong Income for the Elderly (CPF LIFE), which provides
+lifelong payouts in retirement. The CPF LIFE fund stood
+at $12 billion.
+
+--- PAGE 77 ---
+
+Economic Survey of Singapore 2020 75
+Chapter 6 | Sectoral Performance
+STOCK MARKET SECURITIES MARKET
+The benchmark Straits Times Index (STI) plunged in the In 2020, the total turnover value of the securities market
+first quarter of 2020, reaching its nadir on 23 March, 31 increased by 35 per cent to $358 billion, and total turnover
+per cent below where it began in 2020 (Exhibit 6.27). The volume increased by 49 per cent to 442 billion shares,
+market rout was precipitated by the rising tide of national compared with 2019. This translated to a 34 per cent
+lockdowns in response to the COVID-19 outbreak, as well increase in the average daily traded value to $1.4 billion,
+as the concomitant decline in oil prices after a price war while the average daily traded volume increased by 48
+erupted among the world’s biggest producers. per cent to 1.7 billion shares.
+However, the stock market sell-off in March was quickly At the end of 2020, the total number of listed companies in
+followed by a market rally fueled by aggressive stimulus Singapore was 696, with a combined market capitalisation
+packages rolled out by central banks and governments. of $862 billion, which was 8.1 per cent lower than 2019’s
+For the full year of 2020, the STI declined by 12 per cent, level. In 2020, there were 479 companies listed on SGX’s
+recovering more than half of the loss recorded in the first Mainboard while the other 217 companies were listed on
+quarter. SGX’s Catalist.
+Volatility in capital markets remained elevated throughout
+DERIVATIVES MARKET
+the year. The recurring waves of COVID-19 infections which
+triggered the re-opening and re-closing of economies,
+and further government stimulus, drove market turnover In 2020, SGX’s derivatives market activity increased by 3
+volumes higher on a year-ago basis. per cent to 247 million contracts. Compared to 2019, total
+futures trading volume increased by 5 per cent to 235
+Exhibit 6.27: Straits Times Index million, while options on futures trading volume decreased
+Index
+by 22 per cent to 12 million contracts. The most actively-
+Index
+traded contracts were the FTSE, China A50 Index Futures,
+3,800
+the Nikkei 225 Stock Index and the CNX Nifty Futures,
+which formed 59 per cent of the total volume traded on
+3,600
+SGX’s derivatives trading platform.
+3,400
+FOREIGN EXCHANGE MARKET
+3,200
+In 2020, the Euro, Japanese Yen and British Pound
+3,000
+strengthened against the US Dollar, by 8.9 per cent, 5.2
+per cent and 3.1 per cent respectively. The US Dollar initially
+2,800
+strengthened to a three-year high in the first quarter of
+2020, driven by safe haven demand amidst the COVID-19
+2,600 outbreak. Subsequently, the US Dollar weakened as the
+provision of an unprecedented level of monetary and
+2,400 fiscal support by governments and central banks globally
+provided a boost to risk sentiment and expectations of
+2,200 a global recovery. The Fed had room to cut rates more
+2018 2019 2020
+than the other G4 central banks, and the relatively larger
+magnitude of Fed rate cuts also drove the weakness in
+the US Dollar. Towards the end of the year, positive news
+on COVID-19 vaccines led to further improvements in risk
+sentiment alongside another bout of US Dollar weakness.
+The Pound was also supported towards year-end by the
+successful negotiation of an agreement for the UK’s exit
+from the EU.
+
+--- PAGE 78 ---
+
+76 Economic Survey of Singapore 2020
+Chapter 6 | Sectoral Performance
+6.10
+REAL ESTATE AND
+PROFESSIONAL SERVICES15
+OVERVIEW
+The real estate sector shrank by 11 per cent year-on-year in the fourth quarter, extending the 18 per cent
+contraction in the previous quarter. For the whole of 2020, the sector contracted by 14 per cent, worse than the
+1.6 per cent decline recorded in 2019.
+The professional services sector contracted by 7.5 per cent year-on-year in the fourth quarter, easing from the 11
+per cent decline in the previous quarter. For 2020 as a whole, the sector shrank by 9.7 per cent, a sharp reversal
+from the 5.4 per cent growth in 2019.
+REAL ESTATE Exhibit 6.28: Total Sales of Private Residential Units and
+Private Residential Property Price Index
+The private residential property market remained resilient
+Thousand 2009 Q1 = 100
+in the fourth quarter. On a quarter-on-quarter basis, private 8 160
+residential property prices rose by 2.1 per cent during the
+quarter, improving from the 0.8 per cent increase in the
+preceding quarter. For the whole of 2020, prices rose by 2.2
+6 155
+per cent, extending the increase of 2.7 per cent seen in 2019.
+In tandem with the rise in prices, private residential
+property sales volume also increased in the fourth quarter. 4 150
+Specifically, total private residential property sales surged
+by 42 per cent year-on-year during the quarter, faster than
+the 22 per cent growth registered in the previous quarter.
+2 145
+For the full year, total sales grew by 9.2 per cent to 20,909
+units, from the 19,150 units sold in 2019 (Exhibit 8.28).
+0 140
+IV I II III IV
+2019 2020
+Total Sales Property Price Index (RHS)
+15 With effect from the preliminary GDP estimates for the fourth quarter of 2020, the estimates for the Business Services sector will be disaggregated into their constituent
+Real Estate, Professional Services and Administrative & Support Services sectors. The Department of Statistics (DOS) will continue to make available the data for the
+broader sectors for downloading on DOS’ website (www.singstat.gov.sg).
+
+--- PAGE 79 ---
+
+Economic Survey of Singapore 2020 77
+Chapter 6 | Sectoral Performance
+In the commercial space segment, the retail space market In the industrial space market, overall rentals for the
+worsened significantly in 2020. Specifically, private retail whole of 2020 declined by 1.5 per cent, reversing the 0.1
+space rentals fell by 15 per cent, a sharp reversal from the per cent growth seen in the previous year. Rentals of all
+2.9 per cent increase in the previous year (Exhibit 8.29). The types of industrial property space (i.e., single-use factories,
+weak rental performance was due to lower rentals in the multiple-user factories, warehouses and business parks)
+Central Area (-13 per cent) and Fringe Area (-15 per cent). shrank in 2020 (Exhibit 8.30). Meanwhile, the overall prices
+Similarly, the prices of private retail space declined by 4.5 of industrial properties fell by 2.7 per cent in 2020, extending
+per cent in 2020, in contrast to the 1.3 per cent increase the 0.3 per cent decline in 2019.
+recorded in 2019, with prices in the Central Area and Fringe
+Exhibit 6.30: Occupancy Rate and Rental Growth of
+Area shrinking by 10 per cent and 3.9 per cent respectively.
+Industrial Space
+Per Cent Per Cent
+Exhibit 6.29: Changes in Rentals of Private Sector Office
+100 2
+and Retail Spaces
+Per Cent
+10 90 0
+80 -2
+5
+Office
+70 -4
+0
+60 -6
+Retail
+-5
+50 -8
+2016 2017 2018 2019 2020
+-10
+Multiple-User Factory Space Occupancy Warehouse Space Occupancy
+Rental Growth (RHS)
+-15
+2016 2017 2018 2019 2020
+PROFESSIONAL SERVICES
+The office space market also weakened in 2020, with rentals
+falling by 8.5 per cent, larger than the 3.1 per cent decline In 2020, the professional services sector contracted, with all
+recorded in the previous year. The decline in office rentals segments of the sector registering declines. The contraction
+was due to lower rentals in the Central Area (-9.0 per cent) in the sector was largely driven by the architectural &
+and Fringe Area (-8.5 per cent). Meanwhile, prices in the engineering, technical testing & analysis segment, as well
+office space market plummeted by 11 per cent in 2020, as the other professional, scientific & technical services
+significantly worse than the 0.6 per cent decline in 2019. segment, which shrank by 16 per cent and 14 per cent
+respectively.
+
+--- PAGE 81 ---
+
+ECONOMIC
+OUTLOOK
+CHAPTER
+07
+
+--- PAGE 82 ---
+
+80 Economic Survey of Singapore 2020
+Chapter 7 | Economic Outlook
+CHAPTER 7
+ECONOMIC OUTLOOK
+LEADING INDICATORS OUTLOOK FOR 2021
+The composite leading index (CLI) points to a continued Since the last Economic Survey of Singapore in November
+recovery in the Singapore economy in the near term. 2020, there has been further progress in COVID-19 vaccine
+Specifically, the CLI rose by 3.6 per cent on a quarter-on- development and deployment, with several approved
+quarter basis in the fourth quarter of 2020, extending the vaccines being rolled out in many economies around the
+6.2 per cent increase in the third quarter (Exhibit 7.1). world. Although the speed of vaccine deployment varies,
+advanced economies like the US and Eurozone are likely to
+Of the nine components in the CLI, eight of them increased reach population immunity by the second half of this year,
+on a quarter-on-quarter basis, namely wholesale trade, which should in turn spur their economic recoveries. On the
+US Purchasing Managers’ Index, stock of finished goods, other hand, the growth prospects for regional economies
+money supply, non-oil sea cargo handled, domestic liquidity, such as Malaysia and Indonesia have weakened due to the
+stock price and new companies formed. By contrast, non- recent resurgence in infections, which has necessitated the
+oil retained imports declined compared to a quarter ago. re-imposition of lockdowns and restrictions. On balance, as
+the positive developments in key economies broadly offset
+the negative ones, Singapore’s external demand outlook
+remains largely similar compared to three months ago.
+Exhibit 7.1: Composite Leading Index Levels and Growth Rate
+In particular, the US economy is projected to rebound this
+2015=100 Per Cent
+year on the back of a recovery in personal consumption
+112 10 expenditure, which is in turn expected to be bolstered by the
+injection of additional fiscal stimulus amidst an improvement
+in the health situation and the progressive rollout of vaccines.
+110 5
+In the Eurozone, the recent surge in COVID-19 cases and
+QOQ Change
+(RHS) resulting public health measures to contain the outbreak
+are likely to pose a drag on domestic demand and hence
+108 0
+its economic recovery. Nonetheless, the pace of recovery
+is expected to pick up over the course of the year as the
+106 -5 deployment of vaccines becomes more widespread. In Asia,
+China’s economy is projected to continue to strengthen this
+year, driven by healthy growth in investment, consumption
+104 -10
+and exports. Meanwhile, the key ASEAN economies are
+expected to post a recovery this year, supported by a pickup
+in external demand, even though domestic demand is likely
+102 -15
+to be dampened by the recent wave of COVID-19 cases and
+associated measures taken to contain the virus.
+100 -20
+98 -25
+II IIII IIIIII IIVV II IIII IIIIII IIVV II IIII IIIIII IIVV II IIII IIIIII IIVV
+2017 2018 2019 2020
+
+--- PAGE 83 ---
+
+Economic Survey of Singapore 2020 81
+Chapter 7 | Economic Outlook
+At the same time, uncertainties and risks in the global Second, the tourism- and aviation-related sectors (e.g.,
+economy remain. First, there continues to be significant accommodation and air transport) are projected to see
+uncertainty surrounding the course of the COVID-19 a weaker recovery than previously expected due to the
+pandemic and the trajectory of the global economic recovery. slower-than-anticipated lifting of global travel restrictions,
+How these pan out in the year ahead depends on factors as well as sluggish travel demand. Economic activity in
+such as the adequacy of vaccine supplies and speed of these sectors is likely to remain below pre-COVID levels
+vaccine deployment, the possible emergence and spread even by the end of 2021.
+of new strains of the virus, as well as the strength of policy
+support to drive economic recovery. Second, the protracted Third, consumer-facing sectors (e.g., retail trade and
+nature of the economic recovery in many countries could food & beverage services) are expected to benefit from an
+lead to financial system stresses, which could in turn trigger improvement in consumer sentiments amidst a gradual
+a tightening of financial conditions and adversely affect turnaround in labour market conditions. However, the slower
+the global economic recovery. Excessive private sector recovery in visitor arrivals and capacity constraints arising
+indebtedness arising from loose monetary conditions also from safe distancing measures are likely to weigh on their
+remains a concern. Third, continued geopolitical uncertainty performance. On balance, economic activity in these sectors
+involving the major economies could weigh on global trade is not likely to return to pre-COVID levels by end-2021.
+and the global economic recovery.
+Fourth, while the construction and marine & offshore
+Domestically, Singapore’s COVID-19 situation remains under engineering sectors are projected to recover from the low
+control and our vaccination programme is also underway. base last year, activity levels at construction worksites and
+However, the pace of border re-opening has slowed amidst shipyards will continue to be dampened by the requirement
+the global surge in COVID-19 cases and the emergence of for safe management measures. The recovery in output in
+more contagious strains of the virus. these two sectors is also expected to be slow due to the
+plunge in contracts awarded for construction works in 2020
+Against this external and domestic backdrop, the Singapore and the weakness in the global oil & gas market respectively.
+economy is expected to see a gradual recovery over the
+course of the year, although the outlook remains uneven Taking into account the developments in the global and
+across sectors. First, outward-oriented sectors, including domestic economic environment, the GDP growth forecast
+trade-related services sectors (e.g., wholesale trade and for 2021 is maintained at “4.0 to 6.0 per cent”.
+water transport), are projected to benefit from the pickup in
+external demand. The manufacturing sector, in particular, is
+likely to expand at a faster pace than previously projected due
+to robust semiconductor demand from the 5G and automotive
+markets. Meanwhile, the information & communications
+and finance & insurance sectors are expected to continue
+to post steady growth, supported by sustained enterprise
+demand for IT and digital solutions, and credit and payment
+processing services respectively.
+
+--- PAGE 85 ---
+
+FEATURE
+ARTICLE
+
+--- PAGE 86 ---
+
+84 Economic Survey of Singapore 2020
+Feature Article
+FEATURE ARTICLE
+PERFORMANCE OF THE SINGAPORE
+ECONOMY IN 2020
+REAL GDP GROWTH RATE (%)
+INTRODUCTION 4
+2
+The COVID-19 pandemic caused massive global economic
+disruptions in 2020. Singapore was not spared as the
+0
+economy recorded its worst full-year recession since
+independence. During the year, the economy had to grapple
+-2
+with both demand- and supply-side shocks, such as a fall
+in external demand for goods and services produced in
+-4
+Singapore caused by the economic slowdown in major
+economies and global travel restrictions, supply chain
+-6 2018 2019 2020
+disruptions, as well as the implementation of the Circuit
+Breaker (CB) measures domestically from April to June 2020.
+SINGAPORE’S ECONOMIC RECOVERY IN 2H20
+Across sectors, the economic impact of COVID-19 was felt through different transmission channels. Consequently, their
+economic performance, including their recovery post-CB, was variegated.
+TOURISM- AND AVIATION-RELATED CONSUMER-FACING
+Accommodation Air Transport Aerospace Retail Trade Food & Beverage Land Transport
+Services
+OUTWARD-ORIENTED
+Manufacturing Wholesale Trade Water Transport Information & Finance & Professional
+Communications Insurance Services
+HIGH DEPENDENCE ON FOREIGN WORKERS RENTAL AND SALE OF PROPERTY, TANGIBLE GOODS AND
+INTANGIBLE ASSETS
+Construction Marine & Offshore Real Estate Rental and Leasing
+Engineering
+OUTLOOK
+Overall, Singapore’s GDP is projected to gradually recover and expand by 4.0 to 6.0 per
+cent this year, with GDP not likely to return to pre-COVID levels until the second half
+of the year at the earliest. The pace of recovery is also expected to be uneven across
+sectors. For instance, while outward-oriented sectors are likely to benefit from the pickup
+in global economic activity, activity levels in tourism- and aviation-related sectors are
+projected to remain below pre-pandemic levels even by the end of 2021.
+
+--- PAGE 87 ---
+
+Economic Survey of Singapore 2020 85
+Feature Article
+EXECUTIVE SUMMARY
+The COVID-19 pandemic caused massive global economic disruptions in 2020. Singapore was not spared
+as the economy recorded its worst full-year recession since independence. During the year, the economy
+had to grapple with both demand- and supply-side shocks, such as a fall in external demand for goods and
+services produced in Singapore caused by the economic slowdown in major economies and global travel
+restrictions, supply chain disruptions, as well as the implementation of the Circuit Breaker (CB) measures
+domestically from April to June 2020.
+• Across sectors, the economic impact of COVID-19 was felt through different transmission channels.
+Consequently, their economic performance, including their recovery post-CB, was variegated. For example,
+while the proxy indicators for external demand had either surpassed or were close to pre-pandemic levels
+by the fourth quarter of 2020, air passengers and tourist arrivals remained significantly lower than pre-
+pandemic levels as at end-2020.
+• Furthermore, significant risks in the global economy remain. While Singapore’s vaccination programme is
+well underway, there is uncertainty over how the COVID-19 pandemic will evolve around the world given the
+emergence of new strains of the virus and difficulties in vaccine rollouts globally.
+• Overall, Singapore’s GDP is projected to gradually recover and expand by 4.0 to 6.0 per cent this year, with
+GDP not likely to return to pre-COVID levels until the second half of the year at the earliest. The pace of
+recovery is also expected to be uneven across sectors. For instance, while outward-oriented sectors are
+likely to benefit from the pickup in global economic activity, activity levels in tourism- and aviation-related
+sectors are projected to remain below pre-pandemic levels even by the end of 2021
+The views expressed in this paper are solely those of the authors and do not necessarily reflect those of the Ministry of Trade
+and Industry or the Government of Singapore.1
+INTRODUCTION
+The COVID-19 pandemic caused massive global economic disruptions in 2020. To-date, the virus has infected more than
+100 million people worldwide and resulted in more than two million deaths. Many countries were forced to implement
+strict public health measures, including lockdowns and border closures, to contain the spread of the virus. This led to
+significant disruptions in global economic activity. Reflecting the unprecedented extent of the disruptions, the International
+Monetary Fund had revised its 2020 global growth forecasts downwards over the course of the year, with its forecasts in
+October 2020 being much lower than that announced a year ago before the start of the pandemic [Exhibit 1].
+The Singapore economy was not spared the damage caused by the pandemic, contracting by 5.4 per cent in 2020, its
+worst full-year recession since independence. Our economic performance turned out to be much worse than the 2020
+GDP growth forecast of 0.5 to 2.5 per cent announced by MTI in November 2019, before the pandemic struck. The sharp
+downturn came about as the economy had to grapple with both demand- and supply-side shocks arising from the pandemic,
+including a fall in external demand for goods and services produced in Singapore caused by the economic slowdown in
+major economies and global travel restrictions, supply chain disruptions, as well as the implementation of the Circuit
+Breaker (CB) measures domestically from 7 April to 1 June 2020. The effects of these shocks were the most pronounced in
+the first half of 2020 (1H20), and there were signs of recovery in the Singapore economy in the second half of 2020 (2H20)
+as the economy gradually re-opened and major economies emerged from their initial lockdowns.
+Building on an earlier article which assessed the immediate impact of COVID-19 on the Singapore economy,2 this article
+analyses the recovery of the economy in 2H20 relative to pre-pandemic levels3 using high-frequency indicators as well
+as traditional sectoral indicators.
+1 We would like to thank Ms Yong Yik Wei, Dr Andy Feng, Mr Kenneth Yeow and Mr Tan Di Song for their useful suggestions and comments. All errors belong to the
+authors.
+2 See Saw, Lin & Wong (2020).
+3 Pre-pandemic levels refer to the fourth quarter of 2019 for quarterly data and January 2020 for monthly data.
+
+--- PAGE 88 ---
+
+86 Economic Survey of Singapore 2020
+Feature Article
+Exhibit 1: World GDP Growth Forecasts
+2020 Forecast in 2020 Forecast in Percentage point
+Dependent Variable
+Oct 2019 Oct 2020 difference
+World GDP 3.4 -4.4 -7.8
+United States 2.1 -4.3 -6.4
+Eurozone 1.4 -8.3 -9.7
+Japan 0.5 -5.3 -5.8
+Mainland China 5.8 1.9 -3.9
+Hong Kong SAR 1.5 -7.5 -9.0
+Taiwan 1.9 0.0 -1.9
+Republic of Korea 2.2 -1.9 -4.1
+Malaysia 4.4 -6.0 -10.4
+Indonesia 5.1 -1.5 -6.6
+Thailand 3.0 -7.1 -10.1
+Philippines 6.2 -8.3 -14.5
+Vietnam 6.5 1.6 -4.9
+Source: IMF World Economic Outlook (October 2019, October 2020)
+SINGAPORE’S ECONOMIC RECOVERY IN SECOND HALF OF 2020
+The Singapore economy contracted sharply in 1H20, largely due to the CB measures as well as the global fallout from
+the pandemic. In particular, even though the CB measures – which included the suspension of non-essential services
+and the closure of most workplace premises – were necessary to contain the increasing local transmissions of COVID-19
+then, they had a severe impact on the Singapore economy. In the second quarter of 2020 (2Q20), Singapore registered the
+largest quarterly GDP contraction, both on a year-on-year and quarter-on-quarter basis, on record [Exhibit 2].
+After the CB period, the Singapore economy saw two consecutive quarters of positive quarter-on-quarter growth due to
+the phased resumption of activities domestically, and the rebound in activity in major economies as they emerged from
+their initial lockdowns. By the fourth quarter of 2020 (4Q20), the economy had recovered to about 98 per cent of pre-
+pandemic levels – which is taken to be the seasonally-adjusted GDP level in the fourth quarter of 2019 (4Q19) – compared
+to the low of 86 per cent in 2Q20.
+Exhibit 2: Singapore’s Seasonally-adjusted Quarterly GDP
+4Q19 =100
+105
+100
+95
+90
+85
+80
+75
+4Q19 1Q20 2Q20 3Q20 4Q20
+Source: DOS
+
+--- PAGE 89 ---
+
+Economic Survey of Singapore 2020 87
+Feature Article
+The impact of COVID-19 on the Singapore economy was felt through five main transmission channels: (i) a fall in tourist
+arrivals and air travel; (ii) a fall in domestic consumption; (iii) a fall in external demand and supply chain disruptions;
+(iv) manpower disruptions and the requirement to implement safe management measures; and (v) negative spillovers
+from the slowdown in domestic economic activity. Each of these channels affected the various sectors of the economy to
+varying degrees [Exhibit 3]. Consequently, the performance of the different sectors of the economy in 2020 was variegated.
+Exhibit 3: Grouping of Sectors, based on Nature of Activity and Transmission Channels
+Main Transmission Channels of
+Group Examples of Sectors Nature of Activity
+Economic Impact from COVID-19
+Sectors closely related to tourism
+Accommodation, Air Transport, Weak tourist arrivals and air travel
+1 and aviation, and dependent on
+Aerospace due to global travel restrictions
+tourist arrivals and air travel
+Fall in domestic consumption
+Consumer-facing sectors with on account of weak consumer
+Retail Trade, Food & Beverage
+2 output mostly driven by domestic sentiments and labour market
+(F&B) Services, Land Transport
+demand conditions; capacity constraints
+from safe distancing measures
+Manufacturing, Wholesale Trade,
+Outward-oriented sectors with
+Water Transport, Information Fall in external demand and supply
+3 output mostly driven by external
+& Communications, Finance & chain disruptions
+demand
+Insurance, Professional Services
+Disruptions in manpower supply;
+Sectors with a high dependence on
+requirement to implement safe
+Construction and Marine & foreign workers, especially work-
+4 management measures which
+Offshore Engineering permit holders (WPH) and S-Pass
+weigh on productivity and activity
+holders
+levels
+Rental and sale of residential,
+Adverse effects on individual and
+commercial and industrial
+business sentiments from the
+5 Real Estate, Rental & Leasing property, as well as rental and
+slowdown in domestic economic
+leasing of tangible goods and
+activity
+intangible assets
+Performance of Group 1 Sectors
+Since February 2020, increasingly tight global travel restrictions and domestic border controls to contain the spread of
+COVID-19 led to a sharp fall in air travel demand and tourist arrivals to Singapore. While there were attempts to kickstart
+the recovery in air travel and tourist arrivals to Singapore through the introduction of reciprocal green lanes and travel
+bubbles in 2H20, the impact has been limited due to the cautious demand for travel globally. The global surge in COVID-19
+cases and emergence of more contagious variants of the virus also led to a suspension of some of these arrangements,
+and a slowdown in the pace of border re-opening in recent months.
+As a result, the activity of Group 1 sectors continued to languish even at the end of 2020, with air passenger volume and
+international visitor arrivals coming in at less than 5 per cent of pre-pandemic (i.e., January 2020) levels throughout the
+period of April to December 2020 [Exhibit 4]. Consequently, the performance of the accommodation sector was also tepid,
+with the monthly gross lettings of gazetted hotels only at about 30 per cent of pre-pandemic levels in November 2020,
+although the re-opening of hotels for staycation bookings since July 2020 provided some support to the sector [Exhibit 5].
+Likewise, the sharp reduction in air travel and subsequent grounding of aircraft led to a plunge in the volume of aircraft
+maintenance and repair work, with output in the aerospace segment remaining depressed compared to year-ago levels
+since April 2020 [Exhibit 6].
+
+--- PAGE 90 ---
+
+88 Economic Survey of Singapore 2020
+Feature Article
+Exhibit 4: Air Passenger Volume and International Visitor Arrivals
+Jan 20 = 100
+100
+80
+60
+40
+20
+5
+4
+3
+2
+1
+0
+Jan-20 Feb-20 Mar-20 Apr-20 May-20 Jun-20 Jul-20 Aug-20 Sep-20 Oct-20 Nov-20 Dec-20
+International Visitor Arrivals Air Passengers Handled at Changi Airport
+Source: Civil Aviation Authority of Singapore, Singapore Tourism Board
+Exhibit 5: Gross Lettings of Gazetted Hotels
+Jan 20 = 100
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Jan-20 Mar-20 May-20 Jul-20 Sep-20 Nov-20
+Source: Singapore Tourism Board
+Note: The data does not take into account the occupancy of rooms arising from government contracts for stay-home notice and quarantine facilities.
+Exhibit 6: Index of Industrial Production in the Aerospace Segment
+Year on Year Growth
+40%
+20%
+0%
+-20%
+-40%
+-60%
+Jan-20 Mar-20 May-20 Jul-20 Sep-20 Nov-20
+Source: Economic Development Board
+
+--- PAGE 91 ---
+
+Economic Survey of Singapore 2020 89
+Feature Article
+Performance of Group 2 Sectors
+The COVID-19 outbreak also had a severe effect on consumer-facing sectors in 1H20, as the CB measures restricted
+business operations (e.g., physical workplace closures affected most retailers, while F&B outlets were not allowed to
+offer dining-in services). The economic downturn and resulting weakening of labour market conditions also weighed on
+sentiments, and in turn, domestic consumption.
+In tandem with the phased re-opening of the Singapore economy, activity in the Group 2 sectors picked up in 2H20. For
+instance, retail and F&B sales volumes saw a rebound with the resumption of physical retail and dining-in activities in
+June 2020 [Exhibit 7]. However, notwithstanding the improvement, they remained below pre-pandemic (i.e., 4Q19) levels
+even by 4Q20 on account of sluggish tourist demand brought about by the plunge in visitor arrivals, as well as lacklustre
+consumer sentiments in view of weak labour market conditions. In addition, the F&B services sector was adversely
+affected by safe distancing measures which constrained dining-in capacity.
+Exhibit 7: Retail and F&B Sales Volume
+4Q19 = 100
+120
+100
+80
+60
+40
+20
+0
+4Q19 1Q20 2Q20 3Q20 4Q20
+Retail Sales Volume Retail (Excluding Motor Vehicles) Sales Volume F&B Sales Volume
+Source: Department of Statistics
+Performance of Group 3 Sectors
+In 1H20, COVID-19 affected the external demand for Singapore goods and services as well as disrupted supply chains, as
+major economies around the world implemented lockdowns and restrictions to contain the spread of the virus. Economic
+uncertainty caused by the pandemic also negatively affected global consumer and business sentiments. Reflecting these
+factors, Singapore’s merchandise trade declined significantly from March 2020 to May 2020, with imports and exports in
+May 2020 reaching a low of 76 per cent and 82 per cent of pre-pandemic (i.e., January 2020) levels respectively [Exhibit 8].
+However, merchandise trade rebounded relatively quickly when major economies emerged from their initial lockdowns
+towards the middle of 2020. By the end of 2020, exports recovered to surpass pre-pandemic levels while imports recovered
+to 98 per cent of these levels.
+
+--- PAGE 92 ---
+
+90 Economic Survey of Singapore 2020
+Feature Article
+Exhibit 8: Singapore’s Monthly Merchandise Imports and Exports
+Jan 20 = 100
+105
+100
+95
+90
+85
+80
+75
+70
+Jan 20 Mar 20 May 20 Jul 20 Sep 20 Nov 20
+Exports Imports
+Source: Department of Statistics
+In tandem with the pickup in external demand, the Group 3 sectors generally saw a recovery in activity in 2H20, although
+the pace of recovery varied across sectors. Activity in trade-related services sectors such as wholesale trade and water
+transport, while improving over the course of 2H20, remained weaker than pre-pandemic levels amidst continued economic
+uncertainty. For instance, total foreign wholesale trade volume had not recovered to 4Q19 levels even by 4Q20, while
+total sea cargo handled and total container throughput also remained below 4Q19 levels in the same quarter [Exhibit 9].
+Exhibit 9: Foreign Wholesale Trade Volume, Total Sea Cargo Handled and Total Container Throughput
+4Q19 = 100
+105
+100
+95
+90
+85
+80
+4Q19 1Q20 2Q20 3Q20 4Q20
+Foreign Wholesale Trade Volume Total Sea Cargo Handled Total Container Throughput
+Source: Department of Statistics,
+By contrast, the performance of sectors such as manufacturing, information & communications and finance & insurance
+sectors has been relatively robust. In particular, the overall manufacturing sector saw a strong recovery in 2H20, with
+the manufacturing purchasing managers’ index (PMI) rebounding from the trough registered in April 2020 during the CB
+[Exhibit 10].4 This was mainly on account of the robust performance of the electronics and precision engineering clusters
+as production in these clusters climbed above year-ago levels in 2H20 due to buoyant global demand for semiconductors
+from the 5G markets, data centres and cloud services, as well as semiconductor equipment respectively [Exhibit 11].
+Meanwhile, the information & communications and finance & insurance sectors also continued to post steady growth
+in both 3Q20 and 4Q20, led by resilient enterprise demand for IT solutions, as well as healthy expansions in the banking
+and insurance segments respectively.
+4 The rebound in overall manufacturing output was similarly seen in the Index of Industrial Production, which recorded positive year-on-year growth in all months of
+2H20 except for July and October 2020.
+
+--- PAGE 93 ---
+
+Economic Survey of Singapore 2020 91
+Feature Article
+Exhibit 10: Manufacturing Purchasing Managers’ Index
+Index
+55
+50
+45
+40
+Jan-20 Mar-20 May-20 Jul-20 Sep-20 Nov-20
+PMI New Orders
+Source: Singapore Institute of Purchasing and Materials Management
+Exhibit 11: Index of Industrial Production in the Electronics and Precision Engineering Clusters
+Year on Year Growth
+60%
+40%
+20%
+0%
+-20%
+Jan-20 Mar-20 May-20 Jul-20 Sep-20 Nov-20
+Manufacturing Electronics Precision Engineering
+Source: Economic Development Board
+Performance of Group 4 Sectors
+During the earlier outbreak of COVID-19 in the foreign worker dormitories, movement restrictions implemented to contain
+the outbreak led to manpower shortages in the Group 4 sectors (i.e., construction and marine & offshore engineering),
+which in turn weighed heavily on their performance. The subsequent requirement for strict safe management measures at
+construction worksites and shipyards to mitigate the risk of future outbreaks among the foreign workforce also continued
+to dampen activity levels in these sectors.
+As a result, the construction sector and marine & offshore engineering segment saw a relatively slow recovery in 2H20.
+Construction output, in terms of certified progress payments, remained below pre-pandemic (i.e., January 2020) levels
+in December 2020 [Exhibit 12]. Similarly, output in the marine & offshore engineering segment continued to languish
+below year-ago levels in December 2020 [Exhibit 13].
+
+--- PAGE 94 ---
+
+92 Economic Survey of Singapore 2020
+Feature Article
+Exhibit 12: Certified Progress Payments
+Jan 20 = 100
+120
+100
+80
+60
+40
+20
+0
+Jan-20 Mar-20 May-20 Jul-20 Sep-20 Nov-20
+Total Progress Payments Public Sector Progress Payments Private Sector Progress Payments
+Source: Building and Construction Authority
+Exhibit 13: Index of Industrial Production in the Marine & Offshore Engineering Segment
+Year on Year Growth
+20%
+0%
+-20%
+-40%
+-60%
+Jan-20 Mar-20 May-20 Jul-20 Sep-20 Nov-20
+Source: Economic Development Board
+
+--- PAGE 95 ---
+
+Economic Survey of Singapore 2020 93
+Feature Article
+Performance of Group 5 Sectors
+Finally, the economic downturn in Singapore due to COVID-19 also resulted in negative spillovers to domestically-oriented
+sectors such as real estate. For example, the poor performance of the retail trade sector in 2020 had a knock-on effect
+on the commercial retail property segment of the real estate sector, with retail rentals in 4Q20 remaining around 15 per
+cent lower compared to the same period a year ago due to weak leasing demand. Similarly, commercial office rentals
+remained depressed as at end-2020 on account of the economic downturn and cautious business sentiments [Exhibit
+14]. By contrast, the private residential property segment was resilient, with the prices of landed and non-landed private
+residential property in 4Q20 already exceeding 4Q19 levels, supported by stable demand from buyers amidst a low interest
+rate environment [Exhibit 15].
+Exhibit 14: Rental Indices of Commercial (Retail and Office) Property
+4Q19 = 100
+105
+100
+95
+90
+85
+80
+4Q19 1Q20 2Q20 3Q20 4Q20
+Commercial Office Commercial Retail
+Source: Urban Redevelopment Authority
+Exhibit 15: Price Indices of Private Residential Property
+4Q19 = 100
+105
+100
+95
+4Q19 1Q20 2Q20 3Q20 4Q20
+All Private Residential Landed Private Residential Non-Landed Private Residential
+Source: Urban Redevelopment Authority
+
+--- PAGE 96 ---
+
+94 Economic Survey of Singapore 2020
+Feature Article
+CONCLUDING REMARKS AND OUTLOOK
+The COVID-19 pandemic caused massive global economic disruptions in 2020. Singapore was not spared as the economy
+recorded its worst full-year recession since independence. Across sectors, the economic impact of COVID-19 was felt
+through different transmission channels. Consequently, their economic performance in 2020 was variegated.
+Furthermore, significant risks in the global economy remain. While Singapore’s vaccination programme is well underway,
+there is uncertainty over how the COVID-19 pandemic will evolve around the world given the emergence of new strains
+of the virus and difficulties in vaccine rollouts globally.
+Overall, barring the materialisation of downside risks, Singapore’s GDP is projected to recover gradually and expand by
+4.0 to 6.0 per cent this year, with GDP not likely to return to pre-COVID levels until 2H21 at the earliest. Moreover, the
+pace of recovery is expected to remain uneven across sectors. In particular, the tourism- and aviation-related sectors
+are unlikely to return to pre-pandemic levels even by the end of 2021 due to the slow lifting of global travel restrictions
+and weak global demand for air travel amidst the emergence of more contagious variants of the virus.
+Similarly, the slower recovery in visitor arrivals and capacity constraints due to safe distancing measures are likely to
+continue to weigh on the performance of the consumer-facing sectors, thus hindering their return to pre-pandemic levels
+throughout 2021. The recovery of the construction sector and marine & offshore engineering segments will likewise be
+slow because of the continued need for safe management measures at worksites and shipyards, as well as sluggish
+demand arising from the plunge in construction contracts awarded in 2020 and weakness in the global oil & gas market
+respectively. By contrast, the outward-oriented sectors – which had either already surpassed or recovered close to pre-
+pandemic levels by 4Q20 – are expected to continue to benefit from the pickup in global economic activity this year.
+Contributed by:
+Mr Muhammad Bin Rahmat, Economist
+Mr Ong Chong An, Economist
+Mr Thong Wei En, Economist
+Economics Division
+Ministry of Trade and Industry
+
+--- PAGE 97 ---
+
+Economic Survey of Singapore 2020 95
+Feature Article
+REFERENCES
+Christopher Saw, Jonathan Lin, & Wong Yu Jie. 2020. “Feature Article: Impact of COVID-19 Pandemic on the Singapore
+Economy”, Economic Survey of Singapore First Quarter 2020.
+Lam Yan Tung. 2016. “Box 1.1: Economic Sentiments in Singapore”, Economic Survey of Singapore Second Quarter 2016.
+Chia Keat Loong and Jessica Foo. 2018. “Box 1.1: Recent Trends in Singapore News Economic Sentiments”, Economic
+Survey of Singapore First Quarter 2018.
+
+--- PAGE 98 ---
+
+MINISTRY OF TRADE AND INDUSTRY
+100 High Street, #09-01 The Treasury
+Singapore 179434
+ISSN 2382-6541

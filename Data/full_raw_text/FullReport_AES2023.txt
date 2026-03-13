@@ -1,0 +1,3852 @@
+
+
+--- PAGE 1 ---
+
+ECONOMIC
+SURVEY
+OF
+SINGAPORE
+2023
+
+--- PAGE 2 ---
+
+February 2024
+Ministry of Trade and Industry
+Republic of Singapore
+website: www.mti.gov.sg
+email: mti_email@mti.gov.sg
+All rights reserved. No part of this publication may be reproduced,
+stored in a retrieval system or transmitted in any form or by any means,
+electronic, mechanised, photocopying, recording or otherwise, without
+the prior permission of the copyright holder.
+
+--- PAGE 3 ---
+
+CONTENTS
+02 Main Indicators of the 52 CHAPTER 6
+Singapore Economy Sectoral Performance
+56 6.1 Manufacturing
+58 6.2 Construction
+62 6.3 W holesale Trade
+06 CHAPTER 1
+63 6.4 R etail Trade
+Economic Performance
+64 6.5 Transportation & Storage
+66 6.6 Accommodation
+68 6.7 Food & Beverage Services
+69 6.8 I nformation & Communications
+14 CHAPTER 2 70 6.9 Finance & Insurance
+Labour Market and Productivity 74 6.10 R eal Estate and Professional Services
+76 BOX ARTICLE 6.1
+Performance and Outlook of the
+Electronics Cluster in Singapore
+22 CHAPTER 3
+Costs, Investments and Prices
+27 BOX ARTICLE 3.1
+84 CHAPTER 7
+Business Cost C onditions in Singapore’s
+Economic Outlook
+Manufacturing and Services Sectors
+38 CHAPTER 4 86 FEATURE
+International Trade ARTICLE
+88 Impact of the the CDC Vouchers
+Scheme
+46 CHAPTER 5
+Balance of Payments
+
+--- PAGE 4 ---
+
+02 Economic Survey of Singapore 2023
+MAIN INDICATORS OF
+THE SINGAPORE ECONOMY
+OVERALL ECONOMY
+2022 2022 2022
+$687.2 billion +3.8% $98,550
+GDP
+2023 Real GDP 2023 GNI 2023
+at Current
+Market Price $673.3 billion (YoY Growth) +1.1% Per Capita $95,455
+STRUCTURE OF THE ECONOMY IN 2023
+(% OF NOMINAL VA)
+BREAKDOWN OF SERVICES PRODUCING INDUSTRIES
+Wholesale Finance & Transportation
+Trade Insurance & Storage
+22.3% 13.8% 6.8%
+Professional Information & Real
+Services Communications Estate
+5.7% 5.7% 3.1%
+Administrative & Retail Food & Beverage
+Services Producing Ownership Support Services Trade Services
+Industries of Dwellings
+72.7% 3.6% 2.8% 1.3% 0.9%
+Other Services
+Goods Producing
+Industries Manufacturing Construction Accommodation Industries
+23.6% 18.6% 3.5%
+0.8% 9.6%
+LABOUR MARKET COST PRICES
+Employment Unit Labour Cost of Consumer Price Index
+(as at year end) Overall Economy – All Items
+2022 2023 2022 2023 2022 2023
+3,893.6 4,000.7 +9.1% +7.5% +6.1% +4.8%
+thousand thousand
+Overall Unit Business Cost Domestic Supply
+Unemployment Rate of Manufacturing Price Index
+2022 2023 2022 2023 2022 2023
+2.1% 1.9% +9.9% +8.5% +18.6% -6.7%
+Value-Added per Unit Labour Cost Singapore Manufactured
+Actual Hour Worked of Manufacturing Products Price Index
+2022 2023 2022 2023 2022 2023
+-0.7% -2.4% +9.5% +10.0% +14.9% -4.5%
+
+--- PAGE 5 ---
+
+Main Indicators of the Singapore Economy 03
+MERCHANDISE TRADE SERVICES TRADE
+Merchandise Exports Services Exports
+2022 2023 2022 2023
+$709,967 $638,403 $464,008 $440,495
+million million million million
++15.6% -10.1% +22.2% -5.1%
+Merchandise Imports Services Imports
+2022 2023 2022 2023
+$655,436 $567,319 $406,708 $396,787
+million million million million
++20.1% -13.4% +22.5% -2.4%
+Share of Total Merchandise Exports in 2023 Share of Total Services Exports in 2023
+55.3% 27.1% 17.5% 32.1% 29.2% 13.3% 7.8% 6.4%
+Re-exports Non-Oil Domestic Oil Domestic Transport Other Financial Telecomms, Travel
+Exports Exports Services Business Services Computer and Services
+Services Information
+Top Trading Partners in 2023 Top Trading Categories in 2023
+Exports $88.1b Exports $141.3b
+Transport
+Imports $79.0b Imports $122.8b
+Services
+China
+Exports $59.3b Exports $128.6b
+Other
+Imports $69.8b Imports $135.4b
+Business
+United States
+Services
+Exports $59.7b Exports $58.6b
+Imports $63.9b Financial Imports $18.2b
+Malaysia Services
+
+--- PAGE 6 ---
+
+CHAPTER ECONOMIC
+1
+PERFORMANCE
+
+--- PAGE 8 ---
+
+06 Economic Survey of Singapore 2023
+Chapter 1
+ECONOMIC
+PERFORMANCE
+REAL GDP GREW BY 1.1% IN 2023 QUARTERLY GDP GROWTH IN 2023
+(YoY Growth)
+3
+10 9.7% 2.2%
+2
+1.0%
+1 0.5% 0.5%
+0
+1Q 2Q 3Q 4Q
+5
+3.8%
+MAIN DRIVERS OF GDP GROWTH IN 2023
+Other Information & Transportation
+1.1%
+Services Industries Communications & Storage
+0
+2021 2022 2023
+0.4% 0.3% 0.3%
+point contribution point contribution point contribution
+INCOME COMPONENTS OF GDP IN 2023 SOURCES OF GROWTH IN 2023
+External Domestic
+Demand Demand
+Gross Operating
+Surplus
+55.1%
+Gross Fixed
+3 +1.8% Consumption Capital
+2 point Expenditure Formation
+Compensation Taxes Less +0.5% 0.0%
+of Employees Subsidies 1 point point
+38.5% on Production 0
+6.4%
+-1
+-1.1%
+-2
+point
+-3 Changes in
+Inventories
+
+--- PAGE 9 ---
+
+Chapter 1: Economic Performance 07
+OVERVIEW
+In the fourth quarter of 2023, the Singapore economy grew by 2.2 per cent on a year-on-year basis, accelerating
+from the 1.0 per cent expansion in the previous quarter. All sectors expanded during the quarter, with the
+exception of the administrative & support services, food & beverage services, professional services and retail
+trade sectors. The sectors that contributed the most to growth during the quarter were the finance & insurance,
+other services and transportation & storage sectors.
+For the full year, the Singapore economy grew by 1.1 per cent, easing from the 3.8 per cent expansion in 2022. All
+sectors except for the manufacturing sector recorded full-year expansions, with the other services, information
+& communications and transportation & storage sectors contributing the most to GDP growth for the year.
+OVERALL PERFORMANCE
+The services producing industries collectively grew by
+2.0 per cent year-on-year in the fourth quarter, easing
+Fourth Quarter 2023 from the 2.3 per cent growth in the previous quarter. All
+services sectors expanded during the quarter, except for
+The Singapore economy grew by 2.2 per cent year-on- the administrative & support services, food & beverage
+year in the fourth quarter, accelerating from the 1.0 per services, professional services and retail trade sectors.
+cent expansion in the previous quarter (Exhibit 1.1). On a Among the sectors that grew, the finance & insurance
+quarter-on-quarter seasonally-adjusted basis, GDP grew (5.4 per cent) and information & communications (4.7 per
+by 1.2 per cent, slightly faster than the 1.0 per cent growth cent) sectors posted the strongest growth.
+in the third quarter.
+The construction sector grew by 5.2 per cent year-on-year
+in the fourth quarter, faster than the 3.7 per cent growth
+Exhibit 1.1: GDP and Sectoral Growth Rates in 4Q 2023
+in the third quarter. Output growth during the quarter was
+Finance & Insurance 5.4 supported by an increase in both public sector and private
+Construction 5.2 sector construction works.
+Information & Comms 4.7
+Other Services Industries 3.9
+Full Year of 2023
+Transportation & Storage 2.8
+Overall GDP Growth 2.2 For the whole of 2023, the Singapore economy grew by
+Accommodation 1.5 1.1 per cent, easing from the 3.8 per cent expansion in
+Manufacturing 1.4 2022 (Exhibit 1.2).
+Wholesale Trade 0.2
+By sectors, the manufacturing sector shrank by 4.3 per
+Real Estate 0.1
+cent in 2023, a reversal from the 2.7 per cent growth in
+Retail Trade -0.3
+the preceding year. All clusters saw a fall in output for the
+Professional Services -0.7 year, except for the transport engineering cluster.
+Food & Beverage Services -1.5
+Administrative & Support -1.7 Services producing industries posted growth of 2.3 per
+-5 0 5 10 cent in 2023, easing from the 5.1 per cent expansion in
+2022. All services sectors registered full-year expansions,
+Per Cent
+with the accommodation (12.1 per cent) and information
+The manufacturing sector expanded by 1.4 per cent year- & communications (5.7 per cent) sectors recording the
+on-year in the fourth quarter, a reversal from the 4.9 per fastest growth in 2023.
+cent contraction in the preceding quarter. All clusters within
+the sector recorded expansions during the quarter, except Meanwhile, the construction sector grew by 5.2 per cent in
+for the biomedical manufacturing, precision engineering 2023, up from the 4.6 per cent expansion in the preceding
+and general manufacturing clusters. year. Both public and private sector construction output
+increased during the year.
+
+--- PAGE 10 ---
+
+08 Economic Survey of Singapore 2023
+Exhibit 1.2: GDP and Sectoral Growth Rates in 2023 Exhibit 1.3: Percentage-Point Contribution to Growth in Real
+GDP in 4Q 2023 (By Sectors)
+Accommodation 12.1
+Information & Comms 5.7 Overall GDP Growth 2.2
+Construction 5.2 Finance & Insurance 0.6
+Real Estate 4.9 Other Services Industries 0.3
+Other Services Industries 4.4 Transportation & Storage 0.3
+Food & Beverage 4.1 Manufacturing 0.3
+Transportation & Storage 2.3 Information & Comms 0.2
+Administrative & Support 2.0 Construction 0.2
+Retail Trade 1.3 Wholesale Trade 0.0
+Finance & Insurance 1.3 Accommodation 0.0
+Professional Services 1.1 Real Estate 0.0
+Overall GDP Growth 1.1 Retail Trade 0.0
+Wholesale Trade 0.8 Food & Beverage 0.0
+Manufacturing -4.3 Administrative & Support 0.0
+-10 -5 0 5 10 15 Professional Services -0.1
+Per Cent -1 0 1 2 3
+Percentage-Point
+Contribution to Growth Exhibit 1.4: Percentage-Point Contribution to Growth in Real
+GDP in 2023 (By Sectors)
+In the fourth quarter, all sectors contributed positively
+to GDP growth, except for the professional services, Overall GDP Growth 1.1
+administrative & support services and food & beverage Other Services Industries 0.4
+services sectors (Exhibit 1.3). Among the sectors that Information & Comms 0.3
+expanded, the finance & insurance, other services and
+Transportation & Storage 0.3
+transportation & storage sectors were the top contributors
+Wholesale Trade 0.2
+to GDP growth during the quarter.
+Finance & Insurance 0.2
+For the whole of 2023, all sectors except for the Construction 0.2
+manufacturing sector recorded full-year expansions,
+Real Estate 0.1
+with the other services, information & communications
+Accommodation 0.1
+and transportation & storage sectors contributing the
+most to GDP growth for the year (Exhibit 1.4). Professional Services 0.1
+Administrative & Support 0.1
+Food & Beverage 0.0
+Retail Trade 0.0
+Manufacturing -0.9
+-2 -1 0 1 2
+Percentage-Point
+
+--- PAGE 11 ---
+
+Chapter 1: Economic Performance 09
+SOURCES OF GROWTH Domestic Demand
+Total demand rose by 7.4 per cent year-on-year in the Total domestic demand fell by 2.9 per cent year-on-
+fourth quarter, a reversal from the 1.4 per cent decline year in the fourth quarter, worsening from the 0.5
+in the previous quarter (Exhibit 1.5). This was due to an per cent contraction in the previous quarter. The fall
+increase in external demand during the quarter, even as in domestic demand during the quarter was due to a
+domestic demand fell. decline in inventories, which more than offset increases in
+consumption expenditure and gross fixed capital formation.
+For 2023 as a whole, total demand increased by 1.2 per
+cent, weakening from the 3.4 per cent growth in 2022. For 2023 as a whole, total domestic demand fell by 2.6 per
+The increase in total demand was supported by a rise in cent, a reversal from the 4.5 per cent growth in 2022. The
+external demand (1.8 percentage-points) even as domestic fall in domestic demand was due to declines in inventories
+demand declined (-0.6 percentage-points). and gross fixed capital formation, even as consumption
+expenditure rose.
+Exhibit 1.5: Percentage-Point Contribution to Total
+Demand Growth
+Consumption Expenditure
+2023
+2022 2023
+I II III IV Total consumption expenditure rose by 2.5 per cent year-
+on-year in the fourth quarter, the same rate of growth as
+Total Demand 3.4 1.1 -2.5 -1.4 7.4 1.2 the previous quarter.
+External Demand 2.2 1.6 -1.2 -1.3 8.2 1.8 For the full year, total consumption expenditure rose by
+3.5 per cent, moderating from the 5.5 per cent growth in
+Total Domestic
+1.2 -0.4 -1.3 -0.1 -0.8 -0.6 2022. Consumption expenditure growth was due to both
+Demand
+private and public consumption. Private consumption rose
+Consumption by 3.8 per cent, led by increases in miscellaneous goods
+0.9 1.0 0.4 0.4 0.4 0.5
+Expenditure & services and recreation & culture. At the same time,
+public consumption rose by 2.6 per cent, a reversal from
+Public -0.1 0.2 0.0 0.2 0.0 0.1
+the 1.9 per cent contraction in 2022.
+Private 1.0 0.7 0.5 0.2 0.3 0.4
+Exhibit 1.6: Changes in Total Demand in Chained (2015) Dollars
+Gross Fixed
+0.2 0.1 -0.2 -0.2 0.3 0.0 Per Cent
+Capital Formation 15
+Changes in
+0.0 -1.4 -1.5 -0.3 -1.4 -1.1
+Inventories
+10
+External Demand
+External demand rose by 11.0 per cent year-on-year in 5
+the fourth quarter, a reversal from the 1.8 per cent decline Total
+in the previous quarter (Exhibit 1.6). The rise in external External
+demand could be attributed to increases in the real exports
+0
+of both goods and services.
+For the full year, external demand expanded by 2.4 per
+cent, slowing from the 3.0 per cent expansion in 2022. -5
+Domestic
+The increase in external demand could be attributed to
+a rise in real services exports, which was in turn led by
+higher real exports of transport services. By contrast, real
+-10
+merchandise exports fell, mainly due to a contraction in IV I II III IV
+2022 2023
+the real exports of machinery and transport equipment.
+
+--- PAGE 12 ---
+
+10 Economic Survey of Singapore 2023
+INCOME COMPONENTS OF
+Gross Fixed Capital Formation
+NOMINAL GDP
+Gross fixed capital formation (GFCF) rose by 3.0 per cent
+year-on-year in the fourth quarter, a reversal from the 1.9 Singapore’s nominal GDP amounted to $673 billion in
+per cent contraction in the preceding quarter. GFCF rose 2023, a 2.0 per cent decrease over 2022. Gross operating
+during the quarter on account of increases in public GFCF surplus accounted for 55.1 per cent of nominal GDP, while
+(10.6 per cent) and private GFCF (1.5 per cent). compensation of employees accounted for 38.5 per cent
+(Exhibit 1.9). Taxes (less subsidies) on production and
+For the full year, GFCF fell by 0.2 per cent, a reversal from imports made up the remaining 6.4 per cent of nominal GDP.
+the 2.5 per cent increase in 2022 (Exhibit 1.7). Private GFCF
+decreased by 1.1 per cent, a reversal from the 3.2 per Exhibit 1.9: Income Components of GDP at Current Prices
+cent growth in 2022, due to lower investment spending on
+machinery & equipment (Exhibit 1.8). Meanwhile, public
+GFCF rose by 4.0 per cent, a turnaround from the 1.1 per Compensation
+Gross of Employees
+cent contraction in 2022. The increase in public GFCF was
+Operating
+38.5%
+due to higher investment spending across all components. Surplus
+55.1%
+Exhibit 1.7: Annual Changes in Gross Fixed Capital
+Formation in Chained (2015) Dollars, 2023
+Total Public Private
+Taxes Less
+Subsidies on
+Total -0.2 4.0 -1.1
+Production &
+on Imports
+Construction & Works 3.3 4.3 2.7 6.4%
+Transport Equipment 9.1 2.6 9.5
+Machinery & Equipment -11.0 6.4 -12.0 NATIONAL SAVING
+Intellectual
+1.0 1.3 1.0 With factor income outflows exceeding inflows by $108
+Property Products
+billion, Gross National Income (GNI) came in at $565
+billion in 2023, lower than the $673 billion in nominal GDP.
+Gross National Saving (GNS) fell by 0.9 per cent to $275
+Exhibit 1.8: Percentage-Point Contribution to Growth of Gross
+billion in 2023. This comprised a net outflow of $133 billion
+Fixed Capital Formation in Chained (2015) Dollars, 2023
+that was lent or transferred abroad, and $142 billion in
+Gross Capital Formation. The national savings rate was
+Total Public Private
+48.6 per cent of GNI in 2023, slightly lower than the 49.9
+per cent in 2022.
+Total -0.2 0.7 -0.9
+Construction & Works 1.3 0.6 0.7
+Transport Equipment 0.6 0.0 0.6
+Machinery & Equipment -2.4 0.1 -2.5
+Intellectual
+0.3 0.0 0.3
+Property Products
+
+--- PAGE 13 ---
+
+Chapter 1: Economic Performance 11
+GNI AND THE EXTERNAL
+Exhibit 1.10: Singapore’s Earnings from External Economy
+ECONOMY as a Proportion of Total Income
+Per Cent
+Factor income from abroad reached $237 billion in 2023, 30
+up from the $218 billion in 2022. The contribution of factor
+income from abroad to the total economy was 26.0 per
+cent in 2023, slightly higher than the contribution of 24.1 25
+per cent recorded in 2022 (Exhibit 1.10).
+Based on the Department of Statistics’ Survey of Singapore’s 20
+Investment Abroad, the stock of direct investment abroad
+Factor Income From Abroad (FIFA)
+increased from $1,321 billion in 2021 to $1,385 billion in
+15 GDP + FIFA
+2022.
+10
+5
+0
+2003 2006 2013 2018 2023
+
+--- PAGE 14 ---
+
+LABOUR
+CHAPTER
+2 MARKET AND
+PRODUCTIVITY
+
+--- PAGE 16 ---
+
+14 Economic Survey of Singapore 2023
+Chapter 2
+LABOUR MARKET
+AND PRODUCTIVITY
+EMPLOYMENT AND PRODUCTIVITY VA PER ACTUAL HOUR WORKED
+GROWTH IN 2023 AND VA PER WORKER GROWTH
+Employment VA per
+(as at year end) Actual Hour Worked
+15
+11.6%
+10
+7.5%
++107,200 -2.4%
+5
+MAIN DRIVERS OF
+EMPLOYMENT GROWTH IN 2023 0
+-0.7% -0.9%
+-2.4%
++44,800 +25,800 -3.6%
+-5
+employed employed 2021 2022 2023
+VA per Actual Hour Worked
+VA per Worker
+Other Services Construction
+Industries
+SECTORS WITH THE HIGHEST UNEMPLOYMENT
+VA PER ACTUAL HOUR WORKED RATES IN 2023
+GROWTH IN 2023
+Overall Resident
+Unemployment Rate Unemployment Rate
++3.8% +3.3% +3.3%
+Administrative & Real Estate Information & 1.9% 2.7%
+Support Services Communications
+ANNUALISED Per Cent Per Annum Real median gross monthly
+1.5
+CHANGE IN REAL income of full-time
+GROSS MONTHLY 1.1% employed residents rose by
+INCOME FROM WORK +0.5% per annum
+1.0
+from June 2018 to June 2023
+0.5%
+0.5
+0.0
+20th Percentile Median
+
+--- PAGE 17 ---
+
+Chapter 2: Labour Market and Productivity 15
+OVERVIEW1
+Total employment grew by 107,200 in 2023, driven by gains in both resident and non-resident employment,
+although the pace of increase has moderated significantly from the previous year. The increase in employment
+was experienced across all broad sectors. Excluding Migrant Domestic Workers (MDWs), total employment
+grew by 89,400.
+At the same time, unemployment rates remained stable and low while the number of retrenchments rose in 2023.
+In the five years between 2018 and 2023, the real gross monthly income of full-time employed residents at the
+median and 20th percentile increased by 0.5 per cent per annum and 1.1 per cent per annum, respectively.
+EMPLOYMENT
+By broad sectors, employment rose in the services (+13,200)
+and construction (+2,700) sectors in the fourth quarter,
+Total employment increased by 12,600 in the fourth quarter, a while employment contracted in the manufacturing (-3,100)
+more moderate pace of increase as compared to the second sector. Across the services sectors, employment gains were
+(+26,800) and third (+29,200) quarters (Exhibit 2.1). A similar the largest in the other services and retail trade sectors
+trend was observed for total employment excluding MDWs. (Exhibit 2.2).
+Exhibit 2.1: Changes in Total Employment Exhibit 2.2: Changes in Employment by Industry in 4Q 2023
+Thousand Other Services Industries 10.2
+60
+Retail Trade 3.4
+Construction 2.7
+Food & Beverage 2.1
+Real Estate 0.7
+40 Transportation & Storage 0.5
+Wholesale Trade 0.4
+Finance & Insurance 0.3
+Accommodation -0.6
+20 Administrative & Support -0.8
+Professional Services -1.1
+Information & Comms -1.9
+Manufacturing -3.1
+-10 -5 0 5 10 15
+0 Thousand
+IV I II III IV
+2022 2023
+1 Figures for the fourth quarter of 2023 and full year of 2023 are preliminary estimates.
+
+--- PAGE 18 ---
+
+16 Economic Survey of Singapore 2023
+For the whole of 2023, total employment increased by Exhibit 2.3: Unemployment Rates (Seasonally-Adjusted)
+107,200, slower than the rebound of 250,100 recorded in
+Per Cent
+2022. Total employment expanded across the broad sectors,
+4
+with the services sectors collectively (+80,500) registering
+the largest gains, followed by the construction (+25,800)
+and manufacturing (+900) sectors.
+3
+Non-resident employment accounted for most of the
+employment gains during the year, led by the construction
+sector due to robust demand for private and public sector
+projects. Meanwhile, resident employment growth was 2
+driven by the other services and finance & insurance sectors.
+UNEMPLOYMENT 1
+Between September and December 2023, the seasonally-
+adjusted unemployment rates were unchanged at the
+0
+overall level (2.0 per cent) and for residents (2.8 per cent), Dec Mar Jun Sep Dec
+2022 2023
+while the citizen unemployment rate fell slightly from 3.0
+per cent to 2.9 per cent (Exhibit 2.3). Overall Resident Citizen
+In December 2023, there were 67,900 unemployed residents,
+RETRENCHMENTS
+of whom 59,700 were Singapore citizens. The number of
+unemployed residents remained unchanged from September
+2023, while the number of unemployed citizens (from 60,200 The number of retrenchments fell in the fourth quarter
+to 59,700) declined over the same period. (3,200), compared to the third quarter (4,110). Over the
+quarter, the increase in retrenchments in the manufacturing
+For the full year of 2023, the annual average unemployment (from 700 to 800) and construction (from 140 to 200) sectors
+rate declined at the overall level (from 2.1 per cent in 2022 were outweighed by the decline in retrenchments in the
+to 1.9 per cent), as well as for residents (from 2.9 per cent to services (from 3,270 to 2,200) sector.
+2.7 per cent) and citizens (from 3.0 per cent to 2.9 per cent).
+The total number of retrenchments for 2023 (14,320) as a
+In 2023, 66,100 residents, of whom 58,500 were Singapore whole rose from a record low of 6,440 in 2022. The number
+citizens, were unemployed on average. These were lower of retrenchments rose across the broad sectors, led by the
+than their respective figures in 2022 (69,500 and 61,900). services sectors collectively (from 4,060 to 10,160), followed
+by the manufacturing (from 2,100 to 3,470) and construction
+(from 260 to 610) sectors.
+
+--- PAGE 19 ---
+
+Chapter 2: Labour Market and Productivity 17
+PRODUCTIVITY Exhibit 2.5: Changes in Value-Added per Actual Hour
+Worked by Industry in 2023
+Real Value-Added per Actual Hour Worked
+Administrative & Support 3.8
+Overall labour productivity, as measured by real value- Real Estate 3.3
+added per actual hour worked, rose by 2.1 per cent in the Information & Comms 3.3
+fourth quarter, reversing the 0.7 per cent decline in the Transportation & Storage 1.9
+previous quarter. Food & Beverage Services 1.9
+Accommodation 1.8
+By sectors, the productivity of the information & Wholesale Trade 0.6
+communications, finance & insurance, manufacturing,
+Retail Trade 0.0
+transportation & storage, wholesale trade, construction,
+Other Services Industries -1.1
+retail trade and other services sectors rose in the fourth
+Finance & Insurance -1.6
+quarter. On the other hand, the productivity of the real estate,
+Professional Services -2.3
+food & beverage services, administrative & support services,
+Overall Productivity -2.4
+accommodation and professional services sectors declined.
+Construction -3.9
+Manufacturing -6.2
+Collectively, the productivity of outward-oriented sectors
+-10 -5 0 5 10
+increased by 4.3 per cent in the fourth quarter, while that
+of domestically-oriented sectors rose by 0.4 per cent over
+Per Cent
+the same period.2
+For the full year of 2023, real value-added per actual hour
+worked declined by 2.4 per cent, extending the 0.7 per cent
+Exhibit 2.4: Changes in Value-Added per Actual Hour
+Worked for the Overall Economy decline in 2022 (Exhibit 2.4). While productivity performance
+for the overall economy in 2023 was supported by productivity
+Per Cent gains in most sectors, it was weighed down by productivity
+8
+declines in the manufacturing, construction, professional
+services, finance & insurance and other services sectors
+6
+(Exhibit 2.5).
+4
+Real Value-Added per Worker
+2
+Real value-added per worker fell by 0.8 per cent in the fourth
+0 quarter, moderating from the 3.1 per cent contraction in
+the preceding quarter.
+-2
+For 2023, real value-added per worker declined by 3.6 per
+-4 cent, extending the 0.9 per cent decline in 2022.
+2019 2020 2021 2022 2023
+The weaker performance of real value-added per worker
+compared to real value-added per actual hour worked in
+2023 was because of a decline in the average number of
+actual hours worked per worker during the year.
+2 Outward-oriented sectors refer to manufacturing, wholesale trade, transportation & storage, accommodation, information & communications, finance & insurance
+and professional services. Domestically-oriented sectors refer to construction, retail trade, food & beverage services, real estate, administrative & support services
+and other services industries.
+
+--- PAGE 20 ---
+
+18 Economic Survey of Singapore 2023
+INCOME FROM WORK Exhibit 2.6: Annualised Change in Real Gross Monthly Income
+from Work of Full-Time Employed Residents, 2018-2023
+Nominal gross monthly income of resident workers continued Per Cent Per Annum
+to increase, but at a more moderate pace compared to the
+1.5
+previous year. Median nominal gross monthly income
+(including employer CPF contributions) of full-time employed
+residents grew by 2.5 per cent to reach $5,197, a moderation
+1.1
+from the 8.3 per cent growth in 2022.
+1.0
+After adjusting for inflation3, real median income fell by 2.2
+per cent in 2023. Lower-income earners also saw a decline
+in their incomes after taking inflation into account, with real
+income at the 20th percentile falling by 3.0 per cent in 2023. 0.5
+0.5
+With WIS and related payments included, real income at
+the 20th percentile saw a smaller decline (-2.0 per cent).
+Over the last five years (i.e., June 2018 to June 2023), real
+median income rose by 0.5 per cent per annum (Exhibit 0.0
+20th Percentile Median
+2.6). During this period, real income growth at the 20th
+percentile exhibited stronger growth (1.1 per cent per
+annum), thus narrowing the income gap with the median
+income earner.
+3 The Consumer Price Index (CPI) for all items rose by 4.8 per cent in 2023
+
+--- PAGE 21 ---
+
+Chapter 2: Labour Market and Productivity 19
+
+--- PAGE 22 ---
+
+COSTS,
+CHAPTER
+3 INVESTMENTS
+AND PRICES
+
+--- PAGE 24 ---
+
+22 Economic Survey of Singapore 2023
+Chapter 3
+COSTS, INVESTMENTS
+AND PRICES
+OVERALL UNIT LABOUR COST WITHIN THE
+(YoY Growth) MANUFACTURING SECTOR
+10
+Overall ULC
+7.5%
+5
+10.0% 8.5%
+in 2023 in 2023
+0
+2021 2022 2023 Unit Labour Cost Unit Business Cost
+INVESTMENT CLUSTERS THAT ATTRACTED THE HIGHEST FIXED
+COMMITMENTS ASSET INVESTMENT COMMITMENTS
+IN 2023
+Chemicals Services Clusters Electronics
+CLUSTERS THAT ATTRACTED THE HIGHEST TOTAL
+BUSINESS EXPENDITURE COMMITMENTS
+Fixed Asset Total Business
+Investment Expenditure
+Commitments Commitments
+$12.7 $8.9 Headquarters & Research & Electronics
+billion billion Professional Services Development
+CPI-ALL ITEMS INFLATION IN 2023, THE INCREASE IN CPI WAS MAINLY DUE
+TO THE INCREASE IN PRICES OF
+8
+6.1%
+6 Transport Food Housing & Utilities
+4.8%
+4
+2.3%
+2
+1.3% 1.2% 1.1%
+point contribution point contribution point contribution
+0
+2021 2022 2023
+
+--- PAGE 25 ---
+
+Chapter 3: Costs, Investments and Prices 23
+OVERVIEW
+Overall ULC for the economy rose by 3.2 per cent year-on-year in the fourth quarter, extending the increase of
+7.9 per cent in the preceding quarter. For the whole of 2023, overall ULC rose by 7.5 per cent.
+Total investment commitments attracted by EDB remained healthy in 2023. The manufacturing sector garnered
+a larger amount of commitments in terms of fixed asset investments (FAI) than the services sector, while the
+latter attracted a larger amount of total business expenditure (TBE) commitments. By clusters, the chemicals
+and electronics clusters within the manufacturing sector were the biggest contributors to FAI commitments,
+while the headquarters & professional services cluster within the services sector contributed the most to TBE
+commitments.
+The Consumer Price Index-All Items (CPI-All Items) rose by 4.0 per cent year-on-year in the fourth quarter,
+moderating from the 4.1 per cent increase in the previous quarter. For 2023 as a whole, CPI-All Items inflation
+came in at 4.8 per cent, lower than the 6.1 per cent recorded in 2022.
+Producer prices, as measured by the domestic supply price index (DSPI), the Singapore manufactured products
+price index (SMPPI) as well as the import and export price indices, all fell on a year-on-year basis in the fourth
+quarter. For the whole of 2023, the DSPI, SMPPI, as well as the import and export price indices decreased by
+6.7 per cent, 4.5 per cent, 5.6 per cent and 7.6 per cent respectively.
+COSTS
+By broad sectors, the ULC of services producing industries
+went up by 3.6 per cent in the fourth quarter, slowing from
+Overall ULC for the economy rose by 3.2 per cent year-on- the 6.6 per cent increase in the previous quarter. Most
+year in the fourth quarter, moderating from the increase services sectors saw a pickup in their ULCs, with the
+of 7.9 per cent in the previous quarter (Exhibit 3.1). The accommodation sector registering the largest increase
+pickup in overall ULC during the quarter came on the (10.6 per cent) . The latter was on account of an increase
+back of an increase in total labour cost per worker and in total labour cost per worker and a decline in labour
+a decrease in labour productivity (as measured by real productivity within the sector. Similarly, the construction
+value-added per worker). sector registered a ULC increase of 2.7 per cent in the
+fourth quarter, a moderation from the 8.0 per cent increase
+Exhibit 3.1: Changes in Unit Labour Cost in 4Q 2023 seen in the previous quarter. The increase in ULC in the
+construction sector was also due to the combined effect
+Accommodation 10.6 of an increase in total labour cost per worker alongside
+Administrative & Support 7.9 a decline in labour productivity.
+Professional Services 7.3
+Conversely, the ULC for the manufacturing sector fell by
+Retail Trade 6.9
+0.1 per cent in the fourth quarter, a reversal from the 10.4
+Wholesale Trade 5.8
+per cent increase in the third quarter. This decline was
+Food & Beverage 4.4 due to an increase in labour productivity, which outpaced
+Overall Ecomony 3.2 the increase in total labour cost per worker.
+Construction 2.7
+Transportation & Storage 1.9 For the whole of 2023, the overall ULC rose at a slower pace
+Finance & Insurance 1.5 of 7.5 per cent, compared to the 9.1 per cent increase in
+Real Estate 1.2 2022. The rise in the overall ULC was due to an increase in
+total labour cost per worker alongside a decline in labour
+Information & Comms 1.1
+productivity in the economy.
+Other Services Industries 0.6
+Manufacturing -0.1
+-5 0 5 10 15
+Per Cent
+
+--- PAGE 26 ---
+
+24 Economic Survey of Singapore 2023
+INVESTMENT COMMITMENTS
+Manufacturing unit business cost (UBC) rose by 3.4 per
+cent year-on-year in the fourth quarter, easing from the
+8.9 per cent increase in the previous quarter (Exhibit 3.2). EDB attracted healthy levels of investment commitments
+The increase in manufacturing UBC came on the back of in 2023. For the full year, FAI and TBE commitments came
+an increase in unit services costs (4.6 per cent) and unit in at $12.7 billion and $8.9 billion respectively.
+non-labour production taxes (15.3 per cent), which offset
+the slight decline in the manufacturing ULC (-0.1 per cent). In terms of FAI, the largest contribution came from the
+For 2023 as a whole, manufacturing UBC increased by 8.5 manufacturing sector, which garnered $8.7 billion in
+per cent, moderating from the 9.9 per cent increase in 2022. commitments. Within manufacturing, the chemicals cluster
+attracted the largest amount of FAI commitments, at $4.5
+Exhibit 3.2: Changes in Unit Business Cost for Manufacturing billion, followed by the electronics cluster, at $3.1 billion.
+Within the services sector, the research & development and
+Per Cent headquarters & professional services clusters contributed
+15 the most to total FAI commitments, with $2.1 billion and
+$1.3 billion respectively (Exhibit 3.4).
+Exhibit 3.4: Fixed Asset Investments by Industry Clusters
+in 2023
+10
+Chemicals
+35.6%
+Services Clusters
+31.3%
+5
+0 Others
+IV I II III IV
+9.0%
+2022 2023
+Electronics
+24.2%
+Singapore’s relative unit labour cost (RULC) for
+manufacturing – a measure of Singapore’s competitiveness
+against 16 economies1 – rose in 2023 (i.e., less competitive) Investors from the United States were the largest source
+as compared to 2022 (Exhibit 3.3). The deterioration in of FAI commitments, with $6.6 billion (51.9 per cent). They
+Singapore’s RULC was mainly on account of an increase in were followed by investors from Europe who contributed
+Singapore’s manufacturing ULC and a stronger Singapore about $3.1 billion of FAI commitments (24.8 per cent).
+dollar.
+For TBE, the services sector attracted the highest amount
+Exhibit 3.3: Singapore’s Relative Unit Labour Cost in
+of commitments, at $7.6 billion. This was driven by the
+Manufacturing Against Selected 16 Economies1
+headquarters & professional services cluster, which
+garnered $6.0 billion in TBE commitments, followed by
+Index
+100 the research & development cluster, with $1.6 billion.
+Among the manufacturing clusters, the electronics cluster
+contributed the highest amount of TBE commitments, at
+$508 million (Exhibit 3.5).
+90
+80
+70
+60
+2016 2017 2018 2019 2020 2021 2022 2023
+1 The 16 economies are Australia, China, France, Germany, Hong Kong, India, Indonesia, Japan, Malaysia, Netherlands, South Korea, Taiwan, Thailand, the United
+Kingdom, the United States and Vietnam.
+
+--- PAGE 27 ---
+
+Chapter 3: Costs, Investments and Prices 25
+Exhibit 3.5: Total Business Expenditure by Industry Clusters For 2023 as a whole, CPI-All Items inflation came in at
+in 2023 4.8 per cent, lower than the 6.1 per cent recorded in 2022.
+Headquarters Price increases in the following CPI categories contributed
+& Professional
+Services positively to CPI-All Items inflation in 2023 (Exhibit 3.7).
+66.9% Transport costs climbed by 6.3 per cent as higher car
+prices, road tax and bus & train fares more than offset
+cheaper petrol and airfares. Recreation & culture prices
+rose by 6.1 per cent due to increases in the costs of
+holiday travel and recreational & cultural services. Food
+prices increased by 5.8 per cent on account of the higher
+Others
+9.7% costs of food serving services such as hawker food and
+restaurant meals, as well as non-cooked food items such
+as bread & cereals and meat. Healthcare costs rose by
+Electronics
+4.5 per cent as a result of more expensive outpatient and
+5.7%
+Research & Development
+hospital services. Housing & utilities costs increased by
+17.7%
+4.3 per cent as accommodation costs and electricity prices
+picked up. Prices of miscellaneous goods & services
+Local investors accounted for most of the TBE commitments, increased by 3.1 per cent because of the higher prices
+at $3.1 billion (35.2 per cent). of personal care items and alcoholic drinks & tobacco.
+Communication costs went up by 2.9 per cent due to the
+When these projects are fully implemented, they are higher costs of telecommunication services. Education
+expected to generate $26.7 billion of value-added per costs rose by 2.7 per cent due to higher fees at commercial
+annum and create more than 20,000 jobs in the coming institutions. Clothing & footwear prices went up by 2.5
+years. per cent as footwear and ready-made garments became
+more expensive. Prices of household durables & services
+increased by 1.9 per cent on the back of more expensive
+CONSUMER PRICE INDEX
+domestic & household services and household durables.
+Singapore’s CPI-All Items rose by 4.0 per cent on a year-
+Exhibit 3.7: Changes in CPI by Category in 2023
+on-year basis in the fourth quarter, moderating from the
+4.1 per cent increase in the previous quarter (Exhibit 3.6).
+Transport 6.3
+On a quarter-on-quarter seasonally-adjusted basis, CPI-
+All Items inflation came in at 0.8 per cent, edging down Recreation & Culture 6.1
+from the 0.9 per cent in the previous quarter.
+Food 5.8
+Exhibit 3.6: Changes in Overall CPI Health Care 4.5
+Housing & Utilities
+4.3
+Per Cent
+8 Misc Goods & Services 3.1
+Communication 2.9
+6 Education 2.7
+YoY Growth
+Clothing & Footwear 2.5
+Household Durables
+& Services 1.9
+4
+0 2 4 6 8
+Per Cent
+2
+QoQ Growth (SA)
+0
+IV I II III IV
+2022 2023
+
+--- PAGE 28 ---
+
+26 Economic Survey of Singapore 2023
+PRODUCER PRICE INFLATION
+Exhibit 3.9: Changes in Import and Export Price Indices
+Per Cent
+Producer prices – as measured by the DSPI, SMPPI, and
+10
+import and export price indices – all fell on a year-on-
+year basis in the fourth quarter (Exhibits 3.8 and 3.9). The
+declines during the quarter came largely on the back of
+lower prices of integrated circuits.
+0
+For the full year, the DSPI and SMPPI decreased by 6.7 per
+Import Price Index
+cent and 4.5 per cent respectively, while the import and
+export price indices fell by 5.6 per cent and 7.6 per cent
+respectively. The declines are partly due to the lower prices
+-10
+of crude petroleum, integrated circuits and semiconductor
+memory chips.
+Export Price Index
+Exhibit 3.8: Changes in Domestic Supply Price and Singapore
+Manufactured Products Price Indices -20
+IV I II III IV
+2022 2023
+Per Cent
+10
+Singapore Manufactured
+Products Price Index
+0
+-10
+Domestic Supply
+Price Index
+-20
+IV I II III IV
+2022 2023
+
+--- PAGE 29 ---
+
+Chapter 3: Costs, Investments and Prices 27
+Box Article 3.1
+BUSINESS COST CONDITIONS IN
+SINGAPORE’S MANUFACTURING AND
+SERVICES SECTORS
+OVERVIEW
+In 2023, unit business cost (UBC) in
+the manufacturing sector rose,
+while that in the overall services
+sector declined.
+DEFINITION OF UBC -3.1%
+8.5% in 2023*
+Total Business Cost
+in 2023
+UBC =
+Gross Real Value-Added
+UBC for Manufacturing UBC for Services
+*Refers to the first three quarters of 2023
+KEY DRIVERS
+The increase in manufacturing UBC in 2023 was mainly on account of an The fall in services UBC in 2023 came
+increase in the “others” component, unit labour cost and the costs of on the back of a decline in non-labour
+work given out, which outweighed the declines in royalty payments and costs, which more than offset an
+utilities cost. increase in unit labour cost.
+CONTRIBUTION TO MANUFACTURING UBC CONTRIBUTION TO SERVICES UBC
+IN 2023 IN 2023
+-5.1%
++5.3% +2.5% +1.8% point
+point point point
+Others Labour Cost Work Given Out Services Cost
+-1.0% -0.3%
++2.0%
+point point
+point
+Royalty Payments Utilities Labour Cost
+OUTLOOK
+Looking ahead, the overall unit labour cost for the economy is expected to continue to rise in 2024, albeit at a
+more moderate pace as compared to 2023 given that the growth in remuneration per worker is likely to soften
+amidst easing labour market tightness. At the same time, the costs of utilities, fuel and transportation are
+expected to remain broadly stable, in line with the outlook for global oil prices in 2024.
+
+--- PAGE 30 ---
+
+28 Economic Survey of Singapore 2023
+BOX 3.1: BUSINESS COST CONDITIONS IN SINGAPORE’S
+MANUFACTURING AND SERVICES SECTORS
+This box article highlights the latest trends in business costs for firms in Singapore’s manufacturing and services
+sectors, as well as the outlook for the key components of business costs in 2024.
+(I) Unit Business Cost1 in the Manufacturing and Services Sectors
+In 2023, unit business cost in the manufacturing sector rose, while unit business cost in the
+overall services sector declined
+In 2023, the unit business cost index for the manufacturing sector (UBCI) rose by 8.5 per cent, easing from the 9.9 per
+cent increase in 2022 (Exhibit 1).2 The main contributors to the increase in the UBCI were the “others” cost component3,
+manufacturing unit labour cost (ULC) and the costs of work given out. Collectively, they accounted for 9.6 percentage-
+points (pp) of the increase in the UBCI, more than offsetting the declines in royalty payments4 and utilities cost (-1.3pp
+contribution). Meanwhile, the remaining cost components such as non-labour production taxes5 (e.g., property, road
+and other indirect taxes) and rental costs6 had a relatively small impact on the UBCI, in part due to their small shares
+in overall business costs. (Please refer to the Annex for the business cost structure of firms in the manufacturing and
+services sectors.)
+Exhibit 1: Contribution to the UBCI Change by Key Cost Components
+Contribution to YoYchange, ppc
+15
+12
+9
+6
+3
+0
+-3
+1Q23 2Q23 3Q23 4Q23 2022 2023
+Others ULC
+Work Given Out Royalty Payments
+Utilities Rental
+Unit Non-Labour Production Taxes Manufacturing UBC
+Source: Department of Statistics
+1 Unit business cost measures the costs incurred to produce one unit of output. Only operating expenses (i.e., excluding materials costs and depreciation) are included
+based on the definition adopted by the Department of Statistics (DOS) in its computation of the Unit Business Cost for Manufacturing. See DOS’s Information
+Paper, “Methodological Review on the Unit Business Cost Index for Manufacturing Industry (Base Year 2010=100)”, at https://www.singstat.gov.sg/-/media/files/
+publications/economy/ip-e38.pdf.
+2 Business costs tend to increase when firms produce a higher amount of output to meet demand. Unit business cost accounts for the change in output by measuring
+the business costs incurred to produce one unit of output.
+3 “Others” costs consist of sub-components such as professional fees, advertising, commission & agency fees, sundry expenses etc.
+4 Royalty payments refer to payments to another party (the licensor or franchisor who owns a particular asset) for the right to the ongoing use of that asset. There
+could be many reasons for changes in royalty payments. For instance, royalty payments vary with company-specific licensing agreements which could differ from
+year to year. Furthermore, royalties are usually computed as a percentage of sales, which could be volatile each year.
+5 Labour-related taxes on production (e.g., foreign worker levy) are classified under labour cost. Taxes on income (e.g., corporate income tax) are not included in
+business costs.
+6 Industrial rentals rose by 8.9 per cent in 2023 amidst inflationary pressures, higher than the 6.9 per cent increase in 2022.
+
+--- PAGE 31 ---
+
+Chapter 3: Costs, Investments and Prices 29
+As for the overall services sector, its unit business cost index (UBC-Services Index)7 fell by 3.1 per cent year-on-year
+in the first three quarters of 2023, a reversal from the 8.7 per cent increase recorded over the same period last year
+(Exhibit 2).8 This was due to a decline in non-labour costs (-5.1pp contribution), which more than offset an increase
+in the services ULC (+2.0pp). In turn, the fall in non-labour costs was due to lower freight & transport charges and
+fuel costs compared to the first three quarters of 2022, which outweighed higher rental costs over the same period9.
+Exhibit 2: Contribution to UBC-Services Index Changes by Cost Components
+Contribution to YoYchange, ppc
+9
+6
+3
+0
+-3
+-6
+-9
+1Q23 2Q23 3Q23 2022 2023
+ULC Non-labour Cost UBC - Services Index
+Source: Monetary Authority of Singapore
+Notes: (1) The 2022 and 2023 figures refer to the average of the index for the first three quarters of the respective years; (2) Detailed cost component breakdown of the
+UBC-Services Index is not available; (3) Non-labour costs include air & sea freight costs, cargo handling costs and warehousing & storage costs.
+(II) Latest Trends and Outlook for Key Cost Components
+The pace of increase in the ULC for the overall economy slowed in 2023, and could moderate
+further in 2024
+The ULC for the overall economy rose by 7.5 per cent in 2023, moderating from the 9.1 per cent increase in 2022.10
+The increase in the overall ULC was due to a rise in total labour cost11 (TLC) per worker (3.6 per cent) and a decline in
+labour productivity12 (-3.7 per cent) (Exhibit 3). In turn, the increase in TLC per worker was mainly driven by a pickup
+in remuneration per worker, which contributed 2.4pp to the rise in TLC per worker.
+At the sectoral level, all sectors experienced an increase in their ULCs in 2023 (Exhibit 4). The ULCs for the manufacturing
+(10.0 per cent) and construction (8.7 per cent) sectors increased on the back of a rise in TLC per worker, alongside a
+decline in labour productivity.
+Meanwhile, among the services sectors, the professional services (9.5 per cent), accommodation (9.4 per cent) and
+finance & insurance (9.4 per cent) sectors registered the largest increases in their ULCs. For these three sectors,
+the increases in their ULCs were due to the combined effects of an increase in TLC per worker and a fall in labour
+productivity.
+7 The UBC-Services Index is estimated by MAS to assess cost conditions in the services sector. It is a composite index of proxy cost indicators for each component
+of business costs, combined using weights estimated from expenditure data in DOS’ Services Survey Series 2019: The Services Sector, as well as the 2019 Input-
+Output tables.
+8 Latest available UBC-Services Index is up to the third quarter of 2023.
+9 Rentals of office space increased by 16.5 per cent in the first three quarters of 2023 compared to the same period a year ago, even as rentals of retail space fell by
+1.5 per cent over the same period.
+10 A change in the ULC can be approximately decomposed as the change in total labour cost per worker minus the change in labour productivity (proxied by gross real
+value-added per worker). This approximation holds better when the changes are small.
+11 TLC comprises remuneration, wage subsidies and other labour-related costs, which include the skills development levy, foreign worker levy, and recruitment and
+net training costs.
+12 Labour productivity in this decomposition exercise is proxied by real gross value-added per worker.
+
+--- PAGE 32 ---
+
+30 Economic Survey of Singapore 2023
+For 2024, the ULC for the overall economy is expected to continue to rise, albeit at a more moderate pace as compared
+to 2023 given that the growth in remuneration per worker is likely to soften amidst easing labour market tightness.
+Exhibit 3: Decomposition of ULC Growth for Overall Exhibit 4: ULC Change by Sectors, 2023
+Economy, 2023
+ULC 7.5% Manufacturing 10.0
+Professional Services 9.5
+Accommodation 9.4
+TLC per worker 3.6%
+Finance & Insurance 9.4
+Retail Trade 8.9
+Remuneration per worker +2.4pp Construction 8.7
+Services Producing Industries 6.3
+Transportation & Storage 5.9
+FWL per worker +0.5pp
+Wholesale Trade 5.7
+Food & Beverage Services 4.5
+Wage subsidies per worker +0.4pp Information & Communications 3.9
+Other Services Industries 2.7
+Administrative & Support Services 2.6
+Other labour costs +0.3pp
+Real Estate 0.3
+0 2 4 6 8 10 12
+Gross real labour productivity* -3.7%
+PerCent
+* Measured as real gross value-added per worker.
+Source: MTI Staff estimates using data from the Department of Statistics and Ministry of Manpower
+Costs of utilities, fuel and transportation are likely to remain broadly stable in 2024
+The cost of utilities borne by firms is closely linked to electricity prices,13 which are in turn influenced by global oil
+prices.14 Oil prices also contribute to business costs through fuel and transportation costs.
+In 2023, the average wholesale electricity price15 declined by 14 per cent as global oil prices moderated from the high
+base in 2022 amidst weakness in the global economic environment (Exhibit 5).
+Notwithstanding potential upside risks from the Israel-Hamas conflict, global oil prices are projected to remain
+stable in 2024 as production cuts by the Organisation of Petroleum Exporting Countries and selected non-member
+countries (OPEC+) are likely to be offset by slowing global demand. For 2024 as a whole, the US Energy Information
+Administration (EIA) has projected that global oil prices will average US$82 per barrel (/bbl)16, in line with the 2023
+average of US$82/bbl.
+In turn, domestic fuel and transportation costs are expected to remain broadly stable in 2024. Meanwhile, the domestic
+cost of utilities will pick up slightly following the increase in carbon tax17 and phased increase in water price18 in 2024.
+13 For example, electricity cost accounts for around 82 per cent of the cost of utilities borne by firms in the manufacturing sector.
+14 Around 95 per cent of Singapore’s electricity is generated from natural gas, the price of which is indexed to oil prices. This is a common market practice in Asia.
+15 This is based on the average half-hourly Uniform Singapore Energy Price (USEP), which is a proxy for average wholesale energy prices in the National Electricity
+Market of Singapore.
+16 EIA Short-Term Energy Outlook Report, February 2024.
+17 The National Climate Change Secretariat (NCCS) has estimated that every $5 increase in carbon tax could cause household electricity tariffs to rise by a
+corresponding 1 per cent.
+18 As announced earlier, to meet the higher costs of supplying and producing water, the potable water price will increase by 50 cents per cubic metre in two phases
+over 2024 and 2025. This represents an increase in the water price of about 2.5 per cent per year since the last price revision which was announced in 2017.
+
+--- PAGE 33 ---
+
+Chapter 3: Costs, Investments and Prices 31
+Exhibit 5: Global Oil Prices and Uniform Singapore Energy Prices, 1Q22 – 4Q23
+PerCentchange, YoY
+300
+200
+100
+0
+-100
+1Q22 2Q22 3Q22 4Q22 1Q23 2Q23 3Q23 4Q23
+UK Brent USEP ($/MWh)
+Source: International Monetary Fund, CEIC, Energy Market Company
+Note: The elevated USEP in 2Q23 was attributable to higher demand for electricity and maintenance of generation facilities.
+Conclusion
+In 2023, the UBCI for the manufacturing sector rose, in large part due to increases in the “others” cost component,
+manufacturing ULC and the costs of work given out, which outweighed the declines in royalty payments and utilities
+cost. On the other hand, the UBC-Services Index fell in the first three quarters of 2023 on account of a fall in non-labour
+costs, which more than offset an increase in the services ULC.
+Looking ahead, the overall ULC for the economy is expected to continue to rise in 2024, albeit at a more moderate pace
+as compared to 2023 given that the growth in remuneration per worker is likely to soften amidst easing labour market
+tightness. At the same time, the costs of utilities, fuel and transportation are expected to remain broadly stable, in line
+with the outlook for global oil prices in 2024.
+Contributed by:
+Ms Tan Yen Ling
+Senior Economist
+Economics Division
+Ministry of Trade and Industry
+REFERENCES
+Singapore Department of Statistics (2014), “Methodological Review on the Unit Business Cost Index for Manufacturing
+Industry (Base Year 2010=100)” November. https://www.singstat.gov.sg/-/media/files/publications/economy/ip-e38.pdf.
+U.S. Energy Information Administration (2024), “Short-Term Energy Outlook (STEO)” February. https://www.eia.gov/
+outlooks/steo/.
+
+--- PAGE 34 ---
+
+32 Economic Survey of Singapore 2023
+ANNEX: BUSINESS COST STRUCTURE OF MANUFACTURING AND SERVICES SECTORS IN 2022
+Manufacturing Sector
+In the manufacturing sector, labour cost, work given out and “others” constituted the largest components of business
+costs. These three components collectively accounted for around 83 per cent of the business costs of small- and
+medium-sized enterprises (SMEs) and around 74 per cent of the business costs of non-SMEs in the sector in 2022.
+The remaining cost components, including utilities, fuel, rental of building/premises and charges paid to other firms
+for inland transportation and ocean/air/other freight, made up a smaller share of business costs, at around 17 per
+cent for SMEs and 25 per cent for non-SMEs in 2022. Non-labour production taxes, which include property, road and
+other indirect taxes, accounted for around 0.6 per cent and 0.4 per cent of the business costs of SMEs and non-SMEs
+respectively over the same period.
+Details of the business cost structure of SMEs and non-SMEs in the various manufacturing clusters are in Exhibit A1.
+Services Sectors
+Labour cost constituted a major cost component for firms in the services sectors, with its share of business costs
+ranging from around 6 per cent for firms in the transportation & storage sector, to around 37 per cent or more for
+firms in labour-intensive sectors such as food & beverage services, accommodation and retail trade sectors in 2022.
+Across all services sectors, except for the accommodation, real estate, professional services and administrative &
+support services, wholesale trade and transportation & storage sectors, the labour cost share of business costs was
+larger for SMEs than for non-SMEs.
+On the other hand, utilities cost was a relatively small cost component for services firms, accounting for less than 3 per
+cent of the business costs of firms in most services sectors in 2022. Key exceptions were firms in the accommodation
+and food & beverage services sectors, where utilities cost constituted around 7 per cent or less of their business
+costs. Similarly, rental cost accounted for a small share of the business costs of firms in most services sectors. Key
+exceptions included the retail trade and food & beverage services sectors, where the rental cost share of business
+costs for SMEs was 25 per cent and 21 per cent respectively.
+Similar to the manufacturing sector, non-labour production taxes accounted for less than 1 per cent of the business
+costs of firms in most services sectors.
+Details of the business cost structure of SMEs and non-SMEs in the various services sectors are in Exhibit A2.
+
+--- PAGE 35 ---
+
+2202
+,eziS
+mriF
+yb
+rotceS
+gnirutcafunaM
+eht
+fo
+erutcurtS
+tsoC
+ssenisuB
+:1A
+tibihxE
+lareneG
+tropsnarT
+noisicerP
+lacidemoiB
+slacimehC
+scinortcelE
+latoT
+gnirutcafunaM
+gnireenignE
+gnireenignE
+gnirutcafunaM
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+sEMS
+sEMS-noN
+2.74
+5.23
+0.74
+7.33
+5.74
+7.03
+9.21
+7.62
+6.52
+1.41
+0.8
+5.11
+6.03
+9.71
+tsoC
+ruobaL
+1.25
+1.76
+4.25
+8.56
+6.15
+9.86
+7.68
+9.27
+6.37
+0.58
+9.19
+3.88
+8.86
+7.18
+tsoC
+secivreS
+5.31
+2.5
+8.12
+8.83
+5.51
+8.11
+9.12
+7.4
+2.3
+3.4
+2.54
+0.52
+8.12
+2.91
+tuo
+nevig
+kroW
+9.0
+9.8
+0.2
+4.2
+2.1
+6.7
+1.81
+4.13
+2.5
+9.4
+9.5
+1.41
+2.5
+1.21
+stnemyaP
+ytlayoR
+6.3
+5.7
+8.1
+5.2
+0.3
+0.2
+8.0
+9.1
+2.11
+2.9
+7.0
+3.3
+2.3
+1.4
+seitilitU
+2.2
+9.3
+4.0
+4.0
+4.0
+1.0
+2.0
+7.0
+5.6
+2.92
+-
+2.1
+4.1
+6.5
+leuF
+/gnidliub
+fo latneR
+4.4
+1.1
+1.2
+6.0
+7.1
+6.0
+5.0
+8.0
+3.1
+2.0
+2.0
+1.0
+7.1
+3.0
+sesimerp
+rehto
+ot
+diap
+segrahC
+dnalni
+rof smrif
+8.4
+0.6
+6.1
+8.1
+0.3
+6.5
+7.7
+5.5
+5.51
+6.6
+6.1
+5.1
+2.5
+2.3
+dna
+noitatropsnart
+thgierf
+rehto
+/ria
+/naeco
+7.22
+5.43
+7.22
+3.91
+8.62
+2.14
+5.73
+0.82
+6.03
+5.03
+3.83
+2.34
+3.03
+2.73
+srehtO
+noitcudorP
+ruobaL-noN
+7.0
+4.0
+6.0
+4.0
+9.0
+5.0
+4.0
+3.0
+8.0
+9.0
+1.0
+2.0
+6.0
+4.0
+sexaT
+draoB
+tnempoleveD
+cimonocE
+:ecruoS
+:setoN
+tnemyolpme
+dna
+noillim
+001$
+naht
+erom
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS-noN
+.srekrow
+002
+naht
+erom
+ton
+fo
+tnemyolpme
+ro
+noillim
+001$
+naht
+erom
+ton
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS
+.1
+.srekrow
+002
+naht erom
+fo
+.cte
+,sesnepxe
+yrdnus
+,seef
+ycnega
+dna
+noissimmoc
+,gnisitrevda
+,seef
+lanoisseforp
+sa
+hcus
+stnenopmoc-bus
+fo
+stsisnoc
+”srehtO“
+.2
+.elbigilgen
+ro
+lin
+ot srefer
+“-“
+.3
+Chapter 3: Costs, Investments and Prices 33
+
+--- PAGE 36 ---
+
+2202
+,eziS
+mriF
+yb
+srotceS
+secivreS
+eht
+fo
+erutcurtS
+tsoC
+ssenisuB
+:2A
+tibihxE
+,etatsE
+laeR
+lanoisseforP
+&
+dooF
+dna
+secivreS
+&
+ecnaniF
+&
+noitamrofnI
+noitatropsnarT
+elaselohW
+egareveB
+noitadommoccA
+edarT
+liateR
+evitartsinimdA
+ecnarusnI
+snoitacinummoC
+egarotS
+&
+edarT
+secivreS
+troppuS
+&
+secivreS
+-noN
+-noN
+-noN
+-noN
+-noN
+-noN
+-noN
+-noN
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+sEMS
+4.23
+5.83
+3.41
+5.01
+4.02
+5.31
+6.3
+2.21
+7.54
+9.14
+8.04
+9.94
+4.73
+9.63
+4.11
+5.61
+tsoC ruobaL
+1.56
+1.95
+6.58
+4.98
+2.97
+1.68
+3.69
+6.78
+0.45
+7.75
+6.65
+1.74
+8.16
+3.26
+1.88
+4.28
+tsoC
+secivreS
+2.1
+8.0
+1.0
+-
+1.1
+6.0
+1.0
+9.0
+9.5
+2.5
+4.7
+8.6
+6.1
+2.3
+2.0
+3.0
+seitilitU
+0.1
+1.1
+-
+-
+4.0
+4.0
+5.27
+8.05
+3.1
+1.2
+1.0
+-
+7.2
+8.4
+7.84
+2.22
+tropsnarT
+& thgierF
+8.0
+1.0
+3.5
+0.4
+0.2
+2.1
+3.0
+3.0
+7.1
+7.0
+1.2
+3.1
+4.2
+4.2
+2.2
+5.1
+secivreS
+laicnaniF
+4.0
+2.0
+3.0
+2.0
+6.8
+1.1
+2.0
+4.0
+5.0
+2.0
+8.0
+3.0
+8.0
+3.0
+3.0
+4.0
+snoitacinummoC
+5.3
+4.2
+1.1
+6.0
+6.2
+3.1
+0.1
+3.1
+4.12
+9.81
+0.21
+0.8
+5.42
+7.82
+9.3
+5.1
+sesimerP
+fo gnitneR
+7.6
+9.11
+6.5
+3.2
+6.11
+9.41
+5.0
+1.1
+6.1
+0.1
+9.2
+7.2
+5.2
+1.2
+7.3
+0.7
+secivreS
+lanoisseforP
+5.15
+6.24
+3.37
+2.28
+9.25
+6.76
+7.12
+7.23
+7.12
+7.92
+2.13
+0.82
+2.72
+8.02
+1.92
+6.94
+secivreS
+rehtO
+& gnisitrevdA
+6.4
+6.0
+2.1
+5.1
+3.51
+8.5
+8.0
+6.0
+8.2
+0.4
+0.4
+0.3
+0.7
+6.4
+4.5
+2.6
+tnemniatretnE
+tnemeganaM
+& nimdA
+0.01
+5.4
+3.9
+5.4
+9.01
+3.31
+5.1
+1.1
+8.3
+9.2
+3.7
+5.5
+4.3
+3.3
+4.5
+3.21
+seeF
+&
+ruobal
+tcartnoC
+0.31
+3.72
+3.0
+3.0
+9.5
+1.6
+7.0
+6.0
+1.2
+4.4
+7.1
+4.1
+8.1
+4.0
+1.2
+1.21
+tuo nevig
+krow
+9.3
+0.1
+7.7
+1.3
+4.2
+8.1
+3.1
+3.3
+1.3
+5.1
+2.3
+9.0
+2.4
+2.1
+5.4
+0.2
+noissimmoC
+5.0
+5.0
+2.0
+1.0
+7.5
+7.63
+-
+-
+3.2
+6.7
+6.0
+3.3
+0.1
+2.1
+3.4
+7.11
+seitlayoR
+7.3
+0.2
+3.0
+5.0
+2.1
+5.0
+1.1
+0.3
+6.2
+8.5
+7.6
+0.4
+9.1
+9.2
+6.0
+2.1
+sriaper
+& ecnanetniaM
+2.0
+-
+-
+-
+-
+-
+9.21
+7.91
+1.0
+4.0
+-
+-
+1.0
+1.0
+7.0
+-
+leuF
+6.51
+6.6
+4.45
+2.27
+4.11
+4.3
+5.3
+5.4
+0.5
+1.3
+7.7
+8.9
+8.7
+1.7
+3.6
+2.4
+srehtO
+noitcudorP
+ruobaL-noN
+5.2
+3.2
+1.0
+1.0
+4.0
+3.0
+1.0
+3.0
+3.0
+4.0
+6.2
+0.3
+8.0
+9.0
+5.0
+0.1
+sexaT
+eropagniS
+fo
+ytirohtuA
+yratenoM
+dna
+scitsitatS
+fo tnemtrapeD
+:ecruoS
+:setoN
+tnemyolpme
+dna
+noillim
+001$
+naht
+erom
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot
+refer
+sEMS-noN
+.srekrow
+002
+naht
+erom
+ton
+fo
+tnemyolpme
+ro
+noillim
+001$
+naht
+erom
+ton
+fo
+stpiecer
+gnitarepo
+htiw
+sesirpretne
+ot refer
+sEMS
+.1
+.srekrow
+002
+naht erom
+fo
+.elbigilgen
+ro lin
+ot srefer
+“-“
+.2
+34 Economic Survey of Singapore 2023
+
+--- PAGE 37 ---
+
+Chapter 3: Costs, Investments and Prices 35
+
+--- PAGE 38 ---
+
+36 Economic Survey of Singapore 2023
+CHAPTER INTERNATIONAL
+4
+TRADE
+
+--- PAGE 39 ---
+
+Chapter 4: International Trade 37
+Image courtesy of PSA Singapore
+
+--- PAGE 40 ---
+
+38 Economic Survey of Singapore 2023
+Chapter 4
+INTERNATIONAL
+TRADE
+TOTAL MERCHANDISE TRADE TOTAL SERVICES TRADE
+AMOUNTED TO... AMOUNTED TO...
+$567 billion $397 billion
+Merchandise Services Imports
+Imports
+$1,206 $837
+billion billion
+$173billion
+in 2023 Non-Oil in 2023
+Domestic Exports
+$353 billion $112 billion $440 billion
+Re-exports Oil Domestic Exports Services Exports
+GROWTH IN MERCHANDISE TRADE GROWTH IN SERVICES TRADE
+30
+30
+20 20
+Merchandise Exports Services Imports
+10 -10.1% -2.4%
+10
+Total Merchandise Trade Total Services Trade
+0
+-11.7% -3.8%
+-10 Merchandise Imports 0 Services Exports
+-13.4% -5.1%
+-20
+2021 2022 2023 -10 2021 2022 2023
+COMPONENTS OF MERCHANDISE EXPORTS THE DECREASE IN
+(YoY Growth) SERVICES EXPORTS WAS LED BY...
+-7.1% -13.1% -14.2% -9.6% 0.0%
+point contribution point contribution
+Re-exports Non-Oil Oil Domestic Transport Services Manufacturing Services
+Domestic Exports Exports
+
+--- PAGE 41 ---
+
+Chapter 4: International Trade 39
+OVERVIEW
+Singapore’s total merchandise trade declined by 2.1 per cent year-on-year in the fourth quarter of 2023, easing
+from the 16.5 per cent contraction in the previous quarter. At the same time, total services trade decreased by
+2.8 per cent year-on-year, extending the 6.9 per cent decline in the third quarter.
+For the whole of 2023, Singapore’s total merchandise trade contracted by 11.7 per cent to $1.2 trillion, down
+from $1.4 trillion in 2022. Oil trade declined by 16.3 per cent amidst lower oil prices compared to a year ago,
+while non-oil trade decreased by 10.5 per cent. Merchandise exports and imports declined by 10.1 per cent and
+13.4 per cent respectively.
+Total services trade fell by 3.8 per cent to $837 billion in 2023, down from $871 billion in 2022. Services exports
+and imports decreased by 5.1 per cent and 2.4 per cent respectively in 2023.
+MERCHANDISE TRADE
+For the whole of 2023, total merchandise exports declined
+by 10.1 per cent, a reversal from the 15.6 per cent increase
+Merchandise Exports recorded in 2022.
+Total merchandise exports rose by 0.2 per cent year-on-
+year in the fourth quarter, a turnaround from the 15.6 Non-Oil Domestic Exports
+per cent decrease in the previous quarter (Exhibit 4.1).
+The increase was due to the growth in re-exports, which Non-oil domestic exports (NODX) declined by 1.4 per cent
+outweighed the decline in domestic exports. Domestic year-on-year in the fourth quarter, easing from the 19.5
+exports fell by 1.7 per cent, easing from the 22.6 per cent per cent contraction in the preceding quarter (Exhibit 4.2).
+contraction in the third quarter. Meanwhile, re-exports rose The decrease in NODX was due to a drop in electronics
+by 1.8 per cent, improving from the 9.5 per cent decrease NODX, even as non-electronics NODX rose.
+in the previous quarter.
+Exhibit 4.2: Changes in Domestic Exports
+Exhibit 4.1: Growth Rates of Total Merchandise Trade,
+Merchandise Exports and Merchandise Imports Per Cent
+(In Nominal Terms) 0
+2023 Domestic Exports
+2022 2023 -5
+I II III IV
+Total
+-10
+Merchandise 17.7 -7.9 -18.8 -16.5 -2.1 -11.7 Non-Oil
+Domestic Exports
+Trade
+-15
+Merchandise
+15.6 -6.5 -16.9 -15.6 0.2 -10.1
+Exports
+-20
+Domestic
+18.2 -8.0 -19.5 -22.6 -1.7 -13.5
+Exports
+-25
+IV I II III IV
+Oil 52.4 8.5 -28.1 -26.9 -2.1 -14.2
+2022 2023
+Non-Oil 3.0 -16.2 -13.4 -19.5 -1.4 -13.1
+Re-Exports 13.5 -5.3 -14.6 -9.5 1.8 -7.1
+Merchandise
+20.1 -9.4 -20.8 -17.4 -4.7 -13.4
+Imports
+Oil 43.9 -7.0 -34.4 -25.0 -4.1 -19.0
+Non-oil 14.6 -10.0 -16.6 -15.2 -4.8 -11.9
+
+--- PAGE 42 ---
+
+40 Economic Survey of Singapore 2023
+Electronics NODX declined by 9.9 per cent in the fourth NODX to Taiwan contracted mainly because of a decline in
+quarter, moderating from the 20.1 per cent contraction the exports of specialised machinery, ICs and measuring
+in the previous quarter. The fall in electronics NODX instruments. NODX to Malaysia decreased on the back
+was primarily due to a decline in the domestic exports of a decline in the exports of ICs, specialised machinery
+of ICs, PCs and diodes & transistors. Non-electronics and primary chemicals. Meanwhile, non-monetary gold,
+NODX rose by 1.1 per cent, rebounding from the 19.3 per petrochemicals and telecommunications equipment
+cent decline in the previous quarter. The growth in non- contributed the most to the decline in NODX to Indonesia.
+electronics NODX was due to higher domestic exports of On the other hand, NODX to the US grew due to higher
+pharmaceuticals, non-monetary gold and miscellaneous exports of pharmaceuticals, miscellaneous manufactured
+manufactured articles. articles and telecommunications equipment.
+For the full year, NODX contracted by 13.1 per cent,
+a reversal from the 3.0 per cent growth in 2022. The Oil Domestic Exports
+decline in NODX was due to decreased shipments of both
+electronics (-19.7 per cent) andnon-electronics (-11.1 per Oil domestic exports decreased by 2.1 per cent year-on-
+cent) products. year in the fourth quarter, easing from the 26.9 per cent
+contraction in the previous quarter. The decline in oil
+The top 10 NODX markets accounted for 80.3 per cent domestic exports was led by lower exports to economies
+of Singapore’s total NODX in 2023. Singapore’s NODX to such as the EU 27, Hong Kong and Marshall Islands.
+all the top 10 markets declined in 2023, except for the Overall, the decrease in oil domestic exports reflected
+US (Exhibit 4.3). The biggest contributors to the decline lower oil prices compared to the same quarter a year ago.
+in NODX in 2023 were Taiwan (-30.1 per cent), Malaysia In volume terms, oil domestic exports grew by 1.2 per
+(-20.3 per cent) and Indonesia (-24.9 per cent). cent, after the 16.6 per cent decline in the third quarter.
+Exhibit 4.3: Growth Rates of Non-Oil Domestic Exports to For the full year, oil domestic exports declined by 14.2
+Top 10 Markets in 2023 per cent, deteriorating sharply from the 52.4 per cent
+expansion in 2022. By economies, it was driven mainly
+by lower exports to Malaysia, Australia and the EU 27.
+United States 3.2
+The decrease in oil domestic exports was on account of
+China -5.1
+lower oil prices compared to a year ago. In volume terms,
+Thailand -7.1 overall oil domestic exports rose by 2.3 per cent in 2023,
+Hong Kong -7.3 extending the 1.7 per cent increase in 2022.
+EU -9.4
+Japan -13.4 Non-Oil Re-Exports
+South Korea -19.2
+Malaysia -20.3 Non-oil re-exports (NORX) grew by 2.0 per cent year-
+on-year in the fourth quarter, a reversal from the 10.1
+Indonesia -24.9
+per cent decrease in the preceding quarter (Exhibit 4.4).
+Taiwan -30.1
+The growth in NORX could be attributed to an increase in
+-40 -30 -20 -10 0 10
+both electronics and non-electronics NORX. Electronics
+Per Cent NORX grew by 2.8 per cent, a rebound from the 10.3 per
+cent contraction in the third quarter, as the re-exports of
+ICs, other computer peripherals and telecommunications
+equipment grew. Meanwhile, non-electronics NORX rose by
+1.1 per cent, improving from the 9.8 per cent decrease
+in the preceding quarter. The increase in non-electronic
+NORX was mainly due to the higher re-exports of non-
+electric engines & motors, specialised machinery and
+pharmaceuticals.
+
+--- PAGE 43 ---
+
+Chapter 4: International Trade 41
+Merchandise Imports
+Exhibit 4.4: Changes in Re-Exports
+Per Cent Non-oil imports registered a decline of 4.8 per cent year-
+5 on-year in the fourth quarter, easing from the 15.2 per cent
+contraction in the preceding quarter (Exhibit 4.6). The fall
+0 in non-oil imports was due to a decline in both electronics
+(-8.3 per cent) and non-electronics (-2.4 per cent) imports.
+In turn, the decline in electronics imports was due to a
+-5
+decrease in the imports of ICs, other computer peripherals
+Re-Exports and parts of PCs, whereas the decline in non-electronics
+-10 imports was due to a drop in the imports of specialised
+Non-Oil Re-Exports machinery, electrical machinery and works of art.
+-15
+Exhibit 4.6: Changes in Merchandise Imports
+-20
+IV I II III IV Per Cent
+2022 2023
+10
+Oil Imports
+0
+For the whole of 2023, NORX declined by 7.3 per cent, a
+reversal from the 13.4 per cent growth in 2022. The decline
+-10
+in NORX was due to a decrease in both electronics NORX Non-Oil Imports
+(-11.6 per cent) and non-electronics NORX (-2.4 per cent).
+-20
+NORX to all the top 10 NORX markets declined in 2023
+(Exhibit 4.5), except for Thailand and China. NORX to Hong -30
+Kong decreased on the back of a decline in the re-exports
+of ICs, diodes & transistors and electrical machinery.
+-40
+Meanwhile, lower shipments of ICs, non-monetary gold IV I II III IV
+2022 2023
+and telecommunications equipment led to a decline in
+NORX to Malaysia.
+Oil imports declined by 4.1 per cent year-on-year in the
+Re-exports to the EU 27 decreased on account of a decline fourth quarter, easing from the 25.0 per cent contraction
+in shipments of ICs, non-electric engines & motors and in the preceding quarter. The decrease in oil imports was
+motorcycles. due partly to lower oil prices. In volume terms, oil imports
+declined by 5.4 per cent, moderating from the 19.2 per
+Exhibit 4.5: Growth Rates of Non-Oil Re-Exports to Top 10 cent contraction in the third quarter.
+Markets in 2023
+For the full year of 2023, non-oil imports declined by
+11.9 per cent, reversing the 14.6 per cent growth in 2022.
+Thailand 13.2
+Meanwhile, oil imports contracted by 19.0 per cent, a
+China 0.8 sharp pullback from the 43.9 per cent expansion in 2022.
+Indonesia -0.4
+Japan -1.6
+Vietnam -2.5
+South Korea -3.7
+United States -9.7
+malaysia -14.6
+Hong Kong -15.2
+EU -16.2
+-20 -10 0 10 20
+Per Cent
+
+--- PAGE 44 ---
+
+42 Economic Survey of Singapore 2023
+SERVICES TRADE Services Imports
+Services Exports Services imports fell by 1.5 per cent year-on-year in the
+fourth quarter, extending the 6.3 per cent decrease in
+Services exports fell by 3.9 per cent year-on-year in the the previous quarter. The contraction in services imports
+fourth quarter, extending the 7.4 per cent contraction in the was led by the imports of transport services, which fell by
+preceding quarter (Exhibit 4.7). The decrease in services 15.7 per cent. Conversely, the imports of travel services
+exports was primarily driven by the exports of transport (40.6 per cent), other business services (2.3 per cent) and
+services, which shrank by 19.7 per cent. By contrast, the financial services (5.5 per cent) rose.
+exports of travel services, other business services and
+financial services rose by 43.0 per cent, 2.7 per cent and For the whole of 2023, services imports contracted by
+6.5 per cent respectively. 2.4 per cent, a reversal from the 22.5 per cent increase
+in 2022. The contraction in services imports was mainly
+For the full year, services exports fell by 5.1 per cent, due to the imports of transport services, which fell by
+a reversal from the 22.2 per cent increase in 2022. The 19.2 per cent. By contrast, the imports of travel services
+decrease in services exports was attributable mainly to (64.0 per cent), other business services (3.1 per cent) and
+the exports of transport services, which fell by 23.9 per financial services (7.6 per cent) rose.
+cent. This was partially offset by increases in the exports
+of travel services (80.0 per cent), other business services
+(2.6 per cent) and financial services (4.7 per cent).
+Exhibit 4.7: Growth Rates of Total Services Trade, Services
+Exports and Services Imports (In Nominal Terms)
+2023
+2022 2023
+I II III IV
+Total Services
+22.4 -0.1 -5.4 -6.9 -2.8 -3.8
+Trade
+Services
+22.2 -1.4 -7.5 -7.4 -3.9 -5.1
+Exports
+Services
+22.5 1.4 -3.1 -6.3 -1.5 -2.4
+Imports
+
+--- PAGE 45 ---
+
+Chapter 4: International Trade 43
+
+--- PAGE 46 ---
+
+CHAPTER BALANCE OF
+5
+PAYMENTS
+
+--- PAGE 48 ---
+
+46 Economic Survey of Singapore 2023
+Chapter 5
+BALANCE OF
+PAYMENTS
+Singapore’s balance of BALANCE OF PAYMENTS
+payments surplus came in at COMPONENTS IN 2023
+$81.8 billion at the end of 2023
+150 150
+$133.1 billion
+$88.9 billion
+100 $81.8 billion
+50 100
+0
+-50 $47.6 billion
+50
+-100
+-150
+0
+-$157.4 billion
+-200 Current Capital and
+2021 2022 2023 Account Financial Account
+COMPONENTS OF COMPONENTS OF CAPITAL &
+CURRENT ACCOUNT FINANCIAL ACCOUNT
+$207.8 billion $43.7 billion -$150.7 billion $128.8 billion
+Goods Services Direct Portfolio
+Balance Balance Investment Investment
+$1.3 billion $68.2 billion
+-$108.4 billion -$10.0 billion
+Primary Secondary Financial Other
+Income Balance Income Balance Derivatives Investment
+
+--- PAGE 49 ---
+
+Chapter 5: Balance of Payments 47
+OVERVIEW
+Singapore’s overall balance of payments recorded a larger surplus of $13.2 billion in the fourth quarter of 2023,
+compared to $12.2 billion in the third quarter. For the whole of 2023, the overall balance of payments registered
+a surplus of $81.8 billion, a reversal from the deficit of $157 billion in 2022. The reversal was mainly due to a
+significant decline in net outflows from the capital and financial account. Singapore’s official foreign reserves
+rose to $463 billion at the end of 2023.
+CURRENT ACCOUNT Exhibit 5.2: Components of Current Account Balance
+$ Billion
+The current account surplus increased to $34.4 billion in
+60
+the fourth quarter, from $34.0 billion in the third quarter
+(Exhibit 5.1). For 2023 as a whole, the current account Goods Balance
+40
+surplus rose by $9.4 billion to $133 billion (19.8 per cent
+of GDP). The increase was driven by a narrowing of the
+20
+primary income deficit and slight increase in the goods
+Services Balance
+account surplus. These more than offset a fall in the
+0
+services account surplus and a slight widening in the
+Secondary Income Balance
+secondary income deficit.
+-20 Primary Income Balance
+Exhibit 5.1: Current Account Balance
+-40
+IV I II III IV
+2022 2023
+$ Billion
+40
+The surplus in the services balance rose to $13.7 billion
+35 in the fourth quarter, from $11.0 billion in the preceding
+quarter. For the whole of 2023, the surplus in the services
+30 balance fell to $43.7 billion, from $57.3 billion in 2022. This
+was mainly driven by a decline in net receipts for transport
+25 services as well as an increase in net payments for other
+business services and travel services. These more than
+20 offset the increases in net receipts for financial services
+and maintenance and repair services, as well as a fall
+15 in net payments for manufacturing services on physical
+IV I II III IV
+2022 2023 inputs owned by others.
+In terms of the sub-components of the current account, The primary income deficit widened by $3.0 billion from the
+the goods surplus remained at $52.9 billion in the fourth previous quarter to $30.7 billion in the fourth quarter. For
+quarter, as exports and imports rose by a similar magnitude the year as a whole, the deficit narrowed by $23.3 billion
+(Exhibit 5.2). For 2023 as a whole, the goods surplus was to $108 billion, as receipts rose while payments declined.
+maintained at $208 billion.
+
+--- PAGE 50 ---
+
+48 Economic Survey of Singapore 2023
+CAPITAL AND FINANCIAL Exhibit 5.4: Components of Financial Account (Net)
+ACCOUNT
+$ Billion
+80
+Other
+60 Investment
+The capital and financial account registered a smaller net
+Portfolio
+outflow of $19.9 billion in the fourth quarter, compared 40 Investment
+to $22.6 billion in the preceding quarter (Exhibit 5.3). For
+20
+2023 as a whole, net outflows amounted to $47.6 billion
+(7.1 per cent of GDP), down from the $279 billion in 2022. 0
+Financial Derivatives
+The decline was due to lower net outflows of “other
+-20
+investment” and financial derivatives, as well as a rise in
+net inflows of direct investment. These more than offset -40 Direct Investment
+the rise in net outflows of portfolio investment. -60
+IV I II III IV
+2022 2023
+Exhibit 5.3: Capital and Financial Account Balance
+$ Billion At the same time, net inflows of direct investment reached
+40
+$46.7 billion in the fourth quarter, higher than the $25.2
+billion in the previous quarter. For 2023 as a whole,
+30
+net inflows of direct investment rose by $17.6 billion to
+$151 billion, as the increase in foreign direct investment
+20
+flows into Singapore exceeded that of residents’ direct
+investments abroad.
+10
+Financial derivatives switched to net inflows of $2.2 billion
+0
+in the fourth quarter, from net outflows of $2.0 billion
+in the preceding quarter. For 2023 as a whole, financial
+-10
+IV I II III IV derivatives recorded net outflows of $1.3 billion, down
+2022 2023
+from $3.5 billion in 2022.
+In terms of the sub-components of the capital and financial Net outflows of portfolio investment rose to $32.5 billion in
+account, net outflows of “other investment” came in at the fourth quarter, from $30.6 billion in the previous quarter.
+$36.3 billion in the fourth quarter, up from $15.1 billion For the full year, net outflows of portfolio investment
+in the preceding quarter (Exhibit 5.4). For the full year, increased by $45.7 billion to $129 billion in 2023. The step-
+net outflows of “other investment” fell to $68.2 billion, up in net outflows was attributable to resident deposit-
+a significant decline from the $325 billion registered in taking corporations as well as the resident non-bank private
+2022. This was attributable in part to lower net outflows sector, both of which switched to net outflow positions in
+from resident deposit-taking corporations. 2023 from net inflows in the previous year.
+1 Net inflows in net balances are indicated by a minus (-) sign. For more details regarding the change in sign convention to the financial account, please refer to DOS’s
+information paper on “Singapore’s International Accounts: Methodological Updates and Recent Developments”.
+
+--- PAGE 51 ---
+
+Chapter 5: Balance of Payments 49
+
+--- PAGE 52 ---
+
+CHAPTER SECTORAL
+6
+PERFORMANCE
+
+--- PAGE 54 ---
+
+52 Economic Survey of Singapore 2023
+Chapter 6
+SECTORAL
+PERFORMANCE
+OVERALL ECONOMY MANUFACTURING
+Nominal Nominal
+Real Real
+Value Value
+STRUCTURE OF ECONOMY Growth CLUSTERS Growth
+Added Added
+(%) (%)
+Share (%) Share (%)
+Total 100.0 1.1
+Electronics 38.2 -3.2
+Goods Producing Industries 23.6 -2.9
+Chemicals 17.3 -6.7
+Manufacturing 18.6 -4.3
+Biomedical
+13.7 -9.6
+Construction 3.5 5.2
+Manufacturing
+Utilities 1.5 1.3 Precision
+15.7 -8.0
+Engineering
+Other Goods Industries 0.0 2.6
+Transport
+7.9 15.0
+Engineering
+Services Producing Industries 72.7 2.3
+General Manufacturing
+7.1 -5.8
+Wholesale Trade 22.3 0.8 Industries
+Retail Trade 1.3 1.3
+CONSTRUCTION
+Transportation & Storage 6.8 2.3
+CERTIFIED PAYMENTS IN 2023
+Accommodation 0.8 12.1
+49.6%
+Public
+Food & Beverage Services 0.9 4.1
+Information & Communications 5.7 5.7
+Finance & Insurance 13.8 1.3
+50.4%
+Private
+Real Estate 3.1 4.9
+CONTRACTS AWARDED IN 2023
+Professional Services 5.7 1.1
+Civil
+Institutional
+Administrative & Support Services 2.8 2.0 Residential Engineering & Others Industrial Commercial
+Work
+Other Services Industries 9.6 4.4
+Ownership of Dwellings 3.6 2.1 $13.0 $7.3 $5.5 $4.6 $3.4
+billion billion billion billion billion
+
+--- PAGE 55 ---
+
+Chapter 6: Sectoral Performances 53
+WHOLESALE TRADE ACCOMMODATION
+PERFORMANCE OF HOTELS
+Foreign Domestic
+Wholesale Trade Wholesale Trade
+Index growth Index growth Hotel Room Gross Lettings
++1.5% +0.1% Revenue Growth Growth
++48.8% +32.7%
+RETAIL TRADE FOOD & BEVERAGE SERVICES
+PERFORMANCE OF F&B (SALES GROWTH)
+Retail Sales Retail Sales
+Index Growth Index Growth Cafes, Food Courts &
+(Non-Motor Vehicles) (Motor Vehicles) Food Caterers Other Eating Places
++30.4% +2.5%
++0.6% +0.5%
+Fast Food Outlets Restaurants
+TRANSPORTATION & STORAGE 0.0% -0.7%
+Nominal
+Real
+Value
+SEGMENTS Growth INFORMATION & COMMUNICATIONS
+Added
+(%)
+Share (%)
+Nominal
+Real
+Land Transport* 13.9 4.5 SEGMENTS Value Growth
+Added
+(%)
+Share (%)
+Water Transport* 57.5 1.8
+Telecommunications 12.8 0.5
+Air Transport* 13.7 16.2
+Storage & Other Support Services 12.3 -2.2 IT & Information 62.3 8.8
+Services
+Post & Courier Activities 2.6 -6.9
+Others 24.9 1.4
+*Including supporting services
++83.1% Air Passengers Handled Growth
++2.3% Total Sea Cargo Handled Growth
+
+--- PAGE 56 ---
+
+54 Economic Survey of Singapore 2023
+FINANCE & INSURANCE PROFESSIONAL SERVICES
+Nominal Nominal
+Real Real
+Value Value
+SEGMENTS Growth SEGMENTS Growth
+Added Added
+(%) (%)
+Share (%) Share (%)
+Banking 42.7 -1.2 Legal 8.2 -4.1
+Activities Auxiliary to
+21.2 9.5
+Financial Services
+Accounting 5.9 4.4
+Fund Management 12.5 2.1
+Head Offices & Business
+34.5 0.7
+Representative Offices
+Insurance 16.1 -3.2
+Business &
+Others 7.5 1.5 10.7 -0.1
+Management Consultancy
+Architectural & Engineering,
+22.1 1.8
+Technical Testing & Analysis
+REAL ESTATE
+Other Professional,
+PRIVATE RESIDENTIAL Scientific & Technical Services 18.6 3.1
+Certified Payments Units Transacted
+Growth Growth
++10.7% -13.0%
+ADMINISTRATIVE & SUPPORT SERVICES
+COMMERCIAL AND INDUSTRIAL
+(TOTAL OCCUPIED SPACE GROWTH) Nominal
+Real
+Value
+SEGMENTS Growth
+Commercial Commercial Industrial Added (%)
+Office Space Retail Space Space Share (%)
++1.5% +2.0% +0.9%
+Rental & Leasing 45.2 1.0
+Other Administrative
+OTHER SERVICES INDUSTRIES 54.8 3.0
+& Support Services
+Nominal
+Real
+Value
+SEGMENTS Growth
+Added
+(%)
+Share (%)
+Public Administration & Defence 26.0 0.9
+Education, Health & Social Work 52.6 2.8
+Arts, Entertainment & Recreation 10.2 24.2
+Others 11.1 5.6
+
+--- PAGE 57 ---
+
+Chapter 6: Sectoral Performances 55
+
+--- PAGE 58 ---
+
+56 Economic Survey of Singapore 2023
+Chapter 6.1
+MANUFACTURING
+OVERVIEW
+The manufacturing sector expanded by 1.4 per cent year-on-year in the fourth quarter of 2023, reversing the 4.9
+per cent decline clocked in the preceding quarter. Growth was supported by output expansions in the electronics,
+chemicals and transport engineering clusters.
+For the whole of 2023, the manufacturing sector contracted by 4.3 per cent, reversing the 2.7 per cent growth
+in 2022. All clusters saw a fall in output except for the transport engineering cluster.
+OVERALL MANUFACTURING Exhibit 6.2: Manufacturing Clusters’ Growth
+PERFORMANCE
+Transport Engineering
+The manufacturing sector grew by 1.4 per cent year-on-
+Electronics
+year in the fourth quarter of 2023 on account of output
+expansions in the electronics, chemicals and transport
+Total Manufacturing
+engineering clusters (Exhibit 6.1).
+General Manufacturing
+For the whole of 2023, the manufacturing sector contracted Industries
+by 4.3 per cent, reversing the 2.7 per cent growth in 2022.
+The decline in the sector was due to output contractions Chemicals
+in all clusters except for the transport engineering cluster
+(Exhibit 6.2). Precision Engineering
+Exhibit 6.1: Manufacturing Growth Rates Biomedical
+Manufacturing
+Per Cent -10 -5 0 5 10 15 20
+Per Cent
+5 2022 2023
+1.4
+PERFORMANCE OF CLUSTERS
+0
+The electronics cluster grew by 8.3 per cent year-on-year in
+the fourth quarter, supported by a 13.5 per cent expansion
+-2.6
+in the semiconductors segment on account of improved
+-5 demand in selected end markets such as smartphones.
+-4.9
+-5.4 Meanwhile, output in the computer peripherals & data
+storage, infocomms & consumer electronics and other
+electronic modules & components segments fell by 13.5
+-8.2
+per cent, 6.4 per cent and 2.9 per cent respectively. For
+-10 the whole of 2023, the electronics cluster contracted by
+IV I II III IV
+2022 2023 3.2 per cent.
+
+--- PAGE 59 ---
+
+Chapter 6: Sectoral Performances 57
+Output in the transport engineering cluster rose by 7.0 Output in the precision engineering cluster fell by 7.2 per
+per cent year-on-year in the fourth quarter on account of cent year-on-year in the fourth quarter. The precision
+expansions in the marine & offshore engineering (M&OE) modules & components segment shrank by 17.4 per cent
+and aerospace segments. The M&OE segment grew by due to lower production of plastic and metal precision
+16.0 per cent, supported by a higher level of activity in the components, optical instruments as well as dies, moulds,
+shipyards as well as an increased production of oilfield & tools, jigs and fixtures. Meanwhile, the machinery &
+gas field equipment. Output in the aerospace segment grew systems (M&S) segment contracted by 3.8 per cent,
+by 7.1 per cent with a higher level of demand for aircraft weighed down by lower production of measuring devices
+parts and more maintenance, repair and overhaul (MRO) and mechanical engineering works. For 2023 as a whole,
+jobs from commercial airlines on the back of strong air output in the precision engineering cluster declined by
+travel demand globally. By contrast, the land segment 8.0 per cent.
+contracted by 14.0 per cent. For the full year, the transport
+engineering cluster expanded by 15.0 per cent. The biomedical manufacturing cluster contracted by 7.5 per
+cent year-on-year in the fourth quarter. This was largely
+The chemicals cluster grew by 1.6 per cent year-on-year in due to a 17.3 per cent decline in pharmaceutical output,
+the fourth quarter, supported by output expansions across resulting from a lower level of production of biological
+all segments except the petrochemicals segment. The products and a different mix of active pharmaceutical
+specialties segment grew by 17.2 per cent on account of ingredients (APIs) being produced. On the other hand,
+higher level of production of mineral oil and food additives. output in the medical technology segment expanded by 6.9
+The other chemicals segment grew 4.1 per cent with higher per cent, supported by export demand for medical devices.
+output in fragrances, while the petroleum segment grew 1.4 For the whole of 2023, the biomedical manufacturing
+per cent. Conversely, output of the petrochemicals segment cluster declined by 9.6 per cent.
+fell by 8.5 per cent on account of plant maintenance
+shutdowns and weak market demand. For 2023 as a whole,
+output of the chemicals cluster declined by 6.7 per cent.
+The general manufacturing cluster contracted by 3.6 per
+cent year-on-year in the fourth quarter, driven by output
+declines in the printing (-11.8 per cent) and miscellaneous
+(-7.4 per cent) segments. In particular, the miscellaneous
+segment recorded a lower level of production of batteries
+and structural metal products. On the other hand, the
+food, beverages & tobacco segment grew by 0.5 per cent.
+For the whole of 2023, the general manufacturing cluster
+contracted by 5.8 per cent.
+
+--- PAGE 60 ---
+
+58 Economic Survey of Singapore 2023
+Chapter 6.2
+CONSTRUCTION
+OVERVIEW
+The construction sector grew by 5.2 per cent year-on-year in the fourth quarter of 2023, faster than the 3.7 per
+cent expansion in the previous quarter.
+For the whole of 2023, the sector expanded by 5.2 per cent, faster than the 4.6 per cent growth in 2022.
+CONSTRUCTION DEMAND
+For the full year, total construction demand expanded
+by 13.5 per cent to $33.8 billion (Exhibit 6.4), backed by
+Construction demand (contracts awarded) increased by increases of 12.8 per cent in public sector construction
+43.8 per cent year-on-year to $10.4 billion in the fourth demand and 14.4 per cent in private sector construction
+quarter, supported by expansions in both public and private demand.
+sector construction demand (Exhibit 6.3).
+Exhibit 6.4: Contracts Awarded, 2023 ($ Billion)
+Exhibit 6.3: Contracts Awarded
+Total Public Private
+$ Billion
+12 Total 33.8 19.5 14.3
+Residential 13.0 7.6 5.4
+10
+Commercial 3.4 0.01 3.4
+Total
+8
+Industrial 4.6 0.5 4.1
+6
+Institutional & Others 5.5 4.8 0.6
+Private
+4
+Civil Engineering
+7.3 6.5 0.8
+Works
+Public
+2
+Public Sector
+0
+IV I II III IV
+2022 2023
+In the fourth quarter, public sector construction demand
+grew by 67.2 per cent year-on-year to $7.1 billion. Except
+for commercial building construction demand which
+registered a contraction of -26.2 per cent, demand for all
+development types registered growth, ranging from 9.4
+per cent for civil engineering works to 472 per cent for
+industrial building developments.
+1 In 2023, public commercial building’s contracts awarded was 45 million.
+
+--- PAGE 61 ---
+
+Chapter 6: Sectoral Performances 59
+For the full year, public sector construction demand Exhibit 6.5: Certified Payments
+increased by 12.8 per cent to $19.5 billion (Exhibit 6.4).
+The expansion was supported by an increase in contracts $ Billion
+10
+awarded for public institutional & others (64.4 per cent),
+industrial (55.0 per cent) and residential building (43.0
+per cent) projects. Some of the major projects awarded Total
+8
+during the year include (i) MINDEF’s NS Square; (ii) MND’s
+Bay East Garden with a visitor centre; (iii) SLA’s Chong
+Pang Integrated Development; and (iv) PUB’s Tuas Water
+6
+Reclamation Plant Contract 4B.
+Private
+Private Sector 4 Public
+In the fourth quarter, private sector construction demand
+2
+increased by 10.6 per cent year-on-year to $3.3 billion.
+Except for industrial and institutional & others building
+projects, which registered contractions of 35.3 per cent 0
+IV I II III IV
+and 63.1 per cent respectively, demand expanded for all
+2022 2023
+other types of projects, ranging from 11.1 per cent for
+residential building projects to 249 per cent for commercial
+building projects. Public Sector
+For the full year, private sector construction demand Public sector construction output rose by 18.3 per cent
+grew by 14.4 per cent to $14.3 billion, on the back of year-on-year to $4.7 billion in the fourth quarter. With the
+higher demand for private commercial (120 per cent) and exception of public commercial building works, construction
+residential building (39.9 per cent) projects (Exhibit 6.4). output for all types of works expanded, supported by
+Major projects awarded in 2023 include (i) redevelopment public industrial (42.3 per cent), institutional & others
+of various office premises such as Clifford Centre and PIL (16.0 per cent), residential building (14.1 per cent) and
+Building; (ii) major hotel refurbishment works at Marina Bay civil engineering (19.3 per cent) works.
+Sands and Resorts World at Sentosa; and (iii) development
+of various past en-bloc sales and GLS sites. For the full year, public sector construction output increased
+by 14.3 per cent to $17.3 billion, underpinned mainly by
+public residential (22.6 per cent), institutional & others
+CONSTRUCTION OUTPUT
+(21.4 per cent), industrial building (13.0 per cent) and civil
+engineering (6.8 per cent) works. Major projects supporting
+Construction output (or nominal certified payments) rose the growth include (i) MOH’s Woodlands Health Campus,
+by 14.9 per cent year-on-year to $9.4 billion in the fourth SGH Elective Care Centre/National Dental Centre and SGH
+quarter, supported by expansions in both public and private Emergency Medicine Building; (ii) SIT Campus@Punggol
+sector construction outputs (Exhibit 6.5). (Plots 1 & 2); (iii) Sport Singapore’s Punggol Regional
+Sports Centre (iv) JTC’s Punggol Digital District and Bulim
+For the full year, construction output increased by 15.4 per Square; (v) PUB’s Tuas Water Reclamation Plant for the
+cent to $34.9 billion, extending the 15.8 per cent growth Deep Tunnel Sewerage System (Phase 2); and (vi) LTA’s
+in 2022. Cross Island MRT Line, Jurong Region MRT Line, East
+Coast Integrated Depot and North South Corridor.
+
+--- PAGE 62 ---
+
+60 Economic Survey of Singapore 2023
+Private Sector CONSTRUCTION COSTS
+In the fourth quarter, private sector construction output Based on BCA’s Building Works Tender Price Index (TPI),
+increased by 11.6 per cent year-on-year to $4.7 billion, tender prices increased by about 4.1 per cent year-on-
+as all types of private sector construction works, except year in 2023, a decline from the 11.6 per cent growth in
+for institutional & others building works, expanded. These 2022, following the easing of some key input costs (e.g.,
+include private civil engineering (28.7 per cent), commercial construction material costs) and of global inflation (Exhibit
+(21.4 per cent) and industrial building (19.5 per cent) works. 6.7). However, there are several factors that could put
+upward pressure on the TPI in 2024. These include likely
+For the full year, private sector construction output tighter manpower and sub-contracting resources, amid
+increased by 16.4 per cent to $17.6 billion. All types of anticipated strong construction activities over the medium-
+private sector construction output expanded, led by private term, and the possibility of a resurgence in global inflation.
+commercial (39.4 per cent), industrial (19.3 per cent) and
+residential building (10.7 per cent) works. Major ongoing Exhibit 6.7: Changes in Tender Price Index
+projects include (i) mixed-used integrated developments;
+(ii) refurbishment of existing hotels and development of Per Cent
+15
+new hotels; (iii) data centres; (iv) semiconductor production
+plants; (v) cogeneration plants; and (vi) the redevelopment
+of past en-bloc sales sites and development of Government
+Land Sales (GLS) sites. 10
+CONSTRUCTION MATERIALS
+5
+In tandem with the rise in construction output, total
+consumption of steel rebars2 rose by 31.0 per cent year-
+on-year to 1.5 million tonnes in 2023. Similarly, the total 0
+2019 2020 2021 2022 2023
+consumption of ready-mixed concrete increased by 4.9
+per cent in 2023 to 12.3 million m3.
+The average market price of Grade 40 pump ready-mixed
+concrete3 decreased by 2.1 per cent to about $115.7 per
+m3 in the fourth quarter, amid easing freight and fuel costs
+coupled with diversified import sources of raw materials.
+Likewise, the average market price of steel rebars4 fell
+by 17.5 per cent to around $824.7 per tonne in the fourth
+quarter, due to softening of global steel demand (Exhibit
+6.6).
+Exhibit 6.6: Changes in Market Prices of Construction
+Materials
+Per Cent
+20
+10 Ready-Mixed
+Concrete
+0
+-10
+-20
+Steel Bars
+-30
+IV I II III IV
+2022 2023
+2 Rebar consumption is estimated from net imports plus local production (without factoring in stock levels).
+3 The market prices are based on contracts with non-fixed price and market retail price.
+4 The market prices refer to 16mm to 32mm High Tensile rebars and are based on fixed price supply contracts with a contract period of 6 months or below.
+
+--- PAGE 63 ---
+
+Chapter 6: Sectoral Performances 61
+CONSTRUCTION OUTLOOK IN Exhibit 6.8: Projected Construction Demand in 2024
+2024
+$ Billion
+According to BCA, total construction demand is projected Public Sector 18.0 – 21.0
+to be between $32.0 billion and $38.0 billion in 2024
+(Exhibit 6.8). Demand from the public sector is expected Building Construction Sub-total 10.7 – 12.8
+to stay strong at between $18.0 billion and $21.0 billion,
+supported by a continued strong pipeline of public Residential 6.6 – 7.6
+housing, institutional building and infrastructure projects.
+Meanwhile, total private sector construction demand is
+Commercial 0.1 – 0. 1
+projected to be between $14.0 billion and $17.0 billion in
+2024, bolstered by an anticipated increase in commercial
+Industrial 0.5 – 0.7
+building developments including the expansion of the
+two Integrated Resorts (IRs). Key upcoming projects in
+Institutional & Others 3.6 – 4.4
+2024 include (i) continued ramp-up in Build-To-Order
+HDB flats; (ii) development of new major mixed-used
+Civil Engineering Works Sub-total 7.3 – 8.2
+properties; (iii) high-specification industrial premises
+such as biomedical plants and fuel storage facilities; (iv)
+major public institutional building developments such as Private Sector 14.0 – 17.0
+relocation of Singapore Science Centre and construction of
+Founders’ Memorial Building and (v) remaining contracts Building Construction Sub-total 13.4 – 16.3
+for Cross Island MRT Line (Phase 2).
+Residential 3.7 – 4.5
+Total construction output in 2024 is projected to increase
+to between $34.0 billion and $37.0 billion, in tandem with Commercial 5.8 – 6.6
+the recovery in the construction demand since emerging
+from the COVID-19 pandemic.
+Industrial 3. 0 – 4.0
+Institutional & Others 0.9 – 1.2
+Civil Engineering Works Sub-total 0.6 – 0.8
+TOTAL CONSTRUCTION DEMAND 32.0 – 38.0
+
+--- PAGE 64 ---
+
+62 Economic Survey of Singapore 2023
+Chapter 6.3
+WHOLESALE TRADE
+OVERVIEW
+The wholesale trade sector expanded by 0.2 per cent year-on-year in the fourth quarter of 2023, moderating
+from the 1.1 per cent growth in the previous quarter. Growth during the quarter came largely on the back of
+an increase in the volume of foreign wholesale sales of metals, timber & construction materials, petroleum &
+petroleum products, food, beverages & tobacco and electronic components.
+For the whole of 2023, the sector grew by 0.8 per cent, slowing from the 4.0 per cent expansion in 2022.
+WHOLESALE SALES
+Exhibit 6.9: Changes in Wholesale Trade Index in Chained
+Volume Terms
+In the fourth quarter, the wholesale trade sector was
+supported by an increase in foreign wholesale sales Per Cent
+15
+volume, which more than offset the decline in domestic
+wholesale sales volume.
+Domestic Wholesale Trade Index
+10
+Specifically, foreign wholesale sales volume rose by 0.4
+per cent year-on-year in the fourth quarter, moderating
+from the 2.7 per cent increase in the preceding quarter 5 Foreign Wholesale Trade Index
+(Exhibit 6.9). Growth in sales volume was fastest in the
+metals, timber & construction materials (13.5 per cent),
+0
+food, beverages & tobacco (9.6 per cent) and electronic
+components (7.8 per cent) segments, which outpaced
+the decline in the sales volume of the ship chandlers & -5
+bunkering (-38.1 per cent) and general wholesale trade
+(-16.4 per cent) segments. For the whole of 2023, the
+-10
+foreign wholesale trade index rose by 1.5 per cent, easing IV I II III IV
+from the 3.9 per cent increase in the previous year. 2022 2023
+Meanwhile, domestic wholesale sales volume fell by 2.7 per
+cent year-on-year in the fourth quarter, easing from the 8.3
+per cent decline in the preceding quarter. The contraction in
+sales volume was the sharpest in the transport equipment
+(-29.3 per cent) and petroleum & petroleum products
+(-24.6 per cent) segments, while increases in the sales
+volumes of metals, timber & construction materials (88.6
+per cent) and electronic components (40.5 per cent) were
+fastest. For the whole of 2023, the domestic wholesale
+trade index grew by 0.1 per cent, a reversal from the 9.7
+per cent contraction posted in 2022.
+
+--- PAGE 65 ---
+
+Chapter 6: Sectoral Performances 63
+Chapter 6.4
+RETAIL TRADE
+OVERVIEW
+The retail trade sector contracted by 0.3 per cent year-on-year in the fourth quarter of 2023, reversing the 2.3
+per cent growth in the previous quarter.
+For the whole of 2023, the sector expanded by 1.3 per cent, moderating from the 8.5 per cent growth in 2022.
+RETAIL SALES
+For the full year, overall retail sales volume rose by 0.6 per
+cent, extending the 7.2 per cent expansion in 2022.
+Overall retail sales volume decreased by 1.1 per cent year-
+on-year in the fourth quarter, reversing the 1.5 per cent In 2023, both non-motor vehicle (0.6 per cent) motor vehicle
+growth in the third quarter (Exhibit 6.10). Overall retail sales (0.5 per cent) sales volume increased. The growth in non-
+were weighed down by the decrease in non-motor vehicle motor vehicle sales volume was led by the sales of wearing
+sales volume (-2.3 per cent). This was led by declines in apparel & footwear (8.0 per cent), food & alcohol (19.8
+the sales volumes of supermarkets & hypermarkets (-5.2 per cent) and cosmetics, toiletries & medical goods (3.8
+per cent), furniture & household equipment (-7.3 per cent), per cent). Meanwhile, the sales volumes of supermarkets
+and minimarts & convenience stores (-6.8 per cent). On & hypermarket (-5.4 per cent), furniture & household
+the other hand, the food & alcohol (8.1 per cent), watches equipment (-5.6 per cent) and petrol service stations (-5.7
+& jewellery (1.2 per cent) and wearing apparel & footwear per cent) fell (Exhibit 6.11).
+(0.7 per cent) segments grew. Meanwhile, motor vehicle
+sales volume grew by 11.4 per cent due to an increase in Exhibit 6.11: Changes in Retail Sales Index in Chained
+COE quotas. Volume Terms for Major Segments in 2023
+Exhibit 6.10: Changes in Retail Sales Index in Chained Food & Alcohol 19.8
+Volume Terms
+Wearing Apparel & Footwear 8.0
+Cosmetics, Toiletries & Medical Goods 3.8
+Per Cent
+Computer & Telecomms Equipment 3.2
+10
+Others 1.7
+Total Optical Goods & Books 1.6
+(excluding Motor Vehicles 0.5
+Motor Vehicles)
+Watches & Jewellery 0.5
+5
+Department Stores 0.4
+Mini-marts & Convenience Stores -3.4
+Total Recreational Goods -4.5
+Supermarkets & Hypermarkets -5.4
+0 Furniture & Household Equipment -5.6
+Petrol Service Stations -5.7
+-20 -10 0 10 20 30
+Per Cent
+-5
+IV I II III IV
+2022 2023
+
+--- PAGE 66 ---
+
+64 Economic Survey of Singapore 2023
+Chapter 6.5
+TRANSPORTATION &
+STORAGE
+OVERVIEW
+The transportation & storage sector expanded by 2.8 per cent year-on-year in the fourth quarter of 2023, picking
+up from the 0.9 per cent growth in the previous quarter.
+For the whole of 2023, the sector grew at a slower pace of 2.3 per cent compared to the 4.9 per cent expansion
+recorded in 2022. The expansion of the sector was supported largely by the water transport and air transport
+segments.
+WATER TRANSPORT AIR TRANSPORT
+Container throughput grew by 8.1 per cent year-on-year Total air passenger traffic (less transit) handled by Changi
+in the fourth quarter, accelerating from the 3.7 per cent Airport climbed by 31.2 per cent year-on-year in the fourth
+expansion in the previous quarter (Exhibit 6.12). For the quarter, moderating from the 52.5 per cent growth in the
+full year, the number of TEUs (Twenty-Foot Equivalent previous quarter (Exhibit 6.13). In absolute terms, air
+Units) handled by Singapore’s ports came in at 39.0 million, passenger traffic volume recovered to 90.6 per cent of the
+representing a 4.6 per cent expansion. This was a reversal volume seen in the fourth quarter of 2019 (pre-pandemic).
+from the 0.7 per cent decline recorded in 2022.
+For the full year, total air passenger traffic passing through
+Exhibit 6.12: Changes in Container Throughput and Sea Changi Airport climbed by 83.1 per cent to come in at 58.4
+Cargo Handled million, moderating from the 953 per cent surge posted
+in 2022.
+Per Cent
+10 Exhibit 6.13: Changes in Air Transport
+Container
+Throughput Per Cent
+5
+800
+Sea Cargo
+0 600
+Air Passengers
+400
+-5
+200
+Aircraft Landings
+-10
+IV I II III IV
+2022 2023 0
+Air Cargo
+Overall sea cargo volume expanded by 5.9 per cent year- -200
+IV I II III IV
+on-year in the fourth quarter, picking up from the 1.8 2022 2023
+per cent growth in the preceding quarter. The expansion
+in sea cargo volume was largely due to general cargo
+shipments, which grew by 8.8 per cent during the quarter,
+an acceleration from the 4.2 per cent growth registered in
+the third quarter. For the whole of 2023, overall sea cargo
+volume grew by 2.3 per cent, reversing the 3.6 per cent
+decline in the previous year.
+
+--- PAGE 67 ---
+
+Chapter 6: Sectoral Performances 65
+On the other hand, air cargo volume fell by 0.5 per cent
+year-on-year in the fourth quarter, easing from the 4.0
+per cent contraction in the previous quarter. In absolute
+terms, total air cargo volume was at 86.9 per cent of pre-
+pandemic levels (i.e., in the fourth quarter of 2019). For
+2023 as a whole, air cargo shipments declined by 6.1 per
+cent, extending the 4.8 per cent contraction posted in 2022.
+Meanwhile, aircraft landings climbed by 23.2 per cent
+year-on-year to reach 43,560 in the fourth quarter, easing
+from the 40.1 per cent increase in the third quarter. This
+brought the total number of aircraft landings in 2023 to
+164,124, which was 50.2 per cent higher compared to
+that in 2022.
+
+--- PAGE 68 ---
+
+66 Economic Survey of Singapore 2023
+Chapter 6.6
+ACCOMMODATION
+OVERVIEW
+The accommodation sector grew by 1.5 per cent year-on-year in the fourth quarter of 2023, moderating from
+the 12.6 per cent expansion in the previous quarter.
+For the whole of 2023, the sector expanded by 12.1 per cent, accelerating from the 2.2 per cent growth in 2022.
+VISITOR ARRIVALS
+In terms of source markets, Singapore’s top ten visitor-
+generating markets in 2023 were Indonesia (2.3 million
+Singapore received around 3.5 million visitors in the fourth visitors), China (1.4 million visitors), Malaysia (1.1 million
+quarter, 35.2 per cent higher compared to the same period visitors), Australia (1.1 million visitors), India (1.1 million
+a year ago (Exhibit 6.14). Compared to the same period in visitors), the Philippines (693,000 visitors), the USA (642,000
+2019 (pre-pandemic), visitor arrivals remained 27.6 per visitors), South Korea (571,00 visitors), the UK (474,000
+cent lower. For the full year, visitor arrivals increased by visitors) and Vietnam (459,000 visitors). Together, they
+116 per cent, slowing from the 1,810 per cent expansion accounted for 71.6 per cent of total visitor arrivals in 2023.
+in 2022.
+Among the top 10 visitor-generating markets, China (942
+per cent), South Korea (162 per cent) and the UK (109 per
+cent) posted the strongest growth in visitor arrivals in
+2023 (Exhibit 6.15).
+Exhibit 6.14: Visitor Arrivals
+Exhibit 6.15: Growth Rates of Top 10 Visitor-Generating
+Thousand Per Cent Markets in 2023
+4000 2000
+YoY Change China 942.2
+(RHS)
+3000 1500 South Korea 162.3
+United
+Kingdom 109.0
+Indonesia 108.4
+2000 1000
+United States 101.5
+Australia 91.8
+1000 500
+Malaysia 84.1
+Philippines 81.3
+0 0 India 55.9
+IV I II III IV
+2022 2023
+Vietnam 46.6
+0 200 400 600 800 1000
+Per Cent
+
+--- PAGE 69 ---
+
+Chapter 6: Sectoral Performances 67
+ACCOMMODATION
+In tandem with the strong recovery in visitor arrivals, gross
+lettings of gazetted hotel rooms grew by 6.9 per cent year-
+on-year in the fourth quarter, extending the 24.2 per cent
+growth in the previous quarter (Exhibit 6.16). Similarly,
+room revenue expanded by 4.9 per cent, moderating
+from the 40.7 per cent increase in the preceding quarter.
+The increase in gross lettings was partially offset by the
+decrease in average room rates and average occupancy
+rates of gazetted hotels. Specifically, the average occupancy
+rate fell by 5.6 percentage points, while the average room
+rate saw a 1.9 per cent decline to $280 in the fourth quarter.
+For 2023 as a whole, the accommodation sector grew by
+12.1 per cent, driven by the recovery in tourism demand.
+The overall room revenue of gazetted hotels climbed by
+48.8 per cent to reach $4.8 billion in 2023, driven by a 32.7
+per cent expansion in gross lettings and a 12.2 per cent
+increase in average daily room rates.
+Exhibit 6.16: Gross Lettings
+Thousand Per Cent
+6000 200
+5000 YoY Change 150
+(RHS)
+4000 100
+3000 50
+2000 0
+1000 -50
+0 -100
+IV I II III IV
+2022 2023
+
+--- PAGE 70 ---
+
+68 Economic Survey of Singapore 2023
+Chapter 6.7
+FOOD & BEVERAGE
+SERVICES
+OVERVIEW
+The food & beverage services sector contracted by 1.5 per cent year-on-year in the fourth quarter of 2023,
+reversing the 2.9 per cent growth in the previous quarter.
+For the whole of 2023, the sector expanded at a slower pace of 4.1 per cent compared to the 15.4 per cent
+growth in 2022.
+FOOD & BEVERAGE SALES
+For the whole of 2023, the food & beverage services volume
+index grew by 4.2 per cent. This was a moderation from
+Overall food & beverage sales volume declined by 1.8 per the 19.6 per cent increase recorded in 2022. Nonetheless,
+cent year-on-year in the fourth quarter of 2023, reversing the overall food & beverage sales volume remained 5.5
+the 3.0 per cent expansion in the preceding quarter (Exhibit per cent lower than that in 2019. At the segment level, the
+6.17). The decline was led by the restaurants (-7.4 per sales volumes of food caterers (30.4 per cent) and cafes,
+cent), fast food outlets (-7.2 per cent) and cafes, food courts food courts & other eating places (2.5 per cent) grew, while
+& other eating places (-0.1 per cent) segments. On the that of fast food outlets remained flat (0.0 per cent). On
+other hand, sales of the food caterers segment continued the other hand, the sales volume of the restaurants (-0.7
+to grow (8.8 per cent) due to the continued recovery in per cent) segment shrank.
+leisure, business and MICE events. All segments, except
+for fast food outlets, remained below pre-COVID (i.e.,
+fourth quarter of 2019) levels.
+Exhibit 6.17: Changes in Food and Beverage Services Index
+in Chained Volume Terms
+Per Cent
+20
+10
+0
+-10
+IV I II III IV
+2022 2023
+
+--- PAGE 71 ---
+
+Chapter 6: Sectoral Performances 69
+Chapter 6.8
+INFORMATION &
+COMMUNICATIONS
+OVERVIEW
+The information & communications sector expanded by 4.7 per cent year-on-year in the fourth quarter of 2023,
+extending the 6.0 per cent growth in the previous quarter. This positive outturn was largely due to strong growth
+in the IT & information services and “others” segments5, while the telecommunications segment saw more
+modest growth during the quarter.
+For the whole of 2023, the sector grew by 5.7 per cent, a slowdown from the 8.1 per cent expansion in 2022.
+IT & INFORMATION SERVICES Exhibit 6.18: Information & Communications Growth
+Per Cent
+In 2023, the growth of the information & communications
+sector was led by the IT & information services segment. 10
+Specifically, the segment expanded by 8.8 per cent, driven
+by strong enterprise demand for digital solutions and Broadband
+Subscriptions
+services.
+5
+TELECOMMUNICATIONS Mobile
+Subscriptions
+0
+The telecommunications segment grew by 0.5 per cent
+in 2023. In the third quarter of 2023, the latest period
+where data is available, fixed line subscriptions grew by
+5.1 per cent. -5
+As at September 20236, the number of mobile subscriptions
+grew by 1.6 per cent compared to the same period in 2022
+-10
+(Exhibit 6.18). While there was an 85.0 per cent decline in 2019 2020 2021 2022 2023
+the number of 3G subscriptions to 84,000 and a 1.4 per
+cent decline in 4G subscriptions to 7.6 million, this was
+offset by the 72.5 per cent increase in 5G subscriptions
+to around 1.8 million.
+In September 2023, the number of broadband subscriptions
+declined by 2.9 per cent. The decrease was driven by
+corporate (-0.9 per cent) and wireless broadband (-3.5
+per cent) subscriptions, which were only partially offset by
+the increase in residential wired broadband subscriptions
+(1.9 per cent).
+5 The “others” segment consists of (i) publishing activities (including computer games and software publishing), (ii) motion picture, video and other programme
+production, sound recording, and music publishing activities, and (iii) radio and television broadcasting activities.
+6 Full-year data are not available at the time of publication. October and November data are available but subject to further revisions.
+
+--- PAGE 72 ---
+
+70 Economic Survey of Singapore 2023
+Chapter 6.9
+FINANCE &
+INSURANCE
+OVERVIEW
+The finance & insurance sector expanded by 5.4 per cent year-on-year in the fourth quarter of 2023, improving
+from the 2.5 per cent growth in the previous quarter.
+For the whole of 2023, the sector expanded by 1.3 per cent, up from the 0.2 per cent growth in the preceding year.
+COMMERCIAL BANKS Exhibit 6.20: Loans and Advances to Residents by Industry
+in 2023
+In 2023, total assets/ liabilities of commercial banks
+increased by 1.4 per cent to $3.4 trillion (Exhibit 6.19). Business Services 14.3
+Housing & Bridging Loans 1.3
+Exhibit 6.19: Total Assets/Liabilities of Commercial Banks
+Others 0.2
+$ Billion Per Cent
+4000 10 Financial Institutions -0.1
+YoY Change
+(RHS) Building & Construction -0.3
+8
+3000 Total -2.4
+Professional & Private Individuals -3.5
+6
+Transport & Communications -4.7
+2000
+4 Manufacturing -13.4
+General Commerce -15.6
+1000
+2 -30 -20 -10 0 10 20
+Per Cent
+0 0
+2019 2020 2021 2022 2023
+Exhibit 6.21: Loans and Advances to Non-Residents by
+On the assets side, domestic interbank lending rose by Industry in 2023
+$32.5 billion (18.8 per cent). However, domestic credit
+extended to non-bank customers fell by $37.6 billion
+Europe 4.1
+(-2.9 per cent), with total loans and advances to residents
+contracting by 1.7 per cent.
+Others -2.6
+Business lending shrank by 3.9 per cent, weighed down
+mainly by the decline in loans to the general commerce
+and manufacturing sectors, although this was partially Total -3.8
+offset by the growth in loans extended to the business
+services sector (Exhibit 6.20). In comparison, consumer
+East Asia -5.0
+lending fell by a smaller 0.1 per cent, supported largely
+by housing and bridging loans. Meanwhile, loans to non-
+residents also contracted, by 3.8 per cent, with East Asia Americas -6.2
+and the Americas contributing the most to the decline
+(Exhibit 6.21). -10 -5 0 5 10
+Per Cent
+
+--- PAGE 73 ---
+
+Chapter 6: Sectoral Performances 71
+On the liabilities front, total deposits of non-bank customers Exhibit 6.23: Growth of Loans and Advances of Finance
+grew by 4.3 per cent in 2023. As at end-2023, total non- Companies in 2023
+bank deposits amounted to $1.8 trillion, compared to $1.7
+trillion in the year before, mainly driven by the increase
+Hire Purchase
+in fixed deposits, which rose by 15 per cent. 1.9
+Finance
+FINANCE COMPANIES
+Others 0.5
+Total assets/ liabilities of finance companies grew by 5.3
+per cent in 2023 to $19.8 billion, moderating from the 8.8
+per cent expansion in 2022 (Exhibit 6.22).
+Total 0.4
+Non-bank lending contracted by 0.4 per cent in 2023,
+compared to the 8.5 per cent expansion in the previous
+year, as housing loans contracted (Exhibit 6.23). Meanwhile, Housing Loans -2.5
+the growth of deposits of non-bank customers also eased
+to 5.9 per cent in 2023, from 10.8 per cent in 2022.
+-5 0 5
+Per Cent
+Exhibit 6.22: Total Assets/Liabilities of Finance Companies
+MERCHANT BANKS
+$ Billion Per Cent
+YoY Change
+20 (RHS) 10
+Total assets/ liabilities of merchant banks grew by 3.3
+per cent to $97.9 billion in 2023, in contrast to the 6.1
+per cent decline in the previous year (Exhibit 6.24). The
+15 0
+expansion was underpinned by a rise in the holdings of
+securities & equities.
+10 -10 Exhibit 6.24: Total Assets/Liabilities of Merchant Banks
+$ Billion Per Cent
+120 10
+5 -20 YoY Change
+(RHS)
+100 5
+0 -30
+2019 2020 2021 2022 2023
+80 0
+60 -5
+40 -10
+20 -15
+2019 2020 2021 2022 2023
+
+--- PAGE 74 ---
+
+72 Economic Survey of Singapore 2023
+INSURANCE INDUSTRY SECURITIES MARKET
+Overall, the net income of the direct life insurance industry In 2023, the total turnover value of the securities market
+reversed from -$1.5 billion in 2022 to $2.1 billion in 2023, shrank by 16.2 per cent to $259 billion, and total turnover
+largely due to investment income. Meanwhile, total weighted volume fell by 3.8 per cent to 341 billion shares. This
+new business premiums in the direct life insurance industry translated to a 15.9 per cent decrease in the average daily
+increased by 0.7 per cent from 2022 to $6.3 billion in 2023 traded value to $1.0 billion, while the average daily traded
+(Exhibit 6.25). Single premium business decreased by 33.8 volume contracted by 3.4 per cent to 1.4 billion shares.
+per cent to $15.6 billion and regular premium business
+increased by 21.4 per cent to $4.8 billion. At the end of 2023, the total number of listed companies in
+Singapore was 632, with a combined market capitalisation
+The general insurance industry recorded an operating profit of $802 billion, a 3.3 per cent decrease from 2022. In 2023,
+of $2.6 billion in 2023, largely due to investment income. there were 427 companies listed on SGX’s Mainboard, with
+Gross premiums increased by 5.4 per cent to $19.3 billion the other 205 companies listed on SGX’s Catalist.
+in 2023, with offshore and domestic businesses accounting
+for $13.9 billion and $5.4 billion respectively.
+DERIVATIVES MARKET
+STOCK MARKET
+In 2023, SGX’s derivatives market activity fell by 3.1 per
+cent to 252 million contracts. Compared to 2022, total
+The benchmark Straits Times Index (STI) staged a late futures trading volume decreased by 3.2 per cent to 242
+turnaround in December 2023, but ended the year 0.3 per million and options trading volume fell by 1.8 per cent to
+cent lower than 2022 (Exhibit 6.26). 10.0 million contracts. The most actively-traded contracts
+were the FTSE China A50 Index Futures, the Iron Ore 62%
+The STI trended downwards over the first half of 2023 Futures and the USD/CNH FX Futures, which formed 59.9
+following a short-lived banking crisis in the US and Europe, per cent of the total volume traded on SGX’s derivatives
+while global interest rates remained high. Bank stocks led trading platform.
+the decline in the STI, but quickly rebounded as domestic
+lenders reassured markets of their well-capitalised status Exhibit 6.26: Straits Times Index
+and healthy liquidity positions.
+Index
+Index
+Exhibit 6.25: Premiums in the Insurance Industry
+3600
+$ Billion
+20
+3400
+15
+3200
+10
+3000
+5
+2800
+20220121 2022 2023
+0
+Life Industry Industry General Insurance Industry
+2022 2023
+Over the rest of 2023, a modest pickup in the external
+environment boosted trade-related equities in the index.
+Ongoing geopolitical tensions, however, weighed on risk
+sentiments and led to the muted performance of the STI.
+
+--- PAGE 75 ---
+
+Chapter 6: Sectoral Performances 73
+FOREIGN EXCHANGE MARKET
+In 2023, divergent inflation trends between the major
+economies led the US dollar to weaken against the
+Euro and British Pound by 3.1 per cent and 5.4 per cent
+respectively, and strengthen against the Japanese Yen
+by 7.0 per cent. Abating inflation in the US contrasted
+against sustained price pressures in the Eurozone and
+UK, prompting financial markets to expect interest rate
+cuts by the Federal Reserve while still seeing further
+rate hikes by the European Central Bank and the Bank of
+England. In contrast, the Bank of Japan’s doubts over the
+sustainability of Japan’s inflation led it to push back against
+market rate hike expectations, which in turn weakened
+the Japanese Yen against the major currencies.
+
+--- PAGE 76 ---
+
+74 Economic Survey of Singapore 2023
+Chapter 6.10
+REAL ESTATE &
+PROFESSIONAL SERVICES
+OVERVIEW
+The real estate sector expanded by 0.1 per cent year-on-year in the fourth quarter of 2023, moderating from the
+3.6 per cent growth in the previous quarter. For the whole of 2023, the sector grew by 4.9 per cent, moderating
+from the 10.9 per cent growth in 2022.
+The professional services sector contracted by 0.7 per cent year-on-year in the fourth quarter of 2023, reversing
+the 1.4 per cent growth in the previous quarter. For the whole of 2023, the sector grew by 1.1 per cent, moderating
+from the 13.2 per cent growth in 2022.
+REAL ESTATE
+In the commercial space market, the performance of the
+commercial retail space market remained resilient in the
+The private residential property market expanded on a fourth quarter. Specifically, demand for private commercial
+year-on-year basis in the fourth quarter, as total private retail space (measured by total occupied space) rose by 1.7
+residential property sales rose by 20.8 per cent, reversing per cent year-on-year, extending the 1.5 per cent increase
+the 15.4 per cent decline in the previous quarter (Exhibit in the previous quarter (Exhibit 6.28). For the full year,
+6.27). For the full year, total sales fell by 13.0 per cent to demand for private commercial retail space grew by 2.0
+19,044 units, from the 21,890 units sold in 2022. per cent, higher than the 1.2 per cent increase in 2022).
+Private residential certified progress payments (a proxy Meanwhile in the commercial office space market, demand
+for developers’ margins) rose by 0.8 per cent year-on-year, for private commercial office space rose by 1.6 per cent
+moderating from the 12.6 per cent increase in the preceding year-on-year in the fourth quarter, extending the 1.6 per
+quarter. For the whole of 2023, private residential certified cent growth in the preceding quarter. For the full year,
+progress payments climbed by 10.7 per cent, following the demand for private commercial office space grew by 1.5
+increase of 24.8 per cent in 2022. per cent, higher than the 0.1 per cent increase in 2022.
+Exhibit 6.27: Total Sales for Private Residential Units and Exhibit 6.28: Total Occupied Space for Private Sector
+Private Residential Certified Payments Commercial Office and Retail Spaces
+Thousand Per Cent
+Million Square Metre Nett
+6 30
+7
+5 25 6
+4 20 5
+4
+3 15
+3
+2 10
+2
+1 5
+1
+0 0 0
+IV I II III IV IV I II III IV
+2022 2023
+2022 2023
+Total Sales Private Residential Certified Payments (RHS)
+Office Retail
+
+--- PAGE 77 ---
+
+Chapter 6: Sectoral Performances 75
+PROFESSIONAL SERVICES
+Lastly, in the industrial space market, overall demand for
+private industrial space rose by 0.8 per cent year-on-year in
+the fourth quarter, extending the 1.2 per cent increase seen In 2023, the professional services sector expanded, with
+in the previous quarter (Exhibit 6.29). Within the market, all segments registering growth except for the legal and
+demand for multiple-user factories and warehouses business & management consultancy segments. Growth
+increased by 2.4 per cent and 1.3 per cent respectively in the sector was largely driven by the architectural &
+in the fourth quarter, whereas demand for single-user engineering, technical testing & analysis segment, as well
+factories and business parks fell by 0.1 per cent and 1.7 as the other professional scientific & technical services
+per cent respectively. For the full year, demand for private segment, which expanded by 1.8 per cent and 3.1 per cent
+industrial space rose by 0.9 per cent, extending the 1.1 year-on-year respectively.
+per cent growth seen in 2022.
+Exhibit 6.29: Total Occupied Space for Private Sector
+Industrial Space
+Million Square Metres
+42
+41
+40
+39
+38
+37
+36
+IV I II III IV
+2022 2023
+
+--- PAGE 78 ---
+
+76 Economic Survey of Singapore 2023
+Box Article 6.1
+PERFORMANCE AND OUTLOOK OF THE
+ELECTRONICS CLUSTER IN SINGAPORE
+CHANGE IN COMPOSITION
+IN SINGAPORE’S
+ELECTRONICS CLUSTER
+The nominal value-added (VA) of the
+semiconductors segment expanded
+by a compound annual growth rate
+of 9.3 per cent from 2000 to 2022,
+increasing the VA share of the
+semiconductors segment within the
+electronics cluster.
+THE DOWNTURN IN THE ELECTRONICS CLUSTER WAS DRIVEN BY
+A REDUCTION IN CONSUMER DEMAND AND HIGH INVENTORY LEVELS
+DRIVER 1 DRIVER 2
+There was a reduction in consumer demand in the Original equipment manufacturers (OEMs) of consumer
+smartphone and PC markets starting in 2H22 as electronics held higher-than-normal levels of chip
+consumer spending on goods reversed from its inventories to shore up supply chain resilience during
+pandemic-fuelled highs. the pandemic. With demand softening, OEMs moved to
+draw down their chip inventories and cancelled orders
+placed with semiconductor manufacturers as they
+lowered their production of consumer electronics.
+OUTLOOK
+The electronics cluster is projected to recover over the
+course of 2024, driven by a restocking of depleted chip
+inventories and a recovery in the PC and smartphone
+end markets.
+
+--- PAGE 79 ---
+
+Chapter 6: Sectoral Performances 77
+BOX 6.1: PERFORMANCE AND OUTLOOK OF THE ELECTRONICS
+CLUSTER IN SINGAPORE
+The electronics cluster is the largest cluster within the manufacturing sector in Singapore, accounting for 46.9 per
+cent of the sector’s nominal value-added (VA) and 9.7 per cent of Singapore’s overall nominal VA in 2022. This box
+article examines the composition of the electronics cluster, its recent performance1, as well as its outlook in the short
+and longer term.
+Singapore’s electronics cluster is dominated by the semiconductors segment
+The electronics cluster in Singapore is made up of four segments, namely the semiconductors, computer peripherals
+& data storage, infocomms & consumer electronics and other electronic modules & components segments. From
+2000 to 2022, the nominal VA of the semiconductors segment expanded by a compound annual growth rate (CAGR)
+of 9.3 per cent, outstripping the 6.1 per cent CAGR for the electronics cluster as a whole over the same period. This
+reflects Singapore’s success in attracting and anchoring high VA activities within the semiconductor value chain. As
+a result, the nominal VA share of the semiconductors segment within the cluster rose from 45.6 per cent in 2000 to
+86.4 per cent in 2022 (Exhibit 1). The semiconductors segment is expected to continue to be an important contributor
+to the cluster’s VA as semiconductor companies ramp up their production capacities in Singapore.
+Exhibit 1: Nominal value-added shares of segments in the electronics cluster, 2000 – 2022
+Share (Per Cent)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2000 2022
+Semiconductors Computer Peripherals & Data Storage
+Infocomms & Consumer Electronics Other Electronic Modules & Components
+Source: Economic Development Board
+Over the past four years, the electronics cluster experienced an upturn followed by a downturn
+in line with developments in the global electronics industry
+Over the period of the COVID-19 pandemic, Singapore’s electronics cluster, along with those in regional economies
+such as Japan and South Korea, experienced a strong upcycle, driven by global consumer spending on goods during
+the pandemic (Exhibit 2). In particular, there was an increase in demand for electronic products, and hence the
+semiconductor chips used in these products, due to the growth in data centres and cloud services, as well as the
+greater prevalence of work-from-home practices during the pandemic.
+Indeed, the spike in demand, coupled with pandemic-induced supply chain disruptions (e.g., shipping delays and
+lockdowns), led to severe component and chip shortages globally. In response to these shortages, original equipment
+manufacturers (OEMs) of consumer electronics started to hold higher-than-normal levels of chip inventories to shore
+up supply chain resilience.
+1 See Kuan (2008) for a previous overview of the electronics cluster.
+
+--- PAGE 80 ---
+
+78 Economic Survey of Singapore 2023
+However, with the post-pandemic reopening, consumer spending on goods reversed from its pandemic-fuelled
+highs. Notably, there was a reduction in consumer demand in the smartphone and PC markets starting in 2H22. With
+demand softening, OEMs moved to draw down their chip inventories and cancelled orders placed with semiconductor
+manufacturers as they lowered their production of consumer electronics. Semiconductor manufacturers in turn slashed
+capacity utilisation and reduced their supply of chips to correct demand-supply imbalances along the supply chain.
+Reflecting this global electronics downturn, Singapore’s electronics output underwent five consecutive quarters of
+contraction from 3Q22 to 3Q23, with the extent of decline reaching 11.7 per cent year-on-year in 2Q23 before moderating
+to 0.8 per cent in 3Q23. Much of the fall in the cluster’s output over this period was driven by the semiconductors
+segment. For the full year of 2023, electronics output registered a decline of 3.2 per cent, reversing the 2.6 per cent
+expansion in 2022. This electronics downturn was also seen in regional economies like Japan, South Korea and Taiwan.
+Exhibit 2: Global chip sales and electronics industrial output in Singapore, Japan, South Korea and Taiwan, 4Q19 – 4Q23
+YoYchange(Per Cent)
+50
+Pandemic induced Reduction in
+40 surge in demand consumer demand
+and high OEM chip
+30 inventories
+20
+10
+0
+-10
+-20
+-30
+-40
+4Q19 2Q20 4Q20 2Q21 4Q21 2Q22 4Q22 2Q23 4Q23
+Global Chip Sales Singapore (Electronics)
+Japan (Electronic Parts & Devices) South Korea (Semiconductors)
+Taiwan (Electronic Parts & Components)
+Source: CEIC, Economic Development Board, World Semiconductor Trade Statistics
+The domestic electronics cluster is expected to recover in 2024 following the normalisation of
+inventory levels and an increase in demand for PC, smartphone and automotive chips
+With the bottoming of the electronics downcycle2, the domestic electronics cluster is projected to recover over the
+course of 2024, driven by two main factors.
+First, after several quarters of inventory drawdowns, semiconductor chip inventories at OEMs have trended down for
+several end markets. Semiconductor manufacturers also reported “rush orders” for chips as early as 3Q23, with some
+OEMs requiring urgent deliveries of chips after having depleted their inventories. The OEMs are expected to continue
+replenishing their chip inventories in the year ahead, thereby boosting the demand for chips from semiconductor
+manufacturers, including those in Singapore.
+Second, shipments of both PCs and smartphones are expected to recover in 2024 after having contracted in 2023,
+driven by new refreshment cycles as consumers and enterprises upgrade their electronic devices. The automotive
+market is also projected to continue to grow, albeit at a more moderate pace as compared to 2023, underpinned by
+the growing market for electric vehicles (EVs). The growth in these end markets is expected to raise the demand for
+chips from semiconductor manufacturers, including those in Singapore.
+2 There were signs of improvement in the electronics cluster in 4Q23, with the cluster growing by 8.3 per cent during the quarter, reversing the 0.8 per cent
+contraction in the preceding quarter, supported by improved demand for smartphone and AI chips.
+
+--- PAGE 81 ---
+
+Chapter 6: Sectoral Performances 79
+Reflecting domestic electronics manufacturers’ positive sentiments in 2024, a net weighted balance3 of 16 per cent
+of firms in the electronics cluster are projecting improved business prospects for the period of January to June 2024
+relative to 4Q23, a sharp reversal from the net weighted balance of -44 per cent recorded over the same period in
+2023 (Exhibit 3).
+Exhibit 3: Business sentiment expectations in the next six months relative to the current quarter for the electronics cluster,
+4Q19 – 4Q23
+Net weighted balance (Per Cent)
+100 Pandemic induced Reduction in
+80 surge in demand consumer demand
+and high OEM chip
+60 inventories
+40
+20
+0
+-20
+-40
+-60
+-80
+-100
+4Q19 2Q20 4Q20 2Q21 4Q21 2Q22 4Q22 2Q23 4Q23
+Business Sentiment Expectations
+Source: Economic Development Board
+Over the longer term, while the PC and smartphone end markets are expected to mature, the
+automotive and artificial intelligence end markets are likely to continue to see strong growth
+The drive to meet net-zero goals has prompted governments across the globe to subsidise the adoption of EVs. The
+International Energy Agency expects EV sales to reach 45 million in 2030, up from 10 million in 2022, if all announced
+government targets on electromobility are met in full and on time, representing a CAGR of 20.7 per cent. Moreover,
+EVs contain a significantly higher amount of semiconductor content as compared to non-EVs. These include power
+semiconductors used for voltage conversion, and battery management and microcontroller chips for advanced driver
+assistance systems. The rapid growth of the EV market, coupled with EVs’ higher semiconductor content, are expected
+to boost the demand for automotive chips in the longer term.
+Meanwhile, with the advent of generative artificial intelligence (AI), enterprise demand for AI servers has skyrocketed
+as such servers are deployed in the training and operation of large language models like ChatGPT. In turn, AI servers
+require chips such as graphic processing units, central processing units, application-specific integrated circuits and
+field-programmable gate arrays. At the same time, there will be higher demand for DRAM chips given the requirement
+for high bandwidth memory4 in AI servers, while NAND chips will also see demand growth due to the increase in
+storage capacities needed to support more numerous and larger datasets. As the AI ecosystem matures, the adoption
+of on-device generative AI5 in devices such as PCs and smartphones will further support the demand for AI-related
+chips in the longer term.
+Taken together, while the PC and smartphone end markets are likely to register lower growth in the longer term as
+they mature, global demand for semiconductor chips is expected to remain strong, contributed in large part by the
+robust growth projected for the automotive and AI end markets.
+3 Establishments were asked to indicate their expectations of general business conditions in terms of directional change (i.e., “up”, “same” or “down”). Establishments’
+responses were then weighted by total output and aggregated to derive the weighted percentage for “up”, “same” or “down” at the sub-cluster and cluster
+level. Net weighted balance was calculated by taking the difference between the weighted percentage of “up” responses and the weighted percentage of “down”
+responses. A positive number indicates a net positive balance or net upward movement, while a negative number denotes a net negative balance or net downward
+trend.
+4 High bandwidth memory is made up of vertical stacks of DRAM chips, which allows for greater power efficiency and higher data read speed.
+5 On-device generative AI will allow users to run large language models directly on their devices without the need to connect to generative AI models that are hosted
+on the cloud. This reduces privacy concerns while also allowing for greater customisability by taking advantage of available user data on the device.
+
+--- PAGE 82 ---
+
+80 Economic Survey of Singapore 2023
+Singapore’s electronics cluster is poised for growth in both the short and long term
+Over the coming year, the domestic electronics cluster is expected to benefit from the turnaround in global semiconductor
+demand, driven in part by the recovery in the PC and smartphone end markets, as well as the restocking of depleted
+chip inventories. Over the longer term, the cluster’s growth will be supported by stronger semiconductor demand in
+the automotive and AI end markets.
+Contributed by:
+Mr Chan You Zhong
+Economist
+Economics Division
+Ministry of Trade and Industry
+References
+Kuan, Ming Leong. 2008. “Singapore’s Electronics Cluster”, Economic Survey of Singapore First Quarter 2008, pp. 9-10..
+
+--- PAGE 83 ---
+
+Chapter 6: Sectoral Performances 81
+
+--- PAGE 84 ---
+
+CHAPTER ECONOMIC
+7
+OUTLOOK
+
+--- PAGE 86 ---
+
+84 Economic Survey of Singapore 2023
+Chapter 7
+ECONOMIC
+OUTLOOK
+LEADING INDICATORS OUTLOOK FOR 2024
+The composite leading index (CLI) for Singapore remained Since the Economic Survey of Singapore in November
+flat on a quarter-on-quarter basis in the fourth quarter of 2023, Singapore’s external demand outlook for 2024 has
+2023, compared to the 1.0 per cent decline in the previous remained largely unchanged. Growth in the advanced
+quarter (Exhibit 7.1). economies is expected to moderate in the first half of the
+year, mainly due to continued tight financial conditions,
+Of the nine components of the CLI, five components before recovering gradually in line with an expected easing
+decreased on a quarter-on-quarter basis in the fourth of monetary policy as inflationary pressures recede.
+quarter, namely the US Purchasing Managers’ Index, Meanwhile, regional economies are expected to see a
+money supply, non-oil retained imports, stock price and pickup in growth in the year ahead, supported in part by
+new companies formed. By contrast, domestic liquidity the turnaround in global electronics demand.
+remained flat, and the other three components – wholesale
+trade, the stock of finished goods and non-oil sea cargo In the US, GDP growth is expected to continue to ease
+handled – rose compared to a quarter ago. in the coming quarters amidst continued tight financial
+conditions, before picking up later in the year alongside a
+Exhibit 7.1: Composite Leading Index Levels and Growth Rate loosening of monetary policy, which will support a recovery
+in investment growth. Similarly, GDP growth in the Eurozone
+2015 = 100 Per Cent
+is forecast to remain subdued in the first half of the year.
+114 QoQ Change 10 However, growth should improve in the latter part of the
+(RHS)
+year as a further easing of inflationary pressures and
+112 5
+anticipated policy rate cuts are likely to support a firmer
+110 0 recovery in private consumption expenditure.
+108 -5
+In Asia, China’s GDP growth is projected to remain
+106 -10 lacklustre in the first half of the year due to sluggish
+domestic consumption and exports growth alongside weak
+104 -15
+property market conditions. Growth is likely to recover
+102 -20 gradually in the second half in line with improvements in
+consumer sentiments and global demand. Meanwhile,
+100 -25
+GDP growth in the Southeast Asian economies of Malaysia
+98 -30 and Thailand is likely to be supported by the continued
+I II III IV I II III IV I II III IV I II III IV
+2020 2021 2022 2023 recovery in tourist arrivals, as well as an anticipated pickup
+in global electronics demand.
+At the same time, downside risks in the global economy
+remain significant. First, an escalation or widening of the
+Israel-Hamas conflict or war in Ukraine could disrupt global
+supply chains and commodity markets. This would weigh
+on global trade and growth. Second, the lagged effects of
+monetary tightening could trigger latent vulnerabilities
+in banking and financial systems, leading to stresses on
+regional economies with external financing needs. Third,
+should idiosyncratic cost shocks such as adverse weather
+events disrupt the global disinflation process, financial
+conditions could stay tight for longer, thereby weakening
+the economic recovery momentum.
+
+--- PAGE 87 ---
+
+Chapter 7: Economic Outlook 85
+Against this backdrop, Singapore’s manufacturing and
+trade-related sectors are expected to see a gradual
+pickup in growth in tandem with the turnaround in global
+electronics demand. In particular, the electronics and
+precision engineering clusters within the manufacturing
+sector are projected to rebound, especially given that the
+recovery in semiconductor sales globally and domestically
+has been stronger than expected. At the same time, the
+machinery, equipment & supplies segment of the wholesale
+trade sector will benefit from higher external demand
+for electronic components and telecommunications &
+computers.
+Meanwhile, the continued recovery in air travel and tourism
+demand will support growth in Singapore’s tourism-
+and aviation-related sectors, including aerospace, air
+transport and accommodation, as well as consumer-facing
+sectors such as retail trade and food & beverage services.
+Nonetheless, the pace of growth for most of these sectors
+is expected to moderate from that in 2023.
+Taking into account the global and domestic economic
+environment, the GDP growth forecast for 2024 is
+maintained at “1.0 to 3.0 per cent”.
+
+--- PAGE 88 ---
+
+IMPACT OF THE
+FEATURE
+CDC VOUCHERS
+ARTICLE
+SCHEME
+
+--- PAGE 90 ---
+
+88 Economic Survey of Singapore 2023
+Feature Article
+IMPACT OF THE CDC
+< Back
+VOUCHERS SCHEME CDC Vouchers
+Show to shop $15
+OVERVIEW
+The CDC Vouchers Scheme 2021 was rolled out in December 2021 to thank
+Singaporeans for their solidarity during the COVID-19 pandemic, and also to
+https://vouchers.cdc.gov.sg
+support local businesses at HDB estates affected by the pandemic. The second Use by 31 Dec 2024
+tranche of CDC Vouchers was rolled out in May 2022 to help Singaporeans with
+their daily expenses amidst cost-of-living pressures. Through these two tranches,
+every Singaporean household received $200 in CDC Vouchers in total: $100 from
+CDC Voucher Scheme 2021 and another $100 from CDC Voucher Scheme 2022.
+FINDINGS
+Finding 1:
+Over 96 per cent of the 1.22 million eligible Singaporean
+households claimed their CDC Vouchers from both the
+96% 4%
+2021 and 2022 tranches, with 96 per cent of the claimed
+spent $228 unused
+vouchers eventually spent. The high utilisation rate of
+mil spent from
+the CDC Vouchers shows that the CDC Vouchers have
+2021 and 2022
+tranches helped to alleviate the inflationary pressures faced by
+households as part of a broader suite of measures that
+address Singaporeans’ cost-of-living concerns.
+Finding 2:
+As at December 2022, around 20,000 heartland
+merchants and hawkers had been onboarded onto
+the CDC Vouchers Scheme, representing a sizeable
+proportion of all heartland merchants and hawkers
+in Singapore. Around 80 per cent of the participating
+merchants and hawkers received a total disbursement
+of more than $1,000 from both tranches, while around
+30 per cent received a total disbursement of more than
+$10,000.
+Finding 3:
+$
+On aggregate, the 2021 and 2022 tranches of CDC
+Vouchers is estimated to generate up to $312.8 million
+for the Singapore economy over time. This amount is
+equivalent to 0.05 per cent of Singapore’s 2022 nominal
+GDP.
+
+--- PAGE 91 ---
+
+Feature Article 89
+EXECUTIVE SUMMARY
+< Back
+The CDC Vouchers Scheme 2021 was rolled out in December 2021 to thank Singaporeans for their solidarity
+CDC Vouchers
+during the COVID-19 pandemic, and also to support local businesses at HDB estates affected by the
+pandemic. The second tranche of CDC Vouchers was rolled out in May 2022 to help Singaporeans with their
+Show to shop $15 daily expenses amidst cost-of-living pressures. Through these two tranches, every Singaporean household
+received $200 in CDC Vouchers in total: $100 from CDC Voucher Scheme 2021 and another $100 from CDC
+Voucher Scheme 2022. This study examines the impact of the 2021 and 2022 tranches of CDC Vouchers on
+Singaporean households, local businesses and the overall economy.
+Households. Over 96 per cent of the 1.22 million eligible Singaporean households claimed their CDC Vouchers
+https://vouchers.cdc.gov.sg
+Use by 31 Dec 2024 from both the 2021 and 2022 tranches, with 96 per cent of the claimed vouchers eventually spent. The high
+utilisation rate of the CDC Vouchers shows that the CDC Vouchers have helped to alleviate the inflationary
+pressures faced by households as part of a broader suite of measures that address Singaporeans’ cost-of-
+living concerns.
+Local Businesses. As at December 2022, around 20,000 heartland merchants and hawkers had been onboarded
+onto the CDC Vouchers Scheme, representing a sizeable proportion of all heartland merchants and hawkers
+in Singapore. The vast majority (around 90 per cent) of participating merchants and hawkers received some
+disbursements from the 2021 and 2022 tranches of CDC Vouchers. Around 80 per cent of the participating
+merchants and hawkers received a total disbursement of more than $1,000 from both tranches, while around
+30 per cent received a total disbursement of more than $10,000.
+Overall Economy. On aggregate, we estimate that the 2021 and 2022 tranches of CDC Vouchers could generate
+up to $312.8 million for the Singapore economy over time. This amount is equivalent to 0.05 per cent of
+Singapore’s 2022 nominal GDP.
+The views expressed in this paper are solely those of the authors and do not necessarily reflect those of the Ministry of Trade
+and Industry (MTI) or the Government of Singapore.1
+INTRODUCTION
+The CDC Vouchers Scheme was first launched by Prime Minister Lee Hsien Loong in December 2021 to thank
+Singaporeans for their solidarity during the COVID-19 pandemic, and at the same time, support heartland merchants
+and hawkers affected by the pandemic. Since then, three additional tranches of CDC Vouchers in 2022, 2023 and 2024
+were launched by Deputy Prime Minister and Minister for Finance Lawrence Wong to help Singaporean households
+with their daily expenses amidst cost-of-living pressures.
+This study focuses on the 2021 and 2022 tranches of CDC Vouchers which were disbursed in December 2021 and May
+2022 respectively; both tranches expired on 31 December 2022. For each of the two tranches, every household with at
+least one Singaporean Citizen was eligible to claim $100 worth of CDC Vouchers that could be spent at participating
+heartland merchants and hawkers.2 CDC ambassadors and IMDA’s Digital Ambassadors were deployed island-wide
+to help heartland merchants and hawkers onboard onto the CDC Vouchers Scheme as participating merchants and
+hawkers.
+In this study, we examine the following: (i) the utilisation of the 2021 and 2022 tranches of CDC Vouchers; (ii) the spending
+patterns of the CDC Voucher claimants; and (iii) the impact of the two tranches of CDC Vouchers on participating
+heartland merchants and hawkers, as well as the overall economy. Our study uses anonymised data from the CDC
+Vouchers Scheme, as well as data from EMA, SLA and URA, which allow us to characterise the usage of the CDC
+Vouchers by location and property type.
+1 We would like to thank Ms Yong Yik Wei, Dr Andy Feng and Dr Tan Di Song for their useful suggestions and comments. We are also grateful to DOS, PA and MOF for
+their data support and inputs to this study. All remaining errors belong to the authors.
+2 CDC Vouchers are not valid for the purchase of lottery products, petrol, diesel, alcohol or cigarettes.
+
+--- PAGE 92 ---
+
+90 Economic Survey of Singapore 2023
+FINDINGS
+(i) Utilisation of the CDC Vouchers
+Our study finds that the utilisation of the CDC Vouchers across the 2021 and 2022 tranches was consistently high. Over
+96 per cent of households claimed their CDC Vouchers from both tranches, with 96 per cent of the claimed vouchers
+eventually spent [Exhibit 1]. The percentage of claimed CDC Vouchers that were eventually spent was high across all
+housing types, with the spend rate being slightly higher for those living in HDB flats (96.0 to 97.2 per cent) compared to
+those living in private and landed properties (around 93 per cent). Across HDB estates, the spend rates of households
+living in HDB flats were consistently high, suggesting that it was convenient for households to access participating
+merchants and hawkers to spend their CDC Vouchers.
+Exhibit 1: Utilisation of 2021 and 2022 CDC Vouchers
+Spent Vouchers Unused / Voided Spend Rate
+Tranche
+($ million) ($ million) (Per Cent)
+2021 115.4 5.1 95.8
+2022 112.5 4.9 95.8
+Total 227.9 10.0 95.8
+The high utilisation rate of the CDC Vouchers shows that the CDC Vouchers have helped to alleviate the inflationary
+pressures faced by households as part of a broader suite of measures that address Singaporeans’ cost-of-living concerns.
+(ii) Spending Patterns of CDC Voucher Claimants
+Examining the spending patterns of households, our study finds that most of the 2021 and 2022 CDC Vouchers were
+spent in the households’ own neighbourhoods. In particular, around two-thirds or more of the CDC Voucher expenditure
+by households living in HDB flats were within their own estate [Exhibit 2]. This was the case even with the relaxation
+of domestic COVID-19 restrictions in 2022, suggesting that households preferred to spend their CDC Vouchers near
+where they lived, possibly due to familiarity.3
+Exhibit 2: CDC Vouchers Spent Within the Same Estate by HDB Residents (Per Cent)
+Hawker* Heartland Merchants^
+2021 Tranche 2022 Tranche 2021 Tranche 2022 Tranche
+TOTAL 63.4 64.2 69.5 69.5
+Notes:
+* A hawker refers to a stall operating in a NEA hawker centre which has been onboarded onto the CDC Voucher Scheme.
+^ A heartland merchant refers to a stall operating in a HDB address which has been onboarded onto the CDC Voucher Scheme.
+Furthermore, we find that 43.9 per cent and 43.2 per cent of households’ CDC Voucher transactions for the 2021 and
+2022 tranches respectively were “repeat transactions” at a merchant (i.e., households had spent their vouchers at the
+same merchant before), suggesting that CDC Voucher claimants tended to frequent merchants that they were familiar
+with. This finding was consistent across all HDB estates.
+3 We further find that when HDB households spent their CDC Vouchers outside of their estate, they tended to favour estates close by.
+
+--- PAGE 93 ---
+
+Feature Article 91
+(iii) Impact of CDC Vouchers Scheme on Heartland Merchants and Hawkers
+The CDC Vouchers Scheme benefitted heartland merchants and hawkers. As at December 2022, around 20,000
+heartland merchants and hawkers had been onboarded onto the CDC Vouchers Scheme, representing a sizeable
+proportion of all heartland merchants and hawkers in Singapore.4 Our study finds that the vast majority (around 90
+per cent) of participating heartland merchants and hawkers had received some disbursements from the 2021 and
+2022 tranches of CDC Vouchers. By disbursement amounts, around 80 per cent of the participating merchants and
+hawkers received a total disbursement of more than $1,000 from both tranches, while around 30 per cent received a
+total disbursement of more than $10,000.5
+(iv) Impact of CDC Vouchers Scheme on the Economy
+Our findings thus far have shown that the CDC Vouchers Scheme in 2021 and 2022 had provided cost-of-living support
+to Singaporean households, as well as supported the business activities of heartland merchants and hawkers. In so
+doing, the CDC Vouchers are also likely to have a broader impact on the economy.
+In particular, we assume that household consumption arising from the use of the CDC Vouchers will have multiplier
+effects within the economy.6 We derive the impact of the CDC Vouchers on the domestic economy by accounting for
+these multiplier effects7 and stripping out leakages arising from taxes, imports8 and savings.
+Based on this methodology, we estimate that the 2021 and 2022 tranches of CDC Vouchers claimed by households
+– which amounted to around $237.9 million – could generate up to $312.8 million in nominal value-added for the
+Singapore economy over time. This amount is equivalent to 0.05 per cent of Singapore’s 2022 nominal GDP.
+CONCLUSION
+In summary, our study finds that the CDC Vouchers Scheme 2021 and 2022 helped to alleviate cost-of-living pressures
+faced by Singaporean households, and also supported the business activities of heartland merchants and hawkers. In
+line with these findings, Singaporean households and heartland merchants and hawkers would likewise benefit from
+the support provided by the subsequent tranches of CDC Vouchers.
+Contributed by:
+Mr Andrew Chia
+Senior Economist
+Economics Division
+Ministry of Trade and Industry
+Mr Gregory Tham
+Senior Economist
+Economics Division
+Ministry of Trade and Industry
+(formerly)
+4 Based on data from SFA, NEA and EnterpriseSG.
+5 For comparison, eligible businesses under the Small Business Recovery Grant announced in Budget 2022 received $1,000 per Singapore Citizen or Permanent
+Resident employee with mandatory CPF contributions, up to a cap of $10,000. SFA-registered hawkers, market and coffeeshop stallholders were entitled to a flat
+payout of $1,000.
+6 For instance, an increase in spending by households will lead to an increase in the sales of businesses and their suppliers, which will in turn generate income for
+the business owners and their employees and lead to further spending in the economy.
+7 Based on the latest available data from the Household Expenditure Survey 2017/28, the average propensity to consume for households in Singapore was 0.6.
+8 Based on data from DOS’s Input Output Tables 2019 (Revision 2023), the average marginal propensity to import for Singapore was around 0.4.
+
+--- PAGE 94 ---
+
+MINISTRY OF TRADE AND INDUSTRY
+100 High Street, #09-01 The Treasury
+Singapore 179434
+ISSN 2382-6541

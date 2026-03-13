@@ -1,0 +1,554 @@
+
+
+--- PAGE 1 ---
+
+1
+
+--- PAGE 2 ---
+
+CONTENT
+PAGE PAGE
+Objective
+01 11 Manpower Associated
+Executive Summary With the Digital Economy
+PAGE PAGE
+Introduction
+02 13
+Definition & Methodology Conclusion
+PAGE PAGE
+04 Overview of Singapore’s 14
+Digital Economy Annex A
+PAGE PAGE
+05 Information & 16
+Communications Sector Annex B
+PAGE
+07 Digitalisation in the
+Rest of the Economy
+
+--- PAGE 3 ---
+
+1
+Objective
+The inaugural Singapore Digital Economy (SGDE) report is published by the Infocomm Media Development
+Authority (IMDA) and Lee Kuan Yew School of Public Policy, National University of Singapore (LKYSPP)1,2. It
+provides a holistic analysis of the landscape and performance of Singapore’s digital economy.
+Executive Summary
+There is a lack of consensus internationally on how to define and measure the digital economy. Various
+countries, organisations, and academics have used different definitions of digital economy, with different
+assumptions and methodologies. Therefore, estimates on the size of digital economy are not easily comparable
+across jurisdictions. Caution needs to be exercised with international comparison of estimates of the digital
+economy. Instead, our main purpose in estimating the size of the digital economy in Singapore is to
+get a sense of its economic contribution and pace of change.
+We have defined Singapore’s digital economy as comprising both the value-added (VA) of the Information
+& Communications (I&C) sector and the VA from digitalisation in the rest of the economy. The size of SGDE
+with Singapore’s digital economy is about 17.3% of Singapore’s gross domestic product (GDP) in 2022, up
+from 13% of GDP in 2017. Overall, SGDE with Singapore’s digital economy grew at a compound annual
+growth rate (CAGR) of about 12.9% p.a. since 2017, outpacing the overall economy.
+The I&C sector supplies core digital services and is a key driver of digitalisation. It was the fastest growing
+sector from 2017 to 2022, backed by the strong growth of sub-sectors such as Games, Online Services, and
+E-commerce. Digitalisation in all other non-I&C sectors has also contributed substantially to Singapore’s
+digital economy, registering rapid growth over the same period.
+The expansion of the digital economy has come on the back of increasing adoption of digital technologies by
+enterprises, which in turn contributed to the robust growth of tech manpower. The number of tech professionals3
+has increased from around 155,500 in 2017 to 201,100 in 2022, driven by demand across all the sectors. The
+share of tech professionals out of total employment reached 5.2% in 2022, up from 4.2% in 2017.
+The demand for tech professionals over the past few years has benefited local workers4, with the latter
+accounting for more than 70% of overall tech jobs and enjoying good wages. Despite the tech layoffs in
+2022/2023 which affected Singapore as well as other tech hubs globally, tech professionals will likely remain
+in demand as the economy digitalises.
+Overall, Singapore’s digital economy has been growing strongly and its longer-term outlook remains
+positive. The Singapore government continues to be committed to growing a competitive digital economy
+and fostering a technology-skilled workforce.
+1 We acknowledge the contributions by Dr Vu Minh Khuong, Associate Professor at the Lee Kuan Yew School of Public Policy, National University of Singapore.
+2 With inputs and data support from Ministry of Trade and Industry (MTI), Ministry of Communications and Information (MCI), Ministry of Manpower (MOM),
+Department of Statistics (DOS), Economic Development Board (EDB), and Building and Construction Authority (BCA).
+3 Tech professionals refer to those engaged primarily in infocomm and digital technology-related work either in an IT, online, software or telecommunication
+equipment and/or services provider, or user organisation (such as in a bank). The scope of work may include the development, distribution, implementation,
+support, operation, sales or marketing of telecommunication, computer hardware/software, IT services or multimedia contents.
+4 Local workers refer to Singapore Citizens and Permanent Residents.
+
+--- PAGE 4 ---
+
+2
+Introduction
+This is an inaugural report that seeks to define and measure the size of Singapore’s digital economy, published
+by the Infocomm Media Development Authority (IMDA) and Lee Kuan Yew School of Public Policy, National
+University of Singapore (LKYSPP). The report seeks to assess the performance of Singapore’s digital economy.
+There is a lack of consensus internationally on how to define and measure the digital economy. Various
+countries, organisations, and academics have adopted different definitions of the digital economy, using
+different assumptions and methodologies to measure its size. Therefore, estimates on the size of the digital
+economy are not easily comparable across jurisdictions as well as across studies.
+This report presents our approach of defining and measuring our digital economy, which we can subsequently
+use to monitor its contribution to the Singapore economy over time.
+Definition & Methodology
+There is no internationally agreed standard on what constitutes the digital economy.
+Some countries and international organisations attempted to define and measure the digital economy by
+estimating the size of “digital sectors” that contribute directly to or enable the digital economy. Some other
+studies also considered the economic values from the broader economy due to digitalisation or economic
+spillovers from digital sectors5.
+Considering the various studies internationally, for the purpose of this report, we have defined Singapore’s
+digital economy as comprising two components:
+a) Value-added (VA) of the Information & Communications (I&C) sector;
+b) VA generated from digitalisation in the rest of the economy (i.e. excluding I&C sector).
+I&C sector
+The I&C sector is a key driver of digitalisation, supplying digital services such as telecommunication, computer
+programming & IT consultancy, cloud computing, software developments, as well as production and distribution
+of content and media. The I&C sector is commonly used by national statistical offices (NSOs) for gross domestic
+product (GDP) sectoral classification purposes, including in Singapore.
+In the Singapore Standard Industrial Classification (SSIC) system, the I&C sector corresponds to SSIC (2020)
+codes 58-63. By the business activities and services provided, the I&C sector could be further segmented into
+a few sub-sectors, namely Software, IT services, Hosting services, Online services, IT consultancy, E-commerce,
+Telco services, Games, Publishing, Broadcasting, Film & video, and Music.
+5 A detailed review of the literature on digital economy measurement is documented in Annex A.
+
+--- PAGE 5 ---
+
+2 3
+Digitalisation in the rest of the economy
+For this component of Singapore’s digital economy, we define it as the value generated from investments and
+spendings in digital capital across all sectors outside of the I&C sector. Firms invest in digital technologies
+to better reach customers, optimise business processes as well as for product and service innovation, which
+may in turn lead to better economic outcomes. Hence, part of their VA can be attributable to such digital
+investment. We estimate such VA based on the returns from digital capital investment and spending by
+different sectors using growth accounting techniques6.
+Longer term efforts to define the digital economy
+The Organisation for Economic Cooperation and Development (OECD) has been active in efforts to develop
+frameworks to define and measure the digital economy. In particular, the OECD has suggested developing
+Digital Economy Satellite Accounts (DESA), which relies on the compilation of digital supply-use tables (SUTs)
+to measure the different aspects of a digital economy including key indicators such as the output and VA of
+Digital Industries, in an internationally consistent and comparable manner7.
+The scope of the Digital Industries under DESA is broader than the I&C sector. For instance, one component of
+the Digital Industries is the group of industries that produces and distributes ICT goods (i.e. ICT goods-related
+industries8), which facilitate the functioning of information processing and communication by electronic means,
+including transmission and display. The I&C sector and ICT goods-related industries collectively is similar to
+the definition of “digitally enabling industries” – a sub-industry within Digital Industries9.
+The DESA Digital Industries also intend to capture the values arising from the use of digital technologies in the
+broader economy. For instance, one sub-industry within Digital Industries is “firms dependent on intermediary
+platforms”. The scope of this sub-industry includes firms that transact significantly with consumers via a third-
+party digital platform. Such firms may extend across sectors like wholesale and retail trade, transportation,
+healthcare etc..
+Some countries such as Canada and the United States, have released specific digital economy-related statistics
+with varying degrees of comprehensiveness. In Singapore, the Department of Statistics (DOS) is exploring the
+DESA framework to develop digital economy-related statistics for better monitoring and sizing of Singapore’s
+digital economy. When completed, the DESA could be used to size the digital economy in Singapore.
+6 The growth accounting technique is used to estimate the portion of the VA in other sectors (finance & insurance, wholesale trade, manufacturing, etc.) of the
+economy that is contributed by digital capital. For the detailed methodology and data sources to calculate the VA from digitalisation, see Annex B.
+7 While the OECD has recommended compiling the digital SUTs, it also acknowledges the challenges faced such as availability of data and has thus proposed
+developing a set of high priority indicators (HPIs) as immediate priorities in populating the digital SUTs. The HPIs include i) Output, Gross Value Added (GVA)
+and its components, of digital industries; ii) Intermediate consumption of digital products; and iii) Expenditures split by nature of transactions.
+8 According to OECD’s definition, the ICT goods-related industries include the manufacture of ICT hardware, the wholesale trade of ICT hardware and software,
+and the repair of computers and communications equipment.
+9 The Digital Industries consist of seven sub-industries namely (i) digitally enabling industries, (ii) digital intermediary platforms charging a fee, (iii) data and
+advertising driven digital platforms, (iv) firms dependent on intermediary platforms, (v) e-tailers, (vi) digital only firms providing financial and insurance services,
+and (vii) other producers only operating digitally.
+
+--- PAGE 6 ---
+
+4
+Overview of Singapore’s Digital Economy
+Based on the definition set out in the Definition & Methodology section, the overall nominal VA of the digital
+economy in Singapore amounted to S$106 billion in 2022, equivalent to 17.3% of Singapore’s nominal GDP, up
+from 13% of GDP in 2017. It has grown at a compound annual growth rate (CAGR) of about 12.9% p.a. since
+2017. The I&C sector accounted for around one third of Singapore’s digital economy, with the remaining two
+thirds attributable to the VA from digitalisation in the rest of the economy. Please see Infographic 1 for details.
+Infographic 1: Composition of Singapore’s digital economy size (% of GDP), 2022
+I&C sector
+5.4%
+Singapore’s
+Digital Economy Size
+17.3%
+Digitalisation in the
+rest of the economy
+11.9%
+If we take into account the ICT goods-related industries, the contribution of this cluster alone is substantial.
+In 2022, the VA from this cluster contributed to 16.4% of Singapore’s GDP, with a CAGR of 14.4% p.a. since
+201710, reflecting Singapore’s position as a global electronics manufacturing hub11.
+Using our definition and methodology, we attempted to estimate the DE sizes for a few open economies12.
+Based on the latest available and comparable data, we estimate that in 2020, the digital economies of
+Estonia, Sweden and United Kingdom accounted for 16.6%, 15% and 16.1% of their respective GDP, whereas
+the Singapore digital economy was 16.7% of GDP in 2020. In gist, Singapore’s DE compared favourably
+with these advanced economies [Table 1].
+Table 1: Estimated DE size for selected countries, 2020
+Source: Authors’ calculation based on data from EU KLEMS & INTANProd database and EUROSTAT European System of Accounts (ESA)
+supply and use tables database
+The subsequent sections will examine the various aspects of Singapore’s digital economy in greater details.
+10 Source: DOS, authors’ calculation.
+11 The strong performance of these industries coincided with the global surge in demand for semiconductor chips over the past two years.
+12 Methodologies to quantify the digital economy vary across studies, and thus caution needs to be exercised when comparing estimates of DE sizes across
+economies. Jurisdictions that have reported their digital economy sizes include: Canada’s 5.9% (2020), United States’ 10.3% (2021), and United Kingdom’s 5.0%
+(narrow definition of DE) and 20.7% (wider definition) in 2020. Annex A provides detailed discussions on the methodologies in various studies and reports.
+
+--- PAGE 7 ---
+
+4 5
+Information & Communications Sector
+The I&C sector is one of the key growth engines of the Singapore economy. Driven by healthy demand for
+digitalisation by enterprises, the I&C sector was the fastest growing sector, with a real VA CAGR of 10.3%
+p.a. over the 2017 to 2022 period as compared to the real GDP CAGR of 2.6% p.a. over the same period
+[Figure 1]. In 2022, the I&C sector accounted for 5.4% of overall GDP, increasing from the 4.3% recorded
+in 2017.
+Figure 1: I&C sector value-added, CAGR growth, and share of overall economy, 2017-2022
+Sectoral Real VA CAGR (%)
+Information & Communications
+Finance & Insurance
+Manufacturing
+Real Estate
+Wholesale Trade
+SG GDP
+Professional Services
+Transportation & Storage
+Retail Trade
+Food & Beverage Services
+Accommodation
+Construction
+Administrative & Support Services
+I&C nominal VA, as a share of GDP (%)
+Source: DOS
+
+--- PAGE 8 ---
+
+6
+Within the I&C sector, the key sub-sectors driving growth were Games, Online Services, and E-commerce
+[Figure 2]. Such sub-sectors saw double-digit growth of up to 70% p.a. CAGR, driven by the accelerated
+digitalisation and new technology trends such as the shift to clouds, especially during the COVID-19 pandemic.
+Figure 2: I&C sub-sector share of VA and VA CAGR, 2017-2021
+Bubble size: Nominal VA (2021)
+Online
+Services,
+S$6.4bn
+IT Consultancy,
+S$4.9bn
+IT Services, S$1.7bn
+Publishing, S$0.9bn
+Telco Services, Share of I&C VA
+Film & Video, S$4.7bn (2017-2021)
+S$0.5bn
+Software, S$1.3 bn
+0% 5% 10% 15% 20% 25%
+Source: DOS
+
+--- PAGE 9 ---
+
+6 7
+Digitalisation in the Rest of the Economy
+The VA from digitalisation in the rest of the economy has also demonstrated robust growth, increasing from
+S$38.6 billion in 2017 to S$72.8 billion in 2022, equivalent to a CAGR of 13.5% p.a.. This was faster than
+the growth of the overall economy. As a result, the VA from digitalisation as a share of GDP rose steadily
+from 8.7% in 2017 to 11.9% in 2022 [Figure 3].
+Figure 3: VA from digitalisation in the rest of the economy (% of GDP), 2017-2022
+CAGR:
+13.5% p.a.
+Source: Authors’ calculation
+We further analysed the breakdown of the VA from digitalisation for key sectors of the economy, excluding
+I&C sector [Figure 4]. The bulk of this VA was contributed by the Finance & Insurance, Wholesale Trade,
+and Manufacturing sectors.
+Figure 4: VA from digitalisation for key sectors (S$ bn), 2017-2022
+Finance & Insurance
+Wholesale Trade
+Manufacturing
+Professional Services
+Transportation & Storage
+Real Estate and Admin & Support
+Retail Trade
+Construction
+Accommodation & Food Services
+Source: Authors’ calculation
+
+--- PAGE 10 ---
+
+8
+The growth of the VA from digitalisation in the rest of the economy has come on the back of more firms
+using digital technologies more intensively [Figure 5]. According to IMDA’s Annual Survey of Infocomm
+Usage by Enterprises, the technology adoption rate (percentage of firms adopting at least one digital
+technology13) grew from 74% in 2018 to 94% in 2022. The technology adoption intensity (average number
+of digital technologies adopted per firm14) also increased from 1.7 to 2.1 over the same period.
+Figure 5: Overall technology adoption rate and adoption intensity, 2018-2022
+Technology Adoption Rate Technology Adoption Intensity
+Source: IMDA
+Digitalisation among both Small and Medium Enterprises (SMEs) and non-Small and Medium Enterprises (non-
+SMEs) has improved over time, especially for SMEs, whose technology adoption rate increased from 73.8% in
+2018 to 94.3% in 2022. However, there is a significant gap between SMEs and the larger firms (non-SMEs). For
+instance, the technology adoption intensity of SMEs improved to 2.1 in 2022, but this is considerably lower than
+the 5.7 for their larger counterparts [Figure 6].
+Figure 6: Technology adoption rate and intensity by SMEs and non-SMEs, 2018-2022
+Technology Adoption Rate Technology Adoption Intensity
+Source: IMDA
+13 Percentage of firms that adopted at least one digital technology from nine categories of digital technologies, namely Cybersecurity, Cloud, E-payment,
+E-commerce, Data Analytics, AI, Internet of Things (IoT), Blockchain, and Immersive Media. Data collection for Blockchain and Immersive Media only commenced
+in 2018 as they are relatively new technologies.
+14 Average number of digital technologies adopted per firm out of the nine technology categories listed above.
+
+--- PAGE 11 ---
+
+8 9
+Notably, there are differences in the rate of adoption of different digital technologies between SMEs and
+non-SMEs [Figure 7]. In general, non-SMEs registered higher levels of adoption over time across a range of
+technologies including Cloud Computing, Data Analytics, Artificial Intelligence (AI), etc.. On the other hand,
+progress among SMEs was relatively mixed. For instance, while SMEs have made substantial improvement
+in taking up E-payment, its level of adoption across other digital technologies like Data Analytics and AI
+remains comparatively lower.
+Figure 7: Adoption rates of selected technologies by SMEs and non-SMEs, 2018-2022
+E-payment Cloud Computing
+Data Analytics AI
+Source: IMDA
+
+--- PAGE 12 ---
+
+10
+There is also significant variation in the adoption of digital technologies across sectors [Figure 8]. Sectors like
+Finance & Insurance and Professional Services have adopted relatively more types of digital technologies
+on average, as compared to sectors like Construction, Real Estate, and Transportation & Storage.
+Figure 8: Average technology adoption intensity for key sectors, 2020-2022
+Finance & Insurance
+Professional Services
+Admin & Support Services
+Manufacturing
+Wholesale Trade
+Retail Trade
+Accommodation & Food Services
+Transportation & Storage
+Real Estate
+Construction
+Source: IMDA
+
+--- PAGE 13 ---
+
+10 11
+Manpower Associated With the Digital Economy
+Manpower in infocomm and digital technology-related roles is essential for sustaining the growth of the digital
+economy. With continued digitalisation, tech professionals will continue to be in demand across the economy.
+According to the IMDA Annual Survey on Infocomm Media Manpower, the number of tech jobs has grown
+at a CAGR of 5.3% p.a., from around 155,500 in 2017 to around 201,100 in 2022 [Figure 9]. Hence, their
+share of total employment15 reached 5.2% in 2022, up from 4.2% in 2017. The growth of tech professionals
+was driven by demand from both the I&C sector and non-I&C sectors, with the latter accounting for around
+57% of the total number of tech jobs in 2022.
+Figure 9: Number of tech jobs, 2017-2022
+I&C Non-I&C
+CAGR: CAGR:
+5.3% p.a. 4.7% p.a.
+5.2%
+of total
+4.2% employment CAGR:
+of total 6.1% p.a.
+employment
+Source: IMDA
+In terms of tech manpower profile, job roles related to Software & Applications account for the bulk of tech
+jobs with significant growth [Figure 10]. Likewise, there has been healthy growth in the number of job roles
+related to Cloud, Network & Infrastructure, Management, as well as Product Development16.
+Figure 10: Tech manpower profile and growth rates, 2017-2022
+CAGR (%) Bubble size: Number of tech jobs
+(2017-2022)
+Software &
+Applications,
+Product 62,200
+Cloud, Network &
+Development,
+Infrastructure,
+9,400
+32,100
+Sales &
+Al & Data, Marketing,
+8,400 15,900
+Source: IMDA Share of total tech jobs (%)
+15 Total employment is based on administrative records and the Labour Force Survey, MOM.
+16 Software & Applications covers job roles such as software engineer, developer engineer, etc.; Management comprises job roles as such chief information
+officer, chief technology officer, chief data officer, etc.; Product Development job roles consist of product manager, quality assurance engineer, etc.; Cloud,
+Network and Infrastructure job roles include infrastructure engineer/architect, network, automation & orchestration engineer, etc.; Cybersecurity job roles
+include cyber risk analyst, security engineer, etc.; AI & Data job roles include data/AI scientist, AI/Machine Learning engineer, etc.; Sales and Marketing job
+roles include roles such as ICT channel sales manager, ICT sales account manager etc.; Strategy and Governance job roles include business analyst, project
+manager, etc.; Operation and Support job roles include database support engineers, etc..
+
+--- PAGE 14 ---
+
+12
+The demand for tech manpower has benefited local workers [Figure 11], with locals accounting for more
+than 70% of tech jobs in Singapore. These jobs command a good wage, significantly higher than the overall
+residents’ median wages. The median wages of local tech professionals have also enjoyed steady growth
+over the years.
+Figure 11: Resident median monthly wage by all occupations and tech occupations17 (S$), 2017-2022
+All occupations Tech occupations
+Source: MOM
+17 Data for “All Occupations” pertains to median gross monthly income from work (excluding employer CPF) of full-time employed residents from Comprehensive
+Labour Force Survey, MOM. Data for “Tech Occupations” pertains to median gross monthly wages (excluding employer CPF & bonus) of full-time resident
+employees from Occupational Wage Survey, MOM. Data for 2022 were based on Singapore Standard Occupational Classification (SSOC) 2020 and data for
+2017 were based on SSOC 2015.
+
+--- PAGE 15 ---
+
+12 13
+Conclusion
+We start from a position of strength. Our digital economy contributes a sizable 17.3% of Singapore’s GDP
+and is growing robustly. The rise in digitalisation across the economy has also contributed to healthy
+demand for our tech manpower, which in turn has benefited local workers, across all sectors. Despite the
+recent tech sector lay-offs, the demand for tech jobs is likely to remain resilient, as the digitalisation of the
+economy deepens.
+The tech space is a fast-moving one. There are many competitors to Singapore’s status as a technology hub.
+IMDA will double our efforts and work with the industry, the labour movement, academia, and research
+institutions to raise our game. We are putting in place enablers at the national, sectoral, and firm levels,
+such as InvoiceNow, Industry Digital Plans, and SMEs Go Digital program respectively. We will continue
+to support enterprises in digital transformation and empower Singaporeans with the skills needed to
+seize opportunities in the digital domain. Together, our efforts will help build a stronger digital future for
+Singapore and Singaporeans.
+
+--- PAGE 16 ---
+
+14
+Annex A:
+Review of Literature on the Measurement of the
+Digital Economy
+A1. In this section, we will review the various works on digital economy measurement by different countries
+and international organisations.
+A2. There is no consensus or globally agreed method on how to practically measure the digital economy.
+Over the years, there have been several studies that attempted to measure the size of the digital
+economy. Notably, these studies have varied interpretations of what components of the economy could
+be defined as “digital”, which aspects of the digital economy could be delineated and measured, as
+well as what methodologies could be used to measure the size of the digital economy.
+A3. Due to the definitional and methodological differences, the scopes of digital economy measurements
+also vary across studies. Thus, estimates of the digital economy sizes are not easily comparable across
+jurisdictions as well as studies. Caution must be exercised with international comparison. Instead, our
+main purpose in estimating the size of our digital economy in Singapore is to monitor its direction
+and pace of change.
+A4. The following paragraphs summarise some studies that proposed to define and measure the size of
+the digital economy.
+A5. To advance efforts to measure the digital economy in an internationally consistent manner, OECD has
+proposed a framework to develop digital supply-use tables (SUTs) which is core to the compilation
+of the Digital Economy Satellite Accounts (DESA)18. One of the key components of the DESA is the
+identification and the definition of Digital Industries. The scope of the Digital Industries is broad,
+encompassing the ICT sector as a key driver/enabler of digital transformation and other digital
+industries that use digital technologies significantly as part of their business models (e.g. digital only
+firms providing financial and insurance services, e-tailers).
+A6. Some NSOs and organisations have started publishing experimental sets of digital SUTs and using them
+to provide estimates of their respective countries’ Digital Industries to represent the digital economy:
+a. The United States Bureau of Economic Analysis (BEA) published annual reports on the US Digital
+Economy. In its latest report19, it is estimated that the digital economy accounted for 10.3% of
+United States’ GDP in 2021.
+b. Applying the DESA framework, Statistics Canada published digital SUTs at aggregate level20 with
+estimates of Canada’s digital economy to be 5.9% of GDP in 2020.
+c. The Office for National Statistics of United Kingdom (ONS) utilised similar digital SUTs framework
+and developed the definition of digital products and “digitally affected” non-digital products.
+Based on the ONS’s estimates21, a “narrow” digital economy size covering digital products was
+reported to be 5.0% of UK’s GDP in 2020, while a “broad” digital economy size based on both
+digital products and a broad definition of “digitally affected” non-digital products, was reported
+to be 20.7% of UK economy.
+18 Internationally, work on the DESA is still on-going to discuss matters pertaining to the conceptual (ensuring consistent definition of concepts) and practical
+(ensuring availability of relevant data) aspects of developing the digital SUTs.
+19 “New and Revised Statistics of the U.S. Digital Economy, 2005–2021”, Bureau of Economic Analysis, U.S. Department of Commerce, November 2022.
+20 “Digital supply and use tables, 2017 to 2020”, Statistics Canada, July 2023.
+21 “UK Digital Economy Research: 2020”, the Office for National Statistics, May 2023.
+
+--- PAGE 17 ---
+
+14 15
+d. The International Monetary Fund (IMF) also released experimental digital economy measurements22
+using a simplified SUTs approach to derive the VA of digital industries for a select group of countries.
+The size of the VA of digital industries for countries such as Australia, Colombia, and the United
+States were approximately 5.8%, 4.7%, and 9.9% of each country’s GDP in 2019 respectively.
+A7. In contrast, there are significantly fewer studies that attempted to estimate the economic value arising
+from the digitalisation across the rest of the economy.
+A8. One such example is the Oxford Economics and Huawei’s (2017) report23. This report did not attempt
+to define digital industries. Instead, the authors used a growth accounting approach to estimate the
+returns to digital assets across all sectors of the economy, and further estimated an average spillover
+impact of such accumulated digital assets over a longer time horizon using econometrics modelling. They
+concluded that the digital economy accounted for 15.5% of global GDP in 2016. The Oxford Economics
+and Huawei’s approach borrows from the extensive literature using growth accounting methodology to
+estimate the contributions of ICT capital. For example, Jorgensen’s (2001) work “Information Technology
+and the U.S. Economy” was among the key works on the role of IT investment as a source of the economic
+growth. Vu (2013)24 similarly applied the same approach to Singapore and examined the contributions
+of ICT investment to Singapore’s GDP growth during 1990-2008. Our methodology for estimating the
+VA from digitalisation aligns with these growth accounting works.
+A9. A study by Asian Development Bank25 (ADB) on the measurement of the digital economy in 2021
+attempted to measure the size of the digital economy by using the input-output framework to estimate
+the GDP attributable to digital economy, which comprises (i) the VA of “the core of the digital economy”
+or “digital industries”, and (ii) the VA from other “non-digital industries” arising from their supply of
+inputs to the core. The former is similar in approach to studies described in paragraph A6. The latter is
+conceptually not the same as the VA from digitalisation used in this report and in paragraph A8. Instead,
+it reflects the portion of the non-digital industries’ VA that enables production in the digital industries.
+A10. Based on their approach, ADB reported the digital economy size for selected countries such as Denmark
+(4.9% in 2016), Japan (5.9% in 2015), Korea (5.1% in 2018), Singapore (6.8% in 2016), and US (9.2% in
+2019), to name a few.
+A11. In conclusion, a variety of proposed definitions and measurement methods related to the digital
+economy exist. There is no globally agreed standard for defining and measuring the size of digital
+economy. Different organisations and economies have used different definitions, assumptions, and
+methodologies.
+A12. Therefore, estimates on the size of the digital economy are not easily comparable across jurisdictions.
+Caution has to be exercised when comparing different estimates of the size of the digital economy.
+A13. Instead, our main purpose in estimating the size of Singapore’s digital economy is to monitor its
+direction and pace of change over time.
+22 “Experimental Indicators of Digital Industries in Select Countries”, International Monetary Fund Working Papers, WP/22/197, September 2022.
+23 “Digital Spillover: Measuring the True Impact of the Digital Economy”, Huawei and Oxford Economic, 2017.
+24 “Information and Communication Technology (ICT) and Singapore’s economic growth”, Vu, Information Economics and Policy, 2013(25) 284-300.
+25 “Capturing the Digital Economy: A Proposed Measurement Framework and its Applications”, Asian Development Bank, August 2021.
+
+--- PAGE 18 ---
+
+16
+Annex B:
+Methodology for Estimating the VA From
+Digitalisation in the Rest of the Economy
+B1. In the economics literature, growth accounting is established as a well-tested approach to quantify the
+contributions of different input factors to output and productivity growth. The strength and intuitive
+appeal of this methodology lies in determining the sources of output and productivity growth based
+on a well-designed and consistent economic framework.
+B2. Our method of measuring the VA from digitalisation is built on this approach, with innovations in
+identifying and accounting for the digital spendings as intermediate inputs, and hence estimating the
+comprehensive contributions of digital capital and spendings in gross value-added across the non-
+digital sectors of the economy.
+B3. Following Jorgenson (2001) and Cardona et al. (2013), we started from a Cobb-Douglas production
+function, which postulates the relationship between output and input factors:
+where is capital inputs, is labour inputs and refers to total factor productivity. Applying a set of
+the neoclassical assumptions of competitive markets and constant returns to scale, together with the
+decomposition of digital versus non-digital capital, the above equation could be transformed into:
+where refers to the average share in the total factor income of the subscripted inputs. Essentially, this
+equation decomposes output growth into contributions of capital inputs (including both digital capital
+and non-digital capital) and labour inputs as well as the total factor productivity. The assumption of
+constant returns to scale of the aggregate input function implies that:
+where is the income share of digital capital in total output, which is central in our estimation.
+Following Vu (2013), we could obtain the income share of capital inputs (including digital and non-
+digital capital) based on the relative size of gross operating surplus, compensation of employees and
+GDP. The remaining task is to estimate .
+B4. In order to differentiate the contribution of digital versus non-digital capital, the key is to identify a
+measurable category of digital capital, out of the traditional capital inputs. Based on the prevailing growth
+accounting exercises in Singapore context, we defined a total of 6 capital categories and grouped them
+into non-digital and digital capital, detailed in the table below.
+Item Capital Category Abbreviation Group
+[i] Land, Building and Structure Buildings
+[ii] Transport Equipment Transport
+Non-digital Capital
+[iii] Non-computer Machinery & Equipment Machinery
+[iv] Research & Development R&D
+[v] Computer, Peripheral & Telecommunication Equipment Hardware
+Digital Capital
+[vi] Computer Software Software
+
+--- PAGE 19 ---
+
+16 17
+B5. To account for the intermediate consumption of digital goods and services, which we deem to
+contribute to the production process the same way as the digital capital but was excluded from the
+national accounting capital stock series, we identified the share of relevant intermediate inputs, such
+as software programming and IT services, and added them into the Software capital category.
+B6. Hence, by the above definition, using data sources provided by Singapore Department of Statistics
+(DOS), Singapore Economic Development Board (EDB), and the Building and Construction Authority
+(BCA), we could construct the annual real capital stock series by digital and non-digital categories, as
+well as by industries. Applying the standard growth accounting techniques and a set of assumptions
+on real interest rates26, depreciation rates27 etc., it then led us to the estimation of income share
+for digital capital out of GDP. This allows us to estimate the portion of the VA in other sectors (e.g.
+finance & insurance, wholesale trade, manufacturing etc.) of the economy that is contributed by
+digital capital, i.e. VA from the digitalisation in the rest of the economy (after removing the overlaps
+with the I&C sector).
+References
+Jorgenson, 2001. Information technology and the US economy. American Economic Review 91 (1), 1-32.
+Cardona, Kretschmer and Strobel, 2013. ICT and productivity: conclusions from the empirical literature.
+Information Economics and Policy 25, 109-125.
+Vu, 2013. Information and Communication Technology (ICT) and Singapore’s economic growth. Information
+Economics and Policy 25, 284-300.
+26 Following the literature, we used real interest rates, representing “exogenous rate of return”, in our estimation. There are discussions in the choice of rates
+for real interest rates, with the theoretical ground that it should be a uniform rate across years and across different types of capital categories. In Singapore
+context, we adopted an average of deflated prime lending rates to proxy the real interest rates for our study period.
+27 Depreciation rates for each capital category were derived by assuming a linear depreciation and an average service life. The average service lives assumptions
+are aligned with the prevailing practice of DOS in compiling capital stock series, as well as with reference to US BEA, and that of the Eurostat and OECD’s
+recommendations (Joint Eurostat OECD Task Force on Land and Other Non-Financial Assets, 2020).
+
+--- PAGE 20 ---
+
+18

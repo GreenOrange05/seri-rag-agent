@@ -1,0 +1,10 @@
+# Environments
+venv/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# Data 
+data/faiss_index/

@@ -1,0 +1,834 @@
+
+
+--- PAGE 1 ---
+
+SINGAPORE
+DIGITAL ECONOMY
+REPORT
+Cover
+2024/2025
+
+--- PAGE 2 ---
+
+2
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+CONTENTS
+3 6 10
+EXECUTIVE OVERVIEW OF ENTERPRISE
+SUMMARY SINGAPORE’S DIGITALISATION
+DIGITAL ECONOMY
+15 21 26
+STATE OF AI TECH MANPOWER CONCLUSION
+ADOPTION AND TECH SKILLS
+
+--- PAGE 3 ---
+
+3
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+EXECUTIVE SUMMARY
+This is the third edition of the Singapore Digital Economy (SGDE) Report, which provides a holistic analysis
+of the state of Singapore’s Digital Economy (DE) in 2024. Consistent with previous years’ reports, it covers
+key aspects of Singapore’s DE such as its size, the state of enterprise digitalisation, and the state of tech
+manpower. This report will also delve deeper into the adoption of Artificial Intelligence (AI) by enterprises
+and workers, and tech skills required for tech workers.
+Singapore’s Digital Economy continues to expand in 2024
+We have adopted the same methodology to determine Singapore’s DE size as in the previous two reports,
+namely the sum of value added (VA) of the Information & Communications (I&C) sector and the VA arising
+from digitalisation in the rest of the economy.
+In 2024, the nominal VA of Singapore’s DE reached S$128.1 billion, accounting for 18.6% of GDP, up
+from 18.0% of GDP in 2023. Thus, Singapore’s DE now accounts for more than $1 of every $6 of GDP.
+Between 2019 and 2024, the VA of the DE grew at a compound annual growth rate (CAGR) of 12.0%,
+significantly faster than that of the nominal GDP (7.3%).
+Similar to 2023, the VA arising from digitalisation in the rest of the economy made up two-thirds of the
+DE size. In turn, the key non-I&C sectors contributing to this component of the DE size were Finance &
+Insurance, Wholesale Trade, and Manufacturing. The remaining one-third of the DE size was contributed
+by the I&C sector. Both components of DE continued to grow in 2024.
+
+--- PAGE 4 ---
+
+4
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+Enterprise Digitalisation continues to deepen
+Enterprises registered progress in their digitalisation journey in 2024. This was evident in several
+areas, such as:
+The digital adoption rate among SMEs improved as 95.1% of SMEs
+adopted at least one digital area in 2024, up from 94.5% in 2023. Thus,
+the breadth of digitalisation among SMEs continued to widen.
+Not only are more SMEs going digital, SMEs are also deepening their
+digitalisation, such as applying digitalisation in more areas and in adopting
+sector-specific digital solutions (not just digital solutions for generic
+business functions that apply across sectors). In terms of digital adoption
+intensity, SMEs adopted an average of 2.3 (out of six) digital areas in
+2024, up from 2.0 digital areas in the preceding year. This was the largest
+annual increase in digital adoption intensity for SMEs in recent years and
+is driven largely by their AI adoption.
+SMEs also ramped up their adoption of sector-specific digital solutions as
+recommended in IMDA’s Industry Digital Plans (IDPs), with 97% of SMEs
+taking up at least one such solution in 2024, a step up from 85% in 2023.
+AI Adoption spreads and strengthens among both firms
+and workers
+The adoption of AI by both non-SMEs and SMEs accelerated notably in 2024. Among SMEs, the AI
+adoption level tripled from 4.2% to 14.5% in 2024, driven mainly by uptake of off-the-shelf generative AI
+tools. The share of non-SMEs that adopted AI also increased substantially, rising by around 20 percentage
+points from 44.0% in 2023 to 62.5%.
+According to a recent pulse survey by IMDA of AI-using firms, AI was used across a range of business
+functions, with non-SMEs and SMEs implementing AI across an average of 5 and 3 functions respectively.
+The top business functions that firms used AI in were Information Technology, Customer Service, and
+Finance & Accounting.
+These AI-using firms also plan to take proactive steps to deepen their AI capabilities over the next
+1-2 years. Specifically, the three most common business strategies that firms are likely to implement are
+training and upskilling of their existing workforce’s AI capabilities, redesigning of existing jobs to better
+integrate AI into their workflows and business processes, and enhancing their IT and data infrastructure
+and increasing AI-related investments. Thus, workforce and infrastructure readiness are among the priority
+strategies these AI-using firms plan to proactively focus on to deepen their AI capabilities.
+
+--- PAGE 5 ---
+
+5
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+According to a separate pulse survey by IMDA of individuals, Singapore workers have adopted AI
+widely, with about 3 in 4 workers surveyed (73.8%) using AI tools at work (i.e. AI users), most of
+whom used such tools several times a week or daily.
+Among the surveyed AI users, the technology was most commonly used
+for brainstorming and ideation tasks (58%). This was followed by use cases
+like writing and editing (54%) and administrative tasks (42%).
+AI is delivering benefits for workers across multiple dimensions.
+A large majority (85%) of AI users reported improvements in productivity,
+time savings, and work quality, i.e. doing work better. Beyond such
+efficiency gains, near half of AI users indicated using AI to enhance their
+creativity (i.e. doing better work), while one-third saw benefits in using
+AI for learning and capability development (i.e. for learning and growth).
+About 7 in 10 AI-using workers receive support from their employers.
+This support most commonly took the form of internal and external training
+(62%), access to paid AI tools (42%), as well as relevant AI usage policies
+and guidelines (30%). Extending these support mechanisms to reach the
+remaining workers would be important in nurturing an AI-ready workforce.
+Tech Manpower continues to grow, with increased demand for
+workers with skills in cloud and AI
+Despite global uncertainties, demand for tech professionals continued to expand in 2024, led by
+demand for such professionals from especially the non-I&C sectors as these sectors continued to
+digitalise. The number of tech professionals rose by 2.7% from 208,300 in 2023 to 214,000 in 2024,
+making up 5.3% of total employment. Growth in the number of tech professionals was led by the non-
+I&C sectors, which grew by 3.9%, faster than the 1.1% in the I&C sector.
+Tech jobs continued to offer good wages in 2024, with median wages (S$7,950, up from S$7,000 in
+2023) higher than the overall resident median wages (S$4,860 in 2024).
+Based on job postings data for tech professionals, the demand by firms for tech skills associated
+with cloud platform and scalable digital infrastructure, rose over the 2019-2024 period. In addition,
+programming skills such as Python and SQL remained highly sought after by employers. On the other
+hand, skills in web development such as JavaScript, HTML, and CSS became less prominent over time.
+In tandem with rising AI adoption, the demand for tech professionals with AI skills grew between
+2019 and 2024. The share of tech job postings requiring AI skills rose from 11% in 2019 to 14%
+in 2024. Firms in the I&C sector accounted for the largest increase in demand of AI skills among
+tech professionals.
+
+--- PAGE 6 ---
+
+6
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+This annual Singapore Digital Economy (SGDE) Report seeks to provide a holistic analysis of the state of
+Singapore’s Digital Economy (DE).
+OVERVIEW OF SINGAPORE’S
+DIGITAL ECONOMY
+Using the same approach as outlined in SGDE Reports 2023 and 2024, we define Singapore’s DE as
+comprising two components:
+Value-added (VA) VA arising from
+of the Information digitalisation in the
+& Communications rest of the economy
+(I&C) sector (i.e. excluding I&C sector)
+There is a lack of consensus internationally on how to define and measure the digital economy. Various
+countries, organisations, and academics have used different definitions of digital economy, with different
+assumptions and methodologies. Therefore, estimates on the size of digital economy are not easily
+comparable across jurisdictions. Caution needs to be exercised with international comparison of estimates
+of the digital economy.
+
+--- PAGE 7 ---
+
+7
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+The I&C sector1 is a key enabler of digitalisation, supplying digital
+services (e.g. telecommunication services, computer programming
+& IT consultancy, cloud computing, software developments), as
+well as production and distribution of content and media. The
+I&C sector is commonly used by National Statistical Offices for
+GDP sectoral classification purposes, including in Singapore.
+For the second component i.e. digitalisation in the rest of the
+economy, we define it as the VA generated from investment
+in digital capital across all other sectors (i.e. excluding the I&C
+sector). Firms invest in digital technologies to better reach
+customers, optimise business processes, as well as for product and
+service innovation, which may in turn lead to improved economic
+outcomes. As such, part of the VA of the non-I&C sectors can be
+attributed to such digital investment. We estimate such VA based
+on the returns from digital capital investment and spending by
+different sectors using growth accounting technique2.
+In 2024, Singapore’s DE continued to be a key driver of the economy, with the nominal DE VA
+reaching S$128.1 billion, accounting for 18.6% of Singapore’s GDP, rising from S$116.1 billion, or
+18.0% of GDP in 20233. Over the period of 2019 to 2024, the nominal DE VA expanded at a compound
+annual growth rate (CAGR) of 12.0% per annum, significantly outpacing the overall nominal GDP CAGR
+of 7.3% during the same period.
+The bulk of the nominal DE VA stems from digitalisation efforts across the broader economy. Specifically,
+VA arising from digitalisation across non-I&C sectors generated two-thirds of DE VA, contributing 12.6%
+to GDP in 2024, while the I&C sector accounted for the remaining one-third with a 6.0% GDP contribution
+[Infographic 1].
+INFOGRAPHIC 1: COMPOSITION OF SINGAPORE’S DIGITAL ECONOMY SIZE (% OF GDP), 2024
+I&C sector
+6.0%
+SGDE Size
+18.6%
+Digitalisation in
+the rest of the
+economy
+12.6%
+1 In the Singapore Standard Industrial Classification (SSIC) system, the I&C sector corresponds to SSIC 58-63.
+2 The growth accounting technique is used to estimate the portion of the VA in other sectors (Finance & Insurance, Wholesale Trade, Manufacturing,
+etc.) of the economy that is contributed by digital capital. In particular, it decomposes the total returns to capital owners, i.e. gross operating
+surplus (GOS) which is a major component of GDP accounting from income approach, into returns to digital capital and returns to non-digital
+capita. Details of the methodology is discussed in the Singapore Digital Economy Report 2023.
+3 The DE VA for 2023 has been revised due to the annual revision to National Accounts statistics by Singapore Department of Statistics (DOS).
+
+--- PAGE 8 ---
+
+8
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+The I&C sector continued to demonstrate strong growth momentum in the Singapore economy
+[Fig 1]. In 2024, the sector’s nominal VA reached S$41.3 billion, accounting for 6.0% of GDP. The sector
+also saw its real VA growing by 5.0% year-on-year (yoy) in 2024, outpacing the overall real GDP growth
+of 4.4%. Among various sectors, I&C was also ranked as one of the fastest-growing sectors, behind only
+Finance & Insurance (6.8%) and Transportation & Storage (5.8%).
+FIGURE 1: I&C SECTOR’S NOMINAL VA AND ANNUAL SECTORAL REAL VA GROWTH
+I&C nominal VA and % share of GDP, 2019–2024
+S$41.3bn
+S$38.8bn
+S$34.2bn
+S$30.9bn
+S$26.6bn
+S$23.0bn
+6.0%
+6.0%
+5.1%
+5.6%
+5.8%
+4.7%
+2019 2020 2021 2022 2023 2024
+Sectoral Real VA growth, 2023–2024
+Finance & Insurance 6.8%
+Transportation & Storage 5.8%
+Information & Communications 5.0%
+Wholesale & Retail Trade 4.8%
+Construction 4.5%
+SG GDP 4.4%
+Manufacturing 4.3%
+Accommodation & Food Services 3.0%
+Other Service Industries 3.0%
+Professional Services 1.2%
+Real Estate and Admin & Support 0.4%
+Source: DOS
+
+--- PAGE 9 ---
+
+9
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+The nominal VA from digitalisation in the rest
+of the economy also showed growth. In 2024, FIGURE 2: NOMINAL VA FROM
+it rebounded strongly to reach S$86.8 billion DIGITALISATION IN THE REST OF ECONOMY
+[Fig 2], representing a yoy growth of 12.2%. As AND %% SHARE OF GDP, 2019-2024
+a share of the economy, VA from digitalisation
+accounted for 12.6% of GDP in 2024, up from the
+S$86.8bn
+12.0% in 2023. The VA from digitalisation in the rest 11.8% p.a. S$83.7bn
+of the economy grew at a CAGR of 11.8% between
+S$77.3bn
+2019 and 2024, reflecting the continued deepening
+S$68.6bn
+of digital transformation across various sectors of
+the economy.
+S$53.1bn
+S$49.7bn
+Looking at the sectoral breakdown of VA from
+digitalisation in 2024, the Finance & Insurance sector
+remained the largest contributor, followed by the
+10.2% 11.6% 12.3% 12.5% 12.0% 12.6%
+Wholesale Trade sector and the Manufacturing
+sector [Fig 3]. Together, these three sectors
+contributed the majority of the VA from digitalisation,
+2019 2020 2021 2022 2023 2024
+highlighting their significant role in driving
+Source: IMDA
+Singapore’s digital transformation.
+FIGURE 3: NOMINAL VA FROM DIGITALISATION FOR SELECTED SECTORS, 2019 AND 2024
+CAGR (2019-2024)
+Finance & S$35.1bn
+5.2%
+Insurance
+S$27.2bn
+S$27.2bn
+Wholesale Trade 34.5%
+S$6.2bn
+S$9.5bn
+Manufacturing 11.3%
+S$5.6bn
+Public & S$5.0bn
+8.4%
+Social Services
+S$3.4bn
+S$4.4bn
+Professional Services 4.4%
+S$3.5bn
+Transportation & S$2.9bn
+8.5%
+Storage
+S$1.9bn
+S$0.9bn
+Construction 17.2%
+S$0.4bn
+Real Estate and S$0.8bn
+Admin & Support -1.8%
+S$0.9bn
+S$0.7bn
+Retail Trade 10.1%
+S$0.4bn
+Accommodation & S$0.4bn
+Food Services 7.0%
+S$0.3bn
+Source: IMDA 2024 2019
+
+--- PAGE 10 ---
+
+10
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+ENTERPRISE DIGITALISATION
+Enterprises in Singapore sustained their digitalisation efforts in 2024, with both digital adoption rate and
+digital adoption intensity out of the six digital areas examined4 registering steady gains. Specifically, the
+digital adoption rate among all enterprises continued to increase – 95.1% of all enterprises adopted
+at least one digital area in 2024, up from 94.6% in 2023. Firms also made substantial progress in digital
+adoption intensity – on average, a firm adopted 2.3 of the six digital areas in 2024, compared to 2.0 in 2023.
+4 Digital adoption rate refers to the percentage of firms that adopted at least one out of the six digital areas, namely Cybersecurity, Cloud,
+E-payment, E-commerce, Data Analytics and AI. Digital adoption intensity refers to the average number of digital areas adopted per firm, out
+of the six areas examined.
+
+--- PAGE 11 ---
+
+11
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+Large enterprises (non-SMEs) maintained their lead in digitalisation [Fig 4]. These firms have adopted an
+average of 5.0 out of the 6 digital areas examined, an uptick from the 4.7 level registered in 2023, indicating
+their continued effort to digitalise. SMEs have also made significant improvements in digitalisation,
+with their digital adoption intensity rising from 2.0 to 2.3, the largest yoy increase in recent years.
+FIGURE 4: DIGITAL ADOPTION RATE AND INTENSITY BY SMES AND NON-SMES, 2019-2024
+Digital Adoption Rate
+100% 100% 100% 100% 100%
+97.5% 94.0% 94.5% 95.1%
+90.5%
+87.1%
+84.5%
+2019 2020 2021 2022 2023 2024
+Digital Adoption Intensity (max = 6)
+5.0
+4.7 4.7
+4.3
+4.1 4.1
+2.3
+1.9 1.9 2.0
+1.7 1.7
+2019 2020 2021 2022 2023 2024
+SMEs Non-SMEs
+Source: IMDA
+
+--- PAGE 12 ---
+
+12
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+The improvement in digital adoption intensity was also evident across all sectors [Fig 5]. The Finance
+& Insurance sector maintained its position at the forefront of digitalisation with an adoption intensity of
+3.13, while the Professional Services sector demonstrated substantial advancement, reaching 2.60. In
+contrast, sectors such as Construction, Real Estate, and Transportation & Storage registered lower digital
+adoption intensity levels, although each showed improvements compared to the previous year.
+FIGURE 5: DIGITAL ADOPTION INTENSITY FOR ALL ENTERPRISES BY SECTORS, 2023 AND 2024
+3.13
+Finance & Insurance
+2.84
+2.60
+Professional Services
+2.12
+2.49
+Admin & Support Services
+2.10
+2.08
+Wholesale Trade
+1.85
+2.03
+Accommodation & Food Services
+1.96
+2.00
+Manufacturing
+1.94
+1.94
+Retail Trade
+1.93
+1.88
+Transportation & Storage
+1.78
+1.85
+Real Estate
+1.61
+1.71
+Construction
+1.41
+Source: IMDA 2024 2023
+
+--- PAGE 13 ---
+
+13
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+There has been encouraging progress in the adoption of different types of digital solutions among SMEs
+[Fig 6]. The share of SMEs that adopted at least one digital solution for general business functions5 rose from
+82% in 2023 to 83% in 2024, while the adoption of sector-specific digital solutions as recommended
+in IMDA’s Industry Digital Plans (IDPs)6 among SMEs increased considerably – 97% of SMEs adopted
+at least one sector-specific digital solution7 last year compared with 85% in 2023. This suggests that SMEs
+are increasingly implementing digital solutions tailored to their industry needs.
+FIGURE 6: SMES’ ADOPTION RATES OF AT LEAST ONE DIGITAL SOLUTION BY SOLUTION TYPES,
+2023 AND 2024
+97%
+85%
+83%
+82%
+Digital solution for general business functions Sector-specific digital solutions
+Source: IMDA 2023 2024
+5 These digital solutions address general business functions and could be applied across sectors, such as resource management and revenue
+generation functions. Such digital solutions include Accounting Management, Human Resources Management, Customer Relationship
+Management, Collaboration Tools, etc.
+6 Industry Digital Plans (IDPs) provide SMEs with a step-by-step digitalisation guide, which includes a tailored set of sector-specific digital solution
+categories for adoption by SMEs at different stages of their growth. Examples of sector-specific solution categories include Integrated POS
+(with mobile features) in the Retail sector, and Digital Ordering systems in the Food Services sector.
+7 This statistic is based on the firms within 15 industry segments where IDPs were rolled out as of 2023.
+
+--- PAGE 14 ---
+
+14
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+In terms of advanced digital areas such as Cloud Computing, Data Analytics, and AI, both non-SMEs
+and SMEs made progress in 2024 [Fig 7]. The uptick in adoption was most notable in the digital area
+of AI8. For instance, the AI adoption rate among non-SMEs increased by almost 20 percentage points (pp),
+rising from 44.0% in 2023 to 62.5% in 2024, while that for SMEs more than tripled from 4.2% to 14.5% in
+2024. For SMEs, the increase in AI adoption was mainly driven by micro and small SMEs9, majority of whom
+are adopting off-the-shelf generative AI (Gen AI) tools such as ChatGPT, Gemini, Midjourney, Copilot, etc.
+FIGURE 7: ADOPTION RATES OF SELECTED DIGITAL AREAS BY SMES AND NON-SMES, 2023 AND 2024
+96.9%
+92.7%
+88.9% 89.7%
+62.5%
+44.0%
+35.9%
+30.6%
+16.5%
+14.2%
+14.5%
+4.2%
+SMEs Non-SMEs SMEs Non-SMEs SMEs Non-SMEs
+Cloud Computing Data Analytics AI
+Source: IMDA SMEs 2023 2024 Non-SMEs 2023 2024
+The adoption of AI has also brought about positive impact on firms. SMEs which adopted AI-enabled
+digital solutions under the Productivity Solutions Grant (PSG) reported average cost savings of 52%10
+in 2024. Notably, SMEs that adopted AI-powered cybersecurity solutions under the PSG achieved
+even higher average cost savings of 71%, highlighting the strong returns from investing in AI-enhanced
+security measures.
+8 AI is defined as a set of tools that enable computers or machines to perform tasks which typically require human intelligence. Some applications
+of AI include content generation, customer engagement, analytics, and process automation. It also covers AI enabled digital solutions where
+AI is integrated with other software or platforms. The AI adoption rate refers to the percentage of firms which used AI according to the
+above definition.
+9 Micro SMEs refer to firms with 10 or fewer employees, while small SMEs are firms with 11 to 100 employees.
+10 Based on PSG applicants’ self-declared business outcomes after adopting the digital solutions. The statistic represents the average cost saving
+per firm per PSG application of AI-enabled digital solution.
+
+--- PAGE 15 ---
+
+15
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+STATE OF AI ADOPTION
+This section provides a deeper dive into AI adoption patterns
+among enterprises and workers in Singapore.
+In 2024, all sectors recorded higher AI adoption rates as
+compared to last year, with the I&C and Professional Services
+sectors leading the advancement [Fig 8]. These two sectors
+also recorded the highest adoption rates of 35.9% and 25.7%
+in 2024 respectively. The Finance & Insurance sector followed
+with an adoption rate of 22.6%.
+FIGURE 8: AI ADOPTION RATES BY SECTORS, 2023 AND 2024
+35.9%
+I&C
+12.1%
+25.7%
+Professional Services
+5.1%
+22.6%
+Finance & Insurance
+11.0%
+18.0%
+Real Estate and Admin & Support
+4.7%
+10.3%
+Accommodation & Food Services
+2.3%
+8.9%
+Manufacturing
+2.3%
+8.9%
+Retail Trade
+4.4%
+7.4%
+Construction
+2.5%
+6.9%
+Transport & Storage
+1.8%
+6.6%
+Wholesale Trade
+2.4%
+Source: IMDA 2024 2023
+
+--- PAGE 16 ---
+
+16
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+AI usage among enterprises
+FIGURE 9: TYPES OF AI TOOLS ADOPTED BY
+According to a recent IMDA pulse survey of AI-USING FIRMS IN 2025
+enterprises11, AI-using firms in Singapore are
+demonstrating varying levels of AI maturity. While
+84%
+the majority of AI-using firms (84%) reported using
+52%
+off-the-shelf Gen AI tools, more than half have 44%
+adopted AI-enabled digital solutions (i.e. digital
+solutions with AI functionality for domain specific
+tasks such as human resource and accounting
+Off-the-shelf Domain Specific AI Customised /
+software12). Another sizeable 44% of AI-using firms GenAI Tools Enabled Solutions In-house Developed
+AI Solutions
+have implemented customised or proprietary AI
+Source: IMDA
+tools [Fig 9].
+The surveyed firms that have adopted AI are implementing the technology across a range of
+business functions, with SMEs using AI in an average of 3 functions and non-SMEs in 5 functions.
+AI was most widely used in IT (49% of AI-using firms), followed by Customer Service (43%) and Finance
+& Accounting (40%) [Fig 10].
+FIGURE 10: AI ADOPTION RATES BY BUSINESS FUNCTIONS AMONG AI-USING FIRMS IN 2025
+Information Technology (IT) 49%
+Customer Service 43%
+Finance & Accounting 40%
+Business Development & Sales 34%
+Human Resources 34%
+Marketing & Communications 33%
+Research & Development 32%
+Operations & Supply Chain 29%
+Strategy & Management 29%
+Product Development 26%
+Legal & Compliance 14%
+Source: IMDA
+11 Analysis in this segment is based on an IMDA-
+commissioned pulse survey of about 500 AI-
+using firms, conducted in May and June 2025.
+12 Examples of such digital solutions with AI
+functionalities include Xero Accounting, Marketo,
+Info-Tech Cloud HRMS, etc.
+
+--- PAGE 17 ---
+
+17
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+Different business functions leverage AI in distinct ways to meet their specific needs [Fig 11]. For
+example, IT function used AI for a variety of use cases, from data exploration & analytics use cases such as
+data visualisation and reporting, to process automation use cases such as workflow and task automation.
+Customer Service function predominantly used AI-powered chatbots and visual assistants to engage
+customers, whereas Marketing & Communications function mainly utilised AI for the creation of written and
+visual content. Finance & Accounting and Human Resources functions focused heavily on data exploration
+& analytics, using AI for predictive forecasting and automated data visualisation.
+FIGURE 11: AI USE CASES FOR SELECTED BUSINESS FUNCTIONS IN 2025
+Information Customer Finance & Human Marketing &
+Technology Service Accounting Resources Comms
+Content Creation
+Generating and editing of written content 40% 32% 28% 42% 56%
+Translation and language processing 33% 31% 25% 36% 42%
+Creation and editing of images, videos, and
+38% 29% 25% 39% 58%
+other visual content
+GenAI in software development
+41% 29% 29% 39% 35%
+(coding, debugging, etc.)
+Data Exploration & Analytics
+Pattern identification and insights generation 51% 39% 46% 56% 50%
+Risk assessment and fraud detection 45% 34% 51% 46% 37%
+Automated data visualisation and reporting 56% 43% 57% 57% 52%
+Predictive analytics and forecasting 53% 41% 60% 60% 45%
+Process Automation
+Document processing and data extraction 46% 38% 45% 48% 38%
+Workflow and task automation in business processes 50% 36% 55% 49% 39%
+Inventory and resource management 35% 29% 31% 37% 28%
+Automated quality control, monitoring, and inspection 48% 30% 41% 43% 39%
+AI-powered autonomous systems for operations 45% 27% 38% 45% 33%
+Engage with People
+AI-powered chatbots and virtual assistants for
+43% 59% 35% 58% 43%
+customer services
+Personalised marketing and recommendations 35% 47% 35% 42% 47%
+Customer/employee feedback analysis and
+41% 55% 36% 51% 52%
+sentiment tracking
+Source: IMDA
+Note: The percentage represents the share of firms selecting each AI use case, calculated based on firms using AI within respective
+business functions.
+
+--- PAGE 18 ---
+
+18
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+The surveyed AI-using firms show willingness to take proactive steps to deepen their AI capabilities
+over the next 1-2 years [Fig 12]. More than two-thirds of such firms (68%) plan to prioritise the training
+and upskilling of their existing workforce, likely reflecting enterprises’ recognition that human capital
+development is crucial for the successful implementation of AI. A sizeable 63% of AI-using firms also
+indicated their intention to redesign existing jobs to better integrate AI into their workflows and business
+processes. Infrastructure readiness was also a key focus, with about 6 in 10 AI-using firms planning to
+enhance their IT and data infrastructure and increase AI-related investments.
+FIGURE 12: TOP BUSINESS STRATEGIES FOR AI IMPLEMENTATION BY
+AI-USING FIRMS IN THE NEXT 1-2 YEARS
+Train/upskill existing workforce to enhance their AI capabilities 68%
+Redesign existing jobs to integrate AI into workflows/business processes 63%
+Enhance the IT and data infrastructure and investment for AI adoption 59%
+Explore the adoption of new AI solutions/tools 55%
+Hire new workers with relevant skills in AI development and deployment 52%
+Source: IMDA
+
+--- PAGE 19 ---
+
+19
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+AI usage among workers
+Based on a separate IMDA pulse survey among working individuals13, AI is widely used by workers, with
+73.8% of working individuals surveyed using AI tools at work (i.e. AI users), most of whom used the
+technology several times a week or daily.
+Workers are turning to AI to support creative and knowledge work, going beyond routine tasks
+[Fig 13]. Among AI users, 58% leveraged it for brainstorming and ideation, surpassing use cases like
+writing and editing (54%) and administrative tasks (42%).
+FIGURE 13: PERCENTAGE OF WORKERS USING AI BY TYPES OF TASKS IN 2025
+Brainstorming and ideation 58%
+Writing and editing (e.g. emails, reports, documentation) 54%
+Administrative tasks (e.g. scheduling, organising information) 42%
+Desk research and information gathering 31%
+Translation and language assistance 28%
+Data analysis and interpretation 28%
+Meeting summaries and note-taking 27%
+Content creation (e.g. images and videos, social media posts) 23%
+Code development and debugging 18%
+Others 1%
+Source: IMDA
+13 Analysis in this segment is based
+on a recent online pulse survey
+conducted by IMDA among
+about 320 working individuals
+in May and June 2025.
+
+--- PAGE 20 ---
+
+20
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+AI is delivering a variety of benefits to workers,
+FIGURE 14: PERCEIVED BENEFITS BY
+extending beyond efficiency gains to foster
+creativity and learning [Fig 14]. For instance, AI-USING WORKERS IN 2025
+efficiency benefits (doing things better) emerged
+as the most commonly cited advantage, with 85% 85%
+of AI users reporting improvements in productivity,
+time savings, and quality of work. Beyond efficiency
+gains, nearly half of AI users also indicated that the 48%
+technology is used to help enhance creativity and
+33%
+innovation in the workplace (doing better things),
+and a sizeable one-third of AI users reported
+benefits in leveraging AI for learning and capability
+development. These findings suggest that workers
+are not only using AI to work more efficiently, but
+Efficiency Creativity Learning
+also to work more creatively and to develop new
+Source: IMDA
+skills and knowledge.
+Employers are playing an active role in supporting workers’ use of AI, with about 7 in 10 AI users
+indicating that their employers provided such support [Fig 15]. This support most commonly took the
+form of internal and external training (62%), access to paid AI tools (42%), as well as relevant AI usage
+policies and guidelines (30%). Extending these support mechanisms to reach the remaining workers would
+be important in nurturing an AI-ready workforce.
+FIGURE 15: PERCENTAGE OF AI USERS RECEIVING SUPPORT FROM EMPLOYERS IN 2025
+No support
+62%
+received
+29%
+42%
+AI Users 30%
+Received
+support from
+employers
+71% Training Access to Guidelines
+opportunities paid tools on usage
+Among those who received support
+Source: IMDA
+
+--- PAGE 21 ---
+
+21
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+TECH MANPOWER AND TECH SKILLS
+Despite the tech sector’s cautious hiring outlook globally and domestically in 2024, the number of tech
+professionals in Singapore continued to expand, rising from 208,300 in 2023 to 214,000 in 2024 [Fig
+16]. This represents a growth of 2.7%, moderating from the 3.4% increase in 2023. Job roles related to AI
+& Data and Cybersecurity were among tech jobs with the fastest growth in 2024.
+This growth in the number of tech professionals was primarily driven by non-I&C sectors, which saw
+a 3.9% increase in tech jobs, outpacing the 1.1% growth observed within the I&C sector. Overall, tech
+jobs accounted for 5.3% of total employment in 2024, up slightly from 5.2% in 2023.
+FIGURE 16: NUMBER OF TECH PROFESSIONALS, 2023 AND 2024
+214,000
+208,300
+3.9%
+214,000 119,700 124,400
+208,300
+2.7%
+5.2% 5.3%
+of total of total
+employment employment 1.1%
+88,600 89,600
+2023 2024 2023 2024
+Source: IMDA, MOM I&C Non I&C
+
+--- PAGE 22 ---
+
+22
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+Tech jobs continued to offer good wages. The median monthly wages for resident14 tech workers15 grew
+by 13.6% yoy in 2024, faster than the yoy growth of 6.8% for overall resident workers’ median monthly
+wages16. Median monthly wages for resident tech workers also remained much higher at S$7,950 compared
+to the median monthly wages for overall resident workers of S$4,860 in 2024 [Fig 17].
+FIGURE 17: RESIDENT MEDIAN WAGES BY OCCUPATIONS (S$), 2023 AND 2024
+S$7,950
+S$7,000
+S$4,860
+S$4,550
+2023 2024
+Source: MOM All occupations Tech occupations
+To get insights into the evolving needs of Singapore’s DE, we analysed tech job postings data from
+Lightcast to understand the trends in the demand of tech skills17 required among tech professionals.
+This analysis looked into the relative demand for individual tech skills, measured by the number of
+tech job postings requiring each tech skill as a proportion of total tech job postings. The findings
+offer insights into the change in tech skill requirements and reflect broader shift in how firms design,
+develop, and deploy digital solutions.
+14 Residents refer to Singapore Citizens and Permanent Residents.
+15 Data for “Tech Occupations” pertains to median gross monthly wages (excluding employer’s CPF contribution & bonuses) of full-time
+resident employees from Occupational Wage Survey, Manpower Research & Statistics Department, MOM, supplemented with data from
+administrative records.
+16 “Overall resident workers” refers to residents employed in all occupations. Data for “All Occupations” pertains to median gross monthly
+income from work (excluding employer’s CPF contribution) of full-time employed residents from Comprehensive Labour Force Survey,
+Manpower Research & Statistics Department, MOM.
+17 Tech skills refer to specialised skills that enable individuals to design, develop and manage digital and data systems and products. These
+include competencies in areas such as software development & engineering, network, cloud computing, data & analytics and cybersecurity.
+
+--- PAGE 23 ---
+
+23
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+Shift in demand of tech skills
+among tech professionals
+Programming languages such as Python and SQL
+were the among the more highly sought-after
+tech skills in the past 5 years. In 2024, 24% of all
+tech job postings required Python (an increase of
+9 pp from 2019), while SQL was required in 20% of
+tech job postings (an increase of 5 pp) [Fig 18]. The
+strong demand is likely a reflection of the applicability
+of these skills across a wide range of functions,
+such as data analytics, automated workflows, and
+development of machine learning models.
+FIGURE 18: TECH SKILLS WITH THE FASTEST GROWTH AND DECLINE IN DEMAND
+IN TECH JOB POSTINGS BETWEEN 2019 AND 2024
+Source: IMDA’s analysis on Lightcast Data
+
+--- PAGE 24 ---
+
+24
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+Between 2019 and 2024, there was also a marked increase in the share of tech job postings that
+demand skills associated with cloud platforms18 and scalable digital infrastructure19. Consequently,
+the share of tech job postings requiring tech skills associated with Microsoft Azure and Amazon Web
+Services (AWS) rose from 4.8% and 9.9% of tech job postings in 2019 to 13.4% and 16.6% of tech job
+postings in 2024 respectively. This aligns with the rising adoption of cloud-native infrastructure among
+firms and underscores the increasing need for tech professionals who can effectively harness cloud-based
+capabilities to develop and deploy digital solutions at scale.
+In line with this transition to a cloud-native environment, employers are increasingly seeking tech
+professionals who are proficient in skills associated with containerisation (e.g., Docker), orchestration
+(e.g., Kubernetes), as well as automation (e.g., Ansible, Jenkins). These skills which enable the flexible,
+portable, and automated deployment of applications within cloud environments, have become more
+important as firms seek to scale their digital services more efficiently.
+In contrast, tech skills associated with web development became less prominent. For instance, the
+share of tech job postings that required skills in JavaScript declined from 21% in 2019 to 12% in 2024,
+with similar trends observed for related skills such as JSON, HTML, and CSS. While still important in
+web development, these tools are now often embedded within broader development environments
+that automate much of the manual scripting. As a result, they are less frequently cited as distinct,
+standalone skills.
+18 Cloud platforms refer to infrastructure that supports a range of services, including computing power, data storage, software, and related
+capabilities, that are delivered remotely over a network. These services are typically provided on-demand, with a measured resource usage
+that allowed charging on a pay-per-use basis.
+19 Scalable digital infrastructure refers to the ability of an organisation’s technology environment (including hardware, software, and cloud services)
+to handle increased workloads or user demand without compromising performance, efficiency, or stability.
+
+--- PAGE 25 ---
+
+25
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+Trends in AI skills requirement in tech job postings
+In tandem with the rise in AI adoption by firms in Singapore, the number of tech job postings requiring
+AI skills20 has grown steadily over time. This contributed to an increase in share of tech job postings
+requiring AI skills from 11% in 2019 to 14% in 2024.
+This growth was driven by increases in demand across all sectors [Fig 19]. In particular, the I&C sector
+which accounted for the bulk of tech job postings requiring AI skills, recorded a close to fourfold increase
+in such postings, from 1,020 in 2019 to 4,030 in 2024 (CAGR of 32%).
+FIGURE 19: NUMBER OF TECH JOB POSTINGS REQUIRING AI-RELATED SKILLS BY SECTORS, 2019 AND 2024
+4,030
+1,240
+1,020
+840 840 760 870
+640
+390 390 330 450 320 350
+100 60
+Information & Finance & Manufacturing Professional Retail Trade Education Transportation Others
+Communications Insurance Services & Storage
+Source: IMDA’s analysis on Lightcast Data 2019 2024
+Other sectors such as Finance & Insurance, Manufacturing, and Professional Services also saw strong growth
+in demand for AI skills, as reflected in their tech job postings. Between 2019 and 2024, tech job postings
+requiring AI skills rose from 840 to 1,240 (CAGR of 8%) in the Finance & Insurance sector, from 390 to
+840 (CAGR of 17%) in the Manufacturing sector, and from 390 to 760 (CAGR of 14%) in the Professional
+Services sector. The expansion reflects the increased application of AI skills across the different sectors,
+such as the use of AI for fraud detection and risk modelling in the Finance & Insurance sector, for predictive
+maintenance and industrial automation in the Manufacturing sector, and for document preparation, audit,
+and compliance processes in the Professional Services sector.
+20 AI skills refer to specialised skills that support the creation, use, and deployment of systems that simulate human intelligence. These include
+skills in areas such as machine learning, natural language processing, neural networks, visual image recognition, and robotics.
+
+--- PAGE 26 ---
+
+26
+SINGAPORE DIGITAL ECONOMY REPORT 2025
+CONCLUSION
+Singapore’s Digital Economy remained a key driver of the domestic economy, contributing 18.6% to GDP in
+2024, up from the 18.0% in 2023. Enterprise digitalisation continued to deepen, particularly among SMEs
+who made substantial progress in adopting sector-specific digital solutions.
+In 2024, enterprises in Singapore accelerated their adoption of AI. The surge in AI adoption rates from
+44.0% to 62.5% among non-SMEs and from 4.2% to 14.5% among SMEs, signals a transformative shift in
+how enterprises leverage AI technologies. The widespread use of AI among workers, with 73.8% of surveyed
+working individuals using AI tools at work, further reflects AI’s growing integration into Singapore’s workplace.
+The tech workforce continued to expand despite global uncertainties, with the number of tech professionals
+growing from 208,000 in 2023 to 214,000 in 2024. This growth, which was primarily driven by non-I&C
+sectors, reflects the continued deepening of digitalisation across the economy.
+With rapid advances in AI, cloud, and emerging digital technologies, there will be new opportunities to grow
+our digital economy. IMDA will continue to work closely with government agencies, industry partners, and the
+workforce to strengthen Singapore’s position as a leading digital economy, focusing on deepening enterprise
+capabilities, supporting workforce transformation, and fostering innovation in emerging technologies.
+
+--- PAGE 27 ---
+
+Cover
