@@ -5,7 +5,6 @@
 ![LLM](https://img.shields.io/badge/LLM-Llama_3.1_8B-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-*(Placeholder: Upload your screenshot to an `assets` folder and update this link)*
 ![Gradio Interface](assets/demo_screenshot.png)
 
 A fully local, zero-hallucination Retrieval-Augmented Generation (RAG) pipeline engineered to analyze decades of highly structured macroeconomic policy reports from the Monetary Authority of Singapore (MAS) and the Ministry of Trade and Industry (MTI).
